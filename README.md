@@ -17,3 +17,6 @@ Font applying project for DST KOR Language Pack
 
 V 0.1
 : 첫 개시, 현재 웜우드 폰트 적용됨
+
+V 0.2
+: 웜우드 폰트 텍스쳐에 밉맵 적용 해제하여 최적화

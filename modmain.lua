@@ -1,3 +1,6 @@
+-- Import Character Fonts --
+modimport "main/fontapply_wormwood"
+
 ---------------------------------------------------------
 -- Added Overiding Function --
 -- Change word order.(nouns + Verb or adjective + nouns)

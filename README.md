@@ -10,7 +10,7 @@ Font applying project for DST KOR Language Pack
 코드 가독성을 위해서 직접 삽입하지 마시고 modmain.lua 맨 윗줄에 modimport "main/applyfont_(캐릭터명)"을 삽입해 주세요.
 **주의: 서버 모드에는 절대 적용하지 마세요.**
     
-2. 폰트 파일 적용은 그냥 모드 폴더에 font 폴더를 만들어서 그 안에 .zip 포맷으로 된 폰트 파일들을 삽입하시면 됩니다.
+2. font 폴더와 main 폴더를 폴더째로 모드 파일에 업로드하세요
 
 V 0.1
 : 첫 개시, 현재 웜우드 폰트 적용됨

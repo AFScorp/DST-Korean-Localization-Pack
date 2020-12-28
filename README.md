@@ -8,7 +8,7 @@ Font applying project for DST KOR Language Pack
 
 적용하는 방법은 다음과 같습니다.
 1. 소스코드 적용
-~~- fontapply_(캐릭터명).lua 파일에 있는 소스코드를 한글화 모드의 modmain.lua의 맨 앞줄에 붙여넣습니다. ~~
+ ~~- fontapply_(캐릭터명).lua 파일에 있는 소스코드를 한글화 모드의 modmain.lua의 맨 앞줄에 붙여넣습니다. ~~
 -코드 가독성을 위해서 직접 삽입하지 마시고 modmain.lua 맨 윗줄에 modimport "main/applyfont_(캐릭터명)"을 삽입해 주세요.
 **주의: 서버 모드에는 절대 적용하지 마세요.**
     

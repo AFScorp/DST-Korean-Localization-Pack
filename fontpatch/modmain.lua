@@ -1,3 +1,5 @@
+-- Import Character Fonts --
+modimport "scripts/fontapply_wormwood"
 
 ---------------------------------------------------------
 -- Added Overiding Function --

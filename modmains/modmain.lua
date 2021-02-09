@@ -22,34 +22,32 @@ AddClassPostConstruct("widgets/hoverer", function(self)
 		HoveringText(self)
 
 		local str = nil
-		if not self.isFE then
+		if self.isFE == false then
 			str = self.owner.HUD.controls:GetTooltip()
 		else
 			str = self.owner:GetTooltip()
 		end
 		
 		local lmb = nil
-		if str == nil and not self.isFE and self.owner:IsActionsVisible() then
+		if str == nil and self.isFE == false and self.owner:IsActionsVisible() then
 			local lmb = self.owner.components.playercontroller:GetLeftMouseAction()
 			if lmb ~= nil then
 				local overriden
 				str, overriden = lmb:GetActionString()
+				
 				if not overriden and lmb.target ~= nil and lmb.invobject == nil and lmb.target ~= lmb.doer then
-					local name = lmb.target:GetDisplayName() or (lmb.target.components.named and lb.target.components.named.name)
+					local name = lmb.target:GetDisplayName()
 					if name ~= nil then
 						local adjective = lmb.target:GetAdjective()
-					
-						if adjective then
-							if lmb.target.replica.stackable ~= nil and lmb.target.replica.stackable:IsStack() then
-								str = (adjective ~= nil and (adjective.." "..name) or name)..tostring(lmb.target.replica.stackable:StackSize()).." 개"..str
-							else
-								str = (adjective ~= nil and (adjective.." "..name) or name).." "..str
+						if lmb.target.replica.stackable ~= nil and lmb.target.replica.stackable:IsStack() then
+							str = (adjective ~= nil and (adjective.." "..name) or name).." "..tostring(lmb.target.replica.stackable:StackSize()).." 개 "..str
+						else
+							str = (adjective ~= nil and (adjective.." "..name) or name).." "..str
 													
 							--if lmb.target.components and lmb.target.components.healthinfo_copy then
 							--	str = name .. " " .. str .. "\n" .. lmb.target.components.healthinfo_copy.text
 							--else
 							--	str = name.. " " .. str
-							end
 						end
 					end
 				end

@@ -1,7 +1,7 @@
 -- This information tells other players more about the mod
 name = "한글 모드 [서버 버전]"
-version = "0.8.34.20200303.00"
-description = "Version : "..version.."\n게임내 기본 폰트만을 이용합니다.\n\n모드 사용시 필요한 설정(게임내 옵션설정)\nWigfrid's Umlauts(위그프리드 움라우트) 옵션 활성화\n저사양 텍스쳐 옵션 비활성화\n일부시스템에서 게임이 튕기는 경우는, 노트북 모드 비활성화\n"
+version = "1.0.0.20210209.00-alpha"
+description = "Version : "..version.."\n게임 내 기본 폰트만을 이용합니다.\n\n모드 사용 시 필요한 설정(게임 내 설정)\nWigfrid's Umlauts(위그프리드의 움라우트) 옵션 활성화\n저사양 텍스쳐 옵션 비활성화\n일부 시스템에서 게임이 튕기는 경우는, 노트북 모드 비활성화\n"
 author = "Mr.Dream"
 forumthread = ""
 

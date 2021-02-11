@@ -7,8 +7,8 @@ forumthread = ""
 client_only_mod = true
 dst_compatible = true
 
-icon_atlas = "shittyfont.xml"
-icon = "shittyfont.tex"
+icon_atlas = "hangulfont.xml"
+icon = "hangulfont.tex"
 
 api_version = 10
 

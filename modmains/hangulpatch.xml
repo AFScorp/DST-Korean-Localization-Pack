@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Atlas>
+	<Texture filename="hangulpatch.tex" />
+	<Elements>
+		<Element name="한글화 로고_투명바탕.tex" u1="0.001" u2="0.999" v2="0.999" v1="0.001" variant="" />
+	</Elements>
+</Atlas>

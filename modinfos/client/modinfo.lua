@@ -19,4 +19,4 @@ dst_compatible = true
 
 all_clients_require_mod=false
 server_filter_tags = {"korean","language"}
-client_only_mod=false
+client_only_mod=true

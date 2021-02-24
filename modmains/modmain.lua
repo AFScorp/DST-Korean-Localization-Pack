@@ -1,6 +1,7 @@
+--local pp = require "scripts/pphandle"
 
 ---------------------------------------------------------
--- Added Overiding Function --
+-- Added Overriding Function --
 -- Change word order.(nouns + Verb or adjective + nouns)
 ---------------------------------------------------------
 
@@ -10,18 +11,17 @@ AddClassPostConstruct("screens/worldgenscreen", function(self)
 	
 	function self:ChangeFlavourText()
 		WorldGenScreen(self)
-		self.flavourtext:SetString(self.nouns[self.nounidx] .. " " .. self.verbs[self.verbidx])
+		self.flavourtext:SetString(self.nouns[self.nounidx].." "..self.verbs[self.verbidx])
 	end
 end)
 
--- Hovering Text in Game
+-- In-Game Hovering Text
 AddClassPostConstruct("widgets/hoverer", function(self)
 	local HoveringText = self.OnUpdate or function() end
 	
 	function self:OnUpdate()
 		HoveringText(self)
-
-		local str = nil
+		
 		if self.isFE == false then
 			str = self.owner.HUD.controls:GetTooltip()
 		else
@@ -48,6 +48,7 @@ AddClassPostConstruct("widgets/hoverer", function(self)
 							--	str = name .. " " .. str .. "\n" .. lmb.target.components.healthinfo_copy.text
 							--else
 							--	str = name.. " " .. str
+							--end
 						end
 					end
 				end
@@ -61,7 +62,9 @@ AddClassPostConstruct("widgets/hoverer", function(self)
 	end
 end)
 
--- In Game UI Clock
+-- ppp. Handling for Player Name
+
+-- In-Game UI Clock
 AddClassPostConstruct("widgets/uiclock", function(self)
 	local UpdateDayStr = self.UpdateDayString or function() end
 	local basescale = 1

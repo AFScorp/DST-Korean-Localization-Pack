@@ -70,21 +70,8 @@ local function PPhandler(keyword)
 		else
 		    return 2
 		end
-	elseif firstchar ~= nil and firstchar < 128 then
-	    for _, v in ipairs(matchtable1) do
-		    if v == firstchar then
-			    return 1
-			end
-		end
-	    for _, v in ipairs(matchtable2) do
-		    if v == firstchar then
-			    return 2
-			end
-		end
+	else
 		return 0
-	end
-	if firstchar == nil then
-	    return 0
     end
 end
 

@@ -1,21 +1,20 @@
 -- This information tells other players more about the mod
 name = "굶지마 다함께 한글화 [서버 버전]"
-version = "1.0.1.202102015.00"
-description = [[Version : ]] .. version .. "\n\n"..
+version = "1.0.1.20210302.01"
+description = [[Version : ]] .. version ..
+[[
+게임 내 기본 폰트만을 이용합니다.
+개별 플레이어 UI에 한국어를 적용하려면 별도의 클라이언트 버전이 필요합니다.
+캐릭터 전용 폰트는 별도의 모드를 사용해 주세요.
 
-	[[게임 내 기본 폰트만을 이용합니다.]] .. "\n" ..
-	[[UI 한국어 적용은 클라이언트 모드를 이용해 주세요.]] .. "\n"..
-	[[특정 캐릭터 전용 글꼴은 별도의 클라이언트 모드 적용이 필요합니다.]] .. "\n\n" ..
-	
-	[[모드 사용 시 필요한 설정(게임 내 설정):]] .. "\n" ..
-	[[Wigfrid's Umlauts(위그프리드의 움라우트) 옵션 활성화]] .. "\n" ..
-	[[저사양 텍스쳐 옵션 비활성화]] .. "\n" ..
-	[[일부 시스템에서 게임이 튕기는 경우는, 노트북 모드 비활성화]] .. "\n\n\n" ..
+모드 사용 시 필요한 설정(게임 내 설정):
+Wigfrid's Umlauts(위그프리드의 움라우트) 옵션 활성화
+저사양 텍스쳐 옵션 비활성화
 	
 	
-	[[모드 총책임자: Mr.Dream]] .. "\n" ..
-	[[기술 총책임자: AFS Co. Ltd.]] .. "\n" ..
-	[[Original mod by wrinos]]
+모드 총책임자: Mr.Dream
+기술 총책임자: AFS Co. Ltd.
+Original mod by wrinos]]
 author = "굶지마 다함께 한글화 팀"
 forumthread = ""
 

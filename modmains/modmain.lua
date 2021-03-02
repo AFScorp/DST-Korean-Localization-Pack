@@ -166,6 +166,9 @@ AddPrefabPostInit("skeleton_player", function(inst)
 	inst.OnLoad = onloadplayer
 end)
 
+--pp. handling for Carrat Race
+
+
 -- In-Game UI Clock
 AddClassPostConstruct("widgets/uiclock", function(self)
 	local UpdateDayStr = self.UpdateDayString or function() end
@@ -192,5 +195,6 @@ AddClassPostConstruct("widgets/uiclock", function(self)
 		self._showingcycles = true
 	end
 end)
+
 ------------------------------------------
 LoadPOFile(MODROOT.."ko.po", "ko")

@@ -10,7 +10,7 @@ AddClassPostConstruct("screens/worldgenscreen", function(self)
 	local worldgenscreen = self.ChangeFlavourText or function() end
 	
 	function self:ChangeFlavourText()
-		WorldGenScreen(self)
+		worldgenscreen(self)
 		self.flavourtext:SetString(self.nouns[self.nounidx].." "..self.verbs[self.verbidx])
 	end
 end)

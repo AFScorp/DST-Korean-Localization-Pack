@@ -1,8 +1,11 @@
 -- This information tells other players more about the mod
+
+
 name = "굶지마 다함께 한글화 [클라이언트 버전]"
-version = "1.0.1-20210302.01"
-description = [[Version : ]] .. version ..
+version = "1.0.1-20210302.02"
+description = [[Version: ]] .. version ..
 [[
+
 게임 내 기본 폰트만을 이용합니다.
 데디케이티드 서버나 동굴이 포함된 호스트는 서버 버전이 있어야 캐릭터 대사가 번역됩니다.
 캐릭터 전용 폰트는 별도의 모드를 사용해 주세요.

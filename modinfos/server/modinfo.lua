@@ -1,8 +1,9 @@
 -- This information tells other players more about the mod
 name = "굶지마 다함께 한글화 [서버 버전]"
-version = "1.0.1.20210302.01"
-description = [[Version : ]] .. version ..
+version = "1.0.1.20210302.02"
+description = [[Version: ]] .. version ..
 [[
+
 게임 내 기본 폰트만을 이용합니다.
 개별 플레이어 UI에 한국어를 적용하려면 별도의 클라이언트 버전이 필요합니다.
 캐릭터 전용 폰트는 별도의 모드를 사용해 주세요.

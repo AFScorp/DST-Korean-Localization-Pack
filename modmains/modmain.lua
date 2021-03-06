@@ -166,6 +166,79 @@ AddPrefabPostInit("skeleton_player", function(inst)
 	inst.OnLoad = onloadplayer
 end)
 
+--pp. handling for ghost speech
+local Oooh_endings = { "", "우", "오" }
+local Oooh_punc = { ".", "?", "!" }
+
+local function ooohstart(isstart)
+    local str = isstart and "우" or "오"
+    local l = math.random(2, 4)
+    for i = 2, l do
+        str = str..(math.random() > 0.3 and "오" or "우")
+    end
+    return str
+end
+
+local function ooohspace()
+    local c = math.random()
+    local str =
+        (c <= .1 and "! ") or
+        (c <= .2 and ". ") or
+        (c <= .3 and "? ") or
+        (c <= .4 and ", ") or
+        " "
+    return str, c <= .3
+end
+
+local function ooohend()
+    return Oooh_endings[math.random(#Oooh_endings)]
+end
+
+local function ooohpunc()
+    return Oooh_punc[math.random(#Oooh_punc)]
+end
+
+local function CraftOooh() -- Ghost speech!
+    local isstart = true
+    local length = math.random(6)
+    local str = ""
+    for i = 1, length do
+        str = str..ooohstart(isstart)..ooohend()
+        if i ~= length then
+            local space
+            space, isstart = ooohspace()
+            str = str..space
+        end
+    end
+    return str..ooohpunc()
+end
+
+local wilton_sayings =
+{
+    "이에에에에에에.",
+    "어어어어어어어.",
+    "달그락.",
+    "달그락 달그락 달그락 달그락",
+    "쉬이이이이!",
+    "아아아아아아아.",
+    "으어어어어어어어어어어.",
+    "...",
+}
+
+GLOBAL.GetSpecialCharacterString = function(character)
+    if character == nil then
+        return nil
+    end
+
+    character = string.lower(character)
+
+    return (character == "mime" and "")
+        or (character == "ghost" and CraftOooh())
+        or (character == "wilton" and wilton_sayings[math.random(#wilton_sayings)])
+        or nil
+end
+	
+
 --pp. handling for Carrat Race
 
 

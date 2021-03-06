@@ -79,7 +79,7 @@ local function replacePP(str, pattern, name)
     local pptable = {
 	    {'는','은'}, {'가','이'}, {'를','을'},
 	    {'와','과'}, {'랑','이랑'}, {'고','이고'},
-	    {'야','이야'}, {'여','이여'}, {'랑','이랑'}
+	    {'야','아'}, {'여','이여'}, {'랑','이랑'}
 		}
 	if PPhandler(name) ~= 2 then
 	   str = str:gsub(pattern .. "으", pattern .. "")

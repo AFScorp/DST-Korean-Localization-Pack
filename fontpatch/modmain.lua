@@ -40,7 +40,7 @@ AddSimPostInit(function()
 	TheSim:UnloadFont(_G.resolvefilepath("fonts/talkingfont_wx78_kr.zip"), _G.TALKINGFONT_WX78_KR)
 	TheSim:UnloadFont(_G.resolvefilepath("fonts/talkingfont_hermit_kr.zip"), _G.TALKINGFONT_HERMIT_KR)
 	TheSim:UnloadFont(_G.resolvefilepath("fonts/talkingfont_tradein_kr.zip"), _G.TALKINGFONT_TRADEIN_KR)
-	
+
 	TheSim:UnloadPrefabs({"fontprefab"})
 	
 	local Assets = {

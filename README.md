@@ -1,8 +1,9 @@
-# DST-Korean-LanguagePack-Font
-Font applying project for DST KOR Language Pack
+# DST-Korean-Localization-Pack
+Don't Starve Togetehr Korean Language Pack
 굶지마 다함께 한글화 모드
 
-릴리즈할 때 modmain 폴더에 있는 파일들만 전부 올려주시면 됩니다.
+릴리즈할 때는 클라이언트와 서버 버전을 별도로 하여, modmain 폴더의 내용물에 각각 client 폴더와 server 폴더의 modinfo.lua와 합친 후 모드 업로더로 릴리즈하면 됩니다.
+
 
 v 0.0.1
 : 첫 개시, 현재 웜우드 폰트 적용됨
@@ -19,5 +20,5 @@ v 0.2.0
 v 0.2.1(예정)
 : 서버 버전과 클라이언트 버전을 통합할 수 있도록 파일 분리함
 
-v 1.0.2(latest)
+v 1.2.1(latest)
 : 글꼴 불러오기 메소드 안정화, WX-78/게팍한 은둔자/비팔로의 해 이벤트 구조물 대사 폰트 

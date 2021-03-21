@@ -36,28 +36,28 @@ _G.TALKINGFONT_TRADEIN_KR = "talkingfont_tradein_kr"
 
 --font loading
 AddSimPostInit(function()
-	TheSim:UnloadFont(_G.resolvefilepath("fonts/talkingfont_wormwood_kr.zip"), _G.TALKINGFONT_WORMWOOD_KR)
-	TheSim:UnloadFont(_G.resolvefilepath("fonts/talkingfont_wx78_kr.zip"), _G.TALKINGFONT_WX78_KR)
-	TheSim:UnloadFont(_G.resolvefilepath("fonts/talkingfont_hermit_kr.zip"), _G.TALKINGFONT_HERMIT_KR)
-	TheSim:UnloadFont(_G.resolvefilepath("fonts/talkingfont_tradein_kr.zip"), _G.TALKINGFONT_TRADEIN_KR)
+	TheSim:UnloadFont(_G.TALKINGFONT_WORMWOOD_KR)
+	TheSim:UnloadFont(_G.TALKINGFONT_WX78_KR)
+	TheSim:UnloadFont(_G.TALKINGFONT_HERMIT_KR)
+	TheSim:UnloadFont(_G.TALKINGFONT_TRADEIN_KR)
 
 	TheSim:UnloadPrefabs({"fontprefab"})
 	
 	local Assets = {
-		Asset("FONT", _G.resolvefilepath("fonts/talkingfont_wormwood_kr.zip")),
-		Asset("FONT", _G.resolvefilepath("fonts/talkingfont_hermit_kr.zip")),
-		Asset("FONT", _G.resolvefilepath("fonts/talkingfont_wx78_kr.zip")),
-		Asset("FONT", _G.resolvefilepath("fonts/talkingfont_tradein_kr.zip")),
+		Asset("FONT", MODROOT .. "fonts/talkingfont_wormwood_kr.zip"),
+		Asset("FONT", MODROOT .. "fonts/talkingfont_hermit_kr.zip"),
+		Asset("FONT", MODROOT .. "fonts/talkingfont_wx78_kr.zip"),
+		Asset("FONT", MODROOT .. "fonts/talkingfont_tradein_kr.zip"),
 	}
 	local FontsPrefab = _G.Prefab("fontprefab", function() return _G.CreateEntity() end, Assets)
 	_G.RegisterPrefabs(FontsPrefab)
 	
 	TheSim:LoadPrefabs({"fontprefab"})
 	
-    TheSim:LoadFont(_G.resolvefilepath("fonts/talkingfont_wormwood_kr.zip"), _G.TALKINGFONT_WORMWOOD_KR)
-	TheSim:LoadFont(_G.resolvefilepath("fonts/talkingfont_wx78_kr.zip"), _G.TALKINGFONT_WX78_KR)
-	TheSim:LoadFont(_G.resolvefilepath("fonts/talkingfont_hermit_kr.zip"), _G.TALKINGFONT_HERMIT_KR)
-	TheSim:LoadFont(_G.resolvefilepath("fonts/talkingfont_tradein_kr.zip"), _G.TALKINGFONT_TRADEIN_KR)
+	TheSim:LoadFont(MODROOT .. "fonts/talkingfont_wormwood_kr.zip", _G.TALKINGFONT_WORMWOOD_KR)
+	TheSim:LoadFont(MODROOT .. "fonts/talkingfont_wx78_kr.zip", _G.TALKINGFONT_WX78_KR)
+	TheSim:LoadFont(MODROOT .. "fonts/talkingfont_hermit_kr.zip", _G.TALKINGFONT_HERMIT_KR)
+	TheSim:LoadFont(MODROOT .. "fonts/talkingfont_tradein_kr.zip", _G.TALKINGFONT_TRADEIN_KR)
 	
 	TheSim:SetupFontFallbacks(_G.TALKINGFONT_WORMWOOD_KR, fallback_wormwood)
 	TheSim:SetupFontFallbacks(_G.TALKINGFONT_WX78_KR, _G.DEFAULT_FALLBACK_TABLE_OUTLINE)

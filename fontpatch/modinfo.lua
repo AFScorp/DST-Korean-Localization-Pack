@@ -1,6 +1,6 @@
 name = "굶지마 다함께 한글꼴"
 author = "굶지마 다함께 한글화 팀"
-version = "1.2.2"
+version = "1.2.3"
 description = "Version: ".. version ..
 [[
 이 모드는 굶지마 다함께 한글화[클라이언트 버전]과 같이 사용하시는 것을 추천합니다.

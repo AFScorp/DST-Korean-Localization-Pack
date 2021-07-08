@@ -7,14 +7,14 @@ LoadPOFile("ko.po", "ko")
 ---------------------------------------------------------
 
 -- In WorldgenScreen
-AddClassPostConstruct("screens/worldgenscreen", function(self)
-	local worldgenscreen = self.ChangeFlavourText or function() end
+local worldgenscreen = _G.require "screens/worldgenscreen"
+local ChangeFlavourText_Old = worldgenscreen.ChangeFlavourText or function() end
 	
-	function self:ChangeFlavourText()
-		worldgenscreen(self)
-		self.flavourtext:SetString(self.nouns[self.nounidx].." "..self.verbs[self.verbidx])
-	end
-end)
+function worldgenscreen:ChangeFlavourText()
+	self.flavourtext:SetString(self.nouns[self.nounidx].." "..self.verbs[self.verbidx])
+	ChangeFlavourText_Old(self)
+	self.flavourtext:SetString(self.nouns[self.nounidx].." "..self.verbs[self.verbidx])
+end
 
 -- In-Game Hovering Text
 local hoverer = GLOBAL.require "widgets/hoverer"

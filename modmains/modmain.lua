@@ -7,13 +7,50 @@ LoadPOFile("ko.po", "ko")
 ---------------------------------------------------------
 
 -- In WorldgenScreen
-local worldgenscreen = _G.require "screens/worldgenscreen"
+local worldgenscreen = GLOBAL.require "screens/worldgenscreen"
 local ChangeFlavourText_Old = worldgenscreen.ChangeFlavourText or function() end
 	
 function worldgenscreen:ChangeFlavourText()
 	self.flavourtext:SetString(self.nouns[self.nounidx].." "..self.verbs[self.verbidx])
 	ChangeFlavourText_Old(self)
 	self.flavourtext:SetString(self.nouns[self.nounidx].." "..self.verbs[self.verbidx])
+end
+
+-- Fix for ACTIONFAIL_GENERIC and DESCRIBE_GENERIC
+
+--code from Tykvesh's patch
+local GetActionFailString = GLOBAL.GetActionFailString
+
+function GLOBAL.GetActionFailString(inst, ...)
+	local string = GetActionFailString(inst, ...)
+	if string == STRINGS.CHARACTERS.GENERIC.ACTIONFAIL_GENERIC then
+		local character = type(inst) == "table" and inst.prefab or inst
+		if character ~= nil and character.upper ~= nil then
+			character = character:upper()
+		end
+		
+		return STRINGS.CHARACTERS[character]
+			and STRINGS.CHARACTERS[character].ACTIONFAIL_GENERIC
+			or string
+	end
+	return string
+end
+
+local GetDescOld = GLOBAL.GetDescription
+
+function GLOBAl.GetDescription(inst, ...)
+	local string = GetDescription(inst, ...)
+	if string == STRINGS.CHARACTERS.GENERIC.DESCRIBE_GENERIC then
+		local character = type(inst) == "table" and inst.prefab or inst
+		if character ~= nil and character.upper ~= nil then
+			character = character:upper()
+		end
+		
+		return STRINGS.CHARACTERS[character]
+			and STRINGS.CHARACTERS[character].ACTIONFAIL_GENERIC
+			or string
+	end
+	return string
 end
 
 -- In-Game Hovering Text

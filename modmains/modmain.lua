@@ -47,7 +47,7 @@ function GLOBAL.GetDescription(inst, ...)
 		end
 		
 		return STRINGS.CHARACTERS[character]
-			and STRINGS.CHARACTERS[character].ACTIONFAIL_GENERIC
+			and STRINGS.CHARACTERS[character].DESCRIBE_GENERIC
 			or string
 	end
 	return string

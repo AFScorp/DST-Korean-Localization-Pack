@@ -38,7 +38,7 @@ end
 
 local GetDescOld = GLOBAL.GetDescription
 
-function GLOBAl.GetDescription(inst, ...)
+function GLOBAL.GetDescription(inst, ...)
 	local string = GetDescription(inst, ...)
 	if string == STRINGS.CHARACTERS.GENERIC.DESCRIBE_GENERIC then
 		local character = type(inst) == "table" and inst.prefab or inst

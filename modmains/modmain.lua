@@ -39,7 +39,7 @@ end
 local GetDescOld = GLOBAL.GetDescription
 
 function GLOBAL.GetDescription(inst, ...)
-	local string = GetDescription(inst, ...)
+	local string = GetDescOld(inst, ...)
 	if string == STRINGS.CHARACTERS.GENERIC.DESCRIBE_GENERIC then
 		local character = type(inst) == "table" and inst.prefab or inst
 		if character ~= nil and character.upper ~= nil then

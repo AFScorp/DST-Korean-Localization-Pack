@@ -81,7 +81,7 @@ function hoverer:OnUpdate()
 					if lmb.target.replica.stackable ~= nil and lmb.target.replica.stackable:IsStack() then
 						name = name .. tostring(lmb.target.replica.stackable:StackSize()).." 개"
 					end
-					str = name .. str
+					str = name .." ".. str
 				end
 			end
 		end

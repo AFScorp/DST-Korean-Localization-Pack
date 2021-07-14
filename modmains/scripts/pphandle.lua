@@ -38,10 +38,11 @@ local function FirstValidChar(keyword)
 	    firstchar, bytelen = utf8CodePoint(keyword, searchpoint)
 		searchpoint = searchpoint + bytelen
 		if firstchar == nil or
+				(firstchar >= 44032 and firstchar <= 55203) or  --Hangul Syllable Field
 				(firstchar >= 48 and firstchar <= 57) or     --Number Field
 				(firstchar >= 65 and firstchar <= 90) or     --Alphabet Uppercase Field
-				(firstchar >= 97 and firstchar <= 122) or    --Alphabet Lowercase Field
-				(firstchar >= 44032 and firstchar <= 55203) then  --Hangul Syllable Field
+				(firstchar >= 97 and firstchar <= 122) then    --Alphabet Lowercase Field
+
 		    return firstchar
 		end
 	end
@@ -49,21 +50,21 @@ end
 
 --matchtable = 2459AEHIORSTUZaehiorstuz
 --0: no coda
---1: has coda 'ㄹ'
---2: has coda that's not 'ㄹ'
+--1: has 'ㄹ' coda
+--2: has non-'ㄹ' coda
 local function PPhandler(keyword)
-	local matchtable1 = {49, 55, 56, 76, 108}
-	local matchtable2 = {
-	    48, 51, 54, 66,
-		67, 68, 71, 75,
-		80, 81, 84, 98,
-		99, 100, 103,107,
-		112, 113, 116
-		}
+	-- local matchtable1 = {49, 55, 56, 76, 108}
+	-- local matchtable2 = {
+	    -- 48, 51, 54, 66,
+		-- 67, 68, 71, 75,
+		-- 80, 81, 84, 98,
+		-- 99, 100, 103,107,
+		-- 112, 113, 116
+		-- }
 	local pp
 	local firstchar = FirstValidChar(keyword)
 	if firstchar ~= nil and (firstchar >= 44032 and firstchar <= 55203) then  --firstchar in Hangul Syllable Field
-	    if firstchar % 28 == 16 then  --Hangul has coda-less syllable in every 28 chars
+	    if firstchar % 28 == 16 then  --Hangul has syllables with a certain coda in every 28 chars
 		    return 0
 		elseif firstchar % 28 == 24 or firstchar % 28 == 3 then
 		    return 1

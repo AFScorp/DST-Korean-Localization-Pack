@@ -58,6 +58,7 @@ local hoverer = GLOBAL.require "widgets/hoverer"
 local HoveringText = hoverer.OnUpdate or function() end
 function hoverer:OnUpdate()
 	HoveringText(self)
+	local str = nil
 	if self.isFE == false then
 		str = self.owner.HUD.controls:GetTooltip()
 	else
@@ -65,8 +66,8 @@ function hoverer:OnUpdate()
 	end
 	
 	local lmb = nil
-	if str == nil and self.isFE == false and self.owner:IsActionsVisible() then
-		local lmb = self.owner.components.playercontroller:GetLeftMouseAction()
+	if str == nil and not self.isFE and self.owner:IsActionsVisible() then
+		lmb = self.owner.components.playercontroller:GetLeftMouseAction()
 		if lmb ~= nil then
 			local overriden
 			str, overriden = lmb:GetActionString()
@@ -75,11 +76,12 @@ function hoverer:OnUpdate()
 				local name = lmb.target:GetDisplayName()
 				if name ~= nil then
 					local adjective = lmb.target:GetAdjective()
+					name = (adjective ~= nil and (adjective.." "..name)) or name
+					
 					if lmb.target.replica.stackable ~= nil and lmb.target.replica.stackable:IsStack() then
-						str = (adjective ~= nil and (adjective.." "..name) or name).." "..tostring(lmb.target.replica.stackable:StackSize()).." 개 "..str
-					else
-						str = (adjective ~= nil and (adjective.." "..name) or name).." "..str
+						name = name .. tostring(lmb.target.replica.stackable:StackSize()).." 개"
 					end
+					str = name .. str
 				end
 			end
 		end

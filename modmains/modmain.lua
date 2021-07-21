@@ -59,8 +59,8 @@ local HoveringText = hoverer.OnUpdate or function() end
 function hoverer:OnUpdate()
 	HoveringText(self)
 	local str = nil
-	if self.isFE == false then
-		str = self.owner.HUD.controls:GetTooltip()
+	if not self.isFE then
+		str = self.owner.HUD.controls:GetTooltip() or self.owner.components.playercontroller:GetHoverTextOverride()
 	else
 		str = self.owner:GetTooltip()
 	end
@@ -79,9 +79,9 @@ function hoverer:OnUpdate()
 					name = (adjective ~= nil and (adjective.." "..name)) or name
 					
 					if lmb.target.replica.stackable ~= nil and lmb.target.replica.stackable:IsStack() then
-						name = name .. tostring(lmb.target.replica.stackable:StackSize()).." 개"
+						name = name .. " " .. tostring(lmb.target.replica.stackable:StackSize()).."개"
 					end
-					str = name .." ".. str
+					str = name .. " " .. str
 				end
 			end
 		end
@@ -93,207 +93,46 @@ function hoverer:OnUpdate()
 end
 
 -- pp. handling of player name for player
-local function GetStatus(inst, viewer)
-    return (inst:HasTag("playerghost") and "GHOST")
-        or (inst.hasRevivedPlayer and "REVIVER")
-        or (inst.hasKilledPlayer and "MURDERER")
-        or (inst.hasAttackedPlayer and "ATTACKER")
-        or (inst.hasStartedFire and "FIRESTARTER")
-        or nil
-end
-
-local function TryDescribe(descstrings, modifier)
-    return descstrings ~= nil and (
-            type(descstrings) == "string" and
-            descstrings or
-            descstrings[modifier] or
-            descstrings.GENERIC
-        ) or nil
-end
-
-local function TryCharStrings(inst, charstrings, modifier)
-    return charstrings ~= nil and (
-            TryDescribe(charstrings.DESCRIBE[string.upper(inst.prefab)], modifier) or
-            TryDescribe(charstrings.DESCRIBE.PLAYER, modifier)
-        ) or nil
-end
-
-local function GetDescription(inst, viewer)
-	local modifier = inst.components.inspectable:GetStatus(viewer) or "GENERIC"
-	local desc = TryCharStrings(inst, STRINGS.CHARACTERS[string.upper(viewer.prefab)], modifier) or
-            TryCharStrings(inst, STRINGS.CHARACTERS.GENERIC, modifier)
-	local name = inst:GetDisplayName()
-	desc = pp.replacePP(desc, "%%s", name)
-    
-    return string.format(desc, name)
-end
-
 AddPrefabPostInit("player_common", function(inst)
-	inst.components.inspectable.getspecialdescription = GetDescription
+	local getspecialdesc_old = inst.components.inspectable.getspecialdescription
+	if getspecialdesc_old then
+		inst.components.inspectable.getspecialdescription = function(inst, viewer)
+			return pp.replacePP(getspecialdesc_old(inst,viewer), nst:GetDisplayName())
+		end
+	end
 end)
 
---pp. handling of player name for player_skeleton
-local function getdesc(inst, viewer)
-    if inst.char ~= nil and not viewer:HasTag("playerghost") then
-        local mod = GLOBAL.GetGenderStrings(inst.char)
-        local desc = GLOBAL.GetDescription(viewer, inst, mod)
-        local name = inst.playername or STRINGS.NAMES[string.upper(inst.char)]
-
-        --no translations for player killer's name
-        if inst.pkname ~= nil then
-			desc = pp.replacePP(desc, "%%s", name)
-            return string.format(desc, name, inst.pkname)
-        end
-
-        --permanent translations for death cause
-        if inst.cause == "unknown" then
-            inst.cause = "shenanigans"
-        elseif inst.cause == "moose" then
-            inst.cause = math.random() < .5 and "moose1" or "moose2"
-        end
-
-        --viewer based temp translations for death cause
-        local cause =
-            inst.cause == "nil"
-            and (viewer == "waxwell" and
-                "charlie" or
-                "darkness")
-            or inst.cause
-		desc = pp.replacePP(desc, "%%s", name)
-        return string.format(desc, name, STRINGS.NAMES[string.upper(cause)] or STRINGS.NAMES.SHENANIGANS)
-    end
-end
-
-local function SetSkelDesc(inst, char, playername, cause, pkname)
-	inst.char = char
-	inst.playername = playername
-	inst.pkname = pkname
-	inst.cause = pkname == nil and cause:lower() or nil
-	inst.components.inspectable.getspecialdescription = getdesc
-end
-
-local function onload(inst, data)
-    if data ~= nil and data.anim ~= nil then
-        inst.animnum = data.anim
-        inst.AnimState:PlayAnimation("idle"..tostring(inst.animnum))
-    end
-end
-
-local function onloadplayer(inst, data)
-    onload(inst, data)
-
-    if data ~= nil and data.char ~= nil and (data.cause ~= nil or data.pkname ~= nil) then
-        inst.char = data.char
-        inst.playername = data.playername --backward compatibility for nil playername
-        inst.pkname = data.pkname --backward compatibility for nil pkname
-        inst.cause = data.cause
-        if inst.components.inspectable ~= nil then
-            inst.components.inspectable.getspecialdescription = getdesc
-        end
-        if data.age ~= nil and data.age > 0 then
-            inst.skeletonspawntime = -data.age
-        end
-
-        if data.avatar ~= nil then
-            --Load legacy data
-            inst.components.playeravatardata:OnLoad(data.avatar)
-        end
-    end
-end	
-	
+--pp. handling for player skeleton & ghost
 AddPrefabPostInit("skeleton_player", function(inst)
-	inst.SetSkeletonDescription = SetSkelDesc
-	inst.OnLoad = onloadplayer
+	local getspecialdesc_old = inst.components.inspectable.getspecialdescription
+	if getspecialdesc_old then
+		inst.components.inspectble.getspecialdescription = function(inst,viewer)
+			return pp.replacePP(getspecialdesc_old(inst, viewer), inst.playername)
+		end
+	end
 end)
 
---pp. handling for ghost speech
-local Oooh_endings = { "", "우", "오" }
-local Oooh_punc = { ".", "?", "!" }
 
-local function ooohstart(isstart)
-    local str = isstart and "우" or "오"
-    local l = math.random(2, 4)
-    for i = 2, l do
-        str = str..(math.random() > 0.3 and "오" or "우")
-    end
-    return str
-end
-
-local function ooohspace()
-    local c = math.random()
-    local str =
-        (c <= .1 and "! ") or
-        (c <= .2 and ". ") or
-        (c <= .3 and "? ") or
-        (c <= .4 and ", ") or
-        " "
-    return str, c <= .3
-end
-
-local function ooohend()
-    return Oooh_endings[math.random(#Oooh_endings)]
-end
-
-local function ooohpunc()
-    return Oooh_punc[math.random(#Oooh_punc)]
-end
-
-local function CraftOooh() -- Ghost speech!
-    local isstart = true
-    local length = math.random(6)
-    local str = ""
-    for i = 1, length do
-        str = str..ooohstart(isstart)..ooohend()
-        if i ~= length then
-            local space
-            space, isstart = ooohspace()
-            str = str..space
-        end
-    end
-    return str..ooohpunc()
-end
-
-local wilton_sayings =
-{
-    "이에에에에에에.",
-    "어어어어어어어.",
-    "달그락.",
-    "달그락 달그락 달그락 달그락",
-    "쉬이이이이!",
-    "아아아아아아아.",
-    "으어어어어어어어어어어.",
-    "...",
-}
-
+local oldGetSpecialCharacterString = GLOBAL.GetSpecialCharacterString
 GLOBAL.GetSpecialCharacterString = function(character)
-    if character == nil then
-        return nil
-    end
-
-    character = string.lower(character)
-
-    return (character == "mime" and "")
-        or (character == "ghost" and CraftOooh())
-        or (character == "wilton" and wilton_sayings[math.random(#wilton_sayings)])
-        or nil
+	character = string.lower(character)
+	str = oldGetSpecialCharacterString(character)
+	if character == "ghost" then
+		str = str:gsub("ohhh", "우"):gsub("ohh", "오"):gsub("h", ""):gsub("o", "우"):gsub("O", "오")
+	end
+	return str
 end
 	
 
 --pp. handling for Carrat Race
-local function getdesc(inst, viewer)
-	if inst:HasTag("burnt") then
-		return GetDescription(viewer, inst, "BURNT")
-	elseif inst._active and inst._winner ~= nil then
-		if inst._winner.userid ~= nil and inst._winner.userid == viewer.userid then
-			return GetDescription(viewer, inst, "I_WON")
-		elseif inst._winner.name ~= nil then
-			return subfmt(pp.replacePP(GetDescription(viewer, inst, "SOMEONE_ELSE_WON"), "{winner}", inst._winner.name), { winner = inst._winner.name })
-		end
-	end
-	
-	return GetDescription(viewer, inst) or nil
-end
 AddPrefabPostInit("yotc_carrat_race_finish", function(inst)
+	oldgetspecialdesc = inst.components.inspectable.getspecialdescription
+	local function getdesc(inst, viewer)
+		local str = oldgetspecialdesc(inst, viewer)
+		local name = inst._winner.name
+		str = name and pp.replacePP(str, name) or str
+		return str
+	end
 	inst.components.inspectable.getspecialdescription = getdesc
 end)
 

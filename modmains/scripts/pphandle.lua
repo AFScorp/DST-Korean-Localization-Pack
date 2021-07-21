@@ -48,7 +48,7 @@ local function FirstValidChar(keyword)
 	end
 end
 
---matchtable = 2459AEHIORSTUZaehiorstuz
+--matchtable = 2459AEHIORSTUZaehiorstuz (unused for now)
 --0: no coda
 --1: has 'ㄹ' coda
 --2: has non-'ㄹ' coda
@@ -64,7 +64,7 @@ local function PPhandler(keyword)
 	local pp
 	local firstchar = FirstValidChar(keyword)
 	if firstchar ~= nil and (firstchar >= 44032 and firstchar <= 55203) then  --firstchar in Hangul Syllable Field
-	    if firstchar % 28 == 16 then  --Hangul has syllables with a certain coda in every 28 chars
+	    if firstchar % 28 == 16 then  --A specific coda occurs in every 28 chars
 		    return 0
 		elseif firstchar % 28 == 24 or firstchar % 28 == 3 then
 		    return 1
@@ -75,21 +75,30 @@ local function PPhandler(keyword)
 		return 0
     end
 end
-
-local function replacePP(str, pattern, name)
-    local pptable = {
+--the formers are for the coda-less syllables
+local pplist = {
 		{'는','은'}, {'가','이'}, {'를','을'},
 		{'와','과'}, {'랑','이랑'}, {'고','이고'},
 		{'야','아'}, {'여','이여'}, {'랑','이랑'},
-		{'다','이다'}}
+		{'다','이다'}
+}
+
+local ppdict = {}
+
+for _, v in pairs(pplist) do
+	ppdict[v[2]] = v[1]
+end
+
+local function replacePP(str, name)
+	local stub1 = str:match(name .. "(.+)")
+	stub = stub1:gsub(name, "")
 	if PPhandler(name) ~= 2 then
-	   str = str:gsub(pattern .. "으", pattern .. "")
+		stub = stub:gsub("으","")
     end
-	if PPhandler(name) ~= 0 then
-		for _, v in pairs(pptable) do
-		    str = str:gsub(pattern .. v[1], pattern .. v[2])
-	    end
+	if PPhandler(name) == 0 then
+		stub = ppdict[stub] or stub
 	end
+	str = str:gsub(stub1, name .. stub)
 	return str
 end
 

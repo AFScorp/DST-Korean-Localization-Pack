@@ -297,6 +297,18 @@ AddPrefabPostInit("yotc_carrat_race_finish", function(inst)
 	inst.components.inspectable.getspecialdescription = getdesc
 end)
 
+-- correcting world day count printing on server list screen.
+AddClassPostConstruct("screens/redux/serverlistingscreen", function(self)
+	local updatedata = self.UpdateServerData or function() end
+	
+	function self:UpdateServerData(selected_index_actual)
+		updatedata(self, selected_index_actual)
+		local gamedata = self:ProcessServerGameData()
+		local day = gamedata ~= nil and gamedata.day or STRINGS.UI.SERVERLISTINGSCREEN.UNKNOWN
+		self.day_description.text:SetString(day..STRINGS.UI.SERVERLISTINGSCREEN.DAYDESC)
+	end
+end)
+
 -- In-Game UI Clock
 AddClassPostConstruct("widgets/uiclock", function(self)
 	local UpdateDayStr = self.UpdateDayString or function() end

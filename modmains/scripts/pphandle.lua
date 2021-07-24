@@ -82,13 +82,13 @@ local pptable = {
 	{'야','아'}, {'여','이여'}, {'랑','이랑'},
 	{'다','이다'}}
 
-local function replacePP(str, pattern, name)
+local function replacePP(str, name)
 	if PPhandler(name) ~= 2 then
-	   str = str:gsub(pattern .. "으", pattern .. "")
+	   str = str:gsub(name .. "으", name .. "")
     end
-	if PPhandler(name) ~= 0 then
+	if PPhandler(name) == 0 then
 		for _, v in pairs(pptable) do
-		    str = str:gsub(pattern .. v[1], pattern .. v[2])
+		    str = str:gsub(name .. v[2], name .. v[1])
 	    end
 	end
 	return str

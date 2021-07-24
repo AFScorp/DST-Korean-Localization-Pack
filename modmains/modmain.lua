@@ -92,27 +92,53 @@ function hoverer:OnUpdate()
 	end
 end
 
--- pp. handling of player name for player
-AddPrefabPostInit("player_common", function(inst)
-	local getspecialdesc_old = inst.components.inspectable.getspecialdescription
-	if getspecialdesc_old then
-		inst.components.inspectable.getspecialdescription = function(inst, viewer)
-			return pp.replacePP(getspecialdesc_old(inst,viewer), nst:GetDisplayName())
-		end
-	end
-end)
-
---pp. handling for player skeleton & ghost
+--pp. fix for player name
+--1. player skeleton
 AddPrefabPostInit("skeleton_player", function(inst)
-	local getspecialdesc_old = inst.components.inspectable.getspecialdescription
-	if getspecialdesc_old then
-		inst.components.inspectble.getspecialdescription = function(inst,viewer)
-			return pp.replacePP(getspecialdesc_old(inst, viewer), inst.playername)
+	local function reassignfn(inst)
+		inst.components.inspectable.Oldgetspecialdescription = inst.components.inspectable.getspecialdescription
+		function inst.components.inspectable.getspecialdescription(inst, viewer, ...)
+			return pp.replacePP(inst.components.inspectable.Oldgetspecialdescription(inst, viewer, ...), inst.playername or STRINGS.NAMES[string.upper(inst.char)])
+		end
+		-- return pp.replacePP(str,inst.playername or STRINGS.NAMES[string.upper(inst.char)])
+	end
+	
+	if inst.SetSkeletonDescription and not inst.OldSetSkeletonDescription then
+		inst.OldSetSkeletonDescription=inst.SetSkeletonDescription
+		function inst.SetSkeletonDescription(inst, ...)
+			inst.OldSetSkeletonDescription(inst, ...)
+			reassignfn(inst)
+		end
+	end
+	
+	if inst.OnLoad and not inst.oldOnLoad then
+		inst.oldOnLoad=inst.OnLoad
+		function inst.OnLoad(inst, ...)
+			inst.oldOnLoad(inst, ...)
+			reassignfn(inst)
 		end
 	end
 end)
 
+--2. player inspection
+AddPrefabPostInit("player_common", function(inst)
+	inst.components.inspectable.getspecialdescriptionold = inst.components.inspectable.getspecialdescription
+	function inst.components.inspectable.getspecialdescription(inst, ...)
+		return pp.replacePP(inst.components.inspectable.getspecialdescriptionold(inst, ...), inst:GetDisplayName())
+	end
+end)
 
+--3. carrat race winner
+AddPrefabPostInit("yotc_carrat_race_finish", function(inst)
+	inst.components.inspectable.getspecialdescriptionold = inst.components.inspectable.getspecialdescription
+	function inst.components.inspectable.getspecialdescription(inst,...)
+		if inst._winner.name ~= nil then
+			return pp.replacePP(inst.components.inspectable.getspecialdescriptionold(inst, ...), inst._winner.name)
+		end
+	end
+end)
+
+--Localization for player ghost speech
 local oldGetSpecialCharacterString = GLOBAL.GetSpecialCharacterString
 GLOBAL.GetSpecialCharacterString = function(character)
 	character = string.lower(character)
@@ -122,21 +148,8 @@ GLOBAL.GetSpecialCharacterString = function(character)
 	end
 	return str
 end
-	
 
---pp. handling for Carrat Race
-AddPrefabPostInit("yotc_carrat_race_finish", function(inst)
-	oldgetspecialdesc = inst.components.inspectable.getspecialdescription
-	local function getdesc(inst, viewer)
-		local str = oldgetspecialdesc(inst, viewer)
-		local name = inst._winner.name
-		str = name and pp.replacePP(str, name) or str
-		return str
-	end
-	inst.components.inspectable.getspecialdescription = getdesc
-end)
-
--- correcting world day count printing on server list screen.
+--Server list world day printing correction
 AddClassPostConstruct("screens/redux/serverlistingscreen", function(self)
 	local updatedata = self.UpdateServerData or function() end
 	

@@ -76,29 +76,21 @@ local function PPhandler(keyword)
     end
 end
 --the formers are for the coda-less syllables
-local pplist = {
-		{'는','은'}, {'가','이'}, {'를','을'},
-		{'와','과'}, {'랑','이랑'}, {'고','이고'},
-		{'야','아'}, {'여','이여'}, {'랑','이랑'},
-		{'다','이다'}
-}
+local pptable = {
+	{'는','은'}, {'가','이'}, {'를','을'},
+	{'와','과'}, {'랑','이랑'}, {'고','이고'},
+	{'야','아'}, {'여','이여'}, {'랑','이랑'},
+	{'다','이다'}}
 
-local ppdict = {}
-
-for _, v in pairs(pplist) do
-	ppdict[v[2]] = v[1]
-end
-
-local function replacePP(str, name)
-	local stub1 = str:match(name .. "(.+)")
-	stub = stub1:gsub(name, "")
+local function replacePP(str, pattern, name)
 	if PPhandler(name) ~= 2 then
-		stub = stub:gsub("으","")
+	   str = str:gsub(pattern .. "으", pattern .. "")
     end
-	if PPhandler(name) == 0 then
-		stub = ppdict[stub] or stub
+	if PPhandler(name) ~= 0 then
+		for _, v in pairs(pptable) do
+		    str = str:gsub(pattern .. v[1], pattern .. v[2])
+	    end
 	end
-	str = str:gsub(stub1, name .. stub)
 	return str
 end
 

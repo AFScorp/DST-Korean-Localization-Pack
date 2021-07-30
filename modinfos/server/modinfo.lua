@@ -1,6 +1,6 @@
 -- This information tells other players more about the mod
 name = "굶지마 다함께 한글화 [서버 버전]"
-version = "1.0.2.20210710.00"
+version = "1.0.3.20210729.00"
 description = [[Version: ]] .. version ..
 [[
 
@@ -10,7 +10,6 @@ description = [[Version: ]] .. version ..
 
 모드 사용 시 필요한 설정(게임 내 설정):
 저사양 텍스쳐 옵션 비활성화
-	
 	
 모드 총책임자: Mr.Dream
 기술 총책임자: AFS Co. Ltd.

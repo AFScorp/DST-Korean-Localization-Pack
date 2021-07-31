@@ -83,7 +83,9 @@ local pptable = {
 	{'다','이다'}}
 
 local function replacePP(str, name)
-	local line = PPhandler ~= 2 and str:gsub(name .. "으", name .. "") or str
+	local line = PPhandler ~= 2 and str:gsub(name .. "으", name .. "") or str or nil
+	if not line then
+		return nil
 	
 	if PPhandler(name) == 0 then
 		for _, v in pairs(pptable) do

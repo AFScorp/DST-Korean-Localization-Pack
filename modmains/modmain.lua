@@ -94,61 +94,65 @@ end
 
 --pp. fix for player name
 --1. player skeleton
--- AddPrefabPostInit("skeleton_player", function(inst)
-	-- local function reassignfn(inst)
-		-- inst.components.inspectable.Oldgetspecialdescription = inst.components.inspectable.getspecialdescription
-		-- function inst.components.inspectable.getspecialdescription(inst, viewer, ...)
-			-- local str = inst.components.inspectable.Oldgetspecialdescription(inst, viewer, ...)
-			-- return pp.replacePP(str, inst.playername or STRINGS.NAMES[string.upper(inst.char)])
-		-- end
-		-- -- return pp.replacePP(str,inst.playername or STRINGS.NAMES[string.upper(inst.char)])
-	-- end
+AddPrefabPostInit("skeleton_player", function(inst)
+	local function reassignfn(inst)
+		if inst.components.inspectable ~= nil then
+			inst.components.inspectable.getspecialdescription_old = inst.components.inspectable.getspecialdescription
+			
+			function inst.components.inspectable.getspecialdescription(inst, viewer, ...)
+				local str = inst.components.inspectable.getspecialdescription_old(inst, viewer, ...)
+				return pp.replacePP(str, inst.playername or STRINGS.NAMES[string.upper(inst.char)])
+			end
+		end
+		-- return pp.replacePP(str,inst.playername or STRINGS.NAMES[string.upper(inst.char)])
+	end
 	
-	-- if inst.SetSkeletonDescription and not inst.OldSetSkeletonDescription then
-		-- inst.OldSetSkeletonDescription=inst.SetSkeletonDescription
-		-- function inst.SetSkeletonDescription(inst, ...)
-			-- inst.OldSetSkeletonDescription(inst, ...)
-			-- reassignfn(inst)
-		-- end
-	-- end
+	if inst.SetSkeletonDescription and not inst.OldSetSkeletonDescription then
+		inst.OldSetSkeletonDescription=inst.SetSkeletonDescription
+		function inst.SetSkeletonDescription(inst, ...)
+			inst.OldSetSkeletonDescription(inst, ...)
+			reassignfn(inst)
+		end
+	end
 	
-	-- if inst.OnLoad and not inst.oldOnLoad then
-		-- inst.oldOnLoad=inst.OnLoad
-		-- function inst.OnLoad(inst, ...)
-			-- inst.oldOnLoad(inst, ...)
-			-- reassignfn(inst)
-		-- end
-	-- end
--- end)
+	if inst.OnLoad and not inst.oldOnLoad then
+		inst.oldOnLoad=inst.OnLoad
+		function inst.OnLoad(inst, ...)
+			inst.oldOnLoad(inst, ...)
+			reassignfn(inst)
+		end
+	end
+end)
 
--- --2. player inspection
--- AddPrefabPostInit("player_common", function(inst)
-	-- inst.components.inspectable.getspecialdescriptionold = inst.components.inspectable.getspecialdescription
-	-- function inst.components.inspectable.getspecialdescription(inst, ...)
-		-- return pp.replacePP(inst.components.inspectable.getspecialdescriptionold(inst, ...), inst:GetDisplayName())
-	-- end
--- end)
+--2. player inspection
+AddPrefabPostInit("player_common", function(inst)
+	inst.components.inspectable.getspecialdescriptionold = inst.components.inspectable.getspecialdescription
+	function inst.components.inspectable.getspecialdescription(inst, ...)
+		return pp.replacePP(inst.components.inspectable.getspecialdescriptionold(inst, ...), inst:GetDisplayName())
+	end
+end)
 
--- --3. carrat race winner
--- AddPrefabPostInit("yotc_carrat_race_finish", function(inst)
-	-- inst.components.inspectable.getspecialdescriptionold = inst.components.inspectable.getspecialdescription
-	-- function inst.components.inspectable.getspecialdescription(inst,...)
-		-- if inst._winner.name ~= nil then
-			-- return pp.replacePP(inst.components.inspectable.getspecialdescriptionold(inst, ...), inst._winner.name)
-		-- end
-	-- end
--- end)
+--3. carrat race winner
+AddPrefabPostInit("yotc_carrat_race_finish", function(inst)
+	inst.components.inspectable.getspecialdescriptionold = inst.components.inspectable.getspecialdescription
+	function inst.components.inspectable.getspecialdescription(inst,...)
+		if inst._winner.name ~= nil then
+			return pp.replacePP(inst.components.inspectable.getspecialdescriptionold(inst, ...), inst._winner.name)
+		end
+	end
+end)
 
 --Localization for player ghost speech
--- local oldGetSpecialCharacterString = GLOBAL.GetSpecialCharacterString
--- GLOBAL.GetSpecialCharacterString = function(character)
-	-- character = string.lower(character)
-	-- str = oldGetSpecialCharacterString(character)
-	-- if character == "ghost" then
-		-- str = str:gsub("ohhh", "우"):gsub("ohh", "오"):gsub("h", ""):gsub("o", "우"):gsub("O", "오")
-	-- end
-	-- return str
--- end
+
+local oldGetSpecialCharacterString = GLOBAL.GetSpecialCharacterString
+GLOBAL.GetSpecialCharacterString = function(character)
+	character = string.lower(character)
+	str = oldGetSpecialCharacterString(character)
+	if character == "ghost" then
+		str = str:gsub("ohhh", "우"):gsub("ohh", "오"):gsub("h", ""):gsub("o", "우"):gsub("O", "오")
+	end
+	return str
+end
 
 --Server list world day printing correction
 AddClassPostConstruct("screens/redux/serverlistingscreen", function(self)

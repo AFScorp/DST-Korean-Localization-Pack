@@ -1,4 +1,4 @@
-
+--gets utf8 string and returns codepoint in decimal and num. of bytes
 local function utf8CodePoint(str, k)
     local c0, c1, c2, c3
     local bytes = 1
@@ -75,24 +75,35 @@ local function PPhandler(keyword)
 		return 0
     end
 end
---the formers are for the coda-less syllables
-local pptable = {
-	{'는','은'}, {'가','이'}, {'를','을'},
-	{'와','과'}, {'랑','이랑'}, {'고','이고'},
-	{'야','아'}, {'여','이여'}, {'랑','이랑'},
-	{'다','이다'}}
+
+--the keys are for the coda-less syllables
+local pptable =
+{
+	['는']='은',
+	['가']='이',
+	['를']='을',
+	['와']='과',
+	['랑']='이랑',
+	['고']='이고',
+	['야']='아',
+	['여']='이여',
+	['다']='이다',
+}
 
 local function replacePP(str, name)
-	local line = PPhandler ~= 2 and str:gsub(name .. "으", name .. "") or str or nil
-	if not line then
-		return nil
-	
-	if PPhandler(name) == 0 then
-		for _, v in pairs(pptable) do
-			line = line:gsub(name .. v[2], name .. v[1])
-		end
+	local str = str or ""
+	local name = name or ""
+	local ppclass = PPhandler(name) or 0
+
+	if ppclass ~= 2 then
+		str = str:gsub(name .. "으", name)
 	end
-	return line
+	
+	if ppclass ~= 0 then
+		local oldPP = str:match(name.."([^%s]*)")
+		str = pptable[oldPP] and str:gsub(name .. oldPP, name .. pptable[oldPP]) or str
+	end
+	return str
 end
 
 return

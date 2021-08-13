@@ -2,7 +2,11 @@
 
 
 name = "굶지마 다함께 한글화 [클라이언트 버전]"
+<<<<<<< Updated upstream
 version = "1.0.3-20210729.00"
+=======
+version = "1.0.3-20210813.00"
+>>>>>>> Stashed changes
 description = [[Version: ]] .. version ..
 [[
 

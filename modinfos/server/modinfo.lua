@@ -1,6 +1,10 @@
 -- This information tells other players more about the mod
 name = "굶지마 다함께 한글화 [서버 버전]"
+<<<<<<< Updated upstream
 version = "1.0.3.20210729.00"
+=======
+version = "1.0.3.20210813.00"
+>>>>>>> Stashed changes
 description = [[Version: ]] .. version ..
 [[
 

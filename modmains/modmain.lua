@@ -147,7 +147,7 @@ end)
 local oldGetSpecialCharacterString = GLOBAL.GetSpecialCharacterString
 GLOBAL.GetSpecialCharacterString = function(character)
 	character = string.lower(character)
-	str = oldGetSpecialCharacterString(character)
+	local str = oldGetSpecialCharacterString(character)
 	if character == "ghost" then
 		str = str:gsub("ohhh", "우"):gsub("ohh", "오"):gsub("h", ""):gsub("o", "우"):gsub("O", "오")
 	end

@@ -3,10 +3,12 @@ local STRINGS = GLOBAL.STRINGS
 
 ---------------------------------------------------------
 -- Added Overriding Function --
--- Change word order.(nouns + Verb or adjective + nouns)
+-- Changes word order.(nouns + Verb or adjective + nouns)
 ---------------------------------------------------------
 
 -- In WorldgenScreen
+-- Somehow it must be like this or the word order remains same.
+-- Considering the potential compatibility, this was the best as possible.
 local worldgenscreen = GLOBAL.require "screens/worldgenscreen"
 local ChangeFlavourText_Old = worldgenscreen.ChangeFlavourText or function() end
 	
@@ -17,9 +19,8 @@ function worldgenscreen:ChangeFlavourText()
 end
 
 -- Fix for ACTIONFAIL_GENERIC and DESCRIBE_GENERIC
-
---code from Tykvesh's patch
-local GetActionFailString = GLOBAL.GetActionFailString
+-- code brought from Tykvesh's fix
+local GetActionFailString = GLOBAL.GetActionFailString or function() end
 
 function GLOBAL.GetActionFailString(inst, ...)
 	local string = GetActionFailString(inst, ...)
@@ -36,7 +37,7 @@ function GLOBAL.GetActionFailString(inst, ...)
 	return string
 end
 
-local GetDescOld = GLOBAL.GetDescription
+local GetDescOld = GLOBAL.GetDescription or function() end
 
 function GLOBAL.GetDescription(inst, ...)
 	local string = GetDescOld(inst, ...)
@@ -92,41 +93,34 @@ function hoverer:OnUpdate()
 	end
 end
 
---pp. fix for player name
+--Replace pp. according to the name
 --1. player skeleton
 AddPrefabPostInit("skeleton_player", function(inst)
 	local function reassignfn(inst)
-		if inst.components.inspectable ~= nil then
-			inst.components.inspectable.getspecialdescription_old = inst.components.inspectable.getspecialdescription
+		inst.components.inspectable.getspecialdescription_old = inst.components.inspectable.getspecialdescription or function() end
 			
-			function inst.components.inspectable.getspecialdescription(inst, viewer, ...)
-				local str = inst.components.inspectable.getspecialdescription_old(inst, viewer, ...)
-				return pp.replacePP(str, inst.playername or STRINGS.NAMES[string.upper(inst.char)])
-			end
-		end
-		-- return pp.replacePP(str,inst.playername or STRINGS.NAMES[string.upper(inst.char)])
-	end
-	
-	if inst.SetSkeletonDescription and not inst.OldSetSkeletonDescription then
-		inst.OldSetSkeletonDescription=inst.SetSkeletonDescription
-		function inst.SetSkeletonDescription(inst, ...)
-			inst.OldSetSkeletonDescription(inst, ...)
-			reassignfn(inst)
+		function inst.components.inspectable.getspecialdescription(inst, viewer, ...)
+			local str = inst.components.inspectable.getspecialdescription_old(inst, viewer, ...)
+			return pp.replacePP(str, inst.playername or STRINGS.NAMES[string.upper(inst.char)])
 		end
 	end
 	
-	if inst.OnLoad and not inst.oldOnLoad then
-		inst.oldOnLoad=inst.OnLoad
-		function inst.OnLoad(inst, ...)
-			inst.oldOnLoad(inst, ...)
-			reassignfn(inst)
-		end
+	inst.OldSetSkeletonDescription = inst.SetSkeletonDescription or function() end
+	inst.SetSkeletonDescription = function(inst, ...)
+		inst.OldSetSkeletonDescription(inst, ...)
+		reassignfn(inst)
+	end
+		
+	inst.oldOnLoad = inst.OnLoad or function() end
+	function inst.OnLoad(inst, ...)
+		inst.oldOnLoad(inst, ...)
+		reassignfn(inst)
 	end
 end)
 
 --2. player inspection
 AddPrefabPostInit("player_common", function(inst)
-	inst.components.inspectable.getspecialdescriptionold = inst.components.inspectable.getspecialdescription
+	inst.components.inspectable.getspecialdescriptionold = inst.components.inspectable.getspecialdescription or function() end
 	function inst.components.inspectable.getspecialdescription(inst, ...)
 		return pp.replacePP(inst.components.inspectable.getspecialdescriptionold(inst, ...), inst:GetDisplayName())
 	end
@@ -134,11 +128,11 @@ end)
 
 --3. carrat race winner
 AddPrefabPostInit("yotc_carrat_race_finish", function(inst)
-	inst.components.inspectable.getspecialdescriptionold = inst.components.inspectable.getspecialdescription
+	inst.components.inspectable.getspecialdescriptionold = inst.components.inspectable.getspecialdescription or function() end
 	function inst.components.inspectable.getspecialdescription(inst,...)
-		if inst._winner.name ~= nil then
-			return pp.replacePP(inst.components.inspectable.getspecialdescriptionold(inst, ...), inst._winner.name)
-		end
+		local str = inst.components.inspectable.getspecialdescriptionold(inst,...)
+		local winner = inst._winner
+		return winner and pp.replacePP(str, winner.name) or str
 	end
 end)
 

@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2021-09-19 13:42\n"
+"PO-Revision-Date: 2021-09-19 22:41\n"
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona"
@@ -997,27 +997,27 @@ msgstr "시작 취소"
 #. STRINGS.UI.LOBBYSCREEN.SAYSTART
 msgctxt "STRINGS.UI.LOBBYSCREEN.SAYSTART"
 msgid "Forcing Start in %s seconds. If you don't have a character selected before the countdown is over, then a random character will be selected for you."
-msgstr ""
+msgstr "%s초 후에 강제로 게임을 시작합니다. 시작 전까지 캐릭터를 선택하지 않으면 캐릭터가 무작위로 선택됩니다."
 
 #. STRINGS.UI.LOBBYSCREEN.SAYCANCEL
 msgctxt "STRINGS.UI.LOBBYSCREEN.SAYCANCEL"
 msgid "Canceling Start."
-msgstr ""
+msgstr "시작 취소 중."
 
 #. STRINGS.UI.LOBBYSCREEN.FORCESTARTTITLE
 msgctxt "STRINGS.UI.LOBBYSCREEN.FORCESTARTTITLE"
 msgid "Confirm Force Start"
-msgstr ""
+msgstr "강제 시작 확인"
 
 #. STRINGS.UI.LOBBYSCREEN.FORCESTARTDESC
 msgctxt "STRINGS.UI.LOBBYSCREEN.FORCESTARTDESC"
 msgid "Are you sure you want to force start the match in %s seconds?"
-msgstr ""
+msgstr "%s초 뒤에 경기를 강제로 시작하시겠습니까?"
 
 #. STRINGS.UI.LOBBYSCREEN.SERVER_ANNOUNCEMENT_NAME
 msgctxt "STRINGS.UI.LOBBYSCREEN.SERVER_ANNOUNCEMENT_NAME"
 msgid "SERVER"
-msgstr ""
+msgstr "서버"
 
 #. STRINGS.UI.WXPLOBBYPANEL.LEVEL
 msgctxt "STRINGS.UI.LOBBYSCREEN.LEVEL"

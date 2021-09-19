@@ -2,11 +2,7 @@
 
 
 name = "굶지마 다함께 한글화 [클라이언트 버전]"
-<<<<<<< Updated upstream
-version = "1.0.3-20210729.00"
-=======
-version = "1.0.3-20210813.00"
->>>>>>> Stashed changes
+version = 1.0.4.20210919.00
 description = [[Version: ]] .. version ..
 [[
 
@@ -26,7 +22,7 @@ forumthread = ""
 
 -- This lets other players know if your mod is out of date, update it to match the current version in the game
 api_version = 10
---priority = 1
+priority = 1
 
 icon_atlas = "hangulpatch.xml"
 icon = "hangulpatch.tex"

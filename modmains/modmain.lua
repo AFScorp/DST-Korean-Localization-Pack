@@ -96,9 +96,8 @@ end
 --Replace pp. according to the name
 --1. player skeleton
 AddPrefabPostInit("skeleton_player", function(inst)
-	local function reassignfn(inst)
-		inst.components.inspectable.getspecialdescription_old = inst.components.inspectable.getspecialdescription or function() end
-			
+	inst.components.inspectable.getspecialdescription_old = inst.components.inspectable.getspecialdescription or function() end
+	local function reassignfn(inst)			
 		function inst.components.inspectable.getspecialdescription(inst, viewer, ...)
 			local str = inst.components.inspectable.getspecialdescription_old(inst, viewer, ...)
 			return pp.replacePP(str, inst.playername or STRINGS.NAMES[string.upper(inst.char)])
@@ -120,19 +119,23 @@ end)
 
 --2. player inspection
 AddPrefabPostInit("player_common", function(inst)
-	inst.components.inspectable.getspecialdescriptionold = inst.components.inspectable.getspecialdescription or function() end
-	function inst.components.inspectable.getspecialdescription(inst, ...)
-		return pp.replacePP(inst.components.inspectable.getspecialdescriptionold(inst, ...), inst:GetDisplayName())
+	if inst.components.inspectable ~= nil then
+		inst.components.inspectable.getspecialdescriptionold = inst.components.inspectable.getspecialdescription or function() end
+		function inst.components.inspectable.getspecialdescription(inst, ...)
+			return pp.replacePP(inst.components.inspectable.getspecialdescriptionold(inst, ...), inst:GetDisplayName())
+		end
 	end
 end)
 
 --3. carrat race winner
 AddPrefabPostInit("yotc_carrat_race_finish", function(inst)
-	inst.components.inspectable.getspecialdescriptionold = inst.components.inspectable.getspecialdescription or function() end
-	function inst.components.inspectable.getspecialdescription(inst,...)
-		local str = inst.components.inspectable.getspecialdescriptionold(inst,...)
-		local winner = inst._winner
-		return winner and pp.replacePP(str, winner.name) or str
+	if inst.components.inspectable ~= nil then
+		inst.components.inspectable.getspecialdescriptionold = inst.components.inspectable.getspecialdescription or function() end
+		function inst.components.inspectable.getspecialdescription(inst, ...)
+			local str = inst.components.inspectable.getspecialdescriptionold(inst, ...)
+			local winner = inst._winner ~= nil and inst._winner.name
+			return (winner ~= nil and pp.replacePP(str, winner)) or str
+		end
 	end
 end)
 
@@ -180,7 +183,7 @@ AddClassPostConstruct("widgets/uiclock", function(self)
 	function self:UpdateWorldString()
 		UpdateWorldStr(self)
 
-		self._text:SetString("세계 날짜\n"..tostring(GLOBAL.TheWorld.state.cycles + 1).." "..STRINGS.UI.HUD.WORLD_CLOCKDAY)
+		self._text:SetString(tostring(GLOBAL.TheWorld.state.cycles + 1).." "..STRINGS.UI.HUD.WORLD_CLOCKDAY)
 		self._text:SetPosition(3, 0 / basescale, 0)
 		self._text:SetSize(28)
 		self._showingcycles = true

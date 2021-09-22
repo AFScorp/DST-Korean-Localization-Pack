@@ -18,41 +18,9 @@ function worldgenscreen:ChangeFlavourText()
 	self.flavourtext:SetString(self.nouns[self.nounidx].." "..self.verbs[self.verbidx])
 end
 
--- Fix for ACTIONFAIL_GENERIC and DESCRIBE_GENERIC
--- code brought from Tykvesh's fix
-local GetActionFailString = GLOBAL.GetActionFailString or function() end
-
-function GLOBAL.GetActionFailString(inst, ...)
-	local string = GetActionFailString(inst, ...)
-	if string == STRINGS.CHARACTERS.GENERIC.ACTIONFAIL_GENERIC then
-		local character = type(inst) == "table" and inst.prefab or inst
-		if character ~= nil and character.upper ~= nil then
-			character = character:upper()
-		end
-		
-		return STRINGS.CHARACTERS[character]
-			and STRINGS.CHARACTERS[character].ACTIONFAIL_GENERIC
-			or string
-	end
-	return string
-end
-
-local GetDescOld = GLOBAL.GetDescription or function() end
-
-function GLOBAL.GetDescription(inst, ...)
-	local string = GetDescOld(inst, ...)
-	if string == STRINGS.CHARACTERS.GENERIC.DESCRIBE_GENERIC then
-		local character = type(inst) == "table" and inst.prefab or inst
-		if character ~= nil and character.upper ~= nil then
-			character = character:upper()
-		end
-		
-		return STRINGS.CHARACTERS[character]
-			and STRINGS.CHARACTERS[character].DESCRIBE_GENERIC
-			or string
-	end
-	return string
-end
+------------------------------------------------------------------------
+-- codes that should work only on client
+------------------------------------------------------------------------
 
 -- In-Game Hovering Text
 local hoverer = GLOBAL.require "widgets/hoverer"
@@ -93,25 +61,71 @@ function hoverer:OnUpdate()
 	end
 end
 
+----------------------------------------------------------------------------------------
+-- codes that work only on mastersim
+----------------------------------------------------------------------------------------
+-- Fix for ACTIONFAIL_GENERIC and DESCRIBE_GENERIC
+-- code brought from Tykvesh's fix
+local GetActionFailString = GLOBAL.GetActionFailString or function() end
+
+function GLOBAL.GetActionFailString(inst, ...)
+	local string = GetActionFailString(inst, ...)
+	if string == STRINGS.CHARACTERS.GENERIC.ACTIONFAIL_GENERIC then
+		local character = type(inst) == "table" and inst.prefab or inst
+		if character ~= nil and character.upper ~= nil then
+			character = character:upper()
+		end
+		
+		return STRINGS.CHARACTERS[character]
+			and STRINGS.CHARACTERS[character].ACTIONFAIL_GENERIC
+			or string
+	end
+	return string
+end
+
+local GetDescOld = GLOBAL.GetDescription or function() end
+
+function GLOBAL.GetDescription(inst, ...)
+	local string = GetDescOld(inst, ...)
+	if string == STRINGS.CHARACTERS.GENERIC.DESCRIBE_GENERIC then
+		local character = type(inst) == "table" and inst.prefab or inst
+		if character ~= nil and character.upper ~= nil then
+			character = character:upper()
+		end
+		
+		return STRINGS.CHARACTERS[character]
+			and STRINGS.CHARACTERS[character].DESCRIBE_GENERIC
+			or string
+	end
+	return string
+end
+
+
 --Replace pp. according to the name
 --1. player skeleton
 AddPrefabPostInit("skeleton_player", function(inst)
-	inst.components.inspectable.getspecialdescription_old = inst.components.inspectable.getspecialdescription or function() end
-	local function reassignfn(inst)			
-		function inst.components.inspectable.getspecialdescription(inst, viewer, ...)
-			local str = inst.components.inspectable.getspecialdescription_old(inst, viewer, ...)
+	local function reassignfn(inst)
+		if inst.components.inspectable.getspecialdescription_old == nil then
+			inst.components.inspectable.getspecialdescription_old = inst.components.inspectable.getspecialdescription
+		end
+		inst.components.inspectable.getspecialdescription = function(inst, ...)
+			local str = inst.components.inspectable.getspecialdescription_old(inst, ...)
 			return pp.replacePP(str, inst.playername or STRINGS.NAMES[string.upper(inst.char)])
 		end
 	end
 	
-	inst.OldSetSkeletonDescription = inst.SetSkeletonDescription or function() end
+	if inst.OldSetSkeletonDescription == nil then
+		inst.OldSetSkeletonDescription = inst.SetSkeletonDescription
+	end
 	inst.SetSkeletonDescription = function(inst, ...)
 		inst.OldSetSkeletonDescription(inst, ...)
 		reassignfn(inst)
 	end
-		
-	inst.oldOnLoad = inst.OnLoad or function() end
-	function inst.OnLoad(inst, ...)
+				
+	if inst.oldOnLoad == nil then
+		inst.oldOnLoad = inst.OnLoad
+	end
+	inst.OnLoad = function(inst, ...)
 		inst.oldOnLoad(inst, ...)
 		reassignfn(inst)
 	end
@@ -120,9 +134,12 @@ end)
 --2. player inspection
 AddPrefabPostInit("player_common", function(inst)
 	if inst.components.inspectable ~= nil then
-		inst.components.inspectable.getspecialdescriptionold = inst.components.inspectable.getspecialdescription or function() end
+		if inst.components.inspectable.getspecialdescription_old == nil then
+			inst.components.inspectable.getspecialdescription_old = inst.components.inspectable.getspecialdescription
+		end
+
 		function inst.components.inspectable.getspecialdescription(inst, ...)
-			return pp.replacePP(inst.components.inspectable.getspecialdescriptionold(inst, ...), inst:GetDisplayName())
+			return pp.replacePP(inst.components.inspectable.getspecialdescription_old(inst, ...), inst:GetDisplayName())
 		end
 	end
 end)
@@ -130,9 +147,11 @@ end)
 --3. carrat race winner
 AddPrefabPostInit("yotc_carrat_race_finish", function(inst)
 	if inst.components.inspectable ~= nil then
-		inst.components.inspectable.getspecialdescriptionold = inst.components.inspectable.getspecialdescription or function() end
+		if inst.components.inspectable.getspecialdescription_old == nil then
+			inst.components.inspectable.getspecialdescription_old = inst.components.inspectable.getspecialdescription or function() end
+		end
 		function inst.components.inspectable.getspecialdescription(inst, ...)
-			local str = inst.components.inspectable.getspecialdescriptionold(inst, ...)
+			local str = inst.components.inspectable.getspecialdescription_old(inst, ...)
 			local winner = inst._winner ~= nil and inst._winner.name
 			return (winner ~= nil and pp.replacePP(str, winner)) or str
 		end

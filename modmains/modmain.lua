@@ -61,6 +61,44 @@ function hoverer:OnUpdate()
 	end
 end
 
+--Server list world day printing correction
+AddClassPostConstruct("screens/redux/serverlistingscreen", function(self)
+	local updatedata = self.UpdateServerData or function() end
+	
+	function self:UpdateServerData(selected_index_actual)
+		updatedata(self, selected_index_actual)
+		local gamedata = self:ProcessServerGameData()
+		local day = gamedata ~= nil and gamedata.day or STRINGS.UI.SERVERLISTINGSCREEN.UNKNOWN
+		self.day_description.text:SetString(day..STRINGS.UI.SERVERLISTINGSCREEN.DAYDESC)
+	end
+end)
+
+-- In-Game UI Clock
+AddClassPostConstruct("widgets/uiclock", function(self)
+	local UpdateDayStr = self.UpdateDayString or function() end
+	local basescale = 1
+	
+	function self:UpdateDayString()
+		UpdateDayStr(self)
+		
+		if self._cycles ~= nil then
+			self._text:SetString(tostring(GLOBAL.ThePlayer.Network:GetPlayerAge() ).." "..STRINGS.UI.HUD.CLOCKDAY)
+		else
+			self._text:SetString("")
+		end
+		self._showingcycles = false
+	end
+	
+	local UpdateWorldStr = self.UpdateWorldString or function() end
+	function self:UpdateWorldString()
+		UpdateWorldStr(self)
+
+		self._text:SetString(tostring(GLOBAL.TheWorld.state.cycles + 1).." "..STRINGS.UI.HUD.WORLD_CLOCKDAY)
+		self._text:SetPosition(3, 0 / basescale, 0)
+		self._text:SetSize(28)
+		self._showingcycles = true
+	end
+end)
 ----------------------------------------------------------------------------------------
 -- codes that work only on mastersim
 ----------------------------------------------------------------------------------------
@@ -169,44 +207,5 @@ GLOBAL.GetSpecialCharacterString = function(character)
 	end
 	return str
 end
-
---Server list world day printing correction
-AddClassPostConstruct("screens/redux/serverlistingscreen", function(self)
-	local updatedata = self.UpdateServerData or function() end
-	
-	function self:UpdateServerData(selected_index_actual)
-		updatedata(self, selected_index_actual)
-		local gamedata = self:ProcessServerGameData()
-		local day = gamedata ~= nil and gamedata.day or STRINGS.UI.SERVERLISTINGSCREEN.UNKNOWN
-		self.day_description.text:SetString(day..STRINGS.UI.SERVERLISTINGSCREEN.DAYDESC)
-	end
-end)
-
--- In-Game UI Clock
-AddClassPostConstruct("widgets/uiclock", function(self)
-	local UpdateDayStr = self.UpdateDayString or function() end
-	local basescale = 1
-	
-	function self:UpdateDayString()
-		UpdateDayStr(self)
-		
-		if self._cycles ~= nil then
-			self._text:SetString(tostring(GLOBAL.ThePlayer.Network:GetPlayerAge() ).." "..STRINGS.UI.HUD.CLOCKDAY)
-		else
-			self._text:SetString("")
-		end
-		self._showingcycles = false
-	end
-	
-	local UpdateWorldStr = self.UpdateWorldString or function() end
-	function self:UpdateWorldString()
-		UpdateWorldStr(self)
-
-		self._text:SetString(tostring(GLOBAL.TheWorld.state.cycles + 1).." "..STRINGS.UI.HUD.WORLD_CLOCKDAY)
-		self._text:SetPosition(3, 0 / basescale, 0)
-		self._text:SetSize(28)
-		self._showingcycles = true
-	end
-end)
 
 ------------------------------------------

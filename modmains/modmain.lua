@@ -73,6 +73,29 @@ AddClassPostConstruct("screens/redux/serverlistingscreen", function(self)
 	end
 end)
 
+--skin spinner now truncates in 2 lines.
+local function truncatespinner(self)
+	local MakeSpinnerOld = self.MakeSpinner
+	function self:MakeSpinner()
+		local spinner_group = MakeSpinnerOld(self)
+		spinner_group.spinner.UpdateText = function(self, msg)
+			local _msg = tostring(msg)
+			
+			local width = self.textsize.width - 50
+			local chars = width/4
+			
+			if chars > 5 and width > 10 then
+				self.text:SetMultilineTruncatedString(_msg, 2, width, chars, true)
+			else
+				self.text:SetString(_msg)
+			end
+		end
+		
+		return spinner_group
+		
+	end
+end
+
 -- In-Game UI Clock
 AddClassPostConstruct("widgets/uiclock", function(self)
 	local UpdateDayStr = self.UpdateDayString or function() end

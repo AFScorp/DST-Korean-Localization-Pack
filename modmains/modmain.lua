@@ -9,57 +9,72 @@ LoadPOFile("ko.po", "ko")
 -- In WorldgenScreen
 -- Somehow it must be like this or the word order remains same.
 -- Considering the potential compatibility, this was the best as possible.
-local worldgenscreen = GLOBAL.require "screens/worldgenscreen"
-local ChangeFlavourText_Old = worldgenscreen.ChangeFlavourText or function() end
-	
-function worldgenscreen:ChangeFlavourText()
-	self.flavourtext:SetString(self.nouns[self.nounidx].." "..self.verbs[self.verbidx])
-	ChangeFlavourText_Old(self)
-	self.flavourtext:SetString(self.nouns[self.nounidx].." "..self.verbs[self.verbidx])
+local function ChangeFlavourText(self)
+	local ChangeFlavourText_Old = self.ChangeFlavourText or function() end
+		
+	function self:ChangeFlavourText()
+		self.flavourtext:SetString(self.nouns[self.nounidx].." "..self.verbs[self.verbidx])
+		ChangeFlavourText_Old(self)
+		self.flavourtext:SetString(self.nouns[self.nounidx].." "..self.verbs[self.verbidx])
+	end
 end
 
+AddClassPostConstruct("screens/worldgenscreen", ChangeFlavourText)
 ------------------------------------------------------------------------
 -- codes that should work only on client
 ------------------------------------------------------------------------
 
--- In-Game Hovering Text
-local hoverer = GLOBAL.require "widgets/hoverer"
-local HoveringText = hoverer.OnUpdate or function() end
-function hoverer:OnUpdate()
-	HoveringText(self)
-	local str = nil
-	if not self.isFE then
-		str = self.owner.HUD.controls:GetTooltip() or self.owner.components.playercontroller:GetHoverTextOverride()
-	else
-		str = self.owner:GetTooltip()
+-- In-Game tooltip Text.
+-- Step 1: Rearrange the placer tooltip
+local function GetHoverTextOverride(self)
+	function self:GetHoverTextOverride()
+		return self.placer_recipe ~= nil and ((STRINGS.NAMES[string.upper(self.placer_recipe.name)] or STRINGS.UI.HUD.HERE) .. " " .. STRINGS.UI.HUD.BUILD) or nil
 	end
-	
-	local lmb = nil
-	if str == nil and not self.isFE and self.owner:IsActionsVisible() then
-		lmb = self.owner.components.playercontroller:GetLeftMouseAction()
-		if lmb ~= nil then
-			local overriden
-			str, overriden = lmb:GetActionString()
-			
-			if not overriden and lmb.target ~= nil and lmb.invobject == nil and lmb.target ~= lmb.doer then
-				local name = lmb.target:GetDisplayName()
-				if name ~= nil then
-					local adjective = lmb.target:GetAdjective()
-					name = (adjective ~= nil and (adjective.." "..name)) or name
-					
-					if lmb.target.replica.stackable ~= nil and lmb.target.replica.stackable:IsStack() then
-						name = name .. " " .. tostring(lmb.target.replica.stackable:StackSize()).."개"
+end
+
+AddComponentPostInit("playercontroller", GetHoverTextOverride)
+
+-- Step 2: Rearrange the whole tooltip
+local function OnUpdate(self)
+	local OnUpdate_old = self.OnUpdate or function() end
+	self.OnUpdate = function(self)
+		OnUpdate_old(self)
+		local str = nil
+		if not self.isFE then
+			str = self.owner.HUD.controls:GetTooltip() or self.owner.components.playercontroller:GetHoverTextOverride()
+		else
+			str = self.owner:GetTooltip()
+		end
+		
+		local lmb = nil
+		if str == nil and not self.isFE and self.owner:IsActionsVisible() then
+			lmb = self.owner.components.playercontroller:GetLeftMouseAction()
+			if lmb ~= nil then
+				local overriden
+				str, overriden = lmb:GetActionString()
+				
+				if not overriden and lmb.target ~= nil and lmb.invobject == nil and lmb.target ~= lmb.doer then
+					local name = lmb.target:GetDisplayName()
+					if name ~= nil then
+						local adjective = lmb.target:GetAdjective()
+						name = (adjective ~= nil and (adjective.." "..name)) or name
+						
+						if lmb.target.replica.stackable ~= nil and lmb.target.replica.stackable:IsStack() then
+							name = name .. " " .. tostring(lmb.target.replica.stackable:StackSize()).."개"
+						end
+						str = name .. " " .. str
 					end
-					str = name .. " " .. str
 				end
 			end
-		end
-		if str then
-			self.text:SetString(str)
-			self.str = str
+			if str then
+				self.text:SetString(str)
+				self.str = str
+			end
 		end
 	end
 end
+
+AddClassPostConstruct("widgets/hoverer", OnUpdate)
 
 --Server list world day printing correction
 AddClassPostConstruct("screens/redux/serverlistingscreen", function(self)
@@ -96,6 +111,8 @@ local function truncatespinner(self)
 	end
 end
 
+AddClassPostConstruct("widgets/recipepopup", truncatespinner)
+
 -- In-Game UI Clock
 AddClassPostConstruct("widgets/uiclock", function(self)
 	local UpdateDayStr = self.UpdateDayString or function() end
@@ -122,10 +139,11 @@ AddClassPostConstruct("widgets/uiclock", function(self)
 		self._showingcycles = true
 	end
 end)
+
 ----------------------------------------------------------------------------------------
--- codes that work only on mastersim
+-- codes that work only on server
 ----------------------------------------------------------------------------------------
--- Fix for ACTIONFAIL_GENERIC and DESCRIBE_GENERIC
+-- Fix on ACTIONFAIL_GENERIC and DESCRIBE_GENERIC, which was supposed to be different by characters.
 -- code brought from Tykvesh's fix
 local GetActionFailString = GLOBAL.GetActionFailString or function() end
 

@@ -1,6 +1,5 @@
 local pp = require "pphandle"
 local STRINGS = GLOBAL.STRINGS
-LoadPOFile("ko.po", "ko")
 ---------------------------------------------------------
 -- Added Overriding Function --
 -- Changes word order.(nouns + Verb or adjective + nouns)
@@ -250,3 +249,4 @@ GLOBAL.GetSpecialCharacterString = function(character)
 end
 
 ------------------------------------------
+LoadPOFile("ko.po", "ko")

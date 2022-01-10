@@ -32,12 +32,12 @@ end
 --finds first char in the word, from the last character
 local function FirstValidChar(word)
 	for i=1,string.utf8len(word) do
-	    char = utf8CodePoint(string.utf8sub(-i,-i))
+	    local char = utf8CodePoint(string.utf8sub(-i,-i))
 		if char == nil or
-				(firstchar >= 44032 and firstchar <= 55203) or  --Hangul syllable
-				(firstchar >= 48 and firstchar <= 57) or        --Number
-				(firstchar >= 65 and firstchar <= 90) or        --Alphabet Uppercase
-				(firstchar >= 97 and firstchar <= 122) then     --Alphabet Lowercase
+				(char >= 44032 and char <= 55203) or  --Hangul syllable
+				(char >= 48 and char <= 57) or        --Number
+				(char >= 65 and char <= 90) or        --Alphabet Uppercase
+				(char >= 97 and char <= 122) then     --Alphabet Lowercase
 		    return char
 		end
 	end
@@ -93,6 +93,6 @@ return
 {
     utf8CodePoint = utf8CodePoint,
 	FirstValidChar = FirstValidChar,
-	PPhandler = PPhandler,
+	PPtype = PPtype,
 	replacePP = replacePP
 }

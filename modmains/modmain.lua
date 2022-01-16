@@ -87,7 +87,7 @@ AddClassPostConstruct("screens/redux/serverlistingscreen", function(self)
 	end
 end)
 
---skin spinner now truncates in 2 lines.
+--skin spinner text now truncates in 2 lines.
 local function truncatespinner(self)
 	local MakeSpinnerOld = self.MakeSpinner
 	function self:MakeSpinner()

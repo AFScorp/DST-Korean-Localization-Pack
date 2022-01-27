@@ -1,5 +1,5 @@
 files:
   - source: /strings.pot
     translation: /modmains/%two_letters_code%.po
-  - source: /strings_reforged.pot
-    translation: /strings_reforged_%language%.po
+  - source: /reforged/strings.pot
+    translation: /reforged/%language%_reforged.po

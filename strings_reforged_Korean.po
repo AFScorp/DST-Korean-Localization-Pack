@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2021-10-03 19:10\n"
+"PO-Revision-Date: 2022-01-27 08:40\n"
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona"
@@ -1152,12 +1152,12 @@ msgstr "하드 모드"
 #. STRINGS.UI.WXP_DETAILS.CLASSIC_RLGL
 msgctxt "STRINGS.UI.WXP_DETAILS.CLASSIC_RLGL"
 msgid "Classic RLGL"
-msgstr "클래식 RLGL"
+msgstr "클래식 신호등"
 
 #. STRINGS.UI.WXP_DETAILS.RLGL
 msgctxt "STRINGS.UI.WXP_DETAILS.RLGL"
 msgid "RLGL"
-msgstr "RLGL"
+msgstr "신호등"
 
 #. STRINGS.UI.WXP_DETAILS.ENDLESS
 msgctxt "STRINGS.UI.WXP_DETAILS.ENDLESS"
@@ -3116,17 +3116,17 @@ msgstr "적들을 물리치며 승리를 향한 길을 연마한다!"
 #. STRINGS.REFORGED.GAMETYPES.classic_rlgl.name
 msgctxt "STRINGS.REFORGED.GAMETYPES.classic_rlgl.name"
 msgid "Redlight/Greenlight"
-msgstr "빨간불/파란불"
+msgstr "신호등"
 
 #. STRINGS.REFORGED.GAMETYPES.classic_rlgl.desc
 msgctxt "STRINGS.REFORGED.GAMETYPES.classic_rlgl.desc"
 msgid "The original RLGL from Forged Forge."
-msgstr "Forged Forge의 원조 RLGL"
+msgstr "Forged Forge의 오리지널 신호등 모드"
 
 #. STRINGS.REFORGED.GAMETYPES.rlgl.name
 msgctxt "STRINGS.REFORGED.GAMETYPES.rlgl.name"
 msgid "RLGLBLOL"
-msgstr "RLGLBLOL"
+msgstr "신호등+"
 
 #. STRINGS.REFORGED.GAMETYPES.rlgl.desc
 msgctxt "STRINGS.REFORGED.GAMETYPES.rlgl.desc"
@@ -3681,7 +3681,7 @@ msgstr "꺼진불!"
 #. STRINGS.REFORGED.RLGL.NOLIGHT_SPEECH.1
 msgctxt "STRINGS.REFORGED.RLGL.NOLIGHT_SPEECH.1"
 msgid "NO LIGHT!"
-msgstr "꺼진물!"
+msgstr "꺼진불!"
 
 #. STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.1
 msgctxt "STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.1"

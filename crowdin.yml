@@ -3,3 +3,5 @@ files:
     translation: /modmains/%two_letters_code%.po
   - source: /reforged/strings.pot
     translation: /reforged/%language%_reforged.po
+  - source: /aprilfools/strings.pot
+    translation: /aprilfools/%two_letters_code%.po

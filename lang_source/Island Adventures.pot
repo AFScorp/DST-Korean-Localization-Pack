@@ -13716,7 +13716,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TELEPORTATO_BOX
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TELEPORTATO_BOX"
-msgid ""This" likely connects to a \"that.\""
+msgid "\"This\" likely connects to a \"that.\""
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SANDDUNE
@@ -14396,9 +14396,7 @@ msgstr ""
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.walani
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.walani"
-msgid "*Loves surfing
-*Dries off quickly
-*Is a pretty chill gal"
+msgid "*Loves surfing\n*Dries off quickly\n*Is a pretty chill gal"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SPEARGUN_POISON

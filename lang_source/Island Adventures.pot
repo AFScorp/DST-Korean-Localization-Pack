@@ -34961,9 +34961,7 @@ msgstr ""
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.woodlegs
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.woodlegs"
-msgid "*Can sniff out treasure
-*Captain of the "Sea Legs"
-*Pirate"
+msgid "*Can sniff out treasure\n*Captain of the "Sea Legs"\n*Pirate"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.BLUEGEM
@@ -36053,7 +36051,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.VOLCANOSTAFF
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.VOLCANOSTAFF"
-msgid "The label says "Keep out of reach of children.""
+msgid "The label says \"Keep out of reach of children.\""
 msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.GOLDENPICKAXE

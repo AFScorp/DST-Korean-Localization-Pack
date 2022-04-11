@@ -20861,7 +20861,7 @@ msgstr ""
 
 #. STRINGS.CHARACTER_QUOTES.woodlegs
 msgctxt "STRINGS.CHARACTER_QUOTES.woodlegs"
-msgid ""Don't ye mind th'scurvy. Yarr-harr-harr!""
+msgid "\"Don't ye mind th'scurvy. Yarr-harr-harr!\""
 msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_TOOL_SLIP
@@ -23011,7 +23011,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TELEPORTATO_SW_BOX
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TELEPORTATO_SW_BOX"
-msgid ""This" likely connects to a \"that.\""
+msgid "\"This\" likely connects to a \"that.\""
 msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.RAINBOWJELLYFISH_PLANTED
@@ -23441,7 +23441,7 @@ msgstr ""
 
 #. STRINGS.CHARACTER_QUOTES.walani
 msgctxt "STRINGS.CHARACTER_QUOTES.walani"
-msgid ""Forgive me if I don't get up. I don't want to.""
+msgid "\"Forgive me if I don't get up. I don't want to.\""
 msgstr ""
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.BEEFALO.GENERIC
@@ -34653,7 +34653,7 @@ msgstr ""
 
 #. STRINGS.CHARACTER_QUOTES.warly
 msgctxt "STRINGS.CHARACTER_QUOTES.warly"
-msgid ""Nothing worthwhile is ever done on an empty stomach!""
+msgid "\"Nothing worthwhile is ever done on an empty stomach!\""
 msgstr ""
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.ACORN_COOKED
@@ -36745,7 +36745,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SEAGULL_WATER
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SEAGULL_WATER"
-msgid ""Squawk" yourself."
+msgid "\"Squawk\" yourself."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.RESEARCHLAB4.BURNT
@@ -37435,7 +37435,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_TREASURE
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_TREASURE"
-msgid ""X" marks the spot!"
+msgid "\"X\" marks the spot!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SEAWEED_COOKED
@@ -41495,7 +41495,7 @@ msgstr ""
 
 #. STRINGS.NAMES.TUNACAN
 msgctxt "STRINGS.NAMES.TUNACAN"
-msgid ""Ballphin Free" Tuna"
+msgid "\"Ballphin Free\" Tuna"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.CORALLARVE

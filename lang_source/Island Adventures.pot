@@ -11211,7 +11211,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.UNAGI
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.UNAGI"
-msgid "More like "umami"! Ooooh, mommy!"
+msgid "More like \"umami\"! Ooooh, mommy!"
 msgstr ""
 
 #. STRINGS.NAMES.WHALE_BUBBLES
@@ -12786,7 +12786,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SNAKEOIL
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SNAKEOIL"
-msgid "The label says "Jay's Wondrous Snake Oil!""
+msgid "The label says \"Jay's Wondrous Snake Oil!\""
 msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.PARROT
@@ -13546,7 +13546,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.BOAT_TORCH
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BOAT_TORCH"
-msgid "It's a light so I might "sea"."
+msgid "It's a light so I might \"sea\"."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.JUNGLETREE.BURNING
@@ -13716,7 +13716,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TELEPORTATO_BOX
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TELEPORTATO_BOX"
-msgid ""This" likely connects to a "that.""
+msgid ""This" likely connects to a \"that.\""
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SANDDUNE
@@ -13961,7 +13961,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.TUMBLEWEED
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.TUMBLEWEED"
-msgid "It's on a journey called "life"."
+msgid "It's on a journey called \"life\"."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SNAKEDEN.BURNT
@@ -14808,7 +14808,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.DRAGOON
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.DRAGOON"
-msgid "Would make a lovely pet, if not for the whole "murder" thing."
+msgid "Would make a lovely pet, if not for the whole \"murder\" thing."
 msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.OBSIDIAN_WORKBENCH
@@ -14888,7 +14888,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.FISH_FARM.STOCKED
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.FISH_FARM.STOCKED"
-msgid "C'mon fish! I'm an "instant gratification" kind of gal."
+msgid "C'mon fish! I'm an \"instant gratification\" kind of gal."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.NEEDLESPEAR
@@ -15103,7 +15103,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.SEWING_KIT
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.SEWING_KIT"
-msgid "I'm not really the "sewing" kind."
+msgid "I'm not really the \"sewing\" kind."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.POISONHOLE
@@ -17933,7 +17933,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.BOAT_LANTERN
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BOAT_LANTERN"
-msgid "To "sea" what's coming!"
+msgid "To \"sea\" what's coming!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WILDBOREHOUSE
@@ -18363,7 +18363,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.MOLE.HELD
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MOLE.HELD"
-msgid "Do you "dig" your new surroundings?"
+msgid "Do you \"dig\" your new surroundings?"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BARREL_GUNPOWDER
@@ -21548,7 +21548,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ARMORCACTUS
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ARMORCACTUS"
-msgid "Nothing says "stay away" quite like this."
+msgid "Nothing says \"stay away\" quite like this."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.COOKPOT.BURNT
@@ -23013,7 +23013,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TELEPORTATO_SW_BOX
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TELEPORTATO_SW_BOX"
-msgid ""This" likely connects to a "that.""
+msgid ""This" likely connects to a \"that.\""
 msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.RAINBOWJELLYFISH_PLANTED
@@ -25093,7 +25093,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.JELLYFISH_PLANTED
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.JELLYFISH_PLANTED"
-msgid "I'll call you "Jerald"."
+msgid "I'll call you \"Jerald\"."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DEPLETED_BUSH_VINE
@@ -28183,7 +28183,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TELESCOPE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TELESCOPE"
-msgid "To see how "near" I am to "far"."
+msgid "To see how \"near\" I am to \"far\"."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.REEDS.BURNING
@@ -30723,7 +30723,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WATERCROCODOG
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WATERCROCODOG"
-msgid "Really has that "wet dog" smell."
+msgid "Really has that \"wet dog\" smell."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOAT_LANTERN
@@ -31153,7 +31153,7 @@ msgstr ""
 
 #. STRINGS.RECIPE_DESC.ANTIVENOM
 msgctxt "STRINGS.RECIPE_DESC.ANTIVENOM"
-msgid "Cures that not-fresh "poison" feeling."
+msgid "Cures that not-fresh \"poison\" feeling."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.TIDAL_PLANT
@@ -32900,7 +32900,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.BEE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.BEE.GENERIC"
-msgid "Well "bzz bzz" to you, too!"
+msgid "Well \"bzz bzz\" to you, too!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BOAT_LANTERN
@@ -33570,7 +33570,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BOAT_ENCRUSTED
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BOAT_ENCRUSTED"
-msgid "More "crusty" than "encrusted"."
+msgid "More \"crusty\" than \"encrusted\"."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PALMLEAF_HUT
@@ -34625,7 +34625,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_MAPWRAP_WARN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_MAPWRAP_WARN"
-msgid "The fog's inhabitants remain shrouded in "mist"-ery. Ho ho!"
+msgid "The fog's inhabitants remain shrouded in \"mist\"-ery. Ho ho!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_BURNT
@@ -35422,7 +35422,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER_DROPPER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER_DROPPER"
-msgid "Ah, the old "drop from the ceiling and commit violent acts" act."
+msgid "Ah, the old \"drop from the ceiling and commit violent acts\" act."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SEASHELL
@@ -39112,7 +39112,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.RAINBOWJELLYFISH_COOKED
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.RAINBOWJELLYFISH_COOKED"
-msgid "You can really taste the "rainbow"."
+msgid "You can really taste the \"rainbow\"."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.NEON_QUATTRO
@@ -40892,7 +40892,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIRATEGHOST
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIRATEGHOST"
-msgid "What "arrrr" you?"
+msgid "What \"arrrr\" you?"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CORALLARVE
@@ -41232,7 +41232,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.OBSIDIANCOCONADE
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.OBSIDIANCOCONADE"
-msgid "I get more "boom" for my buck with obsidian."
+msgid "I get more \"boom\" for my buck with obsidian."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.MARSH_TREE.BURNING
@@ -42307,7 +42307,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SWEET_POTATO
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SWEET_POTATO"
-msgid "You say "po-tat-o", I say "dinner"!"
+msgid "You say \"po-tat-o\", I say \"dinner\"!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WIND_CONCH
@@ -44412,7 +44412,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SHARX
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SHARX"
-msgid "It's not a question of "if" I will conquer it, but when."
+msgid "It's not a question of \"if\" I will conquer it, but when."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.FEM_PUPPET

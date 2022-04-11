@@ -1296,8 +1296,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WALANI.ANNOUNCE_CANFIX
 msgctxt "STRINGS.CHARACTERS.WALANI.ANNOUNCE_CANFIX"
-msgid "
-I should probably repair that. Maybe later."
+msgid "\nI should probably repair that. Maybe later."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.JELLYJERKY
@@ -33328,8 +33327,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_CANFIX
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_CANFIX"
-msgid "
-I can fix this, methinks."
+msgid "\nI can fix this, methinks."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COCONADE.GENERIC
@@ -40386,8 +40384,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_CANFIX
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_CANFIX"
-msgid "
-I believe I could repair that."
+msgid "\nI believe I could repair that."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CRAB.GENERIC

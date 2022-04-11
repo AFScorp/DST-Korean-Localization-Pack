@@ -7821,7 +7821,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.WRITE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.WRITE.GENERIC"
-msgid "Alls I can write be an "X"!"
+msgid "Alls I can write be an \"X\"!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.RAWLING
@@ -10546,7 +10546,7 @@ msgstr ""
 
 #. STRINGS.RAWLING.equipped.3
 msgctxt "STRINGS.RAWLING.equipped.3"
-msgid "Feel "free" to throw me."
+msgid "Feel \"free\" to throw me."
 msgstr ""
 
 #. STRINGS.NAMES.CAVIAR
@@ -10761,9 +10761,7 @@ msgstr ""
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wilbur
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wilbur"
-msgid "*Can't talk
-*Slow as biped, but fast as quadruped
-*Is a monkey"
+msgid "*Can't talk\n*Slow as biped, but fast as quadruped\n*Is a monkey"
 msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ELEPHANTCACTUS

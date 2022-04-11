@@ -2126,7 +2126,7 @@ msgstr ""
 
 #. STRINGS.CHARACTER_QUOTES.wilbur
 msgctxt "STRINGS.CHARACTER_QUOTES.wilbur"
-msgid ""Ooo ooa oah ah!""
+msgid "\"Ooo ooa oah ah!\""
 msgstr ""
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ARMORCACTUS
@@ -2641,7 +2641,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.EYEBRELLAHAT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.EYEBRELLAHAT"
-msgid ""Eye" like it!"
+msgid "\"Eye\" like it!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LOBSTERBISQUE
@@ -5241,7 +5241,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_HAY.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_HAY.GENERIC"
-msgid "Calling it a "wall" is kind of a stretch."
+msgid "Calling it a \"wall\" is kind of a stretch."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.LOBSTER_DEAD_COOKED
@@ -6596,7 +6596,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SNAKESKINHAT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SNAKESKINHAT"
-msgid "Now would this be a "touque" or a "tuque"?"
+msgid "Now would this be a \"touque\" or a \"tuque\"?"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LOBSTERHOLE

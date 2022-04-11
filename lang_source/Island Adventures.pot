@@ -23596,7 +23596,7 @@ msgstr ""
 
 #. STRINGS.NAMES.BOAT_WOODLEG
 msgctxt "STRINGS.NAMES.BOAT_WOODLEG"
-msgid "The "Sea Legs""
+msgid "The \"Sea Legs\""
 msgstr ""
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ICEMAKER.HIGH
@@ -23856,7 +23856,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.NUBBIN
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.NUBBIN"
-msgid "Heh. "Nubbin.""
+msgid "Heh. \"Nubbin.\""
 msgstr ""
 
 #. STRINGS.NAMES.MUSSEL_STICK
@@ -31311,9 +31311,7 @@ msgstr ""
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.warly
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.warly"
-msgid "*Has a refined palate
-*Cooks in custom kitchenware
-*Brings a stylish chef pouch"
+msgid "*Has a refined palate\n*Cooks in custom kitchenware\n*Brings a stylish chef pouch"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_TRAWL_FULL

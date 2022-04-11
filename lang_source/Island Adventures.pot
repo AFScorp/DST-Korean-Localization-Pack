@@ -34961,7 +34961,7 @@ msgstr ""
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.woodlegs
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.woodlegs"
-msgid "*Can sniff out treasure\n*Captain of the "Sea Legs"\n*Pirate"
+msgid "*Can sniff out treasure\n*Captain of the \"Sea Legs\"\n*Pirate"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.BLUEGEM

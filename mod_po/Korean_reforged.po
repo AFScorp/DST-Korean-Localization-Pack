@@ -12,14 +12,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2022-04-11 17:58\n"
+"PO-Revision-Date: 2022-04-12 06:44\n"
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona"
 msgid "*All ability cooldowns are 10% faster.\n\n\n\n"
 "Expertise:\n"
 "Melee, Darts, Staves"
-msgstr ""
+msgstr "*모든 능력의 재사용 대기시간이 10% 더 빠르게 감소합니다.\n\n\n\n"
+"특화: \n"
+"근접 무기, 다트, 지팡이"
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.warly
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.warly"
@@ -28,7 +30,11 @@ msgid "*Brings a spatula to cook boosting food for his allies!\n"
 "*Deals 10% more healing.\n"
 "Expertise:\n"
 "Melee, Staves"
-msgstr ""
+msgstr "*그의 동료들에게 보양식을 요리해 주기 위하여 뒤집개를 가지고 옵니다! \n"
+"*요리의 달인입니다.\n"
+"*치유량이 10% 늘어납니다.\n"
+"특화:\n"
+"근접 무기, 지팡이"
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wortox
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wortox"
@@ -36,7 +42,10 @@ msgid "*Spawns with a soul hopping Soul Scepter.\n"
 "*Passively sucks the souls of his foes.\n\n"
 "Expertise:\n"
 "Melee"
-msgstr ""
+msgstr "*영혼 도약하는 영혼의 홀을 가지고 생성됩니다.\n"
+"*그의 적들의 영혼을 수동적으로 빨아들입니다.\n\n"
+"특화:\n"
+"근접 무기"
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wormwood
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wormwood"
@@ -44,7 +53,10 @@ msgid "*Spawns with a plant-based blowdart.\n"
 "*Blossoms over time as long as he avoids damage.\n\n"
 "Expertise:\n"
 "Darts, Staves"
-msgstr ""
+msgstr "*식물 기반 부는 다트를 가지고 생성됩니다.\n"
+"*그가 피해를 피하는 시간이 길수록 꽃이 필 것입니다.\n\n"
+"특화:\n"
+"다트, 지팡이"
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wurt
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wurt"
@@ -52,7 +64,10 @@ msgid "*Can use every weapon available.\n"
 "*Melee attacks makes foes wet, making them slow and vulnerable to electric damage.\n"
 "Expertise:\n"
 "Melee, Darts, Staves, Books"
-msgstr ""
+msgstr "*사용 가능한 모든 무기를 사용할 수 있습니다.\n"
+"*근접 공격은 적들을 젖게 하며 그들을 느리게 하고 전기 피해에 취약하게 합니다.\n"
+"특화:\n"
+"근접 무기, 다트, 지팡이, 책"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.LAVAARENA_SEEDDARTS
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.LAVAARENA_SEEDDARTS"
@@ -462,7 +477,7 @@ msgstr ""
 #. STRINGS.NAMES.LAVAARENA_SPATULA
 msgctxt "STRINGS.NAMES.LAVAARENA_SPATULA"
 msgid "Spatula"
-msgstr ""
+msgstr "뒤집개"
 
 #. STRINGS.ACTIONS.CASTAOE.LAVAARENA_SPATULA
 msgctxt "STRINGS.ACTIONS.CASTAOE.LAVAARENA_SPATULA"
@@ -972,12 +987,12 @@ msgstr ""
 #. STRINGS.UI.LOBBYSCREEN.FORCESTART
 msgctxt "STRINGS.UI.LOBBYSCREEN.FORCESTART"
 msgid "Force Start"
-msgstr ""
+msgstr "강제 시작"
 
 #. STRINGS.UI.LOBBYSCREEN.CANCELSTART
 msgctxt "STRINGS.UI.LOBBYSCREEN.CANCELSTART"
 msgid "Cancel Start"
-msgstr ""
+msgstr "시작 취소"
 
 #. STRINGS.UI.LOBBYSCREEN.SAYSTART
 msgctxt "STRINGS.UI.LOBBYSCREEN.SAYSTART"
@@ -1332,17 +1347,17 @@ msgstr ""
 #. STRINGS.UI.ADMINMENU.TABS.ENEMIES
 msgctxt "STRINGS.UI.ADMINMENU.TABS.ENEMIES"
 msgid "Spawn Enemy"
-msgstr ""
+msgstr "적 소환"
 
 #. STRINGS.UI.ADMINMENU.TABS.WEAPONS
 msgctxt "STRINGS.UI.ADMINMENU.TABS.WEAPONS"
 msgid "Spawn Weapon"
-msgstr ""
+msgstr "무기 소환"
 
 #. STRINGS.UI.ADMINMENU.TABS.ARMOR
 msgctxt "STRINGS.UI.ADMINMENU.TABS.ARMOR"
 msgid "Spawn Armor"
-msgstr ""
+msgstr "갑옷 소환"
 
 #. STRINGS.UI.ADMINMENU.TABS.PETS
 msgctxt "STRINGS.UI.ADMINMENU.TABS.PETS"
@@ -1482,7 +1497,7 @@ msgstr ""
 #. STRINGS.UI.FORGEHISTORYPANEL.TAB
 msgctxt "STRINGS.UI.FORGEHISTORYPANEL.TAB"
 msgid "History"
-msgstr ""
+msgstr "기록"
 
 #. STRINGS.UI.FORGEHISTORYPANEL.FILTERS.TITLE
 msgctxt "STRINGS.UI.FORGEHISTORYPANEL.FILTERS.TITLE"

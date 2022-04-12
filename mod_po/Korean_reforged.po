@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2022-04-12 12:51\n"
+"PO-Revision-Date: 2022-04-12 18:51\n"
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona"
@@ -77,52 +77,52 @@ msgstr "씨앗을 발사하고 지각력 있는 식물을 기릅니다."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LAVAARENA_SEEDDARTS
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LAVAARENA_SEEDDARTS"
 msgid "I'm not putting my mouth to that!"
-msgstr ""
+msgstr "저런 건 입에 넣는 물건이 아닐세!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LAVAARENA_SEEDDARTS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LAVAARENA_SEEDDARTS"
 msgid "It breaks in Wolfgang's mighty grip."
-msgstr ""
+msgstr "볼프강의 강력한 악력에 부러진다."
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.LAVAARENA_SEEDDARTS
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.LAVAARENA_SEEDDARTS"
 msgid "USELESS ORGANIC DART"
-msgstr ""
+msgstr "쓸모없는 유기체 다트"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.LAVAARENA_SEEDDARTS
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.LAVAARENA_SEEDDARTS"
 msgid "Hey, that's not fire!"
-msgstr ""
+msgstr "뭐야, 불이 아니잖아!"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.LAVAARENA_SEEDDARTS
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.LAVAARENA_SEEDDARTS"
 msgid "An instrument of life and death."
-msgstr ""
+msgstr "생명과 죽음의 도구야."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAARENA_SEEDDARTS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAARENA_SEEDDARTS"
 msgid "I'm not too big on plants, eh?"
-msgstr ""
+msgstr "난 식물이 좀 별론데 말이야?"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_SEEDDARTS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_SEEDDARTS"
 msgid "It's not for me, I'm afraid."
-msgstr ""
+msgstr "유감이지만 내 물건은 아니구나."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LAVAARENA_SEEDDARTS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LAVAARENA_SEEDDARTS"
 msgid "A weapon blessed by Idunn!"
-msgstr ""
+msgstr "이둔의 축복을 받은 무기여!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAARENA_SEEDDARTS
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAARENA_SEEDDARTS"
 msgid "We like this one, it makes a friend!"
-msgstr ""
+msgstr "우리 맘에 쏙 들어, 친구를 만들어준다니!"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.LAVAARENA_SEEDDARTS
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.LAVAARENA_SEEDDARTS"
 msgid "That gets the job done!"
-msgstr ""
+msgstr "이거 하나면 돼!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_SEEDDARTS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_SEEDDARTS"
@@ -132,347 +132,347 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LAVAARENA_SEEDDARTS
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LAVAARENA_SEEDDARTS"
 msgid "Ptoo ptoo ptoo!"
-msgstr ""
+msgstr "퓽 퓽 퓽!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVAARENA_SEEDDARTS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVAARENA_SEEDDARTS"
 msgid "Weaponized seeds?"
-msgstr ""
+msgstr "씨앗을 무기로 쓴다고?"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.LAVAARENA_SEEDDARTS
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.LAVAARENA_SEEDDARTS"
 msgid "Not a vegetable...?"
-msgstr ""
+msgstr "채소 아냐...?"
 
 #. STRINGS.NAMES.LAVAARENA_SEEDDARTS
 msgctxt "STRINGS.NAMES.LAVAARENA_SEEDDARTS"
 msgid "Seedling Darts"
-msgstr ""
+msgstr "묘목 다트"
 
 #. STRINGS.ACTIONS.CASTAOE.LAVAARENA_SEEDDARTS
 msgctxt "STRINGS.ACTIONS.CASTAOE.LAVAARENA_SEEDDARTS"
 msgid "Plant Seedling"
-msgstr "식물 심기"
+msgstr "묘목 심기"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MEAN_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MEAN_FLYTRAP"
 msgid "A plant! The boar's natural predator."
-msgstr ""
+msgstr "식물, 멧돼지의 천적이지!"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MEAN_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MEAN_FLYTRAP"
 msgid "He serves us, for now."
-msgstr ""
+msgstr "일단은 우리를 따르는군."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MEAN_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MEAN_FLYTRAP"
 msgid "Is plant friend."
-msgstr ""
+msgstr "식물 친구다."
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MEAN_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MEAN_FLYTRAP"
 msgid "A PLANT MINION FROM THE PLANT MINION"
-msgstr ""
+msgstr "식물 하수인으로부터 나온 식물 하수인"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MEAN_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MEAN_FLYTRAP"
 msgid "How does a dumb plant grow here?"
-msgstr ""
+msgstr "대체 뭔 식물이 여기서도 자라?"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MEAN_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MEAN_FLYTRAP"
 msgid "You too shall perish soon."
-msgstr ""
+msgstr "너도 곧 시들게 될 거야."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MEAN_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MEAN_FLYTRAP"
 msgid "'Ey, he's on our side!"
-msgstr ""
+msgstr "이야, 우리 편이구만!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MEAN_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MEAN_FLYTRAP"
 msgid "Flora of this structure can't last long here, sadly."
-msgstr ""
+msgstr "슬프게도 이런 구조의 식물은 여기서 오래 살 수 없지."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MEAN_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MEAN_FLYTRAP"
 msgid "Will you fight alongside me, plant?"
-msgstr ""
+msgstr "나의 편에서 함께 싸우겠느냐, 식물아?"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MEAN_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MEAN_FLYTRAP"
 msgid "Hello! What's your name?"
-msgstr ""
+msgstr "안녕! 이름이 뭐야?"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.MEAN_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MEAN_FLYTRAP"
 msgid "Look at the set of chompers on him!"
-msgstr ""
+msgstr "저 녀석 이빨 좀 봐!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MEAN_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MEAN_FLYTRAP"
 msgid "Grown from seeds to do our deeds!"
-msgstr ""
+msgstr "우리 대신 씨름 좀 하라고 씨를 심었지!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MEAN_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MEAN_FLYTRAP"
 msgid "Brought friend along"
-msgstr ""
+msgstr "친구 데려왔어"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.MEAN_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MEAN_FLYTRAP"
 msgid "The produce bites back!"
-msgstr ""
+msgstr "농장이 공격을 하다니!"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.MEAN_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MEAN_FLYTRAP"
 msgid "It's a leaf friend! Glort!"
-msgstr ""
+msgstr "풀잎 친구야! 꼬록!"
 
 #. STRINGS.NAMES.MEAN_FLYTRAP
 msgctxt "STRINGS.NAMES.MEAN_FLYTRAP"
 msgid "Seedling"
-msgstr ""
+msgstr "묘목"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.LAVAARENA_SEEDDART2
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.LAVAARENA_SEEDDART2"
 msgid "It fires a triple volley of seeds."
-msgstr ""
+msgstr "씨앗을 한 번에 세 발씩 쏴."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LAVAARENA_SEEDDART2
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LAVAARENA_SEEDDART2"
 msgid "You have to be kidding me."
-msgstr ""
+msgstr "장난하자는 것도 아니고."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LAVAARENA_SEEDDART2
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LAVAARENA_SEEDDART2"
 msgid "Wolfgang's punches mightier than little twig!"
-msgstr ""
+msgstr "작은 나뭇가지보다 볼프강의 주먹이 더 세다!"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.LAVAARENA_SEEDDART2
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.LAVAARENA_SEEDDART2"
 msgid "THIS IS OF NO USE TO ME"
-msgstr ""
+msgstr "내게 하등 쓸모 없음"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.LAVAARENA_SEEDDART2
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.LAVAARENA_SEEDDART2"
 msgid "Three shots at once? I'll take that!"
-msgstr ""
+msgstr "한 번에 세 발씩이나? 나 줘!"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.LAVAARENA_SEEDDART2
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.LAVAARENA_SEEDDART2"
 msgid "Death in seed form."
-msgstr ""
+msgstr "씨앗의 모양을 띈 죽음이야."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAARENA_SEEDDART2
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAARENA_SEEDDART2"
 msgid "My plant buddy is afraid to let me have it."
-msgstr ""
+msgstr "내 식물 친구가 나한테 주기는 싫대."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_SEEDDART2
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_SEEDDART2"
 msgid "Wormwood has an interesting taste in weaponry."
-msgstr ""
+msgstr "웜우드는 무기 취향이 독특하구나."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LAVAARENA_SEEDDART2
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LAVAARENA_SEEDDART2"
 msgid "I will fight many enemies with this!"
-msgstr ""
+msgstr "이로 하여금 수많은 적들과 싸우리라!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAARENA_SEEDDART2
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAARENA_SEEDDART2"
 msgid "It can hit a lot of things at once, just like us!"
-msgstr ""
+msgstr "한 번에 여러 녀석을 맞출 수 있어. 우리처럼!"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.LAVAARENA_SEEDDART2
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.LAVAARENA_SEEDDART2"
 msgid "I'll give it a shot. Ha!"
-msgstr ""
+msgstr "내가 한 방 쏘지. 하!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_SEEDDART2
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_SEEDDART2"
 msgid "Seeds that bloom shall spell your doom!"
-msgstr ""
+msgstr "피어나는 씨앗 앞에 불어오는 피바람!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LAVAARENA_SEEDDART2
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LAVAARENA_SEEDDART2"
 msgid "Dart shaped like friend!"
-msgstr ""
+msgstr "다트 친구 닮았어!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVAARENA_SEEDDART2
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVAARENA_SEEDDART2"
 msgid "I must blow thrice as hard for this one."
-msgstr ""
+msgstr "세 배는 더 세게 불어야겠어."
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.LAVAARENA_SEEDDART2
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.LAVAARENA_SEEDDART2"
 msgid "Should be careful with this. Not gonna."
-msgstr ""
+msgstr "조심해서 다뤄야 해. 안 그럴 거야."
 
 #. STRINGS.NAMES.LAVAARENA_SEEDDART2
 msgctxt "STRINGS.NAMES.LAVAARENA_SEEDDART2"
 msgid "Scattertooth"
-msgstr ""
+msgstr "산탄이빨"
 
 #. STRINGS.ACTIONS.CASTAOE.LAVAARENA_SEEDDART2
 msgctxt "STRINGS.ACTIONS.CASTAOE.LAVAARENA_SEEDDART2"
 msgid "Plant Snaptooth"
-msgstr ""
+msgstr "딱딱이빨 심기"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ADULT_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ADULT_FLYTRAP"
 msgid "His bark is just as bad as his bite!"
-msgstr ""
+msgstr "입만 산 게 아니라 이빨도 살았네!"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ADULT_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ADULT_FLYTRAP"
 msgid "I'm smarter than to move near that thing."
-msgstr ""
+msgstr "저것 옆에 갈 정도로 내가 멍청하진 않다네."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ADULT_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ADULT_FLYTRAP"
 msgid "Scary plant friend."
-msgstr ""
+msgstr "무서운 식물 친구다."
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.ADULT_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ADULT_FLYTRAP"
 msgid "EAT MY ENEMIES, MINION"
-msgstr ""
+msgstr "적들을 삼켜라, 하수인"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ADULT_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ADULT_FLYTRAP"
 msgid "Stay back, Bernie. He looks vicious!"
-msgstr ""
+msgstr "조심해 버니, 나쁜 녀석 같아!"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ADULT_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ADULT_FLYTRAP"
 msgid "Grown to life to reap death..."
-msgstr ""
+msgstr "죽음을 거두려고 자란 삶이야..."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ADULT_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ADULT_FLYTRAP"
 msgid "I know better than to chop him, eh?"
-msgstr ""
+msgstr "저 녀석은 베면 안 된다고 그래."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ADULT_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ADULT_FLYTRAP"
 msgid "It recognizes us as allies, thankfully."
-msgstr ""
+msgstr "다행히 우리를 아군으로 인식하는구나."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ADULT_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ADULT_FLYTRAP"
 msgid "Feast like a true warrior, plant!"
-msgstr ""
+msgstr "전사답게 포식하거라, 식물아!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ADULT_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ADULT_FLYTRAP"
 msgid "We're afraid he'll eat my friends."
-msgstr ""
+msgstr "우리 친구들을 먹을까봐 걱정이야."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.ADULT_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ADULT_FLYTRAP"
 msgid "He's definitely no flytrap I've ever seen."
-msgstr ""
+msgstr "파리지옥 중에서 저런 건 본 적이 없었지, 분명."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ADULT_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ADULT_FLYTRAP"
 msgid "F-fear me! I'm a scary imp!"
-msgstr ""
+msgstr "버-벌벌 떨어라! 난 무서운 임프다!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ADULT_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ADULT_FLYTRAP"
 msgid "Help, friend!"
-msgstr ""
+msgstr "도와줘 친구야!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.ADULT_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ADULT_FLYTRAP"
 msgid "He appears to have a very carnivorous diet."
-msgstr ""
+msgstr "고기를 무척 좋아하는 식성인가 봐."
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.ADULT_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ADULT_FLYTRAP"
 msgid "No bite me!"
-msgstr ""
+msgstr "나 물지 마!"
 
 #. STRINGS.NAMES.ADULT_FLYTRAP
 msgctxt "STRINGS.NAMES.ADULT_FLYTRAP"
 msgid "Snaptooth"
-msgstr ""
+msgstr "딱딱이빨"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.LAVAARENA_SPATULA
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.LAVAARENA_SPATULA"
 msgid "I can cook up a hearty meal for everyone with this!"
-msgstr ""
+msgstr "이걸로 모두에게 푸짐한 식사를 만들어줄 수 있어!"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LAVAARENA_SPATULA
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LAVAARENA_SPATULA"
 msgid "There's a time and place for cooking, and this is not it."
-msgstr ""
+msgstr "요리를 할 때와 장소가 있지, 여긴 좀 아니잖나."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LAVAARENA_SPATULA
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LAVAARENA_SPATULA"
 msgid "Wolfgang cook mighty meal for his friends!"
-msgstr ""
+msgstr "볼프강이 친구들에게 강력한 식사를 해 준다!"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.LAVAARENA_SPATULA
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.LAVAARENA_SPATULA"
 msgid "I WILL DEAL HIGH DEGREES OF PAIN WITH THIS"
-msgstr ""
+msgstr "이것으로 고수준의 고통을 전달"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.LAVAARENA_SPATULA
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.LAVAARENA_SPATULA"
 msgid "I'm not using a dumb spatula!"
-msgstr ""
+msgstr "난 등신 같은 뒤집개 절대 안 써!"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.LAVAARENA_SPATULA
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.LAVAARENA_SPATULA"
 msgid "A tool unfit for combat."
-msgstr ""
+msgstr "전투에 어울리지 않는 도구야."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAARENA_SPATULA
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAARENA_SPATULA"
 msgid "I can whip up some mean poutine in a pinch."
-msgstr ""
+msgstr "여차하면 이걸로 끝내주는 감자튀김 좀 만들어 봐야지."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_SPATULA
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_SPATULA"
 msgid "I am a tad starved, but I cannot prepare a meal right now."
-msgstr ""
+msgstr "조금 시장하긴 하다만, 지금 당장은 식사 준비를 할 수가 없구나."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LAVAARENA_SPATULA
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LAVAARENA_SPATULA"
 msgid "To fight and to feast!"
-msgstr ""
+msgstr "마음껏 싸우고 먹자!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAARENA_SPATULA
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAARENA_SPATULA"
 msgid "Oh! Are we gonna have a barbeque?"
-msgstr ""
+msgstr "오! 바베큐라도 하는 건가?"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.LAVAARENA_SPATULA
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.LAVAARENA_SPATULA"
 msgid "Stay back! I'll cook you into a nice boar burger!"
-msgstr ""
+msgstr "물러서! 덤비면 돼지고기 버거로 만들어버린다!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_SPATULA
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_SPATULA"
 msgid "These mortals can never stop eating."
-msgstr ""
+msgstr "필멸자들은 참 여기서도 먹는 것 타령이네."
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LAVAARENA_SPATULA
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LAVAARENA_SPATULA"
 msgid "Food time?"
-msgstr ""
+msgstr "밥 먹을 시간?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVAARENA_SPATULA
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVAARENA_SPATULA"
 msgid "Ah, oui! Just the tool for the job, non?"
-msgstr ""
+msgstr "아, 좋아! 딱 맞는 도구가 아닐 수가 없는걸?"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.LAVAARENA_SPATULA
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.LAVAARENA_SPATULA"
 msgid "Food fight, florpt!"
-msgstr ""
+msgstr "먹는 걸로 싸워, 뽀륵!"
 
 #. STRINGS.NAMES.LAVAARENA_SPATULA
 msgctxt "STRINGS.NAMES.LAVAARENA_SPATULA"
@@ -482,7 +482,7 @@ msgstr "뒤집개"
 #. STRINGS.ACTIONS.CASTAOE.LAVAARENA_SPATULA
 msgctxt "STRINGS.ACTIONS.CASTAOE.LAVAARENA_SPATULA"
 msgid "Summon Cookpot"
-msgstr ""
+msgstr "요리솥 소환"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.FORGE_COOKPOT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.FORGE_COOKPOT"
@@ -562,7 +562,7 @@ msgstr ""
 #. STRINGS.NAMES.FORGE_COOKPOT
 msgctxt "STRINGS.NAMES.FORGE_COOKPOT"
 msgid "Crockpot"
-msgstr ""
+msgstr "요리솥"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.TELEPORT_STAFF
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.TELEPORT_STAFF"
@@ -727,7 +727,7 @@ msgstr ""
 #. STRINGS.NAMES.GAUNTLET
 msgctxt "STRINGS.NAMES.GAUNTLET"
 msgid "Gauntlet"
-msgstr ""
+msgstr "건틀렛"
 
 #. STRINGS.ACTIONS.CASTAOE.LAVAARENA_GAUNTLET
 msgctxt "STRINGS.ACTIONS.CASTAOE.LAVAARENA_GAUNTLET"
@@ -922,7 +922,7 @@ msgstr ""
 #. STRINGS.NAMES.CHEATER
 msgctxt "STRINGS.NAMES.CHEATER"
 msgid "CHEATER"
-msgstr ""
+msgstr "사기꾼"
 
 #. STRINGS.NAMES.CROCOMMANDER_RAPIDFIRE
 msgctxt "STRINGS.NAMES.CROCOMMANDER_RAPIDFIRE"
@@ -932,12 +932,12 @@ msgstr ""
 #. STRINGS.NAMES.BATTLESTANDARD_SPEED
 msgctxt "STRINGS.NAMES.BATTLESTANDARD_SPEED"
 msgid "Battle Standard"
-msgstr ""
+msgstr "전투 깃발"
 
 #. STRINGS.NAMES.LAVAARENA_CHEFHAT
 msgctxt "STRINGS.NAMES.LAVAARENA_CHEFHAT"
 msgid "Chef Hat"
-msgstr ""
+msgstr "요리사 모자"
 
 #. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_CHEFHAT
 msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_CHEFHAT"
@@ -947,17 +947,17 @@ msgstr ""
 #. STRINGS.NAMES.SCORPEON_ACID
 msgctxt "STRINGS.NAMES.SCORPEON_ACID"
 msgid "Scorpeon Acid"
-msgstr ""
+msgstr "전갈종자 산성액"
 
 #. STRINGS.NAMES.DEBUFF_FIRE
 msgctxt "STRINGS.NAMES.DEBUFF_FIRE"
 msgid "Fire"
-msgstr ""
+msgstr "불"
 
 #. STRINGS.NAMES.DEBUFF_POISON
 msgctxt "STRINGS.NAMES.DEBUFF_POISON"
 msgid "Poison"
-msgstr ""
+msgstr "독"
 
 #. STRINGS.NAMES.NOLIGHT
 msgctxt "STRINGS.NAMES.NOLIGHT"
@@ -997,7 +997,7 @@ msgstr "시작 취소"
 #. STRINGS.UI.LOBBYSCREEN.SAYSTART
 msgctxt "STRINGS.UI.LOBBYSCREEN.SAYSTART"
 msgid "Forcing Start in %s seconds. If you don't have a character selected before the countdown is over, then a random character will be selected for you."
-msgstr ""
+msgstr "%s초 후에 강제 시작됩니다. 카운트다운이 끝나기 전에 선택한 캐릭터가 없는 경우 임의의 캐릭터가 선택됩니다."
 
 #. STRINGS.UI.LOBBYSCREEN.SAYCANCEL
 msgctxt "STRINGS.UI.LOBBYSCREEN.SAYCANCEL"
@@ -1247,7 +1247,7 @@ msgstr ""
 #. STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.total_damagetaken
 msgctxt "STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.total_damagetaken"
 msgid "Damage Taken"
-msgstr ""
+msgstr "받은 피해량"
 
 #. STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.attacks
 msgctxt "STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.attacks"
@@ -1267,12 +1267,12 @@ msgstr ""
 #. STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.altattacks
 msgctxt "STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.altattacks"
 msgid "Special Attacks Used"
-msgstr ""
+msgstr "회의 특수 공격 사용"
 
 #. STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.stepcounter
 msgctxt "STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.stepcounter"
 msgid "Steps Taken"
-msgstr ""
+msgstr "걸음 이동"
 
 #. STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.blowdarts
 msgctxt "STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.blowdarts"
@@ -1282,7 +1282,7 @@ msgstr ""
 #. STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.standards
 msgctxt "STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.standards"
 msgid "Battle Standards Destroyed"
-msgstr ""
+msgstr "개의 깃발 파괴"
 
 #. STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.numcc
 msgctxt "STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.numcc"
@@ -1292,7 +1292,7 @@ msgstr ""
 #. STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.guardsbroken
 msgctxt "STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.guardsbroken"
 msgid "Enemy Guards Broken"
-msgstr ""
+msgstr "회 적의 방어 파훼"
 
 #. STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.healingreceived
 msgctxt "STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.healingreceived"
@@ -1462,7 +1462,7 @@ msgstr ""
 #. STRINGS.UI.GAME_SETTINGS_PANEL.WAVESET
 msgctxt "STRINGS.UI.GAME_SETTINGS_PANEL.WAVESET"
 msgid "Waveset"
-msgstr ""
+msgstr "웨이브 설정"
 
 #. STRINGS.UI.GAME_SETTINGS_PANEL.MAP
 msgctxt "STRINGS.UI.GAME_SETTINGS_PANEL.MAP"
@@ -1547,12 +1547,12 @@ msgstr ""
 #. STRINGS.UI.FORGEHISTORYPANEL.FILTERS.AFK_RUNS
 msgctxt "STRINGS.UI.FORGEHISTORYPANEL.FILTERS.AFK_RUNS"
 msgid "AFK Runs"
-msgstr ""
+msgstr "잠수 경기"
 
 #. STRINGS.UI.FORGEHISTORYPANEL.FILTERS.COMMANDS
 msgctxt "STRINGS.UI.FORGEHISTORYPANEL.FILTERS.COMMANDS"
 msgid "Commands Used"
-msgstr ""
+msgstr "명령어 사용"
 
 #. STRINGS.UI.FORGEHISTORYPANEL.FILTERS.SCRIPTS
 msgctxt "STRINGS.UI.FORGEHISTORYPANEL.FILTERS.SCRIPTS"
@@ -1597,17 +1597,17 @@ msgstr ""
 #. STRINGS.UI.FORGEHISTORYPANEL.SORTERS.MOST_RECENT
 msgctxt "STRINGS.UI.FORGEHISTORYPANEL.SORTERS.MOST_RECENT"
 msgid "Most Recent"
-msgstr ""
+msgstr "가장 최근"
 
 #. STRINGS.UI.FORGEHISTORYPANEL.SORTERS.FASTEST_TIME
 msgctxt "STRINGS.UI.FORGEHISTORYPANEL.SORTERS.FASTEST_TIME"
 msgid "Fastest Time"
-msgstr ""
+msgstr "최단 시간"
 
 #. STRINGS.UI.FORGEHISTORYPANEL.SORTERS.LONGEST_TIME
 msgctxt "STRINGS.UI.FORGEHISTORYPANEL.SORTERS.LONGEST_TIME"
 msgid "Longest Time"
-msgstr ""
+msgstr "최장 시간"
 
 #. STRINGS.UI.FORGEHISTORYPANEL.SORTERS.RUN_COUNT
 msgctxt "STRINGS.UI.FORGEHISTORYPANEL.SORTERS.RUN_COUNT"
@@ -1637,22 +1637,22 @@ msgstr ""
 #. STRINGS.UI.FORGEHISTORYPANEL.AVERAGE_STATS.WIN_RATE
 msgctxt "STRINGS.UI.FORGEHISTORYPANEL.AVERAGE_STATS.WIN_RATE"
 msgid "Win Rate"
-msgstr ""
+msgstr "승률"
 
 #. STRINGS.UI.FORGEHISTORYPANEL.AVERAGE_STATS.TOTAL_TIME
 msgctxt "STRINGS.UI.FORGEHISTORYPANEL.AVERAGE_STATS.TOTAL_TIME"
 msgid "Total Time"
-msgstr ""
+msgstr "총 시간"
 
 #. STRINGS.UI.FORGEHISTORYPANEL.AVERAGE_STATS.AVERAGE_TIME
 msgctxt "STRINGS.UI.FORGEHISTORYPANEL.AVERAGE_STATS.AVERAGE_TIME"
 msgid "Average Time"
-msgstr ""
+msgstr "평균 시간"
 
 #. STRINGS.UI.FORGEHISTORYPANEL.AVERAGE_STATS.FASTEST_SLOWEST_TIME
 msgctxt "STRINGS.UI.FORGEHISTORYPANEL.AVERAGE_STATS.FASTEST_SLOWEST_TIME"
 msgid "Fastest/Slowest"
-msgstr ""
+msgstr "최단/최장"
 
 #. STRINGS.UI.FORGEHISTORYPANEL.AVERAGE_STATS.TOTAL_DEATHS
 msgctxt "STRINGS.UI.FORGEHISTORYPANEL.AVERAGE_STATS.TOTAL_DEATHS"
@@ -1677,12 +1677,12 @@ msgstr ""
 #. STRINGS.UI.FORGEHISTORYPANEL.RUN.VICTORY
 msgctxt "STRINGS.UI.FORGEHISTORYPANEL.RUN.VICTORY"
 msgid "Victory!"
-msgstr ""
+msgstr "승리!"
 
 #. STRINGS.UI.FORGEHISTORYPANEL.RUN.DEFEAT
 msgctxt "STRINGS.UI.FORGEHISTORYPANEL.RUN.DEFEAT"
 msgid "Defeat!"
-msgstr ""
+msgstr "패배!"
 
 #. STRINGS.UI.FORGEHISTORYPANEL.RUN.NA
 msgctxt "STRINGS.UI.FORGEHISTORYPANEL.RUN.NA"
@@ -2142,7 +2142,7 @@ msgstr ""
 #. STRINGS.REFORGED.PETS.GOLEM.NAME
 msgctxt "STRINGS.REFORGED.PETS.GOLEM.NAME"
 msgid "Golem"
-msgstr ""
+msgstr "골렘"
 
 #. STRINGS.REFORGED.PETS.GOLEM.DESC
 msgctxt "STRINGS.REFORGED.PETS.GOLEM.DESC"
@@ -2162,7 +2162,7 @@ msgstr ""
 #. STRINGS.REFORGED.PETS.MERM_GUARD.NAME
 msgctxt "STRINGS.REFORGED.PETS.MERM_GUARD.NAME"
 msgid "Merm Guard"
-msgstr ""
+msgstr "어인 근위병"
 
 #. STRINGS.REFORGED.PETS.MERM_GUARD.DESC
 msgctxt "STRINGS.REFORGED.PETS.MERM_GUARD.DESC"
@@ -2192,7 +2192,7 @@ msgstr ""
 #. STRINGS.REFORGED.PETS.FORGE_ABIGAIL.NAME
 msgctxt "STRINGS.REFORGED.PETS.FORGE_ABIGAIL.NAME"
 msgid "Abigail"
-msgstr ""
+msgstr "아비게일"
 
 #. STRINGS.REFORGED.PETS.FORGE_ABIGAIL.DESC
 msgctxt "STRINGS.REFORGED.PETS.FORGE_ABIGAIL.DESC"
@@ -2202,7 +2202,7 @@ msgstr ""
 #. STRINGS.REFORGED.PETS.FORGE_BERNIE.NAME
 msgctxt "STRINGS.REFORGED.PETS.FORGE_BERNIE.NAME"
 msgid "Bernie"
-msgstr ""
+msgstr "버니"
 
 #. STRINGS.REFORGED.PETS.FORGE_BERNIE.DESC
 msgctxt "STRINGS.REFORGED.PETS.FORGE_BERNIE.DESC"
@@ -2212,7 +2212,7 @@ msgstr ""
 #. STRINGS.REFORGED.HELMS.FEATHEREDWREATH.NAME
 msgctxt "STRINGS.REFORGED.HELMS.FEATHEREDWREATH.NAME"
 msgid "Feathered Wreath"
-msgstr ""
+msgstr "깃털 화관"
 
 #. STRINGS.REFORGED.HELMS.FEATHEREDWREATH.DESC
 msgctxt "STRINGS.REFORGED.HELMS.FEATHEREDWREATH.DESC"
@@ -2222,7 +2222,7 @@ msgstr ""
 #. STRINGS.REFORGED.HELMS.FLOWERHEADBAND.NAME
 msgctxt "STRINGS.REFORGED.HELMS.FLOWERHEADBAND.NAME"
 msgid "Flower Headband"
-msgstr ""
+msgstr "꽃 머리띠"
 
 #. STRINGS.REFORGED.HELMS.FLOWERHEADBAND.DESC
 msgctxt "STRINGS.REFORGED.HELMS.FLOWERHEADBAND.DESC"
@@ -2232,7 +2232,7 @@ msgstr ""
 #. STRINGS.REFORGED.HELMS.BARBEDHELM.NAME
 msgctxt "STRINGS.REFORGED.HELMS.BARBEDHELM.NAME"
 msgid "Barbed Helm"
-msgstr ""
+msgstr "뿔 달린 투구"
 
 #. STRINGS.REFORGED.HELMS.BARBEDHELM.DESC
 msgctxt "STRINGS.REFORGED.HELMS.BARBEDHELM.DESC"
@@ -2242,7 +2242,7 @@ msgstr ""
 #. STRINGS.REFORGED.HELMS.NOXHELM.NAME
 msgctxt "STRINGS.REFORGED.HELMS.NOXHELM.NAME"
 msgid "Nox Helm"
-msgstr ""
+msgstr "녹스 투구"
 
 #. STRINGS.REFORGED.HELMS.NOXHELM.DESC
 msgctxt "STRINGS.REFORGED.HELMS.NOXHELM.DESC"
@@ -2252,7 +2252,7 @@ msgstr ""
 #. STRINGS.REFORGED.HELMS.WOVENGARLAND.NAME
 msgctxt "STRINGS.REFORGED.HELMS.WOVENGARLAND.NAME"
 msgid "Woven Garland"
-msgstr ""
+msgstr "엮어 만든 화환"
 
 #. STRINGS.REFORGED.HELMS.WOVENGARLAND.DESC
 msgctxt "STRINGS.REFORGED.HELMS.WOVENGARLAND.DESC"
@@ -2352,7 +2352,7 @@ msgstr ""
 #. STRINGS.REFORGED.ARMOR.SILKENARMOR.NAME
 msgctxt "STRINGS.REFORGED.ARMOR.SILKENARMOR.NAME"
 msgid "Silken Wood Armor"
-msgstr ""
+msgstr "비단 나무 갑옷"
 
 #. STRINGS.REFORGED.ARMOR.SILKENARMOR.DESC
 msgctxt "STRINGS.REFORGED.ARMOR.SILKENARMOR.DESC"
@@ -2362,7 +2362,7 @@ msgstr ""
 #. STRINGS.REFORGED.ARMOR.SPLINTMAIL.NAME
 msgctxt "STRINGS.REFORGED.ARMOR.SPLINTMAIL.NAME"
 msgid "Stone Splint Mail"
-msgstr ""
+msgstr "돌 미늘 갑옷"
 
 #. STRINGS.REFORGED.ARMOR.SPLINTMAIL.DESC
 msgctxt "STRINGS.REFORGED.ARMOR.SPLINTMAIL.DESC"
@@ -2422,7 +2422,7 @@ msgstr ""
 #. STRINGS.REFORGED.WEAPONS.FORGEDARTS.NAME
 msgctxt "STRINGS.REFORGED.WEAPONS.FORGEDARTS.NAME"
 msgid "Darts"
-msgstr ""
+msgstr "다트"
 
 #. STRINGS.REFORGED.WEAPONS.FORGEDARTS.DESC
 msgctxt "STRINGS.REFORGED.WEAPONS.FORGEDARTS.DESC"
@@ -2442,7 +2442,7 @@ msgstr ""
 #. STRINGS.REFORGED.WEAPONS.MOLTENDARTS.NAME
 msgctxt "STRINGS.REFORGED.WEAPONS.MOLTENDARTS.NAME"
 msgid "Molten Darts"
-msgstr ""
+msgstr "용암 다트"
 
 #. STRINGS.REFORGED.WEAPONS.MOLTENDARTS.DESC
 msgctxt "STRINGS.REFORGED.WEAPONS.MOLTENDARTS.DESC"
@@ -2462,7 +2462,7 @@ msgstr ""
 #. STRINGS.REFORGED.WEAPONS.INFERNALSTAFF.NAME
 msgctxt "STRINGS.REFORGED.WEAPONS.INFERNALSTAFF.NAME"
 msgid "Infernal Staff"
-msgstr ""
+msgstr "지옥불 지팡이"
 
 #. STRINGS.REFORGED.WEAPONS.INFERNALSTAFF.DESC
 msgctxt "STRINGS.REFORGED.WEAPONS.INFERNALSTAFF.DESC"
@@ -2472,7 +2472,7 @@ msgstr ""
 #. STRINGS.REFORGED.WEAPONS.INFERNALSTAFF.ABILITIES.METEOR.NAME
 msgctxt "STRINGS.REFORGED.WEAPONS.INFERNALSTAFF.ABILITIES.METEOR.NAME"
 msgid "Meteor"
-msgstr ""
+msgstr "운석"
 
 #. STRINGS.REFORGED.WEAPONS.INFERNALSTAFF.ABILITIES.METEOR.DESC
 msgctxt "STRINGS.REFORGED.WEAPONS.INFERNALSTAFF.ABILITIES.METEOR.DESC"
@@ -2482,7 +2482,7 @@ msgstr ""
 #. STRINGS.REFORGED.WEAPONS.FORGINGHAMMER.NAME
 msgctxt "STRINGS.REFORGED.WEAPONS.FORGINGHAMMER.NAME"
 msgid "Forge Hammer"
-msgstr ""
+msgstr "대장간 망치"
 
 #. STRINGS.REFORGED.WEAPONS.FORGINGHAMMER.DESC
 msgctxt "STRINGS.REFORGED.WEAPONS.FORGINGHAMMER.DESC"
@@ -3366,12 +3366,12 @@ msgstr ""
 #. STRINGS.REFORGED.PRESETS.insanity
 msgctxt "STRINGS.REFORGED.PRESETS.insanity"
 msgid "Insanity"
-msgstr ""
+msgstr "광기"
 
 #. STRINGS.REFORGED.PRESETS.custom
 msgctxt "STRINGS.REFORGED.PRESETS.custom"
 msgid "Custom"
-msgstr ""
+msgstr "사용자 정의"
 
 #. STRINGS.REFORGED.WAVESETS.classic.name
 msgctxt "STRINGS.REFORGED.WAVESETS.classic.name"
@@ -3746,7 +3746,7 @@ msgstr ""
 #. STRINGS.REFORGED.USERCOMMANDS.CANCEL_VOTE_TITLE
 msgctxt "STRINGS.REFORGED.USERCOMMANDS.CANCEL_VOTE_TITLE"
 msgid "Cancel Vote"
-msgstr ""
+msgstr "투표 취소"
 
 #. STRINGS.REFORGED.USERCOMMANDS.CANCEL_VOTE_DESC
 msgctxt "STRINGS.REFORGED.USERCOMMANDS.CANCEL_VOTE_DESC"
@@ -3756,7 +3756,7 @@ msgstr ""
 #. STRINGS.REFORGED.USERCOMMANDS.UPDATE_USER_EXP_TITLE
 msgctxt "STRINGS.REFORGED.USERCOMMANDS.UPDATE_USER_EXP_TITLE"
 msgid "Update User Exp"
-msgstr ""
+msgstr "사용자의 경험치 갱신"
 
 #. STRINGS.REFORGED.USERCOMMANDS.UPDATE_USER_EXP_DESC
 msgctxt "STRINGS.REFORGED.USERCOMMANDS.UPDATE_USER_EXP_DESC"
@@ -3776,22 +3776,22 @@ msgstr ""
 #. STRINGS.REFORGED.VOTE.TITLE
 msgctxt "STRINGS.REFORGED.VOTE.TITLE"
 msgid "Vote Now!"
-msgstr ""
+msgstr "지금 투표!"
 
 #. STRINGS.REFORGED.VOTE.FAILED
 msgctxt "STRINGS.REFORGED.VOTE.FAILED"
 msgid "Vote Failed!"
-msgstr ""
+msgstr "투표 실패!"
 
 #. STRINGS.REFORGED.VOTE.SUCCESS
 msgctxt "STRINGS.REFORGED.VOTE.SUCCESS"
 msgid "Vote Succeeded!"
-msgstr ""
+msgstr "투표에 성공했습니다!"
 
 #. STRINGS.REFORGED.VOTE.CANCELED
 msgctxt "STRINGS.REFORGED.VOTE.CANCELED"
 msgid "Vote has been canceled!"
-msgstr ""
+msgstr "투표가 취소되었습니다!"
 
 #. STRINGS.REFORGED.VOTE.SETTINGS_DESC
 msgctxt "STRINGS.REFORGED.VOTE.SETTINGS_DESC"
@@ -3801,17 +3801,17 @@ msgstr ""
 #. STRINGS.REFORGED.VOTE.SETTINGS_INFO
 msgctxt "STRINGS.REFORGED.VOTE.SETTINGS_INFO"
 msgid "View Settings!"
-msgstr ""
+msgstr "설정 보기!"
 
 #. STRINGS.REFORGED.VOTE.SETTINGS_TITLE
 msgctxt "STRINGS.REFORGED.VOTE.SETTINGS_TITLE"
 msgid "Vote to change settings!"
-msgstr ""
+msgstr "설정 변경 투표!"
 
 #. STRINGS.REFORGED.VOTE.SETTINGS_FAILED
 msgctxt "STRINGS.REFORGED.VOTE.SETTINGS_FAILED"
 msgid "Settings have not been changed!"
-msgstr ""
+msgstr "설정이 바뀌지 않았습니다!"
 
 #. STRINGS.REFORGED.VOTE.SETTINGS_SUCCESS
 msgctxt "STRINGS.REFORGED.VOTE.SETTINGS_SUCCESS"
@@ -3821,47 +3821,47 @@ msgstr ""
 #. STRINGS.REFORGED.VOTE.KICK_TITLE
 msgctxt "STRINGS.REFORGED.VOTE.KICK_TITLE"
 msgid "Vote to kick %s"
-msgstr ""
+msgstr "%s 추방 투표"
 
 #. STRINGS.REFORGED.VOTE.KICK_FAILED
 msgctxt "STRINGS.REFORGED.VOTE.KICK_FAILED"
 msgid "%s was not kicked!"
-msgstr ""
+msgstr "%s 님이 추방되지 않았습니다!"
 
 #. STRINGS.REFORGED.VOTE.KICK_SUCCESS
 msgctxt "STRINGS.REFORGED.VOTE.KICK_SUCCESS"
 msgid "%s has been kicked!"
-msgstr ""
+msgstr "%s 님이 추방되었습니다!"
 
 #. STRINGS.REFORGED.VOTE.FORCE_START_TITLE
 msgctxt "STRINGS.REFORGED.VOTE.FORCE_START_TITLE"
 msgid "Vote to Force Start"
-msgstr ""
+msgstr "강제 시작 투표"
 
 #. STRINGS.REFORGED.VOTE.FORCE_START_FAILED
 msgctxt "STRINGS.REFORGED.VOTE.FORCE_START_FAILED"
 msgid "Match Will Not Force Start!"
-msgstr ""
+msgstr "경기가 강제로 시작되지 않습니다!"
 
 #. STRINGS.REFORGED.VOTE.FORCE_START_SUCCESS
 msgctxt "STRINGS.REFORGED.VOTE.FORCE_START_SUCCESS"
 msgid "Forcing Match To Start!"
-msgstr ""
+msgstr "경기를 강제로 시작하는 중!"
 
 #. STRINGS.REFORGED.VOTE.CANCEL_FORCE_START_TITLE
 msgctxt "STRINGS.REFORGED.VOTE.CANCEL_FORCE_START_TITLE"
 msgid "Vote to Cancel Force Start"
-msgstr ""
+msgstr "강제 시작 취소를 위한 투표"
 
 #. STRINGS.REFORGED.VOTE.CANCEL_FORCE_START_FAILED
 msgctxt "STRINGS.REFORGED.VOTE.CANCEL_FORCE_START_FAILED"
 msgid "Force Start Not Canceled!"
-msgstr ""
+msgstr "강제 시작이 취소되지 않았습니다!"
 
 #. STRINGS.REFORGED.VOTE.CANCEL_FORCE_START_SUCCESS
 msgctxt "STRINGS.REFORGED.VOTE.CANCEL_FORCE_START_SUCCESS"
 msgid "Force Start Canceled!"
-msgstr ""
+msgstr "강제 시작이 취소되었습니다!"
 
 #. STRINGS.REFORGED.ADMIN_COMMANDS.SPAWNING_ENT
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.SPAWNING_ENT"
@@ -3876,42 +3876,42 @@ msgstr ""
 #. STRINGS.REFORGED.ADMIN_COMMANDS.ACTIVATING_BATTLECRY
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.ACTIVATING_BATTLECRY"
 msgid "Hear me ROAR!"
-msgstr ""
+msgstr "나의 함성을 들어보아라!"
 
 #. STRINGS.REFORGED.ADMIN_COMMANDS.GIVING_BATTLECRY
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.GIVING_BATTLECRY"
 msgid "I must roar too!"
-msgstr ""
+msgstr "나도 함성을 내야 해!"
 
 #. STRINGS.REFORGED.ADMIN_COMMANDS.OVER_9000
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.OVER_9000"
 msgid "My power level is OVER 9000!"
-msgstr ""
+msgstr "내 전투력은 9000을 넘었어!"
 
 #. STRINGS.REFORGED.ADMIN_COMMANDS.UNDER_9000
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.UNDER_9000"
 msgid "I feel so weak."
-msgstr ""
+msgstr "아이고 김 빠져."
 
 #. STRINGS.REFORGED.ADMIN_COMMANDS.SUPER_GOD_MODE
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.SUPER_GOD_MODE"
 msgid "I have become a GOD!"
-msgstr ""
+msgstr "나는 신이 되었다!"
 
 #. STRINGS.REFORGED.ADMIN_COMMANDS.MORTAL_MODE
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.MORTAL_MODE"
 msgid "I am only human."
-msgstr ""
+msgstr "나는 한낱 인간이다."
 
 #. STRINGS.REFORGED.ADMIN_COMMANDS.MIGHTY
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.MIGHTY"
 msgid "You made me ANGRY!"
-msgstr ""
+msgstr "날 화나게 했겠다!"
 
 #. STRINGS.REFORGED.ADMIN_COMMANDS.AMPLIFY
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.AMPLIFY"
 msgid "I'm all sparkly!"
-msgstr ""
+msgstr "나 완전히 반짝반짝해!"
 
 #. STRINGS.REFORGED.ADMIN_COMMANDS.SHADOWS
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.SHADOWS"
@@ -3921,7 +3921,7 @@ msgstr ""
 #. STRINGS.REFORGED.ADMIN_COMMANDS.SHOCK
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.SHOCK"
 msgid "Don't touch me!"
-msgstr ""
+msgstr "날 만지지 마!"
 
 #. STRINGS.REFORGED.ADMIN_COMMANDS.PETRIFY
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.PETRIFY"
@@ -3931,7 +3931,7 @@ msgstr ""
 #. STRINGS.REFORGED.ADMIN_COMMANDS.REVIVE
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.REVIVE"
 msgid "My soul returns!"
-msgstr ""
+msgstr "내 영혼이 돌아온다!"
 
 #. STRINGS.REFORGED.ADMIN_COMMANDS.ROUND_AND_WAVE_SELECT
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.ROUND_AND_WAVE_SELECT"
@@ -3946,22 +3946,22 @@ msgstr ""
 #. STRINGS.REFORGED.ADMIN_COMMANDS.ENABLE_WAVES
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.ENABLE_WAVES"
 msgid "Enabling Waves"
-msgstr ""
+msgstr "웨이브 활성화"
 
 #. STRINGS.REFORGED.ADMIN_COMMANDS.DISABLE_WAVES
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.DISABLE_WAVES"
 msgid "Disabling Waves"
-msgstr ""
+msgstr "웨이브 비활성화"
 
 #. STRINGS.REFORGED.ADMIN_COMMANDS.KILL_ALL_MOBS
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.KILL_ALL_MOBS"
 msgid "Killing all mobs"
-msgstr ""
+msgstr "모든 적 죽이기"
 
 #. STRINGS.REFORGED.ADMIN_COMMANDS.POISON
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.POISON"
 msgid "Someone has poisoned me!"
-msgstr ""
+msgstr "나 독 걸렸어!"
 
 #. STRINGS.REFORGED.ADMIN_COMMANDS.ADJUST_MUTATOR
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.ADJUST_MUTATOR"
@@ -3971,5 +3971,5 @@ msgstr ""
 #. STRINGS.REFORGED.unknown
 msgctxt "STRINGS.REFORGED.unknown"
 msgid "Unknown String"
-msgstr ""
+msgstr "알 수 없는 문자열"
 

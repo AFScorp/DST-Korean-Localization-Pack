@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2022-04-12 06:44\n"
+"PO-Revision-Date: 2022-04-12 12:51\n"
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona"
@@ -30,8 +30,8 @@ msgid "*Brings a spatula to cook boosting food for his allies!\n"
 "*Deals 10% more healing.\n"
 "Expertise:\n"
 "Melee, Staves"
-msgstr "*그의 동료들에게 보양식을 요리해 주기 위하여 뒤집개를 가지고 옵니다! \n"
-"*요리의 달인입니다.\n"
+msgstr "*동료들에게 보양식을 만들어주는 뒤집개를 가지고 옵니다!\n"
+"*요리의 대가입니다.\n"
 "*치유량이 10% 늘어납니다.\n"
 "특화:\n"
 "근접 무기, 지팡이"
@@ -42,8 +42,8 @@ msgid "*Spawns with a soul hopping Soul Scepter.\n"
 "*Passively sucks the souls of his foes.\n\n"
 "Expertise:\n"
 "Melee"
-msgstr "*영혼 도약하는 영혼의 홀을 가지고 생성됩니다.\n"
-"*그의 적들의 영혼을 수동적으로 빨아들입니다.\n\n"
+msgstr "*영혼 도약을 하는 영혼의 홀을 가지고 생성됩니다.\n"
+"*적들의 영혼을 수동적으로 빨아들입니다.\n\n"
 "특화:\n"
 "근접 무기"
 
@@ -53,8 +53,8 @@ msgid "*Spawns with a plant-based blowdart.\n"
 "*Blossoms over time as long as he avoids damage.\n\n"
 "Expertise:\n"
 "Darts, Staves"
-msgstr "*식물 기반 부는 다트를 가지고 생성됩니다.\n"
-"*그가 피해를 피하는 시간이 길수록 꽃이 필 것입니다.\n\n"
+msgstr "*식물로 만든 바람총을 가지고 생성됩니다.\n"
+"*오랫동안 피해를 입지 않으면 꽃이 핍니다.\n\n"
 "특화:\n"
 "다트, 지팡이"
 
@@ -64,15 +64,15 @@ msgid "*Can use every weapon available.\n"
 "*Melee attacks makes foes wet, making them slow and vulnerable to electric damage.\n"
 "Expertise:\n"
 "Melee, Darts, Staves, Books"
-msgstr "*사용 가능한 모든 무기를 사용할 수 있습니다.\n"
-"*근접 공격은 적들을 젖게 하며 그들을 느리게 하고 전기 피해에 취약하게 합니다.\n"
+msgstr "*모든 무기를 사용할 수 있습니다.\n"
+"*근접 공격으로 적들을 적셔 느려지고 전기 피해에 취약해지게 합니다.\n"
 "특화:\n"
 "근접 무기, 다트, 지팡이, 책"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.LAVAARENA_SEEDDARTS
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.LAVAARENA_SEEDDARTS"
 msgid "It fires seeds and grows sentient plants."
-msgstr ""
+msgstr "씨앗을 발사하고 지각력 있는 식물을 기릅니다."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LAVAARENA_SEEDDARTS
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LAVAARENA_SEEDDARTS"
@@ -152,7 +152,7 @@ msgstr ""
 #. STRINGS.ACTIONS.CASTAOE.LAVAARENA_SEEDDARTS
 msgctxt "STRINGS.ACTIONS.CASTAOE.LAVAARENA_SEEDDARTS"
 msgid "Plant Seedling"
-msgstr ""
+msgstr "식물 심기"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MEAN_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MEAN_FLYTRAP"
@@ -547,7 +547,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FORGE_COOKPOT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FORGE_COOKPOT"
 msgid "Yum!"
-msgstr ""
+msgstr "냠!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FORGE_COOKPOT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FORGE_COOKPOT"
@@ -642,12 +642,12 @@ msgstr ""
 #. STRINGS.NAMES.TELEPORT_STAFF
 msgctxt "STRINGS.NAMES.TELEPORT_STAFF"
 msgid "Soul Scepter"
-msgstr ""
+msgstr "영혼의 홀"
 
 #. STRINGS.ACTIONS.CASTAOE.TELEPORT_STAFF
 msgctxt "STRINGS.ACTIONS.CASTAOE.TELEPORT_STAFF"
 msgid "Teleport"
-msgstr ""
+msgstr "순간이동"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GAUNTLET
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GAUNTLET"
@@ -812,12 +812,12 @@ msgstr ""
 #. STRINGS.NAMES.FORGE_TRIDENT
 msgctxt "STRINGS.NAMES.FORGE_TRIDENT"
 msgid "Trident"
-msgstr ""
+msgstr "삼지창"
 
 #. STRINGS.ACTIONS.CASTAOE.FORGE_TRIDENT
 msgctxt "STRINGS.ACTIONS.CASTAOE.FORGE_TRIDENT"
 msgid "Summon Merm Guard"
-msgstr ""
+msgstr "어인 근위병 소환"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MERM_GUARD
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MERM_GUARD"
@@ -897,7 +897,7 @@ msgstr ""
 #. STRINGS.NAMES.MERM_GUARD
 msgctxt "STRINGS.NAMES.MERM_GUARD"
 msgid "Merm Guard"
-msgstr ""
+msgstr "어인 근위병"
 
 #. STRINGS.NAMES.PITPIG
 msgctxt "STRINGS.NAMES.PITPIG"
@@ -1002,12 +1002,12 @@ msgstr ""
 #. STRINGS.UI.LOBBYSCREEN.SAYCANCEL
 msgctxt "STRINGS.UI.LOBBYSCREEN.SAYCANCEL"
 msgid "Canceling Start."
-msgstr ""
+msgstr "시작을 취소하는 중입니다."
 
 #. STRINGS.UI.LOBBYSCREEN.FORCESTARTTITLE
 msgctxt "STRINGS.UI.LOBBYSCREEN.FORCESTARTTITLE"
 msgid "Confirm Force Start"
-msgstr ""
+msgstr "강제 시작 확인"
 
 #. STRINGS.UI.LOBBYSCREEN.FORCESTARTDESC
 msgctxt "STRINGS.UI.LOBBYSCREEN.FORCESTARTDESC"
@@ -1087,7 +1087,7 @@ msgstr ""
 #. STRINGS.UI.WXP_DETAILS.MOB_KILLS
 msgctxt "STRINGS.UI.WXP_DETAILS.MOB_KILLS"
 msgid "Monster Hunter"
-msgstr ""
+msgstr "괴물 사냥꾼"
 
 #. STRINGS.UI.WXP_DETAILS.MOB_DAMAGE
 msgctxt "STRINGS.UI.WXP_DETAILS.MOB_DAMAGE"
@@ -1127,7 +1127,7 @@ msgstr ""
 #. STRINGS.UI.WXP_DETAILS.NO_HUD
 msgctxt "STRINGS.UI.WXP_DETAILS.NO_HUD"
 msgid "No HUD"
-msgstr ""
+msgstr "HUD 없음"
 
 #. STRINGS.UI.WXP_DETAILS.FRIENDLY_FIRE
 msgctxt "STRINGS.UI.WXP_DETAILS.FRIENDLY_FIRE"
@@ -1147,7 +1147,7 @@ msgstr ""
 #. STRINGS.UI.WXP_DETAILS.HARD_MODE
 msgctxt "STRINGS.UI.WXP_DETAILS.HARD_MODE"
 msgid "Hard Mode"
-msgstr ""
+msgstr "하드 모드"
 
 #. STRINGS.UI.WXP_DETAILS.CLASSIC_RLGL
 msgctxt "STRINGS.UI.WXP_DETAILS.CLASSIC_RLGL"
@@ -1407,12 +1407,12 @@ msgstr ""
 #. STRINGS.UI.ADMINMENU.BUTTONS.DESCRIPTION
 msgctxt "STRINGS.UI.ADMINMENU.BUTTONS.DESCRIPTION"
 msgid "Description"
-msgstr ""
+msgstr "설명"
 
 #. STRINGS.UI.ADMINMENU.BUTTONS.EQUIP
 msgctxt "STRINGS.UI.ADMINMENU.BUTTONS.EQUIP"
 msgid "Equip"
-msgstr ""
+msgstr "장착하기"
 
 #. STRINGS.UI.ADMINMENU.BUTTONS.APPLY
 msgctxt "STRINGS.UI.ADMINMENU.BUTTONS.APPLY"
@@ -1422,12 +1422,12 @@ msgstr ""
 #. STRINGS.UI.ADMINMENU.BUTTONS.ENABLE
 msgctxt "STRINGS.UI.ADMINMENU.BUTTONS.ENABLE"
 msgid "Enable"
-msgstr ""
+msgstr "활성화"
 
 #. STRINGS.UI.ADMINMENU.BUTTONS.DISABLE
 msgctxt "STRINGS.UI.ADMINMENU.BUTTONS.DISABLE"
 msgid "Disable"
-msgstr ""
+msgstr "비활성화"
 
 #. STRINGS.UI.ADMINMENU.NO_ABILITIES
 msgctxt "STRINGS.UI.ADMINMENU.NO_ABILITIES"
@@ -1437,7 +1437,7 @@ msgstr ""
 #. STRINGS.UI.GAME_SETTINGS_PANEL.TAB
 msgctxt "STRINGS.UI.GAME_SETTINGS_PANEL.TAB"
 msgid "Game Settings"
-msgstr ""
+msgstr "게임 설정"
 
 #. STRINGS.UI.GAME_SETTINGS_PANEL.TITLE
 msgctxt "STRINGS.UI.GAME_SETTINGS_PANEL.TITLE"
@@ -1447,12 +1447,12 @@ msgstr ""
 #. STRINGS.UI.GAME_SETTINGS_PANEL.PRESET
 msgctxt "STRINGS.UI.GAME_SETTINGS_PANEL.PRESET"
 msgid "Preset"
-msgstr ""
+msgstr "프리셋"
 
 #. STRINGS.UI.GAME_SETTINGS_PANEL.MODE
 msgctxt "STRINGS.UI.GAME_SETTINGS_PANEL.MODE"
 msgid "Mode"
-msgstr ""
+msgstr "모드"
 
 #. STRINGS.UI.GAME_SETTINGS_PANEL.GAMETYPE
 msgctxt "STRINGS.UI.GAME_SETTINGS_PANEL.GAMETYPE"
@@ -1467,27 +1467,27 @@ msgstr ""
 #. STRINGS.UI.GAME_SETTINGS_PANEL.MAP
 msgctxt "STRINGS.UI.GAME_SETTINGS_PANEL.MAP"
 msgid "Arena"
-msgstr ""
+msgstr "경기장"
 
 #. STRINGS.UI.GAME_SETTINGS_PANEL.DIFFICULTY
 msgctxt "STRINGS.UI.GAME_SETTINGS_PANEL.DIFFICULTY"
 msgid "Difficulty"
-msgstr ""
+msgstr "난이도"
 
 #. STRINGS.UI.GAME_SETTINGS_PANEL.VOTE
 msgctxt "STRINGS.UI.GAME_SETTINGS_PANEL.VOTE"
 msgid "Vote to Change Settings"
-msgstr ""
+msgstr "설정 변경 투표"
 
 #. STRINGS.UI.GAME_SETTINGS_PANEL.FORCE
 msgctxt "STRINGS.UI.GAME_SETTINGS_PANEL.FORCE"
 msgid "Change Settings"
-msgstr ""
+msgstr "설정 변경"
 
 #. STRINGS.UI.GAME_SETTINGS_PANEL.RESET
 msgctxt "STRINGS.UI.GAME_SETTINGS_PANEL.RESET"
 msgid "Reset Settings"
-msgstr ""
+msgstr "설정 초기화"
 
 #. STRINGS.UI.LEADERBOARD_PANEL.TAB
 msgctxt "STRINGS.UI.LEADERBOARD_PANEL.TAB"

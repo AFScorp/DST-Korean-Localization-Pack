@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2022-04-12 18:51\n"
+"PO-Revision-Date: 2022-04-13 01:32\n"
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona"
@@ -487,32 +487,32 @@ msgstr "요리솥 소환"
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.FORGE_COOKPOT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.FORGE_COOKPOT"
 msgid "It's keeping us fed on the field."
-msgstr ""
+msgstr "경기장에서 우리를 먹여 살리고 있어."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FORGE_COOKPOT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FORGE_COOKPOT"
 msgid "The coming meal shall keep me energized."
-msgstr ""
+msgstr "곧 나올 식사는 나에게 활력을 줄 것일세."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FORGE_COOKPOT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FORGE_COOKPOT"
 msgid "Food is cooking!"
-msgstr ""
+msgstr "음식 요리중이다!"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.FORGE_COOKPOT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.FORGE_COOKPOT"
 msgid "IT IS AN UPGRADE IN PROGRESS"
-msgstr ""
+msgstr "개선 과정 중에 있음"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.FORGE_COOKPOT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.FORGE_COOKPOT"
 msgid "That's a good use for all the fire around here!"
-msgstr ""
+msgstr "주변의 모든 불에 좋은 사용법이야!"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.FORGE_COOKPOT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.FORGE_COOKPOT"
 msgid "At least I won't die hungry..."
-msgstr ""
+msgstr "적어도 굶어 죽진 않을 거야..."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.FORGE_COOKPOT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.FORGE_COOKPOT"

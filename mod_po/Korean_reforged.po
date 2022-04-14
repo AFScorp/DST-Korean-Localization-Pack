@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2022-04-13 20:20\n"
+"PO-Revision-Date: 2022-04-14 02:16\n"
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona"
@@ -1492,7 +1492,7 @@ msgstr "설정 초기화"
 #. STRINGS.UI.LEADERBOARD_PANEL.TAB
 msgctxt "STRINGS.UI.LEADERBOARD_PANEL.TAB"
 msgid "Server Leaderboard"
-msgstr "서버 순위 게시판"
+msgstr "서버 순위표"
 
 #. STRINGS.UI.FORGEHISTORYPANEL.TAB
 msgctxt "STRINGS.UI.FORGEHISTORYPANEL.TAB"
@@ -1522,7 +1522,7 @@ msgstr "승리한 경기만"
 #. STRINGS.UI.FORGEHISTORYPANEL.FILTERS.LEADERBOARD
 msgctxt "STRINGS.UI.FORGEHISTORYPANEL.FILTERS.LEADERBOARD"
 msgid "Leaderboard Runs"
-msgstr "순위 게시판 실행"
+msgstr "순위표 경기"
 
 #. STRINGS.UI.FORGEHISTORYPANEL.FILTERS.DEATHLESS
 msgctxt "STRINGS.UI.FORGEHISTORYPANEL.FILTERS.DEATHLESS"
@@ -1577,7 +1577,7 @@ msgstr "멧투사"
 #. STRINGS.UI.FORGEHISTORYPANEL.FILTERS.RHINODRILL
 msgctxt "STRINGS.UI.FORGEHISTORYPANEL.FILTERS.RHINODRILL"
 msgid "Rhinobros"
-msgstr "코뿔소 형제들"
+msgstr "코뿔소 형제"
 
 #. STRINGS.UI.FORGEHISTORYPANEL.FILTERS.BEETLETAUR
 msgctxt "STRINGS.UI.FORGEHISTORYPANEL.FILTERS.BEETLETAUR"
@@ -1657,7 +1657,7 @@ msgstr "최단/최장"
 #. STRINGS.UI.FORGEHISTORYPANEL.AVERAGE_STATS.TOTAL_DEATHS
 msgctxt "STRINGS.UI.FORGEHISTORYPANEL.AVERAGE_STATS.TOTAL_DEATHS"
 msgid "Total Deaths"
-msgstr "총 사망자 수"
+msgstr "총 사망 횟수"
 
 #. STRINGS.UI.FORGEHISTORYPANEL.AVERAGE_STATS.CHARACTER_USAGE
 msgctxt "STRINGS.UI.FORGEHISTORYPANEL.AVERAGE_STATS.CHARACTER_USAGE"
@@ -1722,7 +1722,7 @@ msgstr "보호자"
 #. STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.pet_damagedealt
 msgctxt "STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.pet_damagedealt"
 msgid "Zookeeper"
-msgstr "생태관리자"
+msgstr "조련사"
 
 #. STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.pet_damagetaken
 msgctxt "STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.pet_damagetaken"
@@ -1732,12 +1732,12 @@ msgstr "충직한 수호자"
 #. STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.cctime
 msgctxt "STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.cctime"
 msgid "Immobilizer"
-msgstr "방해자"
+msgstr "방해꾼"
 
 #. STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.ccbroken
 msgctxt "STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.ccbroken"
 msgid "Disruptor"
-msgstr "제어기 파괴자"
+msgstr "파훼자"
 
 #. STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.petdeaths
 msgctxt "STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.petdeaths"
@@ -1917,7 +1917,7 @@ msgstr "회전"
 #. STRINGS.REFORGED.ENEMIES.SNORTOISE.ABILITIES.SPIN.DESC
 msgctxt "STRINGS.REFORGED.ENEMIES.SNORTOISE.ABILITIES.SPIN.DESC"
 msgid "Retreats into its shell and starts spinning while sliding towards its target for x seconds unless interrupted by an ability."
-msgstr "능력의 방해를 받지 않는 한 껍데기로 후퇴하여 x초간 목표물을 향해 미끄러지면서 회전하기 시작합니다."
+msgstr "특수능력에 방해를 받지 않으면 껍데기 속으로 들어가 x초간 목표물을 향해 미끄러지면서 회전합니다."
 
 #. STRINGS.REFORGED.ENEMIES.SCORPEON.NAME
 msgctxt "STRINGS.REFORGED.ENEMIES.SCORPEON.NAME"
@@ -1937,7 +1937,7 @@ msgstr "산성액 뿌리기"
 #. STRINGS.REFORGED.ENEMIES.SCORPEON.ABILITIES.POISON.DESC
 msgctxt "STRINGS.REFORGED.ENEMIES.SCORPEON.ABILITIES.POISON.DESC"
 msgid "Lobs a acid ball with its tail. The acid lasts for x seconds."
-msgstr "꼬리로 산성 공을 던집니다. 산성 액체는 x 초 동안 지속됩니다."
+msgstr "꼬리에서 산성액 덩어리를 던집니다. 산성액은 x 초 동안 지속됩니다."
 
 #. STRINGS.REFORGED.ENEMIES.BOARILLA.NAME
 msgctxt "STRINGS.REFORGED.ENEMIES.BOARILLA.NAME"
@@ -2662,7 +2662,7 @@ msgstr "이 검의 무거운 칼자루를 뚫을 수 있는 건 아무것도 없
 #. STRINGS.REFORGED.WEAPONS.SEEDLINGTOME.NAME
 msgctxt "STRINGS.REFORGED.WEAPONS.SEEDLINGTOME.NAME"
 msgid "Seedling Tome"
-msgstr ""
+msgstr "묘목의 책"
 
 #. STRINGS.REFORGED.WEAPONS.SEEDLINGTOME.DESC
 msgctxt "STRINGS.REFORGED.WEAPONS.SEEDLINGTOME.DESC"
@@ -2684,7 +2684,7 @@ msgstr ""
 #. STRINGS.REFORGED.WEAPONS.FLYTRAPTOME.NAME
 msgctxt "STRINGS.REFORGED.WEAPONS.FLYTRAPTOME.NAME"
 msgid "Flytrap Tome"
-msgstr ""
+msgstr "딱딱이빨의 책"
 
 #. STRINGS.REFORGED.WEAPONS.FLYTRAPTOME.DESC
 msgctxt "STRINGS.REFORGED.WEAPONS.FLYTRAPTOME.DESC"
@@ -2711,7 +2711,7 @@ msgstr "묘목 다트"
 #. STRINGS.REFORGED.WEAPONS.LAVAARENA_SEEDDARTS.DESC
 msgctxt "STRINGS.REFORGED.WEAPONS.LAVAARENA_SEEDDARTS.DESC"
 msgid "Wormwood put his heart into this. And his other limbs."
-msgstr ""
+msgstr "웜우드는 이 일에 심혈을 기울였습니다. 다른 손발도요."
 
 #. STRINGS.REFORGED.WEAPONS.LAVAARENA_SEEDDARTS.ABILITIES.PLANT_SEEDLING.NAME
 msgctxt "STRINGS.REFORGED.WEAPONS.LAVAARENA_SEEDDARTS.ABILITIES.PLANT_SEEDLING.NAME"
@@ -2721,7 +2721,7 @@ msgstr "묘목 심기"
 #. STRINGS.REFORGED.WEAPONS.LAVAARENA_SEEDDARTS.ABILITIES.PLANT_SEEDLING.DESC
 msgctxt "STRINGS.REFORGED.WEAPONS.LAVAARENA_SEEDDARTS.ABILITIES.PLANT_SEEDLING.DESC"
 msgid "Hastily grow an organic ally."
-msgstr ""
+msgstr "유기적인 동료를 급히 기르세요."
 
 #. STRINGS.REFORGED.WEAPONS.LAVAARENA_SEEDDART2.NAME
 msgctxt "STRINGS.REFORGED.WEAPONS.LAVAARENA_SEEDDART2.NAME"
@@ -2751,7 +2751,7 @@ msgstr "순간이동 지팡이"
 #. STRINGS.REFORGED.WEAPONS.TELEPORT_STAFF.DESC
 msgctxt "STRINGS.REFORGED.WEAPONS.TELEPORT_STAFF.DESC"
 msgid "Escape certain doom! For a price..."
-msgstr ""
+msgstr "어떤 운명을 피하세요! 대가를 치르고..."
 
 #. STRINGS.REFORGED.WEAPONS.TELEPORT_STAFF.ABILITIES.TELEPORT.NAME
 msgctxt "STRINGS.REFORGED.WEAPONS.TELEPORT_STAFF.ABILITIES.TELEPORT.NAME"
@@ -2761,7 +2761,7 @@ msgstr "순간이동"
 #. STRINGS.REFORGED.WEAPONS.TELEPORT_STAFF.ABILITIES.TELEPORT.DESC
 msgctxt "STRINGS.REFORGED.WEAPONS.TELEPORT_STAFF.ABILITIES.TELEPORT.DESC"
 msgid "Travel wherever your puny heart desires."
-msgstr ""
+msgstr "당신의 약한 마음이 원하는 곳으로 여행하세요."
 
 #. STRINGS.REFORGED.WEAPONS.LAVAARENA_SPATULA.NAME
 msgctxt "STRINGS.REFORGED.WEAPONS.LAVAARENA_SPATULA.NAME"
@@ -2771,7 +2771,7 @@ msgstr "뒤집개"
 #. STRINGS.REFORGED.WEAPONS.LAVAARENA_SPATULA.DESC
 msgctxt "STRINGS.REFORGED.WEAPONS.LAVAARENA_SPATULA.DESC"
 msgid "Not great as a weapon, but it'll do with a pinch of salt."
-msgstr ""
+msgstr "무기는 아니지만, 소금 한 줌이면 충분해요."
 
 #. STRINGS.REFORGED.WEAPONS.LAVAARENA_SPATULA.ABILITIES.COOK.NAME
 msgctxt "STRINGS.REFORGED.WEAPONS.LAVAARENA_SPATULA.ABILITIES.COOK.NAME"
@@ -2781,7 +2781,7 @@ msgstr "요리하기"
 #. STRINGS.REFORGED.WEAPONS.LAVAARENA_SPATULA.ABILITIES.COOK.DESC
 msgctxt "STRINGS.REFORGED.WEAPONS.LAVAARENA_SPATULA.ABILITIES.COOK.DESC"
 msgid "Cook food for all nearby players and feed them when ready."
-msgstr ""
+msgstr "근처의 모든 플레이어를 위해 음식을 요리하고 준비가 되면 그들에게 먹이세요."
 
 #. STRINGS.REFORGED.WEAPONS.FORGE_TRIDENT.NAME
 msgctxt "STRINGS.REFORGED.WEAPONS.FORGE_TRIDENT.NAME"
@@ -2791,7 +2791,7 @@ msgstr "삼지창"
 #. STRINGS.REFORGED.WEAPONS.FORGE_TRIDENT.DESC
 msgctxt "STRINGS.REFORGED.WEAPONS.FORGE_TRIDENT.DESC"
 msgid "Don't let the rickety look fool you, this trident packs a punch!"
-msgstr ""
+msgstr "흔들흔들한 모습이 여러분을 속이지 않도록 하세요, 이 삼지창은 주먹을 날립니다!"
 
 #. STRINGS.REFORGED.WEAPONS.FORGE_TRIDENT.ABILITIES.CALL_GUARDS.NAME
 msgctxt "STRINGS.REFORGED.WEAPONS.FORGE_TRIDENT.ABILITIES.CALL_GUARDS.NAME"
@@ -2801,147 +2801,147 @@ msgstr "어인 근위병 소환"
 #. STRINGS.REFORGED.WEAPONS.FORGE_TRIDENT.ABILITIES.CALL_GUARDS.DESC
 msgctxt "STRINGS.REFORGED.WEAPONS.FORGE_TRIDENT.ABILITIES.CALL_GUARDS.DESC"
 msgid "Spawn a loyal Merm Guard to fight alongside you."
-msgstr ""
+msgstr "충성스러운 어인 근위병을 소환하여 함께 싸우십시오."
 
 #. STRINGS.REFORGED.WEAPONS.GAUNTLET.NAME
 msgctxt "STRINGS.REFORGED.WEAPONS.GAUNTLET.NAME"
 msgid "Gauntlets"
-msgstr ""
+msgstr "건틀렛"
 
 #. STRINGS.REFORGED.WEAPONS.GAUNTLET.DESC
 msgctxt "STRINGS.REFORGED.WEAPONS.GAUNTLET.DESC"
 msgid "Punch through foes with these Hands of Doom."
-msgstr ""
+msgstr "이 죽음의 손으로 적을 때려눕히십시오."
 
 #. STRINGS.REFORGED.WEAPONS.GAUNTLET.ABILITIES.BARRAGE.NAME
 msgctxt "STRINGS.REFORGED.WEAPONS.GAUNTLET.ABILITIES.BARRAGE.NAME"
 msgid "Charged Punch"
-msgstr ""
+msgstr "주먹 돌진"
 
 #. STRINGS.REFORGED.WEAPONS.GAUNTLET.ABILITIES.BARRAGE.DESC
 msgctxt "STRINGS.REFORGED.WEAPONS.GAUNTLET.ABILITIES.BARRAGE.DESC"
 msgid "Lean into your punch to knockback anything in your path."
-msgstr ""
+msgstr "펀치에 기대어 당신이 가는 길에 있는 어떤 것도 뒤로 물러나게 하세요."
 
 #. STRINGS.REFORGED.CHARACTER.COOKING.WARLY
 msgctxt "STRINGS.REFORGED.CHARACTER.COOKING.WARLY"
 msgid "Order up!"
-msgstr ""
+msgstr "주문 완료!"
 
 #. STRINGS.REFORGED.CHARACTER.COOKING.OTHER
 msgctxt "STRINGS.REFORGED.CHARACTER.COOKING.OTHER"
 msgid "Food is Ready!"
-msgstr ""
+msgstr "음식이 준비됐어요!"
 
 #. STRINGS.REFORGED.BUFFS.BATTLESTANDARD_DAMAGER.NAME
 msgctxt "STRINGS.REFORGED.BUFFS.BATTLESTANDARD_DAMAGER.NAME"
 msgid "Damage Banner"
-msgstr ""
+msgstr "피해 깃발"
 
 #. STRINGS.REFORGED.BUFFS.BATTLESTANDARD_DAMAGER.DESC
 msgctxt "STRINGS.REFORGED.BUFFS.BATTLESTANDARD_DAMAGER.DESC"
 msgid "Increases the damage of all mobs by x%."
-msgstr ""
+msgstr "적의 공격력이 x% 만큼 높아집니다."
 
 #. STRINGS.REFORGED.BUFFS.BATTLESTANDARD_SHIELD.NAME
 msgctxt "STRINGS.REFORGED.BUFFS.BATTLESTANDARD_SHIELD.NAME"
 msgid "Shield Banner"
-msgstr ""
+msgstr "방어 깃발"
 
 #. STRINGS.REFORGED.BUFFS.BATTLESTANDARD_SHIELD.DESC
 msgctxt "STRINGS.REFORGED.BUFFS.BATTLESTANDARD_SHIELD.DESC"
 msgid "Decreases all damage done to mobs by x%."
-msgstr ""
+msgstr "모든 공격력이 x% 만큼 줄어듭니다."
 
 #. STRINGS.REFORGED.BUFFS.BATTLESTANDARD_HEAL.NAME
 msgctxt "STRINGS.REFORGED.BUFFS.BATTLESTANDARD_HEAL.NAME"
 msgid "Heal Banner"
-msgstr ""
+msgstr "회복 깃발"
 
 #. STRINGS.REFORGED.BUFFS.BATTLESTANDARD_HEAL.DESC
 msgctxt "STRINGS.REFORGED.BUFFS.BATTLESTANDARD_HEAL.DESC"
 msgid "Gives all mobs a regen of x%."
-msgstr ""
+msgstr "모든 적에게 x% 만큼 재생력을 부여합니다."
 
 #. STRINGS.REFORGED.BUFFS.BATTLESTANDARD_SPEED.NAME
 msgctxt "STRINGS.REFORGED.BUFFS.BATTLESTANDARD_SPEED.NAME"
 msgid "Speed Banner"
-msgstr ""
+msgstr "속도 깃발"
 
 #. STRINGS.REFORGED.BUFFS.BATTLESTANDARD_SPEED.DESC
 msgctxt "STRINGS.REFORGED.BUFFS.BATTLESTANDARD_SPEED.DESC"
 msgid "Increases the speed of all mobs by x%."
-msgstr ""
+msgstr "모든 적의 속도가 x% 만큼 빨라집니다."
 
 #. STRINGS.REFORGED.BUFFS.ACTIVATE_BATTLECRY.NAME
 msgctxt "STRINGS.REFORGED.BUFFS.ACTIVATE_BATTLECRY.NAME"
 msgid "Activate Battlecry"
-msgstr ""
+msgstr "전투의 함성 활성화"
 
 #. STRINGS.REFORGED.BUFFS.ACTIVATE_BATTLECRY.DESC
 msgctxt "STRINGS.REFORGED.BUFFS.ACTIVATE_BATTLECRY.DESC"
 msgid "If you yell loudly enough everyone around you can hit harder."
-msgstr ""
+msgstr "만약 여러분이 충분히 크게 소리친다면, 여러분 주변의 모든 사람은 더 세게 칠 수 있습니다."
 
 #. STRINGS.REFORGED.BUFFS.GIVE_BATTLECRY.NAME
 msgctxt "STRINGS.REFORGED.BUFFS.GIVE_BATTLECRY.NAME"
 msgid "Give Battlecry"
-msgstr ""
+msgstr "전투의 함성 주기"
 
 #. STRINGS.REFORGED.BUFFS.GIVE_BATTLECRY.DESC
 msgctxt "STRINGS.REFORGED.BUFFS.GIVE_BATTLECRY.DESC"
 msgid "If you yell at yourself you can hit harder."
-msgstr ""
+msgstr "자신에게 소리를 지르면 더 세게 칠 수 있어요."
 
 #. STRINGS.REFORGED.BUFFS.ACTIVATE_AMPLIFY.NAME
 msgctxt "STRINGS.REFORGED.BUFFS.ACTIVATE_AMPLIFY.NAME"
 msgid "Activate Amplify"
-msgstr ""
+msgstr "증폭 활성화"
 
 #. STRINGS.REFORGED.BUFFS.ACTIVATE_AMPLIFY.DESC
 msgctxt "STRINGS.REFORGED.BUFFS.ACTIVATE_AMPLIFY.DESC"
 msgid "Make yourself sparkly!"
-msgstr ""
+msgstr "반짝반짝 빛나세요!"
 
 #. STRINGS.REFORGED.BUFFS.ACTIVATE_MIGHTY.NAME
 msgctxt "STRINGS.REFORGED.BUFFS.ACTIVATE_MIGHTY.NAME"
 msgid "Activate Mighty"
-msgstr ""
+msgstr "마이티 활성화"
 
 #. STRINGS.REFORGED.BUFFS.ACTIVATE_MIGHTY.DESC
 msgctxt "STRINGS.REFORGED.BUFFS.ACTIVATE_MIGHTY.DESC"
 msgid "Tremble before my might!"
-msgstr ""
+msgstr "내 힘 앞에서 떨어라!"
 
 #. STRINGS.REFORGED.BUFFS.ACTIVATE_SHADOWS.NAME
 msgctxt "STRINGS.REFORGED.BUFFS.ACTIVATE_SHADOWS.NAME"
 msgid "Activate Shadows"
-msgstr ""
+msgstr "그림자 활성화"
 
 #. STRINGS.REFORGED.BUFFS.ACTIVATE_SHADOWS.DESC
 msgctxt "STRINGS.REFORGED.BUFFS.ACTIVATE_SHADOWS.DESC"
 msgid "Shadows will aid your next attack."
-msgstr ""
+msgstr "그림자가 다음 공격에 도움이 될 것입니다."
 
 #. STRINGS.REFORGED.BUFFS.ACTIVATE_SHOCK.NAME
 msgctxt "STRINGS.REFORGED.BUFFS.ACTIVATE_SHOCK.NAME"
 msgid "Activate Shock"
-msgstr ""
+msgstr "충격 활성화"
 
 #. STRINGS.REFORGED.BUFFS.ACTIVATE_SHOCK.DESC
 msgctxt "STRINGS.REFORGED.BUFFS.ACTIVATE_SHOCK.DESC"
 msgid "Fully charged and ready to shock the next attacker."
-msgstr ""
+msgstr "완전히 충전되어 다음 적에게 충격을 가할 준비가 되었습니다."
 
 #. STRINGS.REFORGED.BUFFS.OVER_9000.NAME
 msgctxt "STRINGS.REFORGED.BUFFS.OVER_9000.NAME"
 msgid "Over 9000!!!"
-msgstr ""
+msgstr "9000을 넘어!!!"
 
 #. STRINGS.REFORGED.BUFFS.OVER_9000.DESC
 msgctxt "STRINGS.REFORGED.BUFFS.OVER_9000.DESC"
 msgid "His power level is over 9000!!!!!!"
-msgstr ""
+msgstr "전투력이 9000을 넘어요!!!!!!"
 
 #. STRINGS.REFORGED.BUFFS.SCORPEON_DOT.NAME
 msgctxt "STRINGS.REFORGED.BUFFS.SCORPEON_DOT.NAME"
@@ -2951,7 +2951,7 @@ msgstr "전갈종자 산성액 생성"
 #. STRINGS.REFORGED.BUFFS.SCORPEON_DOT.DESC
 msgctxt "STRINGS.REFORGED.BUFFS.SCORPEON_DOT.DESC"
 msgid "Poison yourself!"
-msgstr ""
+msgstr "독을 자신에게 뿌려요!"
 
 #. STRINGS.REFORGED.FORGE.FORCE_ROUND.NAME
 msgctxt "STRINGS.REFORGED.FORGE.FORCE_ROUND.NAME"
@@ -3041,7 +3041,7 @@ msgstr "모든 적 죽이기"
 #. STRINGS.REFORGED.GENERAL.KILL_ALL_MOBS.DESC
 msgctxt "STRINGS.REFORGED.GENERAL.KILL_ALL_MOBS.DESC"
 msgid "Care to snap your fingers?"
-msgstr ""
+msgstr "손가락 한번 튕겨보실래요?"
 
 #. STRINGS.REFORGED.GENERAL.PETRIFY_MOBS.NAME
 msgctxt "STRINGS.REFORGED.GENERAL.PETRIFY_MOBS.NAME"
@@ -3056,12 +3056,12 @@ msgstr "주변의 적을 전부 석화합니다. 석화의 서와 동일 반경�
 #. STRINGS.REFORGED.GENERAL.RESET_TO_SAVE.NAME
 msgctxt "STRINGS.REFORGED.GENERAL.RESET_TO_SAVE.NAME"
 msgid "Reset to Save"
-msgstr ""
+msgstr "저장으로 리셋"
 
 #. STRINGS.REFORGED.GENERAL.RESET_TO_SAVE.DESC
 msgctxt "STRINGS.REFORGED.GENERAL.RESET_TO_SAVE.DESC"
 msgid "Resets server to last save. Quick for testing out new builds!"
-msgstr ""
+msgstr "서버를 마지막 저장으로 다시 설정합니다. 새로운 방식을 빠르게 테스트할 수 있습니다!"
 
 #. STRINGS.REFORGED.GENERAL.DEBUG_SELECT.NAME
 msgctxt "STRINGS.REFORGED.GENERAL.DEBUG_SELECT.NAME"
@@ -3071,7 +3071,7 @@ msgstr "디버그 선택"
 #. STRINGS.REFORGED.GENERAL.DEBUG_SELECT.DESC
 msgctxt "STRINGS.REFORGED.GENERAL.DEBUG_SELECT.DESC"
 msgid "Select the chosen entity to be displayed in the debug screen. Hit backspace to access the debug screen."
-msgstr ""
+msgstr "디버그 화면에 표시할 엔티티를 선택합니다. 디버그 화면에 접근하려면 백스페이스를 누르십시오."
 
 #. STRINGS.REFORGED.GENERAL.REVIVE.NAME
 msgctxt "STRINGS.REFORGED.GENERAL.REVIVE.NAME"
@@ -3136,7 +3136,7 @@ msgstr ""
 #. STRINGS.REFORGED.MAPS.lavaarena.name
 msgctxt "STRINGS.REFORGED.MAPS.lavaarena.name"
 msgid "Lava Arena"
-msgstr ""
+msgstr "용암 경기장"
 
 #. STRINGS.REFORGED.MAPS.lavaarena.desc
 msgctxt "STRINGS.REFORGED.MAPS.lavaarena.desc"
@@ -3146,27 +3146,27 @@ msgstr "전투 돼지들의 집입니다!"
 #. STRINGS.REFORGED.MODES.forge.name
 msgctxt "STRINGS.REFORGED.MODES.forge.name"
 msgid "Forge"
-msgstr ""
+msgstr "연마장"
 
 #. STRINGS.REFORGED.MODES.forge.desc
 msgctxt "STRINGS.REFORGED.MODES.forge.desc"
 msgid "The original event."
-msgstr ""
+msgstr "원래의 이벤트입니다."
 
 #. STRINGS.REFORGED.MODES.forge_s01.name
 msgctxt "STRINGS.REFORGED.MODES.forge_s01.name"
 msgid "Forge S01"
-msgstr ""
+msgstr "연마장 S01"
 
 #. STRINGS.REFORGED.MODES.forge_s01.desc
 msgctxt "STRINGS.REFORGED.MODES.forge_s01.desc"
 msgid "The original event."
-msgstr ""
+msgstr "원래의 이벤트입니다."
 
 #. STRINGS.REFORGED.MODES.forge_s02.name
 msgctxt "STRINGS.REFORGED.MODES.forge_s02.name"
 msgid "Forge S02"
-msgstr ""
+msgstr "연마장 S02"
 
 #. STRINGS.REFORGED.MODES.forge_s02.desc
 msgctxt "STRINGS.REFORGED.MODES.forge_s02.desc"
@@ -3186,22 +3186,22 @@ msgstr ""
 #. STRINGS.REFORGED.MODES.forged_forge.name
 msgctxt "STRINGS.REFORGED.MODES.forged_forge.name"
 msgid "Forged Forge"
-msgstr ""
+msgstr "단조된 연마장"
 
 #. STRINGS.REFORGED.MODES.forged_forge.desc
 msgctxt "STRINGS.REFORGED.MODES.forged_forge.desc"
 msgid "Currently in beta."
-msgstr ""
+msgstr "현재 베타 버전입니다."
 
 #. STRINGS.REFORGED.MUTATORS.mob_damage_dealt.name
 msgctxt "STRINGS.REFORGED.MUTATORS.mob_damage_dealt.name"
 msgid "Mob Damage"
-msgstr ""
+msgstr "적 공력력"
 
 #. STRINGS.REFORGED.MUTATORS.mob_damage_dealt.desc
 msgctxt "STRINGS.REFORGED.MUTATORS.mob_damage_dealt.desc"
 msgid "Adjust the damage of all mobs."
-msgstr ""
+msgstr "모든 적의 공격력을 조정합니다."
 
 #. STRINGS.REFORGED.MUTATORS.mob_damage_received.name
 msgctxt "STRINGS.REFORGED.MUTATORS.mob_damage_received.name"
@@ -3216,12 +3216,12 @@ msgstr "모든 적의 방어력을 조정합니다."
 #. STRINGS.REFORGED.MUTATORS.mob_health.name
 msgctxt "STRINGS.REFORGED.MUTATORS.mob_health.name"
 msgid "Mob Health"
-msgstr ""
+msgstr "적 체력"
 
 #. STRINGS.REFORGED.MUTATORS.mob_health.desc
 msgctxt "STRINGS.REFORGED.MUTATORS.mob_health.desc"
 msgid "Adjust the health of all mobs."
-msgstr ""
+msgstr "모든 적의 체력을 조정합니다."
 
 #. STRINGS.REFORGED.MUTATORS.mob_speed.name
 msgctxt "STRINGS.REFORGED.MUTATORS.mob_speed.name"
@@ -3726,22 +3726,22 @@ msgstr ""
 #. STRINGS.REFORGED.USERCOMMANDS.START_VOTE_TITLE
 msgctxt "STRINGS.REFORGED.USERCOMMANDS.START_VOTE_TITLE"
 msgid "Start Vote"
-msgstr ""
+msgstr "투표 시작"
 
 #. STRINGS.REFORGED.USERCOMMANDS.START_VOTE_DESC
 msgctxt "STRINGS.REFORGED.USERCOMMANDS.START_VOTE_DESC"
 msgid "Make a decision as a group!"
-msgstr ""
+msgstr "단체로 결정하세요!"
 
 #. STRINGS.REFORGED.USERCOMMANDS.SUBMIT_VOTE_TITLE
 msgctxt "STRINGS.REFORGED.USERCOMMANDS.SUBMIT_VOTE_TITLE"
 msgid "Submit Vote"
-msgstr ""
+msgstr "투표 제출"
 
 #. STRINGS.REFORGED.USERCOMMANDS.SUBMIT_VOTE_DESC
 msgctxt "STRINGS.REFORGED.USERCOMMANDS.SUBMIT_VOTE_DESC"
 msgid "Let your voice be heard in the active vote!"
-msgstr ""
+msgstr "활성화된 투표에서 여러분의 목소리를 들려주세요!"
 
 #. STRINGS.REFORGED.USERCOMMANDS.CANCEL_VOTE_TITLE
 msgctxt "STRINGS.REFORGED.USERCOMMANDS.CANCEL_VOTE_TITLE"
@@ -3751,7 +3751,7 @@ msgstr "투표 취소"
 #. STRINGS.REFORGED.USERCOMMANDS.CANCEL_VOTE_DESC
 msgctxt "STRINGS.REFORGED.USERCOMMANDS.CANCEL_VOTE_DESC"
 msgid "Silence everyones voices by canceling the active vote!"
-msgstr ""
+msgstr "활성화된 투표를 취소하여 모든 사람의 목소리를 잠재우십시오!"
 
 #. STRINGS.REFORGED.USERCOMMANDS.UPDATE_USER_EXP_TITLE
 msgctxt "STRINGS.REFORGED.USERCOMMANDS.UPDATE_USER_EXP_TITLE"

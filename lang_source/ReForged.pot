@@ -15,7 +15,7 @@ msgstr ""
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wormwood
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wormwood"
-msgid "*Spawns with a plant-based blowdart.\\n*Blossoms over time as long as he avoids damage.\\n\\nExpertise:\\nDarts, Staves"
+msgid "*Spawns with a plantbased blowdart.\\n*Blossoms over time as long as he avoids damage.\\n\\nExpertise:\\nDarts, Staves"
 msgstr ""
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wurt
@@ -43,9 +43,9 @@ msgctxt "STRINGS.CHARACTER_TITLES.spectator"
 msgid "The Spy"
 msgstr ""
 
----------------------------
-# -- LAVAARENA_SEEDDARTS --
----------------------------
+
+#  LAVAARENA_SEEDDARTS 
+
 
 #. STRINGS.NAMES.LAVAARENA_SEEDDARTS
 msgctxt "STRINGS.NAMES.LAVAARENA_SEEDDARTS"
@@ -132,9 +132,9 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.LAVAARENA_SEEDDARTS"
 msgid "Not a vegetable...?"
 msgstr ""
 
---------------------
-# -- MEAN_FLYTRAP --
---------------------
+
+#  MEAN_FLYTRAP 
+
 
 #. STRINGS.NAMES.MEAN_FLYTRAP
 msgctxt "STRINGS.NAMES.MEAN_FLYTRAP"
@@ -216,9 +216,9 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MEAN_FLYTRAP"
 msgid "It's a leaf friend! Glort!"
 msgstr ""
 
----------------------------
-# -- LAVAARENA_SEEDDART2 --
----------------------------
+
+#  LAVAARENA_SEEDDART2 
+
 
 #. STRINGS.NAMES.LAVAARENA_SEEDDART2
 msgctxt "STRINGS.NAMES.LAVAARENA_SEEDDART2"
@@ -305,9 +305,9 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.LAVAARENA_SEEDDART2"
 msgid "Should be careful with this. Not gonna."
 msgstr ""
 
----------------------
-# -- ADULT_FLYTRAP --
----------------------
+
+#  ADULT_FLYTRAP 
+
 
 #. STRINGS.NAMES.ADULT_FLYTRAP
 msgctxt "STRINGS.NAMES.ADULT_FLYTRAP"
@@ -371,7 +371,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ADULT_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ADULT_FLYTRAP"
-msgid "F-fear me! I'm a scary imp!"
+msgid "Ffear me! I'm a scary imp!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ADULT_FLYTRAP
@@ -389,9 +389,9 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ADULT_FLYTRAP"
 msgid "No bite me!"
 msgstr ""
 
--------------------------
-# -- LAVAARENA_SPATULA --
--------------------------
+
+#  LAVAARENA_SPATULA 
+
 
 #. STRINGS.NAMES.LAVAARENA_SPATULA
 msgctxt "STRINGS.NAMES.LAVAARENA_SPATULA"
@@ -478,9 +478,9 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.LAVAARENA_SPATULA"
 msgid "Food fight, florpt!"
 msgstr ""
 
----------------------
-# -- FORGE_COOKPOT --
----------------------
+
+#  FORGE_COOKPOT 
+
 
 #. STRINGS.NAMES.FORGE_COOKPOT
 msgctxt "STRINGS.NAMES.FORGE_COOKPOT"
@@ -539,7 +539,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.FORGE_COOKPOT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.FORGE_COOKPOT"
-msgid "I'll take mine to-go!"
+msgid "I'll take mine togo!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FORGE_COOKPOT
@@ -562,18 +562,18 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.FORGE_COOKPOT"
 msgid "Food for us soon!"
 msgstr ""
 
-------------------
-# -- SPICE_BOMB --
-------------------
+
+#  SPICE_BOMB 
+
 
 #. STRINGS.NAMES.SPICE_BOMB
 msgctxt "STRINGS.NAMES.SPICE_BOMB"
 msgid "Spice Bomb"
 msgstr ""
 
-----------------------
-# -- TELEPORT_STAFF --
-----------------------
+
+#  TELEPORT_STAFF 
+
 
 #. STRINGS.NAMES.TELEPORT_STAFF
 msgctxt "STRINGS.NAMES.TELEPORT_STAFF"
@@ -660,9 +660,9 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.TELEPORT_STAFF"
 msgid "It tickles to use, flort!"
 msgstr ""
 
---------------------------
-# -- LAVAARENA_GAUNTLET --
---------------------------
+
+#  LAVAARENA_GAUNTLET 
+
 
 #. STRINGS.NAMES.LAVAARENA_GAUNTLET
 msgctxt "STRINGS.NAMES.LAVAARENA_GAUNTLET"
@@ -746,12 +746,12 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.LAVAARENA_GAUNTLET
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.LAVAARENA_GAUNTLET"
-msgid "We can use the gont-lit."
+msgid "We can use the gontlit."
 msgstr ""
 
----------------------
-# -- FORGE_TRIDENT --
----------------------
+
+#  FORGE_TRIDENT 
+
 
 #. STRINGS.NAMES.FORGE_TRIDENT
 msgctxt "STRINGS.NAMES.FORGE_TRIDENT"
@@ -838,9 +838,9 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.FORGE_TRIDENT"
 msgid "A weapon of the merfolk."
 msgstr ""
 
-------------------
-# -- MERM_GUARD --
-------------------
+
+#  MERM_GUARD 
+
 
 #. STRINGS.NAMES.MERM_GUARD
 msgctxt "STRINGS.NAMES.MERM_GUARD"
@@ -922,9 +922,9 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MERM_GUARD"
 msgid "Fight, for king!"
 msgstr ""
 
--------------------
-# -- PORTALSTAFF --
--------------------
+
+#  PORTALSTAFF 
+
 
 #. STRINGS.NAMES.PORTALSTAFF
 msgctxt "STRINGS.NAMES.PORTALSTAFF"
@@ -1006,9 +1006,9 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.PORTALSTAFF"
 msgid "I must resist chewing on this one for now."
 msgstr ""
 
--------------
-# -- NAMES --
--------------
+
+#  NAMES 
+
 
 #. STRINGS.NAMES.PITPIG
 msgctxt "STRINGS.NAMES.PITPIG"
@@ -1155,18 +1155,18 @@ msgctxt "STRINGS.NAMES.BABY_BEN"
 msgid "Baby Ben"
 msgstr ""
 
-----------------------
-# -- EXTENDED NAMES --
-----------------------
+
+#  EXTENDED NAMES 
+
 
 #. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_CHEFHAT
 msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_CHEFHAT"
 msgid "Chef Mastery Buff"
 msgstr ""
 
-----------
-# -- UI --
-----------
+
+#  UI 
+
 
 #. STRINGS.CHARACTER_DETAILS.FORGE_STARTING_ITEMS_TITLE
 msgctxt "STRINGS.CHARACTER_DETAILS.FORGE_STARTING_ITEMS_TITLE"
@@ -1208,9 +1208,9 @@ msgctxt "STRINGS.UI.LOBBYSCREEN.SERVER_ANNOUNCEMENT_NAME"
 msgid "SERVER"
 msgstr ""
 
------------------
-# -- XP SCREEN --
------------------
+
+#  XP SCREEN 
+
 
 #. STRINGS.UI.WXPLOBBYPANEL.LEVEL
 msgctxt "STRINGS.UI.WXPLOBBYPANEL.LEVEL"
@@ -1377,9 +1377,9 @@ msgctxt "STRINGS.UI.WXP_DETAILS.JOINED_MIDMATCH"
 msgid "Late Bloomer"
 msgstr ""
 
--------------------------------
-# -- DETAILED SUMMARY SCREEN --
--------------------------------
+
+#  DETAILED SUMMARY SCREEN 
+
 
 #. STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.SHOW
 msgctxt "STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.SHOW"
@@ -1576,9 +1576,9 @@ msgctxt "STRINGS.UI.DETAILEDSUMMARYSCREEN.STATS.TITLES.attack"
 msgid "Attack Stats:"
 msgstr ""
 
-------------------
-# -- ADMIN MENU --
-------------------
+
+#  ADMIN MENU 
+
 
 #. STRINGS.UI.ADMINMENU.NO_ABILITIES
 msgctxt "STRINGS.UI.ADMINMENU.NO_ABILITIES"
@@ -1730,9 +1730,9 @@ msgctxt "STRINGS.UI.ADMINMENU.TABS.FORGE"
 msgid "Forge Admin Commands"
 msgstr ""
 
----------------------------
-# -- GAME SETTINGS PANEL --
----------------------------
+
+#  GAME SETTINGS PANEL 
+
 
 #. STRINGS.UI.GAME_SETTINGS_PANEL.WAVESET
 msgctxt "STRINGS.UI.GAME_SETTINGS_PANEL.WAVESET"
@@ -1789,18 +1789,18 @@ msgctxt "STRINGS.UI.GAME_SETTINGS_PANEL.GAMETYPE"
 msgid "Gametype"
 msgstr ""
 
--------------------------
-# -- LEADERBOARD PANEL --
--------------------------
+
+#  LEADERBOARD PANEL 
+
 
 #. STRINGS.UI.LEADERBOARD_PANEL.TAB
 msgctxt "STRINGS.UI.LEADERBOARD_PANEL.TAB"
 msgid "Server Leaderboard"
 msgstr ""
 
----------------------
-# -- HISTORY PANEL --
----------------------
+
+#  HISTORY PANEL 
+
 
 #. STRINGS.UI.FORGEHISTORYPANEL.RUN.DEFEAT
 msgctxt "STRINGS.UI.FORGEHISTORYPANEL.RUN.DEFEAT"
@@ -2017,18 +2017,18 @@ msgctxt "STRINGS.UI.FORGEHISTORYPANEL.SORTERS.RUNS_TITLE"
 msgid "Runs"
 msgstr ""
 
---------------------------
-# -- ACHIEVEMENTS PANEL --
---------------------------
+
+#  ACHIEVEMENTS PANEL 
+
 
 #. STRINGS.UI.ACHIEVEMENTS_PANEL.TAB
 msgctxt "STRINGS.UI.ACHIEVEMENTS_PANEL.TAB"
 msgid "Achievements"
 msgstr ""
 
-------------------
-# -- NEWS PANEL --
-------------------
+
+#  NEWS PANEL 
+
 
 #. STRINGS.UI.NEWS_PANEL.EVENTS.TITLE
 msgctxt "STRINGS.UI.NEWS_PANEL.EVENTS.TITLE"
@@ -2060,9 +2060,9 @@ msgctxt "STRINGS.UI.NEWS_PANEL.PATCH_NOTES"
 msgid "Patch Notes"
 msgstr ""
 
-------------------
-# -- MVP TITLES --
-------------------
+
+#  MVP TITLES 
+
 
 #. STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.player_damagedealt
 msgctxt "STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.player_damagedealt"
@@ -2179,9 +2179,9 @@ msgctxt "STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_friendly_fir
 msgid "friendly fire damage taken"
 msgstr ""
 
------------------
-# -- GAMETYPES --
------------------
+
+#  GAMETYPES 
+
 
 #. STRINGS.REFORGED.GAMETYPES.rlgl.name
 msgctxt "STRINGS.REFORGED.GAMETYPES.rlgl.name"
@@ -2213,9 +2213,9 @@ msgctxt "STRINGS.REFORGED.GAMETYPES.forge.desc"
 msgid "Defeat all enemies to Forge a path to victory!"
 msgstr ""
 
-----------------------
-# -- ADMIN COMMANDS --
-----------------------
+
+#  ADMIN COMMANDS 
+
 
 #. STRINGS.REFORGED.ADMIN_COMMANDS.REVIVE
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.REVIVE"
@@ -2322,9 +2322,9 @@ msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.OVER_9000"
 msgid "My power level is OVER 9000!"
 msgstr ""
 
----------------
-# -- WEAPONS --
----------------
+
+#  WEAPONS 
+
 
 #. STRINGS.REFORGED.WEAPONS.RILEDLUCY.ABILITIES.THROW.NAME
 msgctxt "STRINGS.REFORGED.WEAPONS.RILEDLUCY.ABILITIES.THROW.NAME"
@@ -2443,7 +2443,7 @@ msgstr ""
 
 #. STRINGS.REFORGED.WEAPONS.PITHPIKE.DESC
 msgctxt "STRINGS.REFORGED.WEAPONS.PITHPIKE.DESC"
-msgid "Wigfrid's go-to weapon for battle."
+msgid "Wigfrid's goto weapon for battle."
 msgstr ""
 
 #. STRINGS.REFORGED.WEAPONS.LIVINGSTAFF.ABILITIES.HEALING_CIRCLE.NAME
@@ -2816,9 +2816,9 @@ msgctxt "STRINGS.REFORGED.WEAPONS.FORGINGHAMMER.DESC"
 msgid "Bash some skulls in with this heavy hammer."
 msgstr ""
 
-------------
-# -- VOTE --
-------------
+
+#  VOTE 
+
 
 #. STRINGS.REFORGED.VOTE.SETTINGS_TITLE
 msgctxt "STRINGS.REFORGED.VOTE.SETTINGS_TITLE"
@@ -2920,9 +2920,9 @@ msgctxt "STRINGS.REFORGED.VOTE.SETTINGS_FAILED"
 msgid "Settings have not been changed!"
 msgstr ""
 
-------------
-# -- MAPS --
-------------
+
+#  MAPS 
+
 
 #. STRINGS.REFORGED.MAPS.lavaarena.name
 msgctxt "STRINGS.REFORGED.MAPS.lavaarena.name"
@@ -2944,18 +2944,18 @@ msgctxt "STRINGS.REFORGED.MAPS.reforged_tiles_arena.desc"
 msgid "Available Tiles!"
 msgstr ""
 
-------------
-# -- MODS --
-------------
+
+#  MODS 
+
 
 #. STRINGS.REFORGED.MODS.DEFAULT
 msgctxt "STRINGS.REFORGED.MODS.DEFAULT"
 msgid "ReForged"
 msgstr ""
 
-------------
-# -- PETS --
-------------
+
+#  PETS 
+
 
 #. STRINGS.REFORGED.PETS.BABYSPIDER.NAME
 msgctxt "STRINGS.REFORGED.PETS.BABYSPIDER.NAME"
@@ -3047,13 +3047,13 @@ msgctxt "STRINGS.REFORGED.PETS.FORGE_WOBY.DESC"
 msgid "Bark Bark"
 msgstr ""
 
-------------------
-# -- STRUCTURES --
-------------------
 
----------------------
-# -- USER COMMANDS --
----------------------
+#  STRUCTURES 
+
+
+
+#  USER COMMANDS 
+
 
 #. STRINGS.REFORGED.USERCOMMANDS.UPDATE_USER_EXP_TITLE
 msgctxt "STRINGS.REFORGED.USERCOMMANDS.UPDATE_USER_EXP_TITLE"
@@ -3135,9 +3135,9 @@ msgctxt "STRINGS.REFORGED.BUFF_WDGT.DAMAGER_BUFF"
 msgid "DAMAGER_BUFF"
 msgstr ""
 
--------------
-# -- ARMOR --
--------------
+
+#  ARMOR 
+
 
 #. STRINGS.REFORGED.ARMOR.REEDTUNIC.NAME
 msgctxt "STRINGS.REFORGED.ARMOR.REEDTUNIC.NAME"
@@ -3254,9 +3254,9 @@ msgctxt "STRINGS.REFORGED.PING_GROUP"
 msgid "Group Up Here!"
 msgstr ""
 
----------------
-# -- ENEMIES --
----------------
+
+#  ENEMIES 
+
 
 #. STRINGS.REFORGED.ENEMIES.BOARILLA.ABILITIES.BUNKER.NAME
 msgctxt "STRINGS.REFORGED.ENEMIES.BOARILLA.ABILITIES.BUNKER.NAME"
@@ -3588,9 +3588,9 @@ msgctxt "STRINGS.REFORGED.ENEMIES.PITPIG.DESC"
 msgid "The footsoldier of the forge. Is quick but very frail."
 msgstr ""
 
----------------------
-# -- BUFF COMMANDS --
----------------------
+
+#  BUFF COMMANDS 
+
 
 #. STRINGS.REFORGED.BUFFS.BATTLESTANDARD_SHIELD.NAME
 msgctxt "STRINGS.REFORGED.BUFFS.BATTLESTANDARD_SHIELD.NAME"
@@ -3757,9 +3757,9 @@ msgctxt "STRINGS.REFORGED.STATS.SPEED.ICON"
 msgid "cane"
 msgstr ""
 
------------------
-# -- CHARACTER --
------------------
+
+#  CHARACTER 
+
 
 #. STRINGS.REFORGED.CHARACTER.COOKING.OTHER
 msgctxt "STRINGS.REFORGED.CHARACTER.COOKING.OTHER"
@@ -3771,9 +3771,9 @@ msgctxt "STRINGS.REFORGED.CHARACTER.COOKING.WARLY"
 msgid "Order up!"
 msgstr ""
 
--------------
-# -- MODES --
--------------
+
+#  MODES 
+
 
 #. STRINGS.REFORGED.MODES.reforged.name
 msgctxt "STRINGS.REFORGED.MODES.reforged.name"
@@ -3825,9 +3825,9 @@ msgctxt "STRINGS.REFORGED.MODES.forge.desc"
 msgid "The original event."
 msgstr ""
 
--------------
-# -- HELMS --
--------------
+
+#  HELMS 
+
 
 #. STRINGS.REFORGED.HELMS.CLAIRVOYANTCROWN.NAME
 msgctxt "STRINGS.REFORGED.HELMS.CLAIRVOYANTCROWN.NAME"
@@ -3929,9 +3929,9 @@ msgctxt "STRINGS.REFORGED.HELMS.FLOWERHEADBAND.DESC"
 msgid "Wear a healing flower on your head! When healed, gain 25% more health."
 msgstr ""
 
----------------
-# -- DEBUFFS --
----------------
+
+#  DEBUFFS 
+
 
 #. STRINGS.REFORGED.DEBUFFS.debuff_shield
 msgctxt "STRINGS.REFORGED.DEBUFFS.debuff_shield"
@@ -4033,9 +4033,9 @@ msgctxt "STRINGS.REFORGED.NEW_MESSAGES"
 msgid "%d new messages"
 msgstr ""
 
-------------------------
-# -- GENERAL COMMANDS --
-------------------------
+
+#  GENERAL COMMANDS 
+
 
 #. STRINGS.REFORGED.GENERAL.SUPER_GOD_MODE.NAME
 msgctxt "STRINGS.REFORGED.GENERAL.SUPER_GOD_MODE.NAME"
@@ -4107,9 +4107,9 @@ msgctxt "STRINGS.REFORGED.GENERAL.PETRIFY_MOBS.DESC"
 msgid "Petrify all mobs around you. This has the same radius as the Petrifying Tome."
 msgstr ""
 
----------------
-# -- PRESETS --
----------------
+
+#  PRESETS 
+
 
 #. STRINGS.REFORGED.PRESETS.half
 msgctxt "STRINGS.REFORGED.PRESETS.half"
@@ -4211,9 +4211,9 @@ msgctxt "STRINGS.REFORGED.PRESETS.triple_threat"
 msgid "Triple Threat"
 msgstr ""
 
--------------
-# -- PERKS --
--------------
+
+#  PERKS 
+
 
 #. STRINGS.REFORGED.PERKS.wilson.revive.TITLE
 msgctxt "STRINGS.REFORGED.PERKS.wilson.revive.TITLE"
@@ -4377,7 +4377,7 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wurt.wet.TITLE
 msgctxt "STRINGS.REFORGED.PERKS.wurt.wet.TITLE"
-msgid "The Half-Pint"
+msgid "The HalfPint"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wurt.wet.DESCRIPTION
@@ -4397,7 +4397,7 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wormwood.bloom.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wormwood.bloom.DESCRIPTION"
-msgid "*Spawns with a plant-based blowdart.\\n*Blossoms over time as long as he avoids damage.\\n\\nExpertise:\\nDarts, Staves"
+msgid "*Spawns with a plantbased blowdart.\\n*Blossoms over time as long as he avoids damage.\\n\\nExpertise:\\nDarts, Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.generic.tank.TITLE
@@ -4447,7 +4447,7 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wx78.overcharge.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wx78.overcharge.DESCRIPTION"
-msgid "*Becomes Overcharged from electric attacks.\\n*Increased resistance from electric attacks.\\n*Electric attacks are drawn to WX-78.\\n\\nExpertise:\\nMelee, Staves"
+msgid "*Becomes Overcharged from electric attacks.\\n*Increased resistance from electric attacks.\\n*Electric attacks are drawn to WX78.\\n\\nExpertise:\\nMelee, Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wx78.shock.TITLE
@@ -4520,9 +4520,9 @@ msgctxt "STRINGS.REFORGED.PERKS.willow.bernie.DESCRIPTION"
 msgid "*Protected by Bernie the Bear\\n*Fire and Explosive attack damage increased by 10%\\n\\nExpertise:\\nDarts, Staves"
 msgstr ""
 
---------------------
-# -- DIFFICULTIES --
---------------------
+
+#  DIFFICULTIES 
+
 
 #. STRINGS.REFORGED.DIFFICULTIES.normal.name
 msgctxt "STRINGS.REFORGED.DIFFICULTIES.normal.name"
@@ -4554,9 +4554,9 @@ msgctxt "STRINGS.REFORGED.WORLD_RESET"
 msgid "World Resetting in %d"
 msgstr ""
 
------------
-# -- HUD --
------------
+
+#  HUD 
+
 
 #. STRINGS.REFORGED.HUD.SPECTATOR_FREE_CAMERA
 msgctxt "STRINGS.REFORGED.HUD.SPECTATOR_FREE_CAMERA"
@@ -4568,9 +4568,9 @@ msgctxt "STRINGS.REFORGED.HUD.SPECTATOR_FREE_CAMERA_TOGGLE"
 msgid "Toggle Free Camera"
 msgstr ""
 
---------------------
-# -- ACHIEVEMENTS --
---------------------
+
+#  ACHIEVEMENTS 
+
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rlgl_no_deaths.TITLE
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rlgl_no_deaths.TITLE"
@@ -4579,7 +4579,7 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rlgl_no_deaths.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rlgl_no_deaths.DESCRIPTION"
-msgid "Without any teammates dying, beat the Swineclops waveset in 'Red-Light Green-Light' mode."
+msgid "Without any teammates dying, beat the Swineclops waveset in 'RedLight GreenLight' mode."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.COMPLETION
@@ -4609,7 +4609,7 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rlglolbl_normal.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rlglolbl_normal.DESCRIPTION"
-msgid "Beat the Swineclops waveset in 'Red-Light Green-Light Orange-Light Blue-Light' mode."
+msgid "Beat the Swineclops waveset in 'RedLight GreenLight OrangeLight BlueLight' mode."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.spiffy.TITLE
@@ -4659,7 +4659,7 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rainbow_hard.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rainbow_hard.DESCRIPTION"
-msgid "Beat the Swineclops waveset in 'Rainbow-Lights' mode on hard difficulty."
+msgid "Beat the Swineclops waveset in 'RainbowLights' mode on hard difficulty."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.wilson_tank.TITLE
@@ -4814,7 +4814,7 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rlgl_hard.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rlgl_hard.DESCRIPTION"
-msgid "Beat the Swineclops waveset in 'Red-Light Green-Light' mode on hard difficulty."
+msgid "Beat the Swineclops waveset in 'RedLight GreenLight' mode on hard difficulty."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.no_revives.TITLE
@@ -4834,7 +4834,7 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rlgl_normal.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rlgl_normal.DESCRIPTION"
-msgid "Beat the Swineclops waveset in 'Red-Light Green-Light' mode."
+msgid "Beat the Swineclops waveset in 'RedLight GreenLight' mode."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rlglolbl_hard.TITLE
@@ -4844,7 +4844,7 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rlglolbl_hard.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rlglolbl_hard.DESCRIPTION"
-msgid "Beat the Swineclops waveset in 'Red-Light Green-Light Orange-Light Blue-Light' mode on hard difficulty."
+msgid "Beat the Swineclops waveset in 'RedLight GreenLight OrangeLight BlueLight' mode on hard difficulty."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.timeless.TITLE
@@ -5244,7 +5244,7 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rainbow_no_deaths.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rainbow_no_deaths.DESCRIPTION"
-msgid "Without any teammates dying, beat the Swineclops waveset in 'Rainbow-Lights' mode."
+msgid "Without any teammates dying, beat the Swineclops waveset in 'RainbowLights' mode."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.no_damage.TITLE
@@ -5294,7 +5294,7 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rlglolbl_no_deaths.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rlglolbl_no_deaths.DESCRIPTION"
-msgid "Without any teammates dying, beat the Swineclops waveset in 'Red-Light Green-Light Orange-Light Blue-Light' mode."
+msgid "Without any teammates dying, beat the Swineclops waveset in 'RedLight GreenLight OrangeLight BlueLight' mode."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.insanity.TITLE
@@ -5384,7 +5384,7 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rainbow_normal.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rainbow_normal.DESCRIPTION"
-msgid "Beat the Swineclops waveset in 'Rainbow-Lights' mode."
+msgid "Beat the Swineclops waveset in 'RainbowLights' mode."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.endless.TITLE
@@ -5452,9 +5452,9 @@ msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.DATE_UNLOCKED"
 msgid "Date Unlocked"
 msgstr ""
 
----------------------------
-# -- FORGE LORD DIALOGUE --
----------------------------
+
+#  FORGE LORD DIALOGUE 
+
 
 #. STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.ROUND_2_FINAL_BANTER.1
 msgctxt "STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.ROUND_2_FINAL_BANTER.1"
@@ -5576,9 +5576,9 @@ msgctxt "STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.TIME_INTRO_BANTER.3"
 msgid "Take your time, your end is soon!"
 msgstr ""
 
-----------------
-# -- WAVESETS --
-----------------
+
+#  WAVESETS 
+
 
 #. STRINGS.REFORGED.WAVESETS.boarillas.name
 msgctxt "STRINGS.REFORGED.WAVESETS.boarillas.name"
@@ -5690,9 +5690,9 @@ msgctxt "STRINGS.REFORGED.WAVESETS.rhinocebros.desc"
 msgid "Two brothers arrive after hearing the Grand Forge Boarrior was defeated!"
 msgstr ""
 
-----------------
-# -- MUTATORS --
-----------------
+
+#  MUTATORS 
+
 
 #. STRINGS.REFORGED.MUTATORS.no_hud.name
 msgctxt "STRINGS.REFORGED.MUTATORS.no_hud.name"
@@ -5839,9 +5839,9 @@ msgctxt "STRINGS.REFORGED.unknown"
 msgid "Unknown String"
 msgstr ""
 
------------------------------
-# -- RED LIGHT GREEN LIGHT --
------------------------------
+
+#  RED LIGHT GREEN LIGHT 
+
 
 #. STRINGS.REFORGED.RLGL.REDLIGHT_FAKEOUT_BANTER.1
 msgctxt "STRINGS.REFORGED.RLGL.REDLIGHT_FAKEOUT_BANTER.1"
@@ -6093,9 +6093,9 @@ msgctxt "STRINGS.REFORGED.RLGL.BLUELIGHT"
 msgid "BLUE LIGHT!"
 msgstr ""
 
-----------------------
-# -- FORGE COMMANDS --
-----------------------
+
+#  FORGE COMMANDS 
+
 
 #. STRINGS.REFORGED.FORGE.RESTART_FORGE.NAME
 msgctxt "STRINGS.REFORGED.FORGE.RESTART_FORGE.NAME"

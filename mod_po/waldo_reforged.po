@@ -10,41 +10,60 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: waldo\n"
 "Language: kr_waldo\n"
-"PO-Revision-Date: 2022-04-14 14:29\n"
+"PO-Revision-Date: 2022-04-14 15:33\n"
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona"
-msgid "*All ability cooldowns are 10% faster.\\n\\n\\n\\nExpertise:\\nMelee, Darts, Staves"
+msgid "*All ability cooldowns are 10% faster.\n\n\n\n"
+"Expertise:\n"
+"Melee, Darts, Staves"
 msgstr ""
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.warly
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.warly"
-msgid "*Brings bags of spice that can induce multiple effects to enemies!\\n*Master Chef.\\n*Deals 10% more healing.\\nExpertise:\\nMelee, Staves"
+msgid "*Brings bags of spice that can induce multiple effects to enemies!\n"
+"*Master Chef.\n"
+"*Deals 10% more healing.\n"
+"Expertise:\n"
+"Melee, Staves"
 msgstr ""
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wortox
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wortox"
-msgid "*Spawns with a soul hopping Soul Scepter.\\n*Passively sucks the souls of his foes.\\n\\nExpertise:\\nMelee"
+msgid "*Spawns with a soul hopping Soul Scepter.\n"
+"*Passively sucks the souls of his foes.\n\n"
+"Expertise:\n"
+"Melee"
 msgstr ""
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wormwood
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wormwood"
-msgid "*Spawns with a plantbased blowdart.\\n*Blossoms over time as long as he avoids damage.\\n\\nExpertise:\\nDarts, Staves"
+msgid "*Spawns with a plantbased blowdart.\n"
+"*Blossoms over time as long as he avoids damage.\n\n"
+"Expertise:\n"
+"Darts, Staves"
 msgstr ""
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wurt
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wurt"
-msgid "*Can use every weapon available.\\n*Melee attacks makes foes wet, making them slow and vulnerable to electric damage.\\nExpertise:\\nMelee, Darts, Staves, Books"
+msgid "*Can use every weapon available.\n"
+"*Melee attacks makes foes wet, making them slow and vulnerable to electric damage.\n"
+"Expertise:\n"
+"Melee, Darts, Staves, Books"
 msgstr ""
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.walter
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.walter"
-msgid "*Brings his friend Woby.\\n*Woby can reduce cooldowns as support.\\nExpertise:\\nDarts"
+msgid "*Brings his friend Woby.\n"
+"*Woby can reduce cooldowns as support.\n"
+"Expertise:\n"
+"Darts"
 msgstr ""
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.spectator
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.spectator"
-msgid "*Free Camera.\\n*Camera can follow specific players."
+msgid "*Free Camera.\n"
+"*Camera can follow specific players."
 msgstr ""
 
 #. STRINGS.CHARACTER_NAMES.spectator
@@ -4068,7 +4087,10 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wilson.revive.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wilson.revive.DESCRIPTION"
-msgid "*Revives allies twice as quickly\\n*Restores three times more health when reviving allies\\n\\nExpertise:\\nMelee, Darts, Staves"
+msgid "*Revives allies twice as quickly\n"
+"*Restores three times more health when reviving allies\n\n"
+"Expertise:\n"
+"Melee, Darts, Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wendy.baby_ben.TITLE
@@ -4078,7 +4100,10 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wendy.baby_ben.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wendy.baby_ben.DESCRIPTION"
-msgid "*Protected by her baby brother Ben.\\n*Baby Ben gives shields to friends who get hit.\\n\\nExpertise:\\nDarts, Staves"
+msgid "*Protected by her baby brother Ben.\n"
+"*Baby Ben gives shields to friends who get hit.\n\n"
+"Expertise:\n"
+"Darts, Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wendy.abigail.TITLE
@@ -4088,7 +4113,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wendy.abigail.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wendy.abigail.DESCRIPTION"
-msgid "*Protected by her twin sister, Abigail\\n\\n\\n\\nExpertise:\\nDarts, Staves"
+msgid "*Protected by her twin sister, Abigail\n\n\n\n"
+"Expertise:\n"
+"Darts, Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.webber.baby_spiders.TITLE
@@ -4098,12 +4125,15 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.webber.baby_spiders.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.webber.baby_spiders.DESCRIPTION"
-msgid "*Accompanied by itsy bitsy spiders\\n\\n\\n\\nExpertise:\\nDarts"
+msgid "*Accompanied by itsy bitsy spiders\n\n\n\n"
+"Expertise:\n"
+"Darts"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.spectator.spy.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.spectator.spy.DESCRIPTION"
-msgid "*Free Camera.\\n*Camera can follow specific players."
+msgid "*Free Camera.\n"
+"*Camera can follow specific players."
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.spectator.spy.TITLE
@@ -4123,7 +4153,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.waxwell.shadows.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.waxwell.shadows.DESCRIPTION"
-msgid "*Summons Shadow Duelists after focusing attacks on a single target\\n\\n\\nExpertise:\\nBooks, Staves"
+msgid "*Summons Shadow Duelists after focusing attacks on a single target\n\n\n"
+"Expertise:\n"
+"Books, Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wickerbottom.amplify.TITLE
@@ -4133,7 +4165,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wickerbottom.amplify.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wickerbottom.amplify.DESCRIPTION"
-msgid "*Gains a buff after dealing sufficient damage, amplifying her next spell\\n\\n\\nExpertise:\\nBooks, Staves"
+msgid "*Gains a buff after dealing sufficient damage, amplifying her next spell\n\n\n"
+"Expertise:\n"
+"Books, Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wolfgang.mighty.TITLE
@@ -4143,7 +4177,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wolfgang.mighty.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wolfgang.mighty.DESCRIPTION"
-msgid "*Becomes Mighty when health is low, increasing attack power, defense, and movement speed for 10 seconds\\n\\nExpertise:\\nMelee"
+msgid "*Becomes Mighty when health is low, increasing attack power, defense, and movement speed for 10 seconds\n\n"
+"Expertise:\n"
+"Melee"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wortox.soul_drain.TITLE
@@ -4153,7 +4189,10 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wortox.soul_drain.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wortox.soul_drain.DESCRIPTION"
-msgid "*Spawns with a soul hopping Soul Scepter.\\n*Passively sucks the souls of his foes.\\n\\nExpertise:\\nMelee"
+msgid "*Spawns with a soul hopping Soul Scepter.\n"
+"*Passively sucks the souls of his foes.\n\n"
+"Expertise:\n"
+"Melee"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.woodie.lucy.TITLE
@@ -4163,7 +4202,10 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.woodie.lucy.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.woodie.lucy.DESCRIPTION"
-msgid "*Lucy returns to Woodie when thrown\\n*Attack speed increased when wielding Lucy\\n\\nExpertise:\\nMelee"
+msgid "*Lucy returns to Woodie when thrown\n"
+"*Attack speed increased when wielding Lucy\n\n"
+"Expertise:\n"
+"Melee"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.random.base_random.DESCRIPTION
@@ -4203,7 +4245,10 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wathgrithr.battlecry.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wathgrithr.battlecry.DESCRIPTION"
-msgid "*Battle cries increase nearby allies' next attack damage by 25%\\n*Gains less aggro when attacking\\n\\nExpertise:\\nMelee, Darts"
+msgid "*Battle cries increase nearby allies' next attack damage by 25%\n"
+"*Gains less aggro when attacking\n\n"
+"Expertise:\n"
+"Melee, Darts"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.winona.cooldown.TITLE
@@ -4213,7 +4258,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.winona.cooldown.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.winona.cooldown.DESCRIPTION"
-msgid "*All ability cooldowns are 10% faster.\\n\\n\\n\\nExpertise:\\nMelee, Darts, Staves"
+msgid "*All ability cooldowns are 10% faster.\n\n\n\n"
+"Expertise:\n"
+"Melee, Darts, Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.CHOOSE
@@ -4228,7 +4275,10 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wurt.wet.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wurt.wet.DESCRIPTION"
-msgid "*Can use every weapon available.\\n*Melee attacks makes foes wet, making them slow and vulnerable to electric damage.\\nExpertise:\\nMelee, Darts, Staves, Books"
+msgid "*Can use every weapon available.\n"
+"*Melee attacks makes foes wet, making them slow and vulnerable to electric damage.\n"
+"Expertise:\n"
+"Melee, Darts, Staves, Books"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.UNKNOWN
@@ -4243,7 +4293,10 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wormwood.bloom.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wormwood.bloom.DESCRIPTION"
-msgid "*Spawns with a plantbased blowdart.\\n*Blossoms over time as long as he avoids damage.\\n\\nExpertise:\\nDarts, Staves"
+msgid "*Spawns with a plantbased blowdart.\n"
+"*Blossoms over time as long as he avoids damage.\n\n"
+"Expertise:\n"
+"Darts, Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.generic.tank.TITLE
@@ -4283,7 +4336,10 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.walter.woby.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.walter.woby.DESCRIPTION"
-msgid "*Brings his friend Woby.\\n*Woby can reduce cooldowns as support.\\nExpertise:\\nDarts"
+msgid "*Brings his friend Woby.\n"
+"*Woby can reduce cooldowns as support.\n"
+"Expertise:\n"
+"Darts"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wx78.overcharge.TITLE
@@ -4293,7 +4349,11 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wx78.overcharge.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wx78.overcharge.DESCRIPTION"
-msgid "*Becomes Overcharged from electric attacks.\\n*Increased resistance from electric attacks.\\n*Electric attacks are drawn to WX78.\\n\\nExpertise:\\nMelee, Staves"
+msgid "*Becomes Overcharged from electric attacks.\n"
+"*Increased resistance from electric attacks.\n"
+"*Electric attacks are drawn to WX78.\n\n"
+"Expertise:\n"
+"Melee, Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wx78.shock.TITLE
@@ -4303,7 +4363,10 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wx78.shock.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wx78.shock.DESCRIPTION"
-msgid "*Shocks enemies when attacked\\n*Electric attack damage increased by 50%\\n\\nExpertise:\\nMelee"
+msgid "*Shocks enemies when attacked\n"
+"*Electric attack damage increased by 50%\n\n"
+"Expertise:\n"
+"Melee"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.warly.cookpot.TITLE
@@ -4313,7 +4376,10 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.warly.cookpot.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.warly.cookpot.DESCRIPTION"
-msgid "*Cooks food faster.\\n*Food cooked by Warly has increased benefits.\\nExpertise:\\nMelee, Staves"
+msgid "*Cooks food faster.\n"
+"*Food cooked by Warly has increased benefits.\n"
+"Expertise:\n"
+"Melee, Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.warly.spices.TITLE
@@ -4323,7 +4389,11 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.warly.spices.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.warly.spices.DESCRIPTION"
-msgid "*Brings bags of spice that can induce multiple effects to enemies!\\n*Master Chef.\\n*Deals 10% more healing.\\nExpertise:\\nMelee, Staves"
+msgid "*Brings bags of spice that can induce multiple effects to enemies!\n"
+"*Master Chef.\n"
+"*Deals 10% more healing.\n"
+"Expertise:\n"
+"Melee, Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wanda.rewind.TITLE
@@ -4333,7 +4403,10 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wanda.rewind.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wanda.rewind.DESCRIPTION"
-msgid "*Rewinds time on death.\\n*Spells last 10% longer.\\n\\nExpertise:\\nMelee, Books, Staves"
+msgid "*Rewinds time on death.\n"
+"*Spells last 10% longer.\n\n"
+"Expertise:\n"
+"Melee, Books, Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wanda.age.TITLE
@@ -4343,7 +4416,10 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wanda.age.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wanda.age.DESCRIPTION"
-msgid "*Ages overtime reducing health overtime.\\n*Does increased damage at lower health.\\n\\nExpertise:\\nMelee, Books, Staves"
+msgid "*Ages overtime reducing health overtime.\n"
+"*Does increased damage at lower health.\n\n"
+"Expertise:\n"
+"Melee, Books, Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wes.aggro.TITLE
@@ -4353,7 +4429,11 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wes.aggro.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wes.aggro.DESCRIPTION"
-msgid "*Can be revived twice as quickly\\n*Gains minimal aggro when attacking\\n*Less likely to lose aggro once drawn\\n\\nExpertise:\\nMelee, Darts, Staves"
+msgid "*Can be revived twice as quickly\n"
+"*Gains minimal aggro when attacking\n"
+"*Less likely to lose aggro once drawn\n\n"
+"Expertise:\n"
+"Melee, Darts, Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.willow.bernie.TITLE
@@ -4363,7 +4443,10 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.willow.bernie.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.willow.bernie.DESCRIPTION"
-msgid "*Protected by Bernie the Bear\\n*Fire and Explosive attack damage increased by 10%\\n\\nExpertise:\\nDarts, Staves"
+msgid "*Protected by Bernie the Bear\n"
+"*Fire and Explosive attack damage increased by 10%\n\n"
+"Expertise:\n"
+"Darts, Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.DIFFICULTIES.normal.name

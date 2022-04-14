@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2022-04-14 02:16\n"
+"PO-Revision-Date: 2022-04-14 08:31\n"
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona"
@@ -3081,57 +3081,57 @@ msgstr "플레이어 소생"
 #. STRINGS.REFORGED.GENERAL.REVIVE.DESC
 msgctxt "STRINGS.REFORGED.GENERAL.REVIVE.DESC"
 msgid "Give the selected player mouth to mouth? Pfft, I'll just poke their body with a stick."
-msgstr ""
+msgstr "선택한 플레이어에게 인공호흡? 은 농담이고 그냥 쿡쿡 찔러봅니다."
 
 #. STRINGS.REFORGED.DIFFICULTIES.normal.name
 msgctxt "STRINGS.REFORGED.DIFFICULTIES.normal.name"
 msgid "Normal"
-msgstr ""
+msgstr "보통"
 
 #. STRINGS.REFORGED.DIFFICULTIES.normal.desc
 msgctxt "STRINGS.REFORGED.DIFFICULTIES.normal.desc"
 msgid "Moderately fun!"
-msgstr ""
+msgstr "적당히 재미있습니다!"
 
 #. STRINGS.REFORGED.DIFFICULTIES.hard.name
 msgctxt "STRINGS.REFORGED.DIFFICULTIES.hard.name"
 msgid "Hard"
-msgstr ""
+msgstr "어려움"
 
 #. STRINGS.REFORGED.DIFFICULTIES.hard.desc
 msgctxt "STRINGS.REFORGED.DIFFICULTIES.hard.desc"
 msgid "Good luck!"
-msgstr ""
+msgstr "행운을 빕니다!"
 
 #. STRINGS.REFORGED.GAMETYPES.forge.name
 msgctxt "STRINGS.REFORGED.GAMETYPES.forge.name"
 msgid "Forge"
-msgstr ""
+msgstr "연마장"
 
 #. STRINGS.REFORGED.GAMETYPES.forge.desc
 msgctxt "STRINGS.REFORGED.GAMETYPES.forge.desc"
 msgid "Defeat all enemies to Forge a path to victory!"
-msgstr ""
+msgstr "연마장의 모든 적을 물리치고 승리의 길을 개척하세요!"
 
 #. STRINGS.REFORGED.GAMETYPES.classic_rlgl.name
 msgctxt "STRINGS.REFORGED.GAMETYPES.classic_rlgl.name"
 msgid "Redlight/Greenlight"
-msgstr ""
+msgstr "빨간불/초록불"
 
 #. STRINGS.REFORGED.GAMETYPES.classic_rlgl.desc
 msgctxt "STRINGS.REFORGED.GAMETYPES.classic_rlgl.desc"
 msgid "The original RLGL from Forged Forge."
-msgstr ""
+msgstr "단조된 연마장의 원조 RLGL입니다."
 
 #. STRINGS.REFORGED.GAMETYPES.rlgl.name
 msgctxt "STRINGS.REFORGED.GAMETYPES.rlgl.name"
 msgid "RLGLBLOL"
-msgstr ""
+msgstr "RLGLBLOL"
 
 #. STRINGS.REFORGED.GAMETYPES.rlgl.desc
 msgctxt "STRINGS.REFORGED.GAMETYPES.rlgl.desc"
 msgid "I want a blue light, an orange light, all of the lights!"
-msgstr ""
+msgstr "파란불, 주황불, 모든 불빛을 원합니다!"
 
 #. STRINGS.REFORGED.MAPS.lavaarena.name
 msgctxt "STRINGS.REFORGED.MAPS.lavaarena.name"
@@ -3171,17 +3171,17 @@ msgstr "연마장 S02"
 #. STRINGS.REFORGED.MODES.forge_s02.desc
 msgctxt "STRINGS.REFORGED.MODES.forge_s02.desc"
 msgid "Forge has returned with rolling Boarillas!"
-msgstr ""
+msgstr "연마장이 굴러다니는 돼지고릴라와 함께 돌아왔습니다!"
 
 #. STRINGS.REFORGED.MODES.reforged.name
 msgctxt "STRINGS.REFORGED.MODES.reforged.name"
 msgid "ReForged"
-msgstr ""
+msgstr "재장간"
 
 #. STRINGS.REFORGED.MODES.reforged.desc
 msgctxt "STRINGS.REFORGED.MODES.reforged.desc"
 msgid "Our own version of the Forge!"
-msgstr ""
+msgstr "저희가 만든 연마장의 새로운 버전입니다!"
 
 #. STRINGS.REFORGED.MODES.forged_forge.name
 msgctxt "STRINGS.REFORGED.MODES.forged_forge.name"
@@ -3226,117 +3226,117 @@ msgstr "모든 적의 체력을 조정합니다."
 #. STRINGS.REFORGED.MUTATORS.mob_speed.name
 msgctxt "STRINGS.REFORGED.MUTATORS.mob_speed.name"
 msgid "Mob Speed"
-msgstr ""
+msgstr "적 속도"
 
 #. STRINGS.REFORGED.MUTATORS.mob_speed.desc
 msgctxt "STRINGS.REFORGED.MUTATORS.mob_speed.desc"
 msgid "Adjust the speed of all mobs."
-msgstr ""
+msgstr "모든 적의 속도를 조정합니다."
 
 #. STRINGS.REFORGED.MUTATORS.battlestandard_efficiency.name
 msgctxt "STRINGS.REFORGED.MUTATORS.battlestandard_efficiency.name"
 msgid "Banner Mult"
-msgstr ""
+msgstr "깃발 계수"
 
 #. STRINGS.REFORGED.MUTATORS.battlestandard_efficiency.desc
 msgctxt "STRINGS.REFORGED.MUTATORS.battlestandard_efficiency.desc"
 msgid "Adjust the multiplier of all battlestandards."
-msgstr ""
+msgstr "모든 전투 깃발의 계수를 조정합니다."
 
 #. STRINGS.REFORGED.MUTATORS.no_sleep.name
 msgctxt "STRINGS.REFORGED.MUTATORS.no_sleep.name"
 msgid "No Sleep"
-msgstr ""
+msgstr "수면 불가"
 
 #. STRINGS.REFORGED.MUTATORS.no_sleep.desc
 msgctxt "STRINGS.REFORGED.MUTATORS.no_sleep.desc"
 msgid "Who needs sleep? Mobs sure don't!"
-msgstr ""
+msgstr "누가 잠이 필요합니까? 적은 절대 안 돼요!"
 
 #. STRINGS.REFORGED.MUTATORS.no_revives.name
 msgctxt "STRINGS.REFORGED.MUTATORS.no_revives.name"
 msgid "No Revives"
-msgstr ""
+msgstr "소생 불능"
 
 #. STRINGS.REFORGED.MUTATORS.no_revives.desc
 msgctxt "STRINGS.REFORGED.MUTATORS.no_revives.desc"
 msgid "Did you die? Git Gud."
-msgstr ""
+msgstr "죽으셨나요? GG요."
 
 #. STRINGS.REFORGED.MUTATORS.no_hud.name
 msgctxt "STRINGS.REFORGED.MUTATORS.no_hud.name"
 msgid "No Hud"
-msgstr ""
+msgstr "Hud 창 없음"
 
 #. STRINGS.REFORGED.MUTATORS.no_hud.desc
 msgctxt "STRINGS.REFORGED.MUTATORS.no_hud.desc"
 msgid "How much health do I have?"
-msgstr ""
+msgstr "체력은 어느 정도입니까?"
 
 #. STRINGS.REFORGED.MUTATORS.friendly_fire.name
 msgctxt "STRINGS.REFORGED.MUTATORS.friendly_fire.name"
 msgid "Friendly Fire"
-msgstr ""
+msgstr "아군 오사"
 
 #. STRINGS.REFORGED.MUTATORS.friendly_fire.desc
 msgctxt "STRINGS.REFORGED.MUTATORS.friendly_fire.desc"
 msgid "Have you ever wanted to hit your friend? Well...now you can!"
-msgstr ""
+msgstr "당신의 친구를 치고 싶었던 적이 있나요? 음... 지금 할 수 있습니다!"
 
 #. STRINGS.REFORGED.MUTATORS.unbreakable_shields.name
 msgctxt "STRINGS.REFORGED.MUTATORS.unbreakable_shields.name"
 msgid "Unbreakable Shields"
-msgstr ""
+msgstr "부서뜨릴 수 없는 방패"
 
 #. STRINGS.REFORGED.MUTATORS.unbreakable_shields.desc
 msgctxt "STRINGS.REFORGED.MUTATORS.unbreakable_shields.desc"
 msgid "Thought bunkered enemies were tough before?"
-msgstr ""
+msgstr "전에는 방어하는 적들이 힘들었다고 생각했나요?"
 
 #. STRINGS.REFORGED.MUTATORS.endless.name
 msgctxt "STRINGS.REFORGED.MUTATORS.endless.name"
 msgid "Endless"
-msgstr ""
+msgstr "무제한"
 
 #. STRINGS.REFORGED.MUTATORS.endless.desc
 msgctxt "STRINGS.REFORGED.MUTATORS.endless.desc"
 msgid "It just keeps going and going and going... well... until you die!"
-msgstr ""
+msgstr "계속 돌고 또 돌고 또 돌고... 음... 죽을 때까지!"
 
 #. STRINGS.REFORGED.PRESETS.forge_season_1
 msgctxt "STRINGS.REFORGED.PRESETS.forge_season_1"
 msgid "Forge S01"
-msgstr ""
+msgstr "연마장 S01"
 
 #. STRINGS.REFORGED.PRESETS.forge_season_2
 msgctxt "STRINGS.REFORGED.PRESETS.forge_season_2"
 msgid "Forge S02"
-msgstr ""
+msgstr "연마장 S02"
 
 #. STRINGS.REFORGED.PRESETS.fast_but_weak
 msgctxt "STRINGS.REFORGED.PRESETS.fast_but_weak"
 msgid "Fast/Weak"
-msgstr ""
+msgstr "날쌘 비실이"
 
 #. STRINGS.REFORGED.PRESETS.x2
 msgctxt "STRINGS.REFORGED.PRESETS.x2"
 msgid "x2"
-msgstr ""
+msgstr "x2"
 
 #. STRINGS.REFORGED.PRESETS.x3
 msgctxt "STRINGS.REFORGED.PRESETS.x3"
 msgid "x3"
-msgstr ""
+msgstr "x3"
 
 #. STRINGS.REFORGED.PRESETS.half
 msgctxt "STRINGS.REFORGED.PRESETS.half"
 msgid "1/2"
-msgstr ""
+msgstr "1/2"
 
 #. STRINGS.REFORGED.PRESETS.mutated
 msgctxt "STRINGS.REFORGED.PRESETS.mutated"
 msgid "Mutated"
-msgstr ""
+msgstr "변이된"
 
 #. STRINGS.REFORGED.PRESETS.double_doom
 msgctxt "STRINGS.REFORGED.PRESETS.double_doom"
@@ -3346,12 +3346,12 @@ msgstr ""
 #. STRINGS.REFORGED.PRESETS.chaotic
 msgctxt "STRINGS.REFORGED.PRESETS.chaotic"
 msgid "Chaotic"
-msgstr ""
+msgstr "대혼돈"
 
 #. STRINGS.REFORGED.PRESETS.coffee
 msgctxt "STRINGS.REFORGED.PRESETS.coffee"
 msgid "Coffee'd"
-msgstr ""
+msgstr "커피빨"
 
 #. STRINGS.REFORGED.PRESETS.double_half
 msgctxt "STRINGS.REFORGED.PRESETS.double_half"
@@ -3376,22 +3376,22 @@ msgstr "사용자 정의"
 #. STRINGS.REFORGED.WAVESETS.classic.name
 msgctxt "STRINGS.REFORGED.WAVESETS.classic.name"
 msgid "Classic"
-msgstr ""
+msgstr "클래식"
 
 #. STRINGS.REFORGED.WAVESETS.classic.desc
 msgctxt "STRINGS.REFORGED.WAVESETS.classic.desc"
 msgid "Take on the original forge and try to defeat the Grand Forge Boarrior!"
-msgstr ""
+msgstr "원조 연마장에서 위대한 연마장의 멧투사를 쓰러트려보세요!"
 
 #. STRINGS.REFORGED.WAVESETS.boarillas.name
 msgctxt "STRINGS.REFORGED.WAVESETS.boarillas.name"
 msgid "Twin Boarillas"
-msgstr ""
+msgstr "돼지고릴라가 두배"
 
 #. STRINGS.REFORGED.WAVESETS.boarillas.desc
 msgctxt "STRINGS.REFORGED.WAVESETS.boarillas.desc"
 msgid "Boarillas have rolled in to prevent your victory!"
-msgstr ""
+msgstr "돼지고릴라들이 승리를 막으러 굴러들었습니다!"
 
 #. STRINGS.REFORGED.WAVESETS.rhinocebros.name
 msgctxt "STRINGS.REFORGED.WAVESETS.rhinocebros.name"

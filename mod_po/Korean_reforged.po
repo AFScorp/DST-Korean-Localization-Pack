@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2022-04-14 08:31\n"
+"PO-Revision-Date: 2022-04-14 14:14\n"
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona"
@@ -2966,7 +2966,7 @@ msgstr "싸울 라운드와 웨이브를 선택합니다."
 #. STRINGS.REFORGED.FORGE.RESTART_FORGE.NAME
 msgctxt "STRINGS.REFORGED.FORGE.RESTART_FORGE.NAME"
 msgid "Restart Forge"
-msgstr "연마장 재시작"
+msgstr "Restart Forge"
 
 #. STRINGS.REFORGED.FORGE.RESTART_FORGE.DESC
 msgctxt "STRINGS.REFORGED.FORGE.RESTART_FORGE.DESC"
@@ -3341,7 +3341,7 @@ msgstr "변이된"
 #. STRINGS.REFORGED.PRESETS.double_doom
 msgctxt "STRINGS.REFORGED.PRESETS.double_doom"
 msgid "Double Doom"
-msgstr ""
+msgstr "두배의 불행"
 
 #. STRINGS.REFORGED.PRESETS.chaotic
 msgctxt "STRINGS.REFORGED.PRESETS.chaotic"
@@ -3356,12 +3356,12 @@ msgstr "커피빨"
 #. STRINGS.REFORGED.PRESETS.double_half
 msgctxt "STRINGS.REFORGED.PRESETS.double_half"
 msgid "Double 1/2"
-msgstr ""
+msgstr "두 배 1/2"
 
 #. STRINGS.REFORGED.PRESETS.half_double
 msgctxt "STRINGS.REFORGED.PRESETS.half_double"
 msgid "Half x2"
-msgstr ""
+msgstr "절반 x2"
 
 #. STRINGS.REFORGED.PRESETS.insanity
 msgctxt "STRINGS.REFORGED.PRESETS.insanity"
@@ -3401,7 +3401,7 @@ msgstr "코뿔소 형제"
 #. STRINGS.REFORGED.WAVESETS.rhinocebros.desc
 msgctxt "STRINGS.REFORGED.WAVESETS.rhinocebros.desc"
 msgid "Two brothers arrive after hearing the Grand Forge Boarrior was defeated!"
-msgstr ""
+msgstr "위대한 연마장의 멧투사의 패배 소식을 듣고 두 형제가 나타납니다!"
 
 #. STRINGS.REFORGED.WAVESETS.swineclops.name
 msgctxt "STRINGS.REFORGED.WAVESETS.swineclops.name"
@@ -3411,7 +3411,8 @@ msgstr "외눈돼지"
 #. STRINGS.REFORGED.WAVESETS.swineclops.desc
 msgctxt "STRINGS.REFORGED.WAVESETS.swineclops.desc"
 msgid "After the defeat of the Grand Forge Boarrior and the Rhinobros, a new enemy arrives to prevent your victory."
-msgstr ""
+msgstr "위대한 연마장의 멧투사와 코뿔소 형제를 쓰러트리자,\n"
+"여러분들의 승리를 막으러 새로운 적이 등장하게 됩니다."
 
 #. STRINGS.REFORGED.WAVESETS.default.name
 msgctxt "STRINGS.REFORGED.WAVESETS.default.name"
@@ -3421,307 +3422,308 @@ msgstr "외눈돼지"
 #. STRINGS.REFORGED.WAVESETS.default.desc
 msgctxt "STRINGS.REFORGED.WAVESETS.default.desc"
 msgid "After the defeat of the Grand Forge Boarrior new enemies arrive to prevent your victory."
-msgstr ""
+msgstr "위대한 연마장의 멧투사를 쓰러트리자,\n"
+"여러분들의 승리를 막으러 새로운 적이 등장하게 됩니다."
 
 #. STRINGS.REFORGED.WAVESETS.double_trouble_classic.name
 msgctxt "STRINGS.REFORGED.WAVESETS.double_trouble_classic.name"
 msgid "DT Classic"
-msgstr ""
+msgstr "클래식 DT"
 
 #. STRINGS.REFORGED.WAVESETS.double_trouble_classic.desc
 msgctxt "STRINGS.REFORGED.WAVESETS.double_trouble_classic.desc"
 msgid "Duplication science has been discovered!"
-msgstr ""
+msgstr "복제 과학이 발견되었습니다!"
 
 #. STRINGS.REFORGED.WAVESETS.double_trouble.name
 msgctxt "STRINGS.REFORGED.WAVESETS.double_trouble.name"
 msgid "Double Trouble"
-msgstr ""
+msgstr "더블 트러블"
 
 #. STRINGS.REFORGED.WAVESETS.double_trouble.desc
 msgctxt "STRINGS.REFORGED.WAVESETS.double_trouble.desc"
 msgid "Duplication science has expanded to Swineclops!"
-msgstr ""
+msgstr "복제 과학이 외눈돼지로 확장되었습니다!"
 
 #. STRINGS.REFORGED.WAVESETS.half_the_wrath.name
 msgctxt "STRINGS.REFORGED.WAVESETS.half_the_wrath.name"
 msgid "Half The Wrath"
-msgstr ""
+msgstr "절반의 분노"
 
 #. STRINGS.REFORGED.WAVESETS.half_the_wrath.desc
 msgctxt "STRINGS.REFORGED.WAVESETS.half_the_wrath.desc"
 msgid "All boss enemies have been smallified and the spawns are cut in half! Can you defeat them?"
-msgstr ""
+msgstr "모든 보스급 적이 작아지고 물량이 반토막났습니다! 이길 수 있으시죠?"
 
 #. STRINGS.REFORGED.WAVESETS.sandbox.name
 msgctxt "STRINGS.REFORGED.WAVESETS.sandbox.name"
 msgid "Sandbox"
-msgstr ""
+msgstr "샌드박스"
 
 #. STRINGS.REFORGED.WAVESETS.sandbox.desc
 msgctxt "STRINGS.REFORGED.WAVESETS.sandbox.desc"
 msgid "Play around with all the mobs and items in the Forge!"
-msgstr ""
+msgstr "연마장에 있는 모든 적과 물건들을 가지고 놀아보세요!"
 
 #. STRINGS.REFORGED.WAVESETS.randomized.name
 msgctxt "STRINGS.REFORGED.WAVESETS.randomized.name"
 msgid "Randomized"
-msgstr ""
+msgstr "무작위"
 
 #. STRINGS.REFORGED.WAVESETS.randomized.desc
 msgctxt "STRINGS.REFORGED.WAVESETS.randomized.desc"
 msgid "Who knows how this run will turn out!"
-msgstr ""
+msgstr "이 경기가 어떻게 될지 누가 알겠어요!"
 
 #. STRINGS.REFORGED.RLGL.GREENLIGHT
 msgctxt "STRINGS.REFORGED.RLGL.GREENLIGHT"
 msgid "GREEN LIGHT!"
-msgstr ""
+msgstr "GREEN LIGHT!"
 
 #. STRINGS.REFORGED.RLGL.GREENLIGHT_SPEECH.1
 msgctxt "STRINGS.REFORGED.RLGL.GREENLIGHT_SPEECH.1"
 msgid "GREEN LIGHT!"
-msgstr ""
+msgstr "초록불!"
 
 #. STRINGS.REFORGED.RLGL.GREENLIGHT_FAKEOUT_BANTER.1
 msgctxt "STRINGS.REFORGED.RLGL.GREENLIGHT_FAKEOUT_BANTER.1"
 msgid "GREEN FLIGHT"
-msgstr ""
+msgstr "초록풀"
 
 #. STRINGS.REFORGED.RLGL.GREENLIGHT_FAKEOUT_BANTER.2
 msgctxt "STRINGS.REFORGED.RLGL.GREENLIGHT_FAKEOUT_BANTER.2"
 msgid "GREEN SIGHT"
-msgstr ""
+msgstr "초록눈"
 
 #. STRINGS.REFORGED.RLGL.GREENLIGHT_FAKEOUT_BANTER.3
 msgctxt "STRINGS.REFORGED.RLGL.GREENLIGHT_FAKEOUT_BANTER.3"
 msgid "GREEN FIGHT"
-msgstr ""
+msgstr "초록뿔"
 
 #. STRINGS.REFORGED.RLGL.GREENLIGHT_FAKEOUT_BANTER.4
 msgctxt "STRINGS.REFORGED.RLGL.GREENLIGHT_FAKEOUT_BANTER.4"
 msgid "GREEN LITE"
-msgstr ""
+msgstr "초록룰"
 
 #. STRINGS.REFORGED.RLGL.GREENLIGHT_FAKEOUT_BANTER.5
 msgctxt "STRINGS.REFORGED.RLGL.GREENLIGHT_FAKEOUT_BANTER.5"
 msgid "GREEN MIGHT"
-msgstr ""
+msgstr "초록물"
 
 #. STRINGS.REFORGED.RLGL.GREENLIGHT_FAKEOUT_BANTER.6
 msgctxt "STRINGS.REFORGED.RLGL.GREENLIGHT_FAKEOUT_BANTER.6"
 msgid "GREEN RIGHT"
-msgstr ""
+msgstr "초록줄"
 
 #. STRINGS.REFORGED.RLGL.GREENLIGHT_FAKEOUT_BANTER.7
 msgctxt "STRINGS.REFORGED.RLGL.GREENLIGHT_FAKEOUT_BANTER.7"
 msgid "GREEN KITE"
-msgstr ""
+msgstr "초록뜰"
 
 #. STRINGS.REFORGED.RLGL.GREENLIGHT_FAKEOUT_BANTER.8
 msgctxt "STRINGS.REFORGED.RLGL.GREENLIGHT_FAKEOUT_BANTER.8"
 msgid "GREEN WHITE"
-msgstr ""
+msgstr "초록꿀"
 
 #. STRINGS.REFORGED.RLGL.REDLIGHT
 msgctxt "STRINGS.REFORGED.RLGL.REDLIGHT"
 msgid "RED LIGHT!"
-msgstr ""
+msgstr "RED LIGHT!"
 
 #. STRINGS.REFORGED.RLGL.REDLIGHT_SPEECH.1
 msgctxt "STRINGS.REFORGED.RLGL.REDLIGHT_SPEECH.1"
 msgid "RED LIGHT!"
-msgstr ""
+msgstr "빨간불!"
 
 #. STRINGS.REFORGED.RLGL.REDLIGHT_FAKEOUT_BANTER.1
 msgctxt "STRINGS.REFORGED.RLGL.REDLIGHT_FAKEOUT_BANTER.1"
 msgid "RED FLIGHT"
-msgstr ""
+msgstr "빨간풀"
 
 #. STRINGS.REFORGED.RLGL.REDLIGHT_FAKEOUT_BANTER.2
 msgctxt "STRINGS.REFORGED.RLGL.REDLIGHT_FAKEOUT_BANTER.2"
 msgid "RED SIGHT"
-msgstr ""
+msgstr "빨간눈"
 
 #. STRINGS.REFORGED.RLGL.REDLIGHT_FAKEOUT_BANTER.3
 msgctxt "STRINGS.REFORGED.RLGL.REDLIGHT_FAKEOUT_BANTER.3"
 msgid "RED FIGHT"
-msgstr ""
+msgstr "빨간풀"
 
 #. STRINGS.REFORGED.RLGL.REDLIGHT_FAKEOUT_BANTER.4
 msgctxt "STRINGS.REFORGED.RLGL.REDLIGHT_FAKEOUT_BANTER.4"
 msgid "RED LITE"
-msgstr ""
+msgstr "빨간룰"
 
 #. STRINGS.REFORGED.RLGL.REDLIGHT_FAKEOUT_BANTER.5
 msgctxt "STRINGS.REFORGED.RLGL.REDLIGHT_FAKEOUT_BANTER.5"
 msgid "RED MIGHT"
-msgstr ""
+msgstr "빨간물"
 
 #. STRINGS.REFORGED.RLGL.REDLIGHT_FAKEOUT_BANTER.6
 msgctxt "STRINGS.REFORGED.RLGL.REDLIGHT_FAKEOUT_BANTER.6"
 msgid "RED RIGHT"
-msgstr ""
+msgstr "빨간줄"
 
 #. STRINGS.REFORGED.RLGL.REDLIGHT_FAKEOUT_BANTER.7
 msgctxt "STRINGS.REFORGED.RLGL.REDLIGHT_FAKEOUT_BANTER.7"
 msgid "RED KITE"
-msgstr ""
+msgstr "빨간뜰"
 
 #. STRINGS.REFORGED.RLGL.REDLIGHT_FAKEOUT_BANTER.8
 msgctxt "STRINGS.REFORGED.RLGL.REDLIGHT_FAKEOUT_BANTER.8"
 msgid "RED WHITE"
-msgstr ""
+msgstr "빨간꿀"
 
 #. STRINGS.REFORGED.RLGL.ORANGELIGHT
 msgctxt "STRINGS.REFORGED.RLGL.ORANGELIGHT"
 msgid "ORANGE LIGHT!"
-msgstr ""
+msgstr "ORANGE LIGHT!"
 
 #. STRINGS.REFORGED.RLGL.ORANGELIGHT_SPEECH.1
 msgctxt "STRINGS.REFORGED.RLGL.ORANGELIGHT_SPEECH.1"
 msgid "ORANGE LIGHT!"
-msgstr ""
+msgstr "주황불!"
 
 #. STRINGS.REFORGED.RLGL.ORANGELIGHT_FAKEOUT_BANTER.1
 msgctxt "STRINGS.REFORGED.RLGL.ORANGELIGHT_FAKEOUT_BANTER.1"
 msgid "ORANGE FLIGHT"
-msgstr ""
+msgstr "주황풀"
 
 #. STRINGS.REFORGED.RLGL.ORANGELIGHT_FAKEOUT_BANTER.2
 msgctxt "STRINGS.REFORGED.RLGL.ORANGELIGHT_FAKEOUT_BANTER.2"
 msgid "ORANGE SIGHT"
-msgstr ""
+msgstr "주황눈"
 
 #. STRINGS.REFORGED.RLGL.ORANGELIGHT_FAKEOUT_BANTER.3
 msgctxt "STRINGS.REFORGED.RLGL.ORANGELIGHT_FAKEOUT_BANTER.3"
 msgid "ORANGE FIGHT"
-msgstr ""
+msgstr "주황뿔"
 
 #. STRINGS.REFORGED.RLGL.ORANGELIGHT_FAKEOUT_BANTER.4
 msgctxt "STRINGS.REFORGED.RLGL.ORANGELIGHT_FAKEOUT_BANTER.4"
 msgid "ORANGE LITE"
-msgstr ""
+msgstr "주황룰"
 
 #. STRINGS.REFORGED.RLGL.ORANGELIGHT_FAKEOUT_BANTER.5
 msgctxt "STRINGS.REFORGED.RLGL.ORANGELIGHT_FAKEOUT_BANTER.5"
 msgid "ORANGE MIGHT"
-msgstr ""
+msgstr "주황물"
 
 #. STRINGS.REFORGED.RLGL.ORANGELIGHT_FAKEOUT_BANTER.6
 msgctxt "STRINGS.REFORGED.RLGL.ORANGELIGHT_FAKEOUT_BANTER.6"
 msgid "ORANGE RIGHT"
-msgstr ""
+msgstr "주황줄"
 
 #. STRINGS.REFORGED.RLGL.ORANGELIGHT_FAKEOUT_BANTER.7
 msgctxt "STRINGS.REFORGED.RLGL.ORANGELIGHT_FAKEOUT_BANTER.7"
 msgid "ORANGE KITE"
-msgstr ""
+msgstr "주황뜰"
 
 #. STRINGS.REFORGED.RLGL.ORANGELIGHT_FAKEOUT_BANTER.8
 msgctxt "STRINGS.REFORGED.RLGL.ORANGELIGHT_FAKEOUT_BANTER.8"
 msgid "ORANGE WHITE"
-msgstr ""
+msgstr "주황꿀"
 
 #. STRINGS.REFORGED.RLGL.BLUELIGHT
 msgctxt "STRINGS.REFORGED.RLGL.BLUELIGHT"
 msgid "BLUE LIGHT!"
-msgstr ""
+msgstr "BLUE LIGHT!"
 
 #. STRINGS.REFORGED.RLGL.BLUELIGHT_SPEECH.1
 msgctxt "STRINGS.REFORGED.RLGL.BLUELIGHT_SPEECH.1"
 msgid "BLUE LIGHT!"
-msgstr ""
+msgstr "파랑불!"
 
 #. STRINGS.REFORGED.RLGL.BLUELIGHT_FAKEOUT_BANTER.1
 msgctxt "STRINGS.REFORGED.RLGL.BLUELIGHT_FAKEOUT_BANTER.1"
 msgid "BLUE FLIGHT"
-msgstr ""
+msgstr "파랑풀"
 
 #. STRINGS.REFORGED.RLGL.BLUELIGHT_FAKEOUT_BANTER.2
 msgctxt "STRINGS.REFORGED.RLGL.BLUELIGHT_FAKEOUT_BANTER.2"
 msgid "BLUE SIGHT"
-msgstr ""
+msgstr "파랑눈"
 
 #. STRINGS.REFORGED.RLGL.BLUELIGHT_FAKEOUT_BANTER.3
 msgctxt "STRINGS.REFORGED.RLGL.BLUELIGHT_FAKEOUT_BANTER.3"
 msgid "BLUE FIGHT"
-msgstr ""
+msgstr "파랑뿔"
 
 #. STRINGS.REFORGED.RLGL.BLUELIGHT_FAKEOUT_BANTER.4
 msgctxt "STRINGS.REFORGED.RLGL.BLUELIGHT_FAKEOUT_BANTER.4"
 msgid "BLUE LITE"
-msgstr ""
+msgstr "파랑룰"
 
 #. STRINGS.REFORGED.RLGL.BLUELIGHT_FAKEOUT_BANTER.5
 msgctxt "STRINGS.REFORGED.RLGL.BLUELIGHT_FAKEOUT_BANTER.5"
 msgid "BLUE MIGHT"
-msgstr ""
+msgstr "파랑물"
 
 #. STRINGS.REFORGED.RLGL.BLUELIGHT_FAKEOUT_BANTER.6
 msgctxt "STRINGS.REFORGED.RLGL.BLUELIGHT_FAKEOUT_BANTER.6"
 msgid "BLUE RIGHT"
-msgstr ""
+msgstr "파랑줄"
 
 #. STRINGS.REFORGED.RLGL.BLUELIGHT_FAKEOUT_BANTER.7
 msgctxt "STRINGS.REFORGED.RLGL.BLUELIGHT_FAKEOUT_BANTER.7"
 msgid "BLUE KITE"
-msgstr ""
+msgstr "파랑뜰"
 
 #. STRINGS.REFORGED.RLGL.BLUELIGHT_FAKEOUT_BANTER.8
 msgctxt "STRINGS.REFORGED.RLGL.BLUELIGHT_FAKEOUT_BANTER.8"
 msgid "BLUE WHITE"
-msgstr ""
+msgstr "파랑꿀"
 
 #. STRINGS.REFORGED.RLGL.NOLIGHT
 msgctxt "STRINGS.REFORGED.RLGL.NOLIGHT"
 msgid "NO LIGHT!"
-msgstr ""
+msgstr "NO LIGHT!"
 
 #. STRINGS.REFORGED.RLGL.NOLIGHT_SPEECH.1
 msgctxt "STRINGS.REFORGED.RLGL.NOLIGHT_SPEECH.1"
 msgid "NO LIGHT!"
-msgstr ""
+msgstr "암흑!"
 
 #. STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.1
 msgctxt "STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.1"
 msgid "NO FLIGHT"
-msgstr ""
+msgstr "없는풀"
 
 #. STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.2
 msgctxt "STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.2"
 msgid "NO SIGHT"
-msgstr ""
+msgstr "없는눈"
 
 #. STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.3
 msgctxt "STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.3"
 msgid "NO FIGHT"
-msgstr ""
+msgstr "없는뿔"
 
 #. STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.4
 msgctxt "STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.4"
 msgid "NO LITE"
-msgstr ""
+msgstr "없는룰"
 
 #. STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.5
 msgctxt "STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.5"
 msgid "NO MIGHT"
-msgstr ""
+msgstr "없는물"
 
 #. STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.6
 msgctxt "STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.6"
 msgid "NO RIGHT"
-msgstr ""
+msgstr "없는줄"
 
 #. STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.7
 msgctxt "STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.7"
 msgid "NO KITE"
-msgstr ""
+msgstr "없는뜰"
 
 #. STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.8
 msgctxt "STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.8"
 msgid "NO WHITE"
-msgstr ""
+msgstr "없는꿀"
 
 #. STRINGS.REFORGED.USERCOMMANDS.START_VOTE_TITLE
 msgctxt "STRINGS.REFORGED.USERCOMMANDS.START_VOTE_TITLE"
@@ -3761,17 +3763,17 @@ msgstr "사용자의 경험치 갱신"
 #. STRINGS.REFORGED.USERCOMMANDS.UPDATE_USER_EXP_DESC
 msgctxt "STRINGS.REFORGED.USERCOMMANDS.UPDATE_USER_EXP_DESC"
 msgid "Let the server know what your total exp is!"
-msgstr ""
+msgstr "당신의 경험치가 얼마인지 서버가 알게 합니다!"
 
 #. STRINGS.REFORGED.USERCOMMANDS.UPDATE_USERS_FRIENDS_TITLE
 msgctxt "STRINGS.REFORGED.USERCOMMANDS.UPDATE_USERS_FRIENDS_TITLE"
 msgid "Update Users Friend Count"
-msgstr ""
+msgstr "사용자의 친구 수 업데이트"
 
 #. STRINGS.REFORGED.USERCOMMANDS.UPDATE_USERS_FRIENDS_DESC
 msgctxt "STRINGS.REFORGED.USERCOMMANDS.UPDATE_USERS_FRIENDS_DESC"
 msgid "Let the server know how many of your friends are here!"
-msgstr ""
+msgstr "당신의 친구가 몇 명인지 서버에 알려주세요!"
 
 #. STRINGS.REFORGED.VOTE.TITLE
 msgctxt "STRINGS.REFORGED.VOTE.TITLE"
@@ -3796,7 +3798,7 @@ msgstr "투표가 취소되었습니다!"
 #. STRINGS.REFORGED.VOTE.SETTINGS_DESC
 msgctxt "STRINGS.REFORGED.VOTE.SETTINGS_DESC"
 msgid "%s wants to make these changes to the settings:"
-msgstr ""
+msgstr "%s wants to make these changes to the settings:"
 
 #. STRINGS.REFORGED.VOTE.SETTINGS_INFO
 msgctxt "STRINGS.REFORGED.VOTE.SETTINGS_INFO"
@@ -3816,7 +3818,7 @@ msgstr "설정이 바뀌지 않았습니다!"
 #. STRINGS.REFORGED.VOTE.SETTINGS_SUCCESS
 msgctxt "STRINGS.REFORGED.VOTE.SETTINGS_SUCCESS"
 msgid "Settings have been changed!"
-msgstr ""
+msgstr "일어나, 내 부하들!"
 
 #. STRINGS.REFORGED.VOTE.KICK_TITLE
 msgctxt "STRINGS.REFORGED.VOTE.KICK_TITLE"
@@ -3866,12 +3868,12 @@ msgstr "강제 시작이 취소되었습니다!"
 #. STRINGS.REFORGED.ADMIN_COMMANDS.SPAWNING_ENT
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.SPAWNING_ENT"
 msgid "Spawning %d %s."
-msgstr ""
+msgstr "Spawning %d %s."
 
 #. STRINGS.REFORGED.ADMIN_COMMANDS.EQUIPPING_ITEM
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.EQUIPPING_ITEM"
 msgid "Equipping %s."
-msgstr ""
+msgstr "Equipping %s."
 
 #. STRINGS.REFORGED.ADMIN_COMMANDS.ACTIVATING_BATTLECRY
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.ACTIVATING_BATTLECRY"
@@ -3916,7 +3918,7 @@ msgstr "나 완전히 반짝반짝해!"
 #. STRINGS.REFORGED.ADMIN_COMMANDS.SHADOWS
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.SHADOWS"
 msgid "Arise my minions!"
-msgstr ""
+msgstr "일어나, 내 부하들!"
 
 #. STRINGS.REFORGED.ADMIN_COMMANDS.SHOCK
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.SHOCK"
@@ -3926,7 +3928,7 @@ msgstr "날 만지지 마!"
 #. STRINGS.REFORGED.ADMIN_COMMANDS.PETRIFY
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.PETRIFY"
 msgid "Giving you that cold as stone look!"
-msgstr ""
+msgstr "돌처럼 차갑게 구시는군요!"
 
 #. STRINGS.REFORGED.ADMIN_COMMANDS.REVIVE
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.REVIVE"
@@ -3936,12 +3938,12 @@ msgstr "내 영혼이 돌아온다!"
 #. STRINGS.REFORGED.ADMIN_COMMANDS.ROUND_AND_WAVE_SELECT
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.ROUND_AND_WAVE_SELECT"
 msgid "Starting Round %d, Wave %d"
-msgstr ""
+msgstr "Starting Round %d, Wave %d"
 
 #. STRINGS.REFORGED.ADMIN_COMMANDS.RESTART_ROUND
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.RESTART_ROUND"
 msgid "Restarting Round %d"
-msgstr ""
+msgstr "Restarting Round %d"
 
 #. STRINGS.REFORGED.ADMIN_COMMANDS.ENABLE_WAVES
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.ENABLE_WAVES"
@@ -3966,7 +3968,7 @@ msgstr "나 독 걸렸어!"
 #. STRINGS.REFORGED.ADMIN_COMMANDS.ADJUST_MUTATOR
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.ADJUST_MUTATOR"
 msgid "Adjusting %s to %s"
-msgstr ""
+msgstr "Adjusting %s to %s"
 
 #. STRINGS.REFORGED.unknown
 msgctxt "STRINGS.REFORGED.unknown"

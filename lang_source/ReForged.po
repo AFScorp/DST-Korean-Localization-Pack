@@ -1,31 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0.1\n"
+
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona"
-msgid "*All ability cooldowns are 10% faster.\\n\\n\\n\\nExpertise:\\nMelee, Darts, Staves"
+msgid ""
+"*All ability cooldowns are 10% faster.\\n\\n\\n\\nExpertise:\\nMelee, Darts, "
+"Staves"
 msgstr ""
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.warly
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.warly"
-msgid "*Brings bags of spice that can induce multiple effects to enemies!\\n*Master Chef.\\n*Deals 10% more healing.\\nExpertise:\\nMelee, Staves"
+msgid ""
+"*Brings bags of spice that can induce multiple effects to enemies!\\n*Master "
+"Chef.\\n*Deals 10% more healing.\\nExpertise:\\nMelee, Staves"
 msgstr ""
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wortox
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wortox"
-msgid "*Spawns with a soul hopping Soul Scepter.\\n*Passively sucks the souls of his foes.\\n\\nExpertise:\\nMelee"
+msgid ""
+"*Spawns with a soul hopping Soul Scepter.\\n*Passively sucks the souls of "
+"his foes.\\n\\nExpertise:\\nMelee"
 msgstr ""
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wormwood
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wormwood"
-msgid "*Spawns with a plant-based blowdart.\\n*Blossoms over time as long as he avoids damage.\\n\\nExpertise:\\nDarts, Staves"
+msgid ""
+"*Spawns with a plant-based blowdart.\\n*Blossoms over time as long as he "
+"avoids damage.\\n\\nExpertise:\\nDarts, Staves"
 msgstr ""
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wurt
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wurt"
-msgid "*Can use every weapon available.\\n*Melee attacks makes foes wet, making them slow and vulnerable to electric damage.\\nExpertise:\\nMelee, Darts, Staves, Books"
+msgid ""
+"*Can use every weapon available.\\n*Melee attacks makes foes wet, making "
+"them slow and vulnerable to electric damage.\\nExpertise:\\nMelee, Darts, "
+"Staves, Books"
 msgstr ""
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.walter
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.walter"
-msgid "*Brings his friend Woby.\\n*Woby can reduce cooldowns as support.\\nExpertise:\\nDarts"
+msgid ""
+"*Brings his friend Woby.\\n*Woby can reduce cooldowns as support."
+"\\nExpertise:\\nDarts"
 msgstr ""
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.spectator
@@ -43,10 +70,7 @@ msgctxt "STRINGS.CHARACTER_TITLES.spectator"
 msgid "The Spy"
 msgstr ""
 
----------------------------
 # -- LAVAARENA_SEEDDARTS --
----------------------------
-
 #. STRINGS.NAMES.LAVAARENA_SEEDDARTS
 msgctxt "STRINGS.NAMES.LAVAARENA_SEEDDARTS"
 msgid "Seedling Darts"
@@ -132,10 +156,7 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.LAVAARENA_SEEDDARTS"
 msgid "Not a vegetable...?"
 msgstr ""
 
---------------------
 # -- MEAN_FLYTRAP --
---------------------
-
 #. STRINGS.NAMES.MEAN_FLYTRAP
 msgctxt "STRINGS.NAMES.MEAN_FLYTRAP"
 msgid "Seedling"
@@ -216,10 +237,7 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MEAN_FLYTRAP"
 msgid "It's a leaf friend! Glort!"
 msgstr ""
 
----------------------------
 # -- LAVAARENA_SEEDDART2 --
----------------------------
-
 #. STRINGS.NAMES.LAVAARENA_SEEDDART2
 msgctxt "STRINGS.NAMES.LAVAARENA_SEEDDART2"
 msgid "Scattertooth"
@@ -305,10 +323,7 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.LAVAARENA_SEEDDART2"
 msgid "Should be careful with this. Not gonna."
 msgstr ""
 
----------------------
 # -- ADULT_FLYTRAP --
----------------------
-
 #. STRINGS.NAMES.ADULT_FLYTRAP
 msgctxt "STRINGS.NAMES.ADULT_FLYTRAP"
 msgid "Snaptooth"
@@ -389,10 +404,7 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.ADULT_FLYTRAP"
 msgid "No bite me!"
 msgstr ""
 
--------------------------
 # -- LAVAARENA_SPATULA --
--------------------------
-
 #. STRINGS.NAMES.LAVAARENA_SPATULA
 msgctxt "STRINGS.NAMES.LAVAARENA_SPATULA"
 msgid "Spatula"
@@ -478,10 +490,7 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.LAVAARENA_SPATULA"
 msgid "Food fight, florpt!"
 msgstr ""
 
----------------------
 # -- FORGE_COOKPOT --
----------------------
-
 #. STRINGS.NAMES.FORGE_COOKPOT
 msgctxt "STRINGS.NAMES.FORGE_COOKPOT"
 msgid "Crockpot"
@@ -562,19 +571,13 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.FORGE_COOKPOT"
 msgid "Food for us soon!"
 msgstr ""
 
-------------------
 # -- SPICE_BOMB --
-------------------
-
 #. STRINGS.NAMES.SPICE_BOMB
 msgctxt "STRINGS.NAMES.SPICE_BOMB"
 msgid "Spice Bomb"
 msgstr ""
 
-----------------------
 # -- TELEPORT_STAFF --
-----------------------
-
 #. STRINGS.NAMES.TELEPORT_STAFF
 msgctxt "STRINGS.NAMES.TELEPORT_STAFF"
 msgid "Soul Scepter"
@@ -660,10 +663,7 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.TELEPORT_STAFF"
 msgid "It tickles to use, flort!"
 msgstr ""
 
---------------------------
 # -- LAVAARENA_GAUNTLET --
---------------------------
-
 #. STRINGS.NAMES.LAVAARENA_GAUNTLET
 msgctxt "STRINGS.NAMES.LAVAARENA_GAUNTLET"
 msgid "Gauntlet"
@@ -749,10 +749,7 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.LAVAARENA_GAUNTLET"
 msgid "We can use the gont-lit."
 msgstr ""
 
----------------------
 # -- FORGE_TRIDENT --
----------------------
-
 #. STRINGS.NAMES.FORGE_TRIDENT
 msgctxt "STRINGS.NAMES.FORGE_TRIDENT"
 msgid "Trident"
@@ -838,10 +835,7 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.FORGE_TRIDENT"
 msgid "A weapon of the merfolk."
 msgstr ""
 
-------------------
 # -- MERM_GUARD --
-------------------
-
 #. STRINGS.NAMES.MERM_GUARD
 msgctxt "STRINGS.NAMES.MERM_GUARD"
 msgid "Merm Guard"
@@ -922,10 +916,7 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MERM_GUARD"
 msgid "Fight, for king!"
 msgstr ""
 
--------------------
 # -- PORTALSTAFF --
--------------------
-
 #. STRINGS.NAMES.PORTALSTAFF
 msgctxt "STRINGS.NAMES.PORTALSTAFF"
 msgid "Backtrek Staff"
@@ -1006,10 +997,7 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.PORTALSTAFF"
 msgid "I must resist chewing on this one for now."
 msgstr ""
 
--------------
 # -- NAMES --
--------------
-
 #. STRINGS.NAMES.PITPIG
 msgctxt "STRINGS.NAMES.PITPIG"
 msgid "Pit Pig"
@@ -1155,19 +1143,13 @@ msgctxt "STRINGS.NAMES.BABY_BEN"
 msgid "Baby Ben"
 msgstr ""
 
-----------------------
 # -- EXTENDED NAMES --
-----------------------
-
 #. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_CHEFHAT
 msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_CHEFHAT"
 msgid "Chef Mastery Buff"
 msgstr ""
 
-----------
 # -- UI --
-----------
-
 #. STRINGS.CHARACTER_DETAILS.FORGE_STARTING_ITEMS_TITLE
 msgctxt "STRINGS.CHARACTER_DETAILS.FORGE_STARTING_ITEMS_TITLE"
 msgid "Enters the Forge With"
@@ -1185,7 +1167,9 @@ msgstr ""
 
 #. STRINGS.UI.LOBBYSCREEN.SAYSTART
 msgctxt "STRINGS.UI.LOBBYSCREEN.SAYSTART"
-msgid "Forcing Start in %s seconds. If you don't have a character selected before the countdown is over, then a random character will be selected for you."
+msgid ""
+"Forcing Start in %s seconds. If you don't have a character selected before "
+"the countdown is over, then a random character will be selected for you."
 msgstr ""
 
 #. STRINGS.UI.LOBBYSCREEN.SAYCANCEL
@@ -1208,10 +1192,7 @@ msgctxt "STRINGS.UI.LOBBYSCREEN.SERVER_ANNOUNCEMENT_NAME"
 msgid "SERVER"
 msgstr ""
 
------------------
 # -- XP SCREEN --
------------------
-
 #. STRINGS.UI.WXPLOBBYPANEL.LEVEL
 msgctxt "STRINGS.UI.WXPLOBBYPANEL.LEVEL"
 msgid "Level {val}"
@@ -1377,10 +1358,7 @@ msgctxt "STRINGS.UI.WXP_DETAILS.JOINED_MIDMATCH"
 msgid "Late Bloomer"
 msgstr ""
 
--------------------------------
 # -- DETAILED SUMMARY SCREEN --
--------------------------------
-
 #. STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.SHOW
 msgctxt "STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.SHOW"
 msgid "View Team Stats"
@@ -1397,12 +1375,15 @@ msgid "Go Back to MVP Badges"
 msgstr ""
 
 #. STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.total_friendly_fire_damage_taken
-msgctxt "STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.total_friendly_fire_damage_taken"
+msgctxt ""
+"STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS."
+"total_friendly_fire_damage_taken"
 msgid "Total Friendly Fire Damage Taken"
 msgstr ""
 
 #. STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.healingreceived
-msgctxt "STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.healingreceived"
+msgctxt ""
+"STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.healingreceived"
 msgid "Healing Recieved"
 msgstr ""
 
@@ -1412,7 +1393,8 @@ msgid "Battle Standards Destroyed"
 msgstr ""
 
 #. STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.pet_damagetaken
-msgctxt "STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.pet_damagetaken"
+msgctxt ""
+"STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.pet_damagetaken"
 msgid "Pet Damage Taken"
 msgstr ""
 
@@ -1422,7 +1404,8 @@ msgid "Allies Revived"
 msgstr ""
 
 #. STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.total_damagetaken
-msgctxt "STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.total_damagetaken"
+msgctxt ""
+"STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.total_damagetaken"
 msgid "Damage Taken"
 msgstr ""
 
@@ -1442,7 +1425,8 @@ msgid "Snortoises Flipped"
 msgstr ""
 
 #. STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.player_damagedealt
-msgctxt "STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.player_damagedealt"
+msgctxt ""
+"STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.player_damagedealt"
 msgid "Player Damage Dealt"
 msgstr ""
 
@@ -1452,7 +1436,8 @@ msgid "Damage Parried"
 msgstr ""
 
 #. STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.player_damagetaken
-msgctxt "STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.player_damagetaken"
+msgctxt ""
+"STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.player_damagetaken"
 msgid "Player Damage Taken"
 msgstr ""
 
@@ -1477,7 +1462,9 @@ msgid "UNKNOWN"
 msgstr ""
 
 #. STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.total_friendly_fire_damage_dealt
-msgctxt "STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.total_friendly_fire_damage_dealt"
+msgctxt ""
+"STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS."
+"total_friendly_fire_damage_dealt"
 msgid "Total Friendly Fire Damage Dealt"
 msgstr ""
 
@@ -1497,7 +1484,8 @@ msgid "Pet Deaths"
 msgstr ""
 
 #. STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.total_damagedealt
-msgctxt "STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.total_damagedealt"
+msgctxt ""
+"STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.total_damagedealt"
 msgid "Total Damage Dealt"
 msgstr ""
 
@@ -1512,7 +1500,8 @@ msgid "Crowd Control Broken"
 msgstr ""
 
 #. STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.pet_damagedealt
-msgctxt "STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.pet_damagedealt"
+msgctxt ""
+"STRINGS.UI.DETAILEDSUMMARYSCREEN.TEAMSTATS.STATHEADERS.pet_damagedealt"
 msgid "Pet Damage Dealt"
 msgstr ""
 
@@ -1576,10 +1565,7 @@ msgctxt "STRINGS.UI.DETAILEDSUMMARYSCREEN.STATS.TITLES.attack"
 msgid "Attack Stats:"
 msgstr ""
 
-------------------
 # -- ADMIN MENU --
-------------------
-
 #. STRINGS.UI.ADMINMENU.NO_ABILITIES
 msgctxt "STRINGS.UI.ADMINMENU.NO_ABILITIES"
 msgid "No abilities"
@@ -1730,10 +1716,7 @@ msgctxt "STRINGS.UI.ADMINMENU.TABS.FORGE"
 msgid "Forge Admin Commands"
 msgstr ""
 
----------------------------
 # -- GAME SETTINGS PANEL --
----------------------------
-
 #. STRINGS.UI.GAME_SETTINGS_PANEL.WAVESET
 msgctxt "STRINGS.UI.GAME_SETTINGS_PANEL.WAVESET"
 msgid "Waveset"
@@ -1789,19 +1772,13 @@ msgctxt "STRINGS.UI.GAME_SETTINGS_PANEL.GAMETYPE"
 msgid "Gametype"
 msgstr ""
 
--------------------------
 # -- LEADERBOARD PANEL --
--------------------------
-
 #. STRINGS.UI.LEADERBOARD_PANEL.TAB
 msgctxt "STRINGS.UI.LEADERBOARD_PANEL.TAB"
 msgid "Server Leaderboard"
 msgstr ""
 
----------------------
 # -- HISTORY PANEL --
----------------------
-
 #. STRINGS.UI.FORGEHISTORYPANEL.RUN.DEFEAT
 msgctxt "STRINGS.UI.FORGEHISTORYPANEL.RUN.DEFEAT"
 msgid "Defeat!"
@@ -2017,19 +1994,13 @@ msgctxt "STRINGS.UI.FORGEHISTORYPANEL.SORTERS.RUNS_TITLE"
 msgid "Runs"
 msgstr ""
 
---------------------------
 # -- ACHIEVEMENTS PANEL --
---------------------------
-
 #. STRINGS.UI.ACHIEVEMENTS_PANEL.TAB
 msgctxt "STRINGS.UI.ACHIEVEMENTS_PANEL.TAB"
 msgid "Achievements"
 msgstr ""
 
-------------------
 # -- NEWS PANEL --
-------------------
-
 #. STRINGS.UI.NEWS_PANEL.EVENTS.TITLE
 msgctxt "STRINGS.UI.NEWS_PANEL.EVENTS.TITLE"
 msgid "Events"
@@ -2060,10 +2031,7 @@ msgctxt "STRINGS.UI.NEWS_PANEL.PATCH_NOTES"
 msgid "Patch Notes"
 msgstr ""
 
-------------------
 # -- MVP TITLES --
-------------------
-
 #. STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.player_damagedealt
 msgctxt "STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.player_damagedealt"
 msgid "Merciless"
@@ -2105,7 +2073,9 @@ msgid "Spoiled"
 msgstr ""
 
 #. STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.total_friendly_fire_damage_dealt
-msgctxt "STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.total_friendly_fire_damage_dealt"
+msgctxt ""
+"STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES."
+"total_friendly_fire_damage_dealt"
 msgid "Traitor"
 msgstr ""
 
@@ -2120,12 +2090,14 @@ msgid "pet damage taken"
 msgstr ""
 
 #. STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.player_damagedealt
-msgctxt "STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.player_damagedealt"
+msgctxt ""
+"STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.player_damagedealt"
 msgid "player damage dealt"
 msgstr ""
 
 #. STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.player_damagetaken
-msgctxt "STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.player_damagetaken"
+msgctxt ""
+"STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.player_damagetaken"
 msgid "player damage taken"
 msgstr ""
 
@@ -2170,19 +2142,20 @@ msgid "I cheated not only the game, but myself."
 msgstr ""
 
 #. STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_friendly_fire_damage_dealt
-msgctxt "STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_friendly_fire_damage_dealt"
+msgctxt ""
+"STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS."
+"total_friendly_fire_damage_dealt"
 msgid "friendly fire damage dealt"
 msgstr ""
 
 #. STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_friendly_fire_damage_taken
-msgctxt "STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_friendly_fire_damage_taken"
+msgctxt ""
+"STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS."
+"total_friendly_fire_damage_taken"
 msgid "friendly fire damage taken"
 msgstr ""
 
------------------
 # -- GAMETYPES --
------------------
-
 #. STRINGS.REFORGED.GAMETYPES.rlgl.name
 msgctxt "STRINGS.REFORGED.GAMETYPES.rlgl.name"
 msgid "RLGLBLOL"
@@ -2213,10 +2186,7 @@ msgctxt "STRINGS.REFORGED.GAMETYPES.forge.desc"
 msgid "Defeat all enemies to Forge a path to victory!"
 msgstr ""
 
-----------------------
 # -- ADMIN COMMANDS --
-----------------------
-
 #. STRINGS.REFORGED.ADMIN_COMMANDS.REVIVE
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.REVIVE"
 msgid "My soul returns!"
@@ -2322,10 +2292,7 @@ msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.OVER_9000"
 msgid "My power level is OVER 9000!"
 msgstr ""
 
----------------
 # -- WEAPONS --
----------------
-
 #. STRINGS.REFORGED.WEAPONS.RILEDLUCY.ABILITIES.THROW.NAME
 msgctxt "STRINGS.REFORGED.WEAPONS.RILEDLUCY.ABILITIES.THROW.NAME"
 msgid "Throw"
@@ -2407,12 +2374,14 @@ msgid "Don't shake it!"
 msgstr ""
 
 #. STRINGS.REFORGED.WEAPONS.LAVAARENA_SEEDDART2.ABILITIES.PLANT_SNAPTOOTH.NAME
-msgctxt "STRINGS.REFORGED.WEAPONS.LAVAARENA_SEEDDART2.ABILITIES.PLANT_SNAPTOOTH.NAME"
+msgctxt ""
+"STRINGS.REFORGED.WEAPONS.LAVAARENA_SEEDDART2.ABILITIES.PLANT_SNAPTOOTH.NAME"
 msgid "Plant Snaptooth"
 msgstr ""
 
 #. STRINGS.REFORGED.WEAPONS.LAVAARENA_SEEDDART2.ABILITIES.PLANT_SNAPTOOTH.DESC
-msgctxt "STRINGS.REFORGED.WEAPONS.LAVAARENA_SEEDDART2.ABILITIES.PLANT_SNAPTOOTH.DESC"
+msgctxt ""
+"STRINGS.REFORGED.WEAPONS.LAVAARENA_SEEDDART2.ABILITIES.PLANT_SNAPTOOTH.DESC"
 msgid "Grow a rooted Snaptooth to chew up your enemies."
 msgstr ""
 
@@ -2507,12 +2476,14 @@ msgid "Don't burn your tongue!"
 msgstr ""
 
 #. STRINGS.REFORGED.WEAPONS.POCKETWATCH_REFORGED.ABILITIES.STOP_TIME.NAME
-msgctxt "STRINGS.REFORGED.WEAPONS.POCKETWATCH_REFORGED.ABILITIES.STOP_TIME.NAME"
+msgctxt ""
+"STRINGS.REFORGED.WEAPONS.POCKETWATCH_REFORGED.ABILITIES.STOP_TIME.NAME"
 msgid "Stop Time"
 msgstr ""
 
 #. STRINGS.REFORGED.WEAPONS.POCKETWATCH_REFORGED.ABILITIES.STOP_TIME.DESC
-msgctxt "STRINGS.REFORGED.WEAPONS.POCKETWATCH_REFORGED.ABILITIES.STOP_TIME.DESC"
+msgctxt ""
+"STRINGS.REFORGED.WEAPONS.POCKETWATCH_REFORGED.ABILITIES.STOP_TIME.DESC"
 msgid "Freeze your enemies in their most embarrassing moments."
 msgstr ""
 
@@ -2642,9 +2613,20 @@ msgid "Summon Seedling"
 msgstr ""
 
 #. STRINGS.REFORGED.WEAPONS.SEEDLINGTOME.ABILITIES.SUMMON_SEEDLING.DESC
+#, fuzzy
+#| msgid ""
 msgctxt "STRINGS.REFORGED.WEAPONS.SEEDLINGTOME.ABILITIES.SUMMON_SEEDLING.DESC"
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. STRINGS.REFORGED.WEAPONS.SEEDLINGTOME.NAME
 msgctxt "STRINGS.REFORGED.WEAPONS.SEEDLINGTOME.NAME"
@@ -2652,9 +2634,20 @@ msgid "Seedling Tome"
 msgstr ""
 
 #. STRINGS.REFORGED.WEAPONS.SEEDLINGTOME.DESC
+#, fuzzy
+#| msgid ""
 msgctxt "STRINGS.REFORGED.WEAPONS.SEEDLINGTOME.DESC"
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. STRINGS.REFORGED.WEAPONS.LAVAARENA_SPATULA.ABILITIES.COOK.NAME
 msgctxt "STRINGS.REFORGED.WEAPONS.LAVAARENA_SPATULA.ABILITIES.COOK.NAME"
@@ -2697,12 +2690,14 @@ msgid "Summon an ancient ally."
 msgstr ""
 
 #. STRINGS.REFORGED.WEAPONS.LAVAARENA_SEEDDARTS.ABILITIES.PLANT_SEEDLING.NAME
-msgctxt "STRINGS.REFORGED.WEAPONS.LAVAARENA_SEEDDARTS.ABILITIES.PLANT_SEEDLING.NAME"
+msgctxt ""
+"STRINGS.REFORGED.WEAPONS.LAVAARENA_SEEDDARTS.ABILITIES.PLANT_SEEDLING.NAME"
 msgid "Plant Seedling"
 msgstr ""
 
 #. STRINGS.REFORGED.WEAPONS.LAVAARENA_SEEDDARTS.ABILITIES.PLANT_SEEDLING.DESC
-msgctxt "STRINGS.REFORGED.WEAPONS.LAVAARENA_SEEDDARTS.ABILITIES.PLANT_SEEDLING.DESC"
+msgctxt ""
+"STRINGS.REFORGED.WEAPONS.LAVAARENA_SEEDDARTS.ABILITIES.PLANT_SEEDLING.DESC"
 msgid "Hastily grow an organic ally."
 msgstr ""
 
@@ -2782,9 +2777,20 @@ msgid "Summon Flytrap"
 msgstr ""
 
 #. STRINGS.REFORGED.WEAPONS.FLYTRAPTOME.ABILITIES.SUMMON_FLYTRAP.DESC
+#, fuzzy
+#| msgid ""
 msgctxt "STRINGS.REFORGED.WEAPONS.FLYTRAPTOME.ABILITIES.SUMMON_FLYTRAP.DESC"
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. STRINGS.REFORGED.WEAPONS.FLYTRAPTOME.NAME
 msgctxt "STRINGS.REFORGED.WEAPONS.FLYTRAPTOME.NAME"
@@ -2792,9 +2798,20 @@ msgid "Flytrap Tome"
 msgstr ""
 
 #. STRINGS.REFORGED.WEAPONS.FLYTRAPTOME.DESC
+#, fuzzy
+#| msgid ""
 msgctxt "STRINGS.REFORGED.WEAPONS.FLYTRAPTOME.DESC"
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. STRINGS.REFORGED.WEAPONS.FORGINGHAMMER.ABILITIES.SLAM.NAME
 msgctxt "STRINGS.REFORGED.WEAPONS.FORGINGHAMMER.ABILITIES.SLAM.NAME"
@@ -2816,10 +2833,7 @@ msgctxt "STRINGS.REFORGED.WEAPONS.FORGINGHAMMER.DESC"
 msgid "Bash some skulls in with this heavy hammer."
 msgstr ""
 
-------------
 # -- VOTE --
-------------
-
 #. STRINGS.REFORGED.VOTE.SETTINGS_TITLE
 msgctxt "STRINGS.REFORGED.VOTE.SETTINGS_TITLE"
 msgid "Vote to change settings!"
@@ -2920,10 +2934,7 @@ msgctxt "STRINGS.REFORGED.VOTE.SETTINGS_FAILED"
 msgid "Settings have not been changed!"
 msgstr ""
 
-------------
 # -- MAPS --
-------------
-
 #. STRINGS.REFORGED.MAPS.lavaarena.name
 msgctxt "STRINGS.REFORGED.MAPS.lavaarena.name"
 msgid "Lava Arena"
@@ -2944,19 +2955,13 @@ msgctxt "STRINGS.REFORGED.MAPS.reforged_tiles_arena.desc"
 msgid "Available Tiles!"
 msgstr ""
 
-------------
 # -- MODS --
-------------
-
 #. STRINGS.REFORGED.MODS.DEFAULT
 msgctxt "STRINGS.REFORGED.MODS.DEFAULT"
 msgid "ReForged"
 msgstr ""
 
-------------
 # -- PETS --
-------------
-
 #. STRINGS.REFORGED.PETS.BABYSPIDER.NAME
 msgctxt "STRINGS.REFORGED.PETS.BABYSPIDER.NAME"
 msgid "Baby Spiders"
@@ -2964,7 +2969,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.PETS.BABYSPIDER.DESC
 msgctxt "STRINGS.REFORGED.PETS.BABYSPIDER.DESC"
-msgid "These cute lil fellas will help you take down foes. They can't be targeted or killed."
+msgid ""
+"These cute lil fellas will help you take down foes. They can't be targeted "
+"or killed."
 msgstr ""
 
 #. STRINGS.REFORGED.PETS.FORGE_BERNIE.NAME
@@ -2974,7 +2981,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.PETS.FORGE_BERNIE.DESC
 msgctxt "STRINGS.REFORGED.PETS.FORGE_BERNIE.DESC"
-msgid "He will draw aggro away from you when you're in danger. Can be revived when fallen."
+msgid ""
+"He will draw aggro away from you when you're in danger. Can be revived when "
+"fallen."
 msgstr ""
 
 #. STRINGS.REFORGED.PETS.ADULT_FLYTRAP.NAME
@@ -2984,7 +2993,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.PETS.ADULT_FLYTRAP.DESC
 msgctxt "STRINGS.REFORGED.PETS.ADULT_FLYTRAP.DESC"
-msgid "This fiend will take large bites out of the competition. They will die from the heat after awhile."
+msgid ""
+"This fiend will take large bites out of the competition. They will die from "
+"the heat after awhile."
 msgstr ""
 
 #. STRINGS.REFORGED.PETS.MERM_GUARD.NAME
@@ -2994,7 +3005,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.PETS.MERM_GUARD.DESC
 msgctxt "STRINGS.REFORGED.PETS.MERM_GUARD.DESC"
-msgid "From the swamp comes the menacing merm guards. They will die from overheating after awhile."
+msgid ""
+"From the swamp comes the menacing merm guards. They will die from "
+"overheating after awhile."
 msgstr ""
 
 #. STRINGS.REFORGED.PETS.FORGE_ABIGAIL.NAME
@@ -3004,7 +3017,8 @@ msgstr ""
 
 #. STRINGS.REFORGED.PETS.FORGE_ABIGAIL.DESC
 msgctxt "STRINGS.REFORGED.PETS.FORGE_ABIGAIL.DESC"
-msgid "Wendy's sister has come to throw the game. Respawns quite awhile after death."
+msgid ""
+"Wendy's sister has come to throw the game. Respawns quite awhile after death."
 msgstr ""
 
 #. STRINGS.REFORGED.PETS.BABY_BEN.NAME
@@ -3034,7 +3048,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.PETS.MEAN_FLYTRAP.DESC
 msgctxt "STRINGS.REFORGED.PETS.MEAN_FLYTRAP.DESC"
-msgid "Wormwood's friends have come to lend a tooth or two. They will die from the heat after awhile."
+msgid ""
+"Wormwood's friends have come to lend a tooth or two. They will die from the "
+"heat after awhile."
 msgstr ""
 
 #. STRINGS.REFORGED.PETS.FORGE_WOBY.NAME
@@ -3047,14 +3063,8 @@ msgctxt "STRINGS.REFORGED.PETS.FORGE_WOBY.DESC"
 msgid "Bark Bark"
 msgstr ""
 
-------------------
 # -- STRUCTURES --
-------------------
-
----------------------
 # -- USER COMMANDS --
----------------------
-
 #. STRINGS.REFORGED.USERCOMMANDS.UPDATE_USER_EXP_TITLE
 msgctxt "STRINGS.REFORGED.USERCOMMANDS.UPDATE_USER_EXP_TITLE"
 msgid "Update User Exp"
@@ -3135,10 +3145,7 @@ msgctxt "STRINGS.REFORGED.BUFF_WDGT.DAMAGER_BUFF"
 msgid "DAMAGER_BUFF"
 msgstr ""
 
--------------
 # -- ARMOR --
--------------
-
 #. STRINGS.REFORGED.ARMOR.REEDTUNIC.NAME
 msgctxt "STRINGS.REFORGED.ARMOR.REEDTUNIC.NAME"
 msgid "Reed Tunic"
@@ -3176,7 +3183,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ARMOR.STEADFASTARMOR.DESC
 msgctxt "STRINGS.REFORGED.ARMOR.STEADFASTARMOR.DESC"
-msgid "Too many rocks! This heavy armor slows you down, but makes you harder to push around."
+msgid ""
+"Too many rocks! This heavy armor slows you down, but makes you harder to "
+"push around."
 msgstr ""
 
 #. STRINGS.REFORGED.ARMOR.JAGGEDGRANDARMOR.NAME
@@ -3254,10 +3263,7 @@ msgctxt "STRINGS.REFORGED.PING_GROUP"
 msgid "Group Up Here!"
 msgstr ""
 
----------------
 # -- ENEMIES --
----------------
-
 #. STRINGS.REFORGED.ENEMIES.BOARILLA.ABILITIES.BUNKER.NAME
 msgctxt "STRINGS.REFORGED.ENEMIES.BOARILLA.ABILITIES.BUNKER.NAME"
 msgid "Bunker"
@@ -3335,7 +3341,8 @@ msgstr ""
 
 #. STRINGS.REFORGED.ENEMIES.BOARRIOR.ABILITIES.REINFORCEMENTS.DESC
 msgctxt "STRINGS.REFORGED.ENEMIES.BOARRIOR.ABILITIES.REINFORCEMENTS.DESC"
-msgid "Claps his weapons together summoning pitpig reinforcements with banners."
+msgid ""
+"Claps his weapons together summoning pitpig reinforcements with banners."
 msgstr ""
 
 #. STRINGS.REFORGED.ENEMIES.BOARRIOR.ABILITIES.DASH.NAME
@@ -3355,7 +3362,8 @@ msgstr ""
 
 #. STRINGS.REFORGED.ENEMIES.BOARRIOR.ABILITIES.SLAM.DESC
 msgctxt "STRINGS.REFORGED.ENEMIES.BOARRIOR.ABILITIES.SLAM.DESC"
-msgid "Slams the ground tearing up the ground that damages any enemy in its path."
+msgid ""
+"Slams the ground tearing up the ground that damages any enemy in its path."
 msgstr ""
 
 #. STRINGS.REFORGED.ENEMIES.BOARRIOR.NAME
@@ -3415,7 +3423,8 @@ msgstr ""
 
 #. STRINGS.REFORGED.ENEMIES.SWINECLOPS.ABILITIES.OFFENSIVE_STANCE.DESC
 msgctxt "STRINGS.REFORGED.ENEMIES.SWINECLOPS.ABILITIES.OFFENSIVE_STANCE.DESC"
-msgid "Can combo punches, can buff itself, can use bellyflop, but moves slower."
+msgid ""
+"Can combo punches, can buff itself, can use bellyflop, but moves slower."
 msgstr ""
 
 #. STRINGS.REFORGED.ENEMIES.SWINECLOPS.ABILITIES.DEFENSIVE_STANCE.NAME
@@ -3439,12 +3448,14 @@ msgid "Pugna's last resort, a ferocious beast imprisoned for how deadly he is."
 msgstr ""
 
 #. STRINGS.REFORGED.ENEMIES.CROCOMMANDER_RAPIDFIRE.ABILITIES.BANNER_SPEED.NAME
-msgctxt "STRINGS.REFORGED.ENEMIES.CROCOMMANDER_RAPIDFIRE.ABILITIES.BANNER_SPEED.NAME"
+msgctxt ""
+"STRINGS.REFORGED.ENEMIES.CROCOMMANDER_RAPIDFIRE.ABILITIES.BANNER_SPEED.NAME"
 msgid "Speed Banner"
 msgstr ""
 
 #. STRINGS.REFORGED.ENEMIES.CROCOMMANDER_RAPIDFIRE.ABILITIES.BANNER_SPEED.DESC
-msgctxt "STRINGS.REFORGED.ENEMIES.CROCOMMANDER_RAPIDFIRE.ABILITIES.BANNER_SPEED.DESC"
+msgctxt ""
+"STRINGS.REFORGED.ENEMIES.CROCOMMANDER_RAPIDFIRE.ABILITIES.BANNER_SPEED.DESC"
 msgid "Increases the speed of allies nearby"
 msgstr ""
 
@@ -3535,7 +3546,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ENEMIES.SNORTOISE.ABILITIES.SPIN.DESC
 msgctxt "STRINGS.REFORGED.ENEMIES.SNORTOISE.ABILITIES.SPIN.DESC"
-msgid "Retreats into its shell and starts spinning while sliding towards its target for x seconds unless interrupted by an ability."
+msgid ""
+"Retreats into its shell and starts spinning while sliding towards its target "
+"for x seconds unless interrupted by an ability."
 msgstr ""
 
 #. STRINGS.REFORGED.ENEMIES.SNORTOISE.NAME
@@ -3588,10 +3601,7 @@ msgctxt "STRINGS.REFORGED.ENEMIES.PITPIG.DESC"
 msgid "The footsoldier of the forge. Is quick but very frail."
 msgstr ""
 
----------------------
 # -- BUFF COMMANDS --
----------------------
-
 #. STRINGS.REFORGED.BUFFS.BATTLESTANDARD_SHIELD.NAME
 msgctxt "STRINGS.REFORGED.BUFFS.BATTLESTANDARD_SHIELD.NAME"
 msgid "Shield Banner"
@@ -3757,10 +3767,7 @@ msgctxt "STRINGS.REFORGED.STATS.SPEED.ICON"
 msgid "cane"
 msgstr ""
 
------------------
 # -- CHARACTER --
------------------
-
 #. STRINGS.REFORGED.CHARACTER.COOKING.OTHER
 msgctxt "STRINGS.REFORGED.CHARACTER.COOKING.OTHER"
 msgid "Food is Ready!"
@@ -3771,10 +3778,7 @@ msgctxt "STRINGS.REFORGED.CHARACTER.COOKING.WARLY"
 msgid "Order up!"
 msgstr ""
 
--------------
 # -- MODES --
--------------
-
 #. STRINGS.REFORGED.MODES.reforged.name
 msgctxt "STRINGS.REFORGED.MODES.reforged.name"
 msgid "ReForged"
@@ -3825,10 +3829,7 @@ msgctxt "STRINGS.REFORGED.MODES.forge.desc"
 msgid "The original event."
 msgstr ""
 
--------------
 # -- HELMS --
--------------
-
 #. STRINGS.REFORGED.HELMS.CLAIRVOYANTCROWN.NAME
 msgctxt "STRINGS.REFORGED.HELMS.CLAIRVOYANTCROWN.NAME"
 msgid "Clairvoyant Crown"
@@ -3836,7 +3837,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.HELMS.CLAIRVOYANTCROWN.DESC
 msgctxt "STRINGS.REFORGED.HELMS.CLAIRVOYANTCROWN.DESC"
-msgid "Become a minister of magic! Deal more magic damage, have faster cooldowns and movement speed."
+msgid ""
+"Become a minister of magic! Deal more magic damage, have faster cooldowns "
+"and movement speed."
 msgstr ""
 
 #. STRINGS.REFORGED.HELMS.WOVENGARLAND.NAME
@@ -3846,7 +3849,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.HELMS.WOVENGARLAND.DESC
 msgctxt "STRINGS.REFORGED.HELMS.WOVENGARLAND.DESC"
-msgid "Imbued with the power of a mythical dryad, this increases healing dealt by 20%."
+msgid ""
+"Imbued with the power of a mythical dryad, this increases healing dealt by "
+"20%."
 msgstr ""
 
 #. STRINGS.REFORGED.HELMS.BLOSSOMEDWREATH.NAME
@@ -3896,7 +3901,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.HELMS.RESPLENDENTNOXHELM.DESC
 msgctxt "STRINGS.REFORGED.HELMS.RESPLENDENTNOXHELM.DESC"
-msgid "This excessive amount of horns grants high physical damage, faster cooldowns and movement speed."
+msgid ""
+"This excessive amount of horns grants high physical damage, faster cooldowns "
+"and movement speed."
 msgstr ""
 
 #. STRINGS.REFORGED.HELMS.LAVAARENA_CHEFHAT.NAME
@@ -3906,7 +3913,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.HELMS.LAVAARENA_CHEFHAT.DESC
 msgctxt "STRINGS.REFORGED.HELMS.LAVAARENA_CHEFHAT.DESC"
-msgid "Wearing this, everyone will believe that you're a master chef, so you no longer need to watch your own food cook."
+msgid ""
+"Wearing this, everyone will believe that you're a master chef, so you no "
+"longer need to watch your own food cook."
 msgstr ""
 
 #. STRINGS.REFORGED.HELMS.BARBEDHELM.NAME
@@ -3929,10 +3938,7 @@ msgctxt "STRINGS.REFORGED.HELMS.FLOWERHEADBAND.DESC"
 msgid "Wear a healing flower on your head! When healed, gain 25% more health."
 msgstr ""
 
----------------
 # -- DEBUFFS --
----------------
-
 #. STRINGS.REFORGED.DEBUFFS.debuff_shield
 msgctxt "STRINGS.REFORGED.DEBUFFS.debuff_shield"
 msgid "Shield Up"
@@ -4033,10 +4039,7 @@ msgctxt "STRINGS.REFORGED.NEW_MESSAGES"
 msgid "%d new messages"
 msgstr ""
 
-------------------------
 # -- GENERAL COMMANDS --
-------------------------
-
 #. STRINGS.REFORGED.GENERAL.SUPER_GOD_MODE.NAME
 msgctxt "STRINGS.REFORGED.GENERAL.SUPER_GOD_MODE.NAME"
 msgid "Super God Mode"
@@ -4054,7 +4057,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.GENERAL.REVIVE.DESC
 msgctxt "STRINGS.REFORGED.GENERAL.REVIVE.DESC"
-msgid "Give the selected player mouth to mouth? Pfft, I'll just poke their body with a stick."
+msgid ""
+"Give the selected player mouth to mouth? Pfft, I'll just poke their body "
+"with a stick."
 msgstr ""
 
 #. STRINGS.REFORGED.GENERAL.DEBUG_SELECT.NAME
@@ -4064,7 +4069,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.GENERAL.DEBUG_SELECT.DESC
 msgctxt "STRINGS.REFORGED.GENERAL.DEBUG_SELECT.DESC"
-msgid "Select the chosen entity to be displayed in the debug screen. Hit backspace to access the debug screen."
+msgid ""
+"Select the chosen entity to be displayed in the debug screen. Hit backspace "
+"to access the debug screen."
 msgstr ""
 
 #. STRINGS.REFORGED.GENERAL.KILL_ALL_MOBS.NAME
@@ -4104,13 +4111,11 @@ msgstr ""
 
 #. STRINGS.REFORGED.GENERAL.PETRIFY_MOBS.DESC
 msgctxt "STRINGS.REFORGED.GENERAL.PETRIFY_MOBS.DESC"
-msgid "Petrify all mobs around you. This has the same radius as the Petrifying Tome."
+msgid ""
+"Petrify all mobs around you. This has the same radius as the Petrifying Tome."
 msgstr ""
 
----------------
 # -- PRESETS --
----------------
-
 #. STRINGS.REFORGED.PRESETS.half
 msgctxt "STRINGS.REFORGED.PRESETS.half"
 msgid "1/2"
@@ -4211,10 +4216,7 @@ msgctxt "STRINGS.REFORGED.PRESETS.triple_threat"
 msgid "Triple Threat"
 msgstr ""
 
--------------
 # -- PERKS --
--------------
-
 #. STRINGS.REFORGED.PERKS.wilson.revive.TITLE
 msgctxt "STRINGS.REFORGED.PERKS.wilson.revive.TITLE"
 msgid "The Gentleman Scientist"
@@ -4222,7 +4224,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wilson.revive.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wilson.revive.DESCRIPTION"
-msgid "*Revives allies twice as quickly\\n*Restores three times more health when reviving allies\\n\\nExpertise:\\nMelee, Darts, Staves"
+msgid ""
+"*Revives allies twice as quickly\\n*Restores three times more health when "
+"reviving allies\\n\\nExpertise:\\nMelee, Darts, Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wendy.baby_ben.TITLE
@@ -4232,7 +4236,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wendy.baby_ben.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wendy.baby_ben.DESCRIPTION"
-msgid "*Protected by her baby brother Ben.\\n*Baby Ben gives shields to friends who get hit.\\n\\nExpertise:\\nDarts, Staves"
+msgid ""
+"*Protected by her baby brother Ben.\\n*Baby Ben gives shields to friends who "
+"get hit.\\n\\nExpertise:\\nDarts, Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wendy.abigail.TITLE
@@ -4242,7 +4248,8 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wendy.abigail.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wendy.abigail.DESCRIPTION"
-msgid "*Protected by her twin sister, Abigail\\n\\n\\n\\nExpertise:\\nDarts, Staves"
+msgid ""
+"*Protected by her twin sister, Abigail\\n\\n\\n\\nExpertise:\\nDarts, Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.webber.baby_spiders.TITLE
@@ -4277,7 +4284,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.waxwell.shadows.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.waxwell.shadows.DESCRIPTION"
-msgid "*Summons Shadow Duelists after focusing attacks on a single target\\n\\n\\nExpertise:\\nBooks, Staves"
+msgid ""
+"*Summons Shadow Duelists after focusing attacks on a single target\\n\\n"
+"\\nExpertise:\\nBooks, Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wickerbottom.amplify.TITLE
@@ -4287,7 +4296,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wickerbottom.amplify.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wickerbottom.amplify.DESCRIPTION"
-msgid "*Gains a buff after dealing sufficient damage, amplifying her next spell\\n\\n\\nExpertise:\\nBooks, Staves"
+msgid ""
+"*Gains a buff after dealing sufficient damage, amplifying her next spell\\n"
+"\\n\\nExpertise:\\nBooks, Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wolfgang.mighty.TITLE
@@ -4297,7 +4308,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wolfgang.mighty.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wolfgang.mighty.DESCRIPTION"
-msgid "*Becomes Mighty when health is low, increasing attack power, defense, and movement speed for 10 seconds\\n\\nExpertise:\\nMelee"
+msgid ""
+"*Becomes Mighty when health is low, increasing attack power, defense, and "
+"movement speed for 10 seconds\\n\\nExpertise:\\nMelee"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wortox.soul_drain.TITLE
@@ -4307,7 +4320,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wortox.soul_drain.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wortox.soul_drain.DESCRIPTION"
-msgid "*Spawns with a soul hopping Soul Scepter.\\n*Passively sucks the souls of his foes.\\n\\nExpertise:\\nMelee"
+msgid ""
+"*Spawns with a soul hopping Soul Scepter.\\n*Passively sucks the souls of "
+"his foes.\\n\\nExpertise:\\nMelee"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.woodie.lucy.TITLE
@@ -4317,7 +4332,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.woodie.lucy.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.woodie.lucy.DESCRIPTION"
-msgid "*Lucy returns to Woodie when thrown\\n*Attack speed increased when wielding Lucy\\n\\nExpertise:\\nMelee"
+msgid ""
+"*Lucy returns to Woodie when thrown\\n*Attack speed increased when wielding "
+"Lucy\\n\\nExpertise:\\nMelee"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.random.base_random.DESCRIPTION
@@ -4357,7 +4374,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wathgrithr.battlecry.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wathgrithr.battlecry.DESCRIPTION"
-msgid "*Battle cries increase nearby allies' next attack damage by 25%\\n*Gains less aggro when attacking\\n\\nExpertise:\\nMelee, Darts"
+msgid ""
+"*Battle cries increase nearby allies' next attack damage by 25%\\n*Gains "
+"less aggro when attacking\\n\\nExpertise:\\nMelee, Darts"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.winona.cooldown.TITLE
@@ -4367,7 +4386,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.winona.cooldown.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.winona.cooldown.DESCRIPTION"
-msgid "*All ability cooldowns are 10% faster.\\n\\n\\n\\nExpertise:\\nMelee, Darts, Staves"
+msgid ""
+"*All ability cooldowns are 10% faster.\\n\\n\\n\\nExpertise:\\nMelee, Darts, "
+"Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.CHOOSE
@@ -4382,7 +4403,10 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wurt.wet.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wurt.wet.DESCRIPTION"
-msgid "*Can use every weapon available.\\n*Melee attacks makes foes wet, making them slow and vulnerable to electric damage.\\nExpertise:\\nMelee, Darts, Staves, Books"
+msgid ""
+"*Can use every weapon available.\\n*Melee attacks makes foes wet, making "
+"them slow and vulnerable to electric damage.\\nExpertise:\\nMelee, Darts, "
+"Staves, Books"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.UNKNOWN
@@ -4397,7 +4421,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wormwood.bloom.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wormwood.bloom.DESCRIPTION"
-msgid "*Spawns with a plant-based blowdart.\\n*Blossoms over time as long as he avoids damage.\\n\\nExpertise:\\nDarts, Staves"
+msgid ""
+"*Spawns with a plant-based blowdart.\\n*Blossoms over time as long as he "
+"avoids damage.\\n\\nExpertise:\\nDarts, Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.generic.tank.TITLE
@@ -4437,7 +4463,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.walter.woby.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.walter.woby.DESCRIPTION"
-msgid "*Brings his friend Woby.\\n*Woby can reduce cooldowns as support.\\nExpertise:\\nDarts"
+msgid ""
+"*Brings his friend Woby.\\n*Woby can reduce cooldowns as support."
+"\\nExpertise:\\nDarts"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wx78.overcharge.TITLE
@@ -4447,7 +4475,10 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wx78.overcharge.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wx78.overcharge.DESCRIPTION"
-msgid "*Becomes Overcharged from electric attacks.\\n*Increased resistance from electric attacks.\\n*Electric attacks are drawn to WX-78.\\n\\nExpertise:\\nMelee, Staves"
+msgid ""
+"*Becomes Overcharged from electric attacks.\\n*Increased resistance from "
+"electric attacks.\\n*Electric attacks are drawn to WX-78.\\n\\nExpertise:"
+"\\nMelee, Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wx78.shock.TITLE
@@ -4457,7 +4488,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wx78.shock.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wx78.shock.DESCRIPTION"
-msgid "*Shocks enemies when attacked\\n*Electric attack damage increased by 50%\\n\\nExpertise:\\nMelee"
+msgid ""
+"*Shocks enemies when attacked\\n*Electric attack damage increased by 50%\\n"
+"\\nExpertise:\\nMelee"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.warly.cookpot.TITLE
@@ -4467,7 +4500,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.warly.cookpot.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.warly.cookpot.DESCRIPTION"
-msgid "*Cooks food faster.\\n*Food cooked by Warly has increased benefits.\\nExpertise:\\nMelee, Staves"
+msgid ""
+"*Cooks food faster.\\n*Food cooked by Warly has increased benefits."
+"\\nExpertise:\\nMelee, Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.warly.spices.TITLE
@@ -4477,7 +4512,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.warly.spices.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.warly.spices.DESCRIPTION"
-msgid "*Brings bags of spice that can induce multiple effects to enemies!\\n*Master Chef.\\n*Deals 10% more healing.\\nExpertise:\\nMelee, Staves"
+msgid ""
+"*Brings bags of spice that can induce multiple effects to enemies!\\n*Master "
+"Chef.\\n*Deals 10% more healing.\\nExpertise:\\nMelee, Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wanda.rewind.TITLE
@@ -4487,7 +4524,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wanda.rewind.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wanda.rewind.DESCRIPTION"
-msgid "*Rewinds time on death.\\n*Spells last 10% longer.\\n\\nExpertise:\\nMelee, Books, Staves"
+msgid ""
+"*Rewinds time on death.\\n*Spells last 10% longer.\\n\\nExpertise:\\nMelee, "
+"Books, Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wanda.age.TITLE
@@ -4497,7 +4536,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wanda.age.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wanda.age.DESCRIPTION"
-msgid "*Ages overtime reducing health overtime.\\n*Does increased damage at lower health.\\n\\nExpertise:\\nMelee, Books, Staves"
+msgid ""
+"*Ages overtime reducing health overtime.\\n*Does increased damage at lower "
+"health.\\n\\nExpertise:\\nMelee, Books, Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wes.aggro.TITLE
@@ -4507,7 +4548,10 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.wes.aggro.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.wes.aggro.DESCRIPTION"
-msgid "*Can be revived twice as quickly\\n*Gains minimal aggro when attacking\\n*Less likely to lose aggro once drawn\\n\\nExpertise:\\nMelee, Darts, Staves"
+msgid ""
+"*Can be revived twice as quickly\\n*Gains minimal aggro when attacking"
+"\\n*Less likely to lose aggro once drawn\\n\\nExpertise:\\nMelee, Darts, "
+"Staves"
 msgstr ""
 
 #. STRINGS.REFORGED.PERKS.willow.bernie.TITLE
@@ -4517,13 +4561,12 @@ msgstr ""
 
 #. STRINGS.REFORGED.PERKS.willow.bernie.DESCRIPTION
 msgctxt "STRINGS.REFORGED.PERKS.willow.bernie.DESCRIPTION"
-msgid "*Protected by Bernie the Bear\\n*Fire and Explosive attack damage increased by 10%\\n\\nExpertise:\\nDarts, Staves"
+msgid ""
+"*Protected by Bernie the Bear\\n*Fire and Explosive attack damage increased "
+"by 10%\\n\\nExpertise:\\nDarts, Staves"
 msgstr ""
 
---------------------
 # -- DIFFICULTIES --
---------------------
-
 #. STRINGS.REFORGED.DIFFICULTIES.normal.name
 msgctxt "STRINGS.REFORGED.DIFFICULTIES.normal.name"
 msgid "Normal"
@@ -4554,10 +4597,7 @@ msgctxt "STRINGS.REFORGED.WORLD_RESET"
 msgid "World Resetting in %d"
 msgstr ""
 
------------
 # -- HUD --
------------
-
 #. STRINGS.REFORGED.HUD.SPECTATOR_FREE_CAMERA
 msgctxt "STRINGS.REFORGED.HUD.SPECTATOR_FREE_CAMERA"
 msgid "Free Camera"
@@ -4568,10 +4608,7 @@ msgctxt "STRINGS.REFORGED.HUD.SPECTATOR_FREE_CAMERA_TOGGLE"
 msgid "Toggle Free Camera"
 msgstr ""
 
---------------------
 # -- ACHIEVEMENTS --
---------------------
-
 #. STRINGS.REFORGED.ACHIEVEMENTS.rlgl_no_deaths.TITLE
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rlgl_no_deaths.TITLE"
 msgid "What A Lighty"
@@ -4579,7 +4616,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rlgl_no_deaths.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rlgl_no_deaths.DESCRIPTION"
-msgid "Without any teammates dying, beat the Swineclops waveset in 'Red-Light Green-Light' mode."
+msgid ""
+"Without any teammates dying, beat the Swineclops waveset in 'Red-Light Green-"
+"Light' mode."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.COMPLETION
@@ -4609,7 +4648,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rlglolbl_normal.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rlglolbl_normal.DESCRIPTION"
-msgid "Beat the Swineclops waveset in 'Red-Light Green-Light Orange-Light Blue-Light' mode."
+msgid ""
+"Beat the Swineclops waveset in 'Red-Light Green-Light Orange-Light Blue-"
+"Light' mode."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.spiffy.TITLE
@@ -4639,7 +4680,10 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.common.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.common.DESCRIPTION"
-msgid "Common Test. This is a test to see how long descriptions are displayed in the descriptions box on the achievements panel. Hopefully it positions itself inside the box."
+msgid ""
+"Common Test. This is a test to see how long descriptions are displayed in "
+"the descriptions box on the achievements panel. Hopefully it positions "
+"itself inside the box."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.no_damage_double.TITLE
@@ -4649,7 +4693,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.no_damage_double.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.no_damage_double.DESCRIPTION"
-msgid "With the Duplicator mutator set to 2, defeat the Swineclops waveset without taking any damage."
+msgid ""
+"With the Duplicator mutator set to 2, defeat the Swineclops waveset without "
+"taking any damage."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rainbow_hard.TITLE
@@ -4659,7 +4705,8 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rainbow_hard.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rainbow_hard.DESCRIPTION"
-msgid "Beat the Swineclops waveset in 'Rainbow-Lights' mode on hard difficulty."
+msgid ""
+"Beat the Swineclops waveset in 'Rainbow-Lights' mode on hard difficulty."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.wilson_tank.TITLE
@@ -4704,7 +4751,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.random_team_no_deaths.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.random_team_no_deaths.DESCRIPTION"
-msgid "Have everyone choose the 'Random' character and defeat the Swineclops waveset without any players dying once."
+msgid ""
+"Have everyone choose the 'Random' character and defeat the Swineclops "
+"waveset without any players dying once."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.no_sleep.TITLE
@@ -4774,7 +4823,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.unique_team.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.unique_team.DESCRIPTION"
-msgid "While in a team of 6 unique characters, defeat the Swineclops waveset without any players dying once."
+msgid ""
+"While in a team of 6 unique characters, defeat the Swineclops waveset "
+"without any players dying once."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.no_friendly_fire.TITLE
@@ -4784,7 +4835,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.no_friendly_fire.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.no_friendly_fire.DESCRIPTION"
-msgid "While in a team of 6 or less people, defeat the Swineclops waveset with the 'Friendly Fire' mutator enabled without anyone taking damage from a teammate."
+msgid ""
+"While in a team of 6 or less people, defeat the Swineclops waveset with the "
+"'Friendly Fire' mutator enabled without anyone taking damage from a teammate."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.kills_gold.TITLE
@@ -4814,7 +4867,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rlgl_hard.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rlgl_hard.DESCRIPTION"
-msgid "Beat the Swineclops waveset in 'Red-Light Green-Light' mode on hard difficulty."
+msgid ""
+"Beat the Swineclops waveset in 'Red-Light Green-Light' mode on hard "
+"difficulty."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.no_revives.TITLE
@@ -4844,7 +4899,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rlglolbl_hard.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rlglolbl_hard.DESCRIPTION"
-msgid "Beat the Swineclops waveset in 'Red-Light Green-Light Orange-Light Blue-Light' mode on hard difficulty."
+msgid ""
+"Beat the Swineclops waveset in 'Red-Light Green-Light Orange-Light Blue-"
+"Light' mode on hard difficulty."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.timeless.TITLE
@@ -4864,7 +4921,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.pitpig_silver.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.pitpig_silver.DESCRIPTION"
-msgid "While playing any of the original forge wavesets, finish the Pitpig round having taken less than 800 teamwide damage."
+msgid ""
+"While playing any of the original forge wavesets, finish the Pitpig round "
+"having taken less than 800 teamwide damage."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.MODES_FILTER
@@ -4879,7 +4938,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.no_deaths_acid.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.no_deaths_acid.DESCRIPTION"
-msgid "While playing any of the original forge wavesets, finish the Scorpeon round without anyone dying to acid."
+msgid ""
+"While playing any of the original forge wavesets, finish the Scorpeon round "
+"without anyone dying to acid."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.double_gold_speed_run.TITLE
@@ -4889,7 +4950,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.double_gold_speed_run.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.double_gold_speed_run.DESCRIPTION"
-msgid "While the duplicator mutator is set to 2, defeat the Swineclops waveset within 25 minutes."
+msgid ""
+"While the duplicator mutator is set to 2, defeat the Swineclops waveset "
+"within 25 minutes."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.swineclops_reforged.TITLE
@@ -4924,7 +4987,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.random_team_6_no_deaths.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.random_team_6_no_deaths.DESCRIPTION"
-msgid "While in a team of 6 or less people, have everyone choose the 'Random' character and defeat the Swineclops waveset without any players dying once."
+msgid ""
+"While in a team of 6 or less people, have everyone choose the 'Random' "
+"character and defeat the Swineclops waveset without any players dying once."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.PROGRESS
@@ -4939,7 +5004,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.croc.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.croc.DESCRIPTION"
-msgid "While playing any of the original forge wavesets, finish the Crocommander round without killing any Pitpigs before Crocommanders."
+msgid ""
+"While playing any of the original forge wavesets, finish the Crocommander "
+"round without killing any Pitpigs before Crocommanders."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.loyal.TITLE
@@ -4994,7 +5061,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.tt_hard.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.tt_hard.DESCRIPTION"
-msgid "Defeat the Swineclops waveset with Duplicator on 3, with a team of 6 or less people on hard difficulty."
+msgid ""
+"Defeat the Swineclops waveset with Duplicator on 3, with a team of 6 or less "
+"people on hard difficulty."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.DIFFICUTLIES_FILTER
@@ -5009,7 +5078,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.double_plat_speed_run.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.double_plat_speed_run.DESCRIPTION"
-msgid "While the duplicator mutator is set to 2, defeat the Swineclops waveset within 20 minutes."
+msgid ""
+"While the duplicator mutator is set to 2, defeat the Swineclops waveset "
+"within 20 minutes."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.no_hud.TITLE
@@ -5044,7 +5115,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.tt_normal_6.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.tt_normal_6.DESCRIPTION"
-msgid "Defeat the Swineclops waveset with Duplicator on 3, with a team of 6 or less people."
+msgid ""
+"Defeat the Swineclops waveset with Duplicator on 3, with a team of 6 or less "
+"people."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.event.TITLE
@@ -5079,7 +5152,8 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.solo_boarilla.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.solo_boarilla.DESCRIPTION"
-msgid "Defeat a Boarilla by yourself with no other teammates dealing damage to it."
+msgid ""
+"Defeat a Boarilla by yourself with no other teammates dealing damage to it."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.dt_normal_6.TITLE
@@ -5089,7 +5163,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.dt_normal_6.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.dt_normal_6.DESCRIPTION"
-msgid "Defeat the Swineclops waveset with Duplicator on 2, with a team of 6 or less people."
+msgid ""
+"Defeat the Swineclops waveset with Duplicator on 2, with a team of 6 or less "
+"people."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.dt_normal.TITLE
@@ -5119,7 +5195,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.no_team_deaths_boarilla.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.no_team_deaths_boarilla.DESCRIPTION"
-msgid "While in a team of 6 or less people, defeat the Boarilla waveset without any players dying once."
+msgid ""
+"While in a team of 6 or less people, defeat the Boarilla waveset without any "
+"players dying once."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.teleport_gold.TITLE
@@ -5169,7 +5247,8 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.cc_breaker.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.cc_breaker.DESCRIPTION"
-msgid "Be 'That' guy and break 100 enemies out of fossillize in a single match."
+msgid ""
+"Be 'That' guy and break 100 enemies out of fossillize in a single match."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.snortoise_gold.TITLE
@@ -5179,7 +5258,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.snortoise_gold.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.snortoise_gold.DESCRIPTION"
-msgid "While playing any of the original forge wavesets, finish the Snortoise round without allowing any Snortoises to spin."
+msgid ""
+"While playing any of the original forge wavesets, finish the Snortoise round "
+"without allowing any Snortoises to spin."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.titans.TITLE
@@ -5199,7 +5280,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.snortoise_silver.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.snortoise_silver.DESCRIPTION"
-msgid "While playing any of the original forge wavesets, finish the Snortoise round without allowing Snortoises to perform more than 3 spins."
+msgid ""
+"While playing any of the original forge wavesets, finish the Snortoise round "
+"without allowing Snortoises to perform more than 3 spins."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.pitpig_gold.TITLE
@@ -5209,7 +5292,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.pitpig_gold.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.pitpig_gold.DESCRIPTION"
-msgid "While playing any of the original forge wavesets, finish the Pitpig round having taken less than 600 teamwide damage."
+msgid ""
+"While playing any of the original forge wavesets, finish the Pitpig round "
+"having taken less than 600 teamwide damage."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.ten_normal.TITLE
@@ -5244,7 +5329,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rainbow_no_deaths.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rainbow_no_deaths.DESCRIPTION"
-msgid "Without any teammates dying, beat the Swineclops waveset in 'Rainbow-Lights' mode."
+msgid ""
+"Without any teammates dying, beat the Swineclops waveset in 'Rainbow-Lights' "
+"mode."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.no_damage.TITLE
@@ -5254,7 +5341,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.no_damage.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.no_damage.DESCRIPTION"
-msgid "While in a team of 6 or less people, defeat the Swineclops waveset without taking any damage."
+msgid ""
+"While in a team of 6 or less people, defeat the Swineclops waveset without "
+"taking any damage."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.friendly_fire.TITLE
@@ -5274,7 +5363,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.no_team_deaths_boarrior.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.no_team_deaths_boarrior.DESCRIPTION"
-msgid "While in a team of 6 or less people, defeat the Classic waveset without any players dying once."
+msgid ""
+"While in a team of 6 or less people, defeat the Classic waveset without any "
+"players dying once."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.double_silver_speed_run.TITLE
@@ -5284,7 +5375,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.double_silver_speed_run.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.double_silver_speed_run.DESCRIPTION"
-msgid "While the duplicator mutator is set to 2, defeat the Swineclops waveset within 30 minutes."
+msgid ""
+"While the duplicator mutator is set to 2, defeat the Swineclops waveset "
+"within 30 minutes."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rlglolbl_no_deaths.TITLE
@@ -5294,7 +5387,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rlglolbl_no_deaths.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rlglolbl_no_deaths.DESCRIPTION"
-msgid "Without any teammates dying, beat the Swineclops waveset in 'Red-Light Green-Light Orange-Light Blue-Light' mode."
+msgid ""
+"Without any teammates dying, beat the Swineclops waveset in 'Red-Light Green-"
+"Light Orange-Light Blue-Light' mode."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.insanity.TITLE
@@ -5344,7 +5439,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.no_deaths_swineclops.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.no_deaths_swineclops.DESCRIPTION"
-msgid "While in a team of 6 or less people, defeat the Swineclops waveset without dying once."
+msgid ""
+"While in a team of 6 or less people, defeat the Swineclops waveset without "
+"dying once."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.low_team_damage.TITLE
@@ -5354,7 +5451,8 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.low_team_damage.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.low_team_damage.DESCRIPTION"
-msgid "Defeat the Swineclops waveset without any player taking more than 200 damage."
+msgid ""
+"Defeat the Swineclops waveset without any player taking more than 200 damage."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.no_team_deaths_swineclops.TITLE
@@ -5364,7 +5462,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.no_team_deaths_swineclops.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.no_team_deaths_swineclops.DESCRIPTION"
-msgid "While in a team of 6 or less people, defeat the Swineclops waveset without any players dying once."
+msgid ""
+"While in a team of 6 or less people, defeat the Swineclops waveset without "
+"any players dying once."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.double_bronze_speed_run.TITLE
@@ -5374,7 +5474,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.double_bronze_speed_run.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.double_bronze_speed_run.DESCRIPTION"
-msgid "While the duplicator mutator is set to 2, defeat the Swineclops waveset within 35 minutes."
+msgid ""
+"While the duplicator mutator is set to 2, defeat the Swineclops waveset "
+"within 35 minutes."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rainbow_normal.TITLE
@@ -5414,7 +5516,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.plane.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.plane.DESCRIPTION"
-msgid "Join a 12 player game within 5 minutes after it has started and then continue to the end and win."
+msgid ""
+"Join a 12 player game within 5 minutes after it has started and then "
+"continue to the end and win."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.elegant.TITLE
@@ -5444,7 +5548,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.dt_hard.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.dt_hard.DESCRIPTION"
-msgid "Defeat the Swineclops waveset with Duplicator on 2, with a team of 6 or less people on hard difficulty."
+msgid ""
+"Defeat the Swineclops waveset with Duplicator on 2, with a team of 6 or less "
+"people on hard difficulty."
 msgstr ""
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.DATE_UNLOCKED
@@ -5452,10 +5558,7 @@ msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.DATE_UNLOCKED"
 msgid "Date Unlocked"
 msgstr ""
 
----------------------------
 # -- FORGE LORD DIALOGUE --
----------------------------
-
 #. STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.ROUND_2_FINAL_BANTER.1
 msgctxt "STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.ROUND_2_FINAL_BANTER.1"
 msgid "Round 2 Final Wave"
@@ -5467,17 +5570,20 @@ msgid "Round 1 Final Wave"
 msgstr ""
 
 #. STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.HEALTH_WARNING_BANTER.1
-msgctxt "STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.HEALTH_WARNING_BANTER.1"
+msgctxt ""
+"STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.HEALTH_WARNING_BANTER.1"
 msgid "The %s are getting tired!"
 msgstr ""
 
 #. STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.HEALTH_WARNING_BANTER.2
-msgctxt "STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.HEALTH_WARNING_BANTER.2"
+msgctxt ""
+"STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.HEALTH_WARNING_BANTER.2"
 msgid "You've hurt my %s!"
 msgstr ""
 
 #. STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.HEALTH_WARNING_BANTER.3
-msgctxt "STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.HEALTH_WARNING_BANTER.3"
+msgctxt ""
+"STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.HEALTH_WARNING_BANTER.3"
 msgid "Those %s don't have much left in them!"
 msgstr ""
 
@@ -5576,10 +5682,7 @@ msgctxt "STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.TIME_INTRO_BANTER.3"
 msgid "Take your time, your end is soon!"
 msgstr ""
 
-----------------
 # -- WAVESETS --
-----------------
-
 #. STRINGS.REFORGED.WAVESETS.boarillas.name
 msgctxt "STRINGS.REFORGED.WAVESETS.boarillas.name"
 msgid "Twin Boarillas"
@@ -5617,7 +5720,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.WAVESETS.swineclops.desc
 msgctxt "STRINGS.REFORGED.WAVESETS.swineclops.desc"
-msgid "After the defeat of the Grand Forge Boarrior and the Rhinobros, a new enemy arrives to prevent your victory."
+msgid ""
+"After the defeat of the Grand Forge Boarrior and the Rhinobros, a new enemy "
+"arrives to prevent your victory."
 msgstr ""
 
 #. STRINGS.REFORGED.WAVESETS.double_trouble.name
@@ -5637,7 +5742,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.WAVESETS.default.desc
 msgctxt "STRINGS.REFORGED.WAVESETS.default.desc"
-msgid "After the defeat of the Grand Forge Boarrior new enemies arrive to prevent your victory."
+msgid ""
+"After the defeat of the Grand Forge Boarrior new enemies arrive to prevent "
+"your victory."
 msgstr ""
 
 #. STRINGS.REFORGED.WAVESETS.randomized.name
@@ -5667,7 +5774,9 @@ msgstr ""
 
 #. STRINGS.REFORGED.WAVESETS.half_the_wrath.desc
 msgctxt "STRINGS.REFORGED.WAVESETS.half_the_wrath.desc"
-msgid "All boss enemies have been smallified and the spawns are cut in half! Can you defeat them?"
+msgid ""
+"All boss enemies have been smallified and the spawns are cut in half! Can "
+"you defeat them?"
 msgstr ""
 
 #. STRINGS.REFORGED.WAVESETS.double_trouble_classic.name
@@ -5687,13 +5796,11 @@ msgstr ""
 
 #. STRINGS.REFORGED.WAVESETS.rhinocebros.desc
 msgctxt "STRINGS.REFORGED.WAVESETS.rhinocebros.desc"
-msgid "Two brothers arrive after hearing the Grand Forge Boarrior was defeated!"
+msgid ""
+"Two brothers arrive after hearing the Grand Forge Boarrior was defeated!"
 msgstr ""
 
-----------------
 # -- MUTATORS --
-----------------
-
 #. STRINGS.REFORGED.MUTATORS.no_hud.name
 msgctxt "STRINGS.REFORGED.MUTATORS.no_hud.name"
 msgid "No Hud"
@@ -5839,10 +5946,7 @@ msgctxt "STRINGS.REFORGED.unknown"
 msgid "Unknown String"
 msgstr ""
 
------------------------------
 # -- RED LIGHT GREEN LIGHT --
------------------------------
-
 #. STRINGS.REFORGED.RLGL.REDLIGHT_FAKEOUT_BANTER.1
 msgctxt "STRINGS.REFORGED.RLGL.REDLIGHT_FAKEOUT_BANTER.1"
 msgid "RED FLIGHT"
@@ -6093,10 +6197,7 @@ msgctxt "STRINGS.REFORGED.RLGL.BLUELIGHT"
 msgid "BLUE LIGHT!"
 msgstr ""
 
-----------------------
 # -- FORGE COMMANDS --
-----------------------
-
 #. STRINGS.REFORGED.FORGE.RESTART_FORGE.NAME
 msgctxt "STRINGS.REFORGED.FORGE.RESTART_FORGE.NAME"
 msgid "Restart Forge"
@@ -6156,4 +6257,3 @@ msgstr ""
 msgctxt "STRINGS.REFORGED.FORGE.FORCE_ROUND.DESC"
 msgid "Select the round and wave you want to fight."
 msgstr ""
-

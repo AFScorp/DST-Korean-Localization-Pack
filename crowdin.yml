@@ -4,4 +4,4 @@ files:
   - source: /lang_source/Island Adventures.pot
     translation: /mod_po/ia_%two_letters_code%.po
   - source: /lang_source/Don't Starve Together.pot
-    translation: '/modmains/%two_letters_code%,pot'
+    translation: /modmains/%two_letters_code%.po

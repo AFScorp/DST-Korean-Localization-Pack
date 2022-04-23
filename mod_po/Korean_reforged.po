@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2022-04-14 21:35\n"
+"PO-Revision-Date: 2022-04-23 06:29\n"
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona"
@@ -163,7 +163,7 @@ msgstr "이거 하나면 돼!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_SEEDDARTS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_SEEDDARTS"
 msgid "A gnarled weed to shoot some seeds!"
-msgstr "꼬불꼬불 풀가지가 슈웅슈웅 씨앗을!"
+msgstr "꼬불꼬불 풀가지가 씨앗들을 슈웅슈웅!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LAVAARENA_SEEDDARTS
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LAVAARENA_SEEDDARTS"
@@ -3352,7 +3352,7 @@ msgstr "지옥의 외눈돼지"
 #. STRINGS.REFORGED.ENEMIES.SWINECLOPS.DESC
 msgctxt "STRINGS.REFORGED.ENEMIES.SWINECLOPS.DESC"
 msgid "Pugna's last resort, a ferocious beast imprisoned for how deadly he is."
-msgstr "푸그나의 최종병기 격 짐승입니다. 너무나도 위험한 존재인 탓에 감옥에 갇혔습니다."
+msgstr "푸그나의 최종병기 격 짐승입니다. 너무나도 위험한 존재인 탓에 감옥에 갇혀 있었습니다."
 
 #. STRINGS.REFORGED.ENEMIES.CROCOMMANDER_RAPIDFIRE.ABILITIES.BANNER_SPEED.NAME
 msgctxt "STRINGS.REFORGED.ENEMIES.CROCOMMANDER_RAPIDFIRE.ABILITIES.BANNER_SPEED.NAME"
@@ -3402,7 +3402,7 @@ msgstr "코뿔소 형제"
 #. STRINGS.REFORGED.ENEMIES.RHINOCEBROS.DESC
 msgctxt "STRINGS.REFORGED.ENEMIES.RHINOCEBROS.DESC"
 msgid "Spawn the two as a pair, linked and everything."
-msgstr "서로 연결된 상태로, 쌍으로 소환됩니다."
+msgstr "페어로 소환됩니다. 한몸과도 같은 둘입니다."
 
 #. STRINGS.REFORGED.ENEMIES.RHINOCEBRO.ABILITIES.RAM.NAME
 msgctxt "STRINGS.REFORGED.ENEMIES.RHINOCEBRO.ABILITIES.RAM.NAME"

@@ -1,21 +1,18 @@
 local pp = require "pphandle"
 local STRINGS = GLOBAL.STRINGS
+local shuffleArray = GLOBAL.shuffleArray
 ---------------------------------------------------------
 -- Added Overriding Function --
 -- Changes word order.(nouns + Verb or adjective + nouns)
 ---------------------------------------------------------
 
 -- In WorldgenScreen
--- Somehow it must be like this or the word order remains same.
--- Considering the potential compatibility, this was the best as possible.
+-- switch two tables to fit the word order into Korean
+-- then force set it by current index
 local function ChangeFlavourText(self)
-	local ChangeFlavourText_Old = self.ChangeFlavourText or function() end
-		
-	function self:ChangeFlavourText()
-		self.flavourtext:SetString(self.nouns[self.nounidx].." "..self.verbs[self.verbidx])
-		ChangeFlavourText_Old(self)
-		self.flavourtext:SetString(self.nouns[self.nounidx].." "..self.verbs[self.verbidx])
-	end
+	self.verbs = shuffleArray(STRINGS.UI.WORLDGEN.NOUNS)
+	self.nouns = shuffleArray(STRINGS.UI.WORLDGEN.VERBS)
+	self.flavourtext:SetString(self.verbs[self.verbidx].." "..self.nouns[self.nounidx])
 end
 
 AddClassPostConstruct("screens/worldgenscreen", ChangeFlavourText)
@@ -132,7 +129,7 @@ AddClassPostConstruct("widgets/uiclock", function(self)
 	function self:UpdateWorldString()
 		UpdateWorldStr(self)
 
-		self._text:SetString(tostring(GLOBAL.TheWorld.state.cycles + 1).." "..STRINGS.UI.HUD.WORLD_CLOCKDAY)
+		self._text:SetString(tostring(GLOBAL.TheWorld.state.cycles + 1).."\n"..STRINGS.UI.HUD.WORLD_CLOCKDAY)
 		self._text:SetPosition(3, 0 / basescale, 0)
 		self._text:SetSize(28)
 		self._showingcycles = true

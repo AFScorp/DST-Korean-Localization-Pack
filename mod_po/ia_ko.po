@@ -1,7 +1,6 @@
 #. Note to translators: Update the POT file using IA_makePOT() in the in-game console if we forget to
 msgid ""
-msgstr ""
-"Application: Don't Starve\n"
+msgstr "Application: Don't Starve\n"
 "POT Version: 2.0\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: DSThangul\n"

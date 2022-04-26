@@ -18,15 +18,11 @@ end
 
 --gets UTF-8 char and returns its decimal code in UTF-8
 local function utf8CodePoint(char)
-	if string.utf8len(char) > 1 then
-		print("\"char\" expected to be a single letter!")
-		return
-	end
+	assert(string.utf8len(char) ~= nil, "\"char\" expected to be a single letter!")
 
     local c = {}
     c = {string.byte(char, 1, 4)}
-
-    return c[1] or 0 + ((c[2] or 192) - 192) * 64 + ((c[3] or 128) - 128) * 4096 + ((c[4] or 240) - 240) * 262144, #c
+    return (c[1] or 0) + ((c[2] or 192) - 192) * 64 + ((c[3] or 128) - 128) * 4096 + ((c[4] or 240) - 240) * 262144, #c
 end
 
 --finds first char in the word, from the last character

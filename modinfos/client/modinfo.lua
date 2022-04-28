@@ -1,8 +1,5 @@
--- This information tells other players more about the mod
-
-
 name = "굶지마 다함께 한글화 [클라이언트 버전]"
-version = "1.1.0.20220403.00"
+version = "1.1.2-20220429.00"
 description = [[Version: ]] .. version ..
 [[
 

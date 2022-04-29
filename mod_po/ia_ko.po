@@ -1,19 +1,23 @@
-#. Note to translators: Update the POT file using IA_makePOT() in the in-game console if we forget to
 msgid ""
 msgstr ""
+"Project-Id-Version: DSThangul\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2022-04-30 04:36+0900\n"
+"Last-Translator: \n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Application: Don't Starve\n"
 "POT Version: 2.0\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: DSThangul\n"
 "X-Crowdin-Project-ID: 434890\n"
 "X-Crowdin-Language: ko\n"
 "X-Crowdin-File: /main/lang_source/Island Adventures.pot\n"
 "X-Crowdin-File-ID: 62\n"
-"Project-Id-Version: DSThangul\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: Korean\n"
-"Language: ko_KR\n"
-"PO-Revision-Date: 2022-04-29 19:16\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.BLOWDART_POISON
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.BLOWDART_POISON"
@@ -1307,9 +1311,11 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WALANI.ANNOUNCE_CANFIX
 msgctxt "STRINGS.CHARACTERS.WALANI.ANNOUNCE_CANFIX"
-msgid "\n"
+msgid ""
+"\n"
 "I should probably repair that. Maybe later."
-msgstr "\n"
+msgstr ""
+"\n"
 "저것 좀 고쳐야 할 것 같네. 나중에 하든가."
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.JELLYJERKY
@@ -10774,7 +10780,8 @@ msgstr ""
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wilbur
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wilbur"
-msgid "*Can't talk\n"
+msgid ""
+"*Can't talk\n"
 "*Slow as biped, but fast as quadruped\n"
 "*Is a monkey"
 msgstr ""
@@ -14411,7 +14418,8 @@ msgstr ""
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.walani
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.walani"
-msgid "*Loves surfing\n"
+msgid ""
+"*Loves surfing\n"
 "*Dries off quickly\n"
 "*Is a pretty chill gal"
 msgstr ""
@@ -31328,7 +31336,8 @@ msgstr ""
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.warly
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.warly"
-msgid "*Has a refined palate\n"
+msgid ""
+"*Has a refined palate\n"
 "*Cooks in custom kitchenware\n"
 "*Brings a stylish chef pouch"
 msgstr ""
@@ -33340,9 +33349,11 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_CANFIX
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_CANFIX"
-msgid "\n"
+msgid ""
+"\n"
 "I can fix this, methinks."
-msgstr "\n"
+msgstr ""
+"\n"
 "고칠 수 있것어, 아마."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COCONADE.GENERIC
@@ -34982,7 +34993,8 @@ msgstr ""
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.woodlegs
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.woodlegs"
-msgid "*Can sniff out treasure\n"
+msgid ""
+"*Can sniff out treasure\n"
 "*Captain of the \"Sea Legs\"\n"
 "*Pirate"
 msgstr ""
@@ -40399,9 +40411,11 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_CANFIX
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_CANFIX"
-msgid "\n"
+msgid ""
+"\n"
 "I believe I could repair that."
-msgstr "\n"
+msgstr ""
+"\n"
 "아마 내가 고칠 수 있겠어."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CRAB.GENERIC
@@ -45828,4 +45842,3 @@ msgstr "조수 웅덩이"
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WATERCHEST"
 msgid "Treasures suspended over the bottomless abyss."
 msgstr "무저갱 속에 쳐박혀 있던 보물이야."
-

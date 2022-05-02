@@ -1,28 +1,24 @@
+#. Note to translators: Update the POT file using IA_makePOT() in the in-game console if we forget to
 msgid ""
 msgstr ""
-"Project-Id-Version: DSThangul\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-04-30 04:36+0900\n"
-"Last-Translator: \n"
-"Language-Team: Korean\n"
-"Language: ko_KR\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "Application: Don't Starve\n"
 "POT Version: 2.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: DSThangul\n"
 "X-Crowdin-Project-ID: 434890\n"
 "X-Crowdin-Language: ko\n"
 "X-Crowdin-File: /main/lang_source/Island Adventures.pot\n"
 "X-Crowdin-File-ID: 62\n"
-"X-Generator: Poedit 3.0.1\n"
+"Project-Id-Version: DSThangul\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"PO-Revision-Date: 2022-05-02 13:17\n"
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.BLOWDART_POISON
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.BLOWDART_POISON"
 msgid "Not good for party tricks. I learned the hard way."
-msgstr "파티에서 쓰기는 별로야. 힘들게 얻은 교훈이지."
+msgstr "파티에서 쓰기는 별로야. 꽁으로 얻은 교훈이 아니라니까."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVASPIT.COOL
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVASPIT.COOL"
@@ -1087,7 +1083,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COCONUT_SAPLING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COCONUT_SAPLING"
 msgid "The hard fruit gave way to a flimsy tree."
-msgstr ""
+msgstr "단단한 과실이 연약한 묘목이 자랄 길을 내 주다니."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN.GENERIC"
@@ -1311,11 +1307,9 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WALANI.ANNOUNCE_CANFIX
 msgctxt "STRINGS.CHARACTERS.WALANI.ANNOUNCE_CANFIX"
-msgid ""
-"\n"
+msgid "\n"
 "I should probably repair that. Maybe later."
-msgstr ""
-"\n"
+msgstr "\n"
 "저것 좀 고쳐야 할 것 같네. 나중에 하든가."
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.JELLYJERKY
@@ -5526,7 +5520,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.POND
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.POND"
 msgid "It's kind of hard to look at myself these days."
-msgstr ""
+msgstr "요즘엔 내 얼굴 좀 보기가 꼴사납더라니까."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL_GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL_GENERIC"
@@ -5711,7 +5705,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.LIMESTONENUGGET
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.LIMESTONENUGGET"
 msgid "When coral dies it hardens into stone."
-msgstr ""
+msgstr "산호는 죽어서 단단한 돌이 돼."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.OX_HORN
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.OX_HORN"
@@ -10731,7 +10725,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.TURF_WOODFLOOR
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.TURF_WOODFLOOR"
 msgid "Hardwood. Fancy."
-msgstr ""
+msgstr "경목재잖아. 멋진데."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.BISQUE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BISQUE"
@@ -10780,8 +10774,7 @@ msgstr ""
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wilbur
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wilbur"
-msgid ""
-"*Can't talk\n"
+msgid "*Can't talk\n"
 "*Slow as biped, but fast as quadruped\n"
 "*Is a monkey"
 msgstr ""
@@ -11554,7 +11547,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SUNKEN_BOAT_BURNT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SUNKEN_BOAT_BURNT"
 msgid "Hard to believe this thing was ever seaworthy."
-msgstr ""
+msgstr "이게 물에 떴었다는 게 안 믿겨."
 
 #. STRINGS.NAMES.WILDBOREGUARD
 msgctxt "STRINGS.NAMES.WILDBOREGUARD"
@@ -14418,8 +14411,7 @@ msgstr ""
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.walani
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.walani"
-msgid ""
-"*Loves surfing\n"
+msgid "*Loves surfing\n"
 "*Dries off quickly\n"
 "*Is a pretty chill gal"
 msgstr ""
@@ -14527,7 +14519,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHIMINEA
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHIMINEA"
 msgid "Safe keeping for my hard earned fires."
-msgstr ""
+msgstr "어렵사리 얻은 불을 잘 지켜주는군."
 
 #. STRINGS.NAMES.JELLYFISH
 msgctxt "STRINGS.NAMES.JELLYFISH"
@@ -14682,7 +14674,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LIMESTONENUGGET
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LIMESTONENUGGET"
 msgid "Hard as an unripe fruit."
-msgstr ""
+msgstr "풋과일처럼 단단하군."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.PORTAL_SHIPWRECKED
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.PORTAL_SHIPWRECKED"
@@ -15472,7 +15464,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ROCK_CORAL
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ROCK_CORAL"
 msgid "A hard and brittle place. I like it."
-msgstr ""
+msgstr "단단하면서도 잘 바스러지는군. 마음에 들어."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_NONIGHTSIESTA
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_NONIGHTSIESTA"
@@ -15577,7 +15569,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.DRAGOONEGG
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.DRAGOONEGG"
 msgid "Hard to imagine this would birth forth such a horrific monster."
-msgstr ""
+msgstr "여기서 무시무시한 괴물이 태어날 거라는 게 상상이 안 가."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.PRIMEAPE
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.PRIMEAPE"
@@ -16042,7 +16034,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.TALLBIRDEGG_CRACKED.HOT
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.TALLBIRDEGG_CRACKED.HOT"
 msgid "Hope it doesn't hard boil."
-msgstr ""
+msgstr "이거 완숙만 안 됐으면 좋겠는데."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.PORTABLECOOKPOT.EMPTY
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.PORTABLECOOKPOT.EMPTY"
@@ -16102,7 +16094,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.DUG_SAPLING
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.DUG_SAPLING"
 msgid "Planting this sounds like hard work."
-msgstr ""
+msgstr "이거 심기 되게 귀찮을 것 같은데."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.HAIL_ICE
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HAIL_ICE"
@@ -16307,7 +16299,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.TRINKET_IA_8
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.TRINKET_IA_8"
 msgid "Bung be hard."
-msgstr ""
+msgstr "마개 참 단단햐."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GHOST_SAILOR
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GHOST_SAILOR"
@@ -16872,7 +16864,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.TALLBIRDEGG_CRACKED.HOT
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.TALLBIRDEGG_CRACKED.HOT"
 msgid "Don't be gettin' hard boiled on me."
-msgstr ""
+msgstr "제발 푸욱 익은 긋만 아냐다오."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_SHARX
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_SHARX"
@@ -18447,7 +18439,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COCONUT_HALVED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COCONUT_HALVED"
 msgid "Wolfgang had no problem smacking hard shell apart."
-msgstr ""
+msgstr "단단한 껍질 부수는 것쯤이야 볼프강에겐 일도 아니지."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ELEPHANTCACTUS_ACTIVE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ELEPHANTCACTUS_ACTIVE"
@@ -20247,7 +20239,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.REFLECTIVEVEST
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.REFLECTIVEVEST"
 msgid "Well, it should be hard to lose."
-msgstr ""
+msgstr "뭐, 잘 잃어버리지는 않겠네."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.MUSHTREE_MEDIUM
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MUSHTREE_MEDIUM"
@@ -20412,7 +20404,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TALLBIRDEGG_CRACKED.HOT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TALLBIRDEGG_CRACKED.HOT"
 msgid "I hope you don't hardboil."
-msgstr ""
+msgstr "네가 완숙으로 익으면 안 되는데."
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.GOLDENAXE
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.GOLDENAXE"
@@ -21502,7 +21494,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SUNKEN_BOAT_TRINKET_5
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SUNKEN_BOAT_TRINKET_5"
 msgid "Tough leather is hard to chew."
-msgstr ""
+msgstr "질긴 가죽 잘 안 씹힌다."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CAMPFIRE.OUT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CAMPFIRE.OUT"
@@ -22442,7 +22434,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.CUTREEDS
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.CUTREEDS"
 msgid "It was hard work cutting those. Nap time!"
-msgstr ""
+msgstr "자르느라 힘들었네. 좀 자야지!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORAL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORAL"
@@ -23142,7 +23134,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.DUG_MARSH_BUSH
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.DUG_MARSH_BUSH"
 msgid "Planting this sounds like hard work."
-msgstr ""
+msgstr "이거 심기 되게 귀찮을 것 같은데."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BAMBOOTREE.BURNT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BAMBOOTREE.BURNT"
@@ -24632,7 +24624,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ICEMAKER.HIGH
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ICEMAKER.HIGH"
 msgid "It's working hard to make ice for me."
-msgstr ""
+msgstr "내게 줄 얼음을 열심히 만들고 있군."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORSEASHELL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORSEASHELL"
@@ -25997,7 +25989,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COCONUT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COCONUT"
 msgid "The hardest of fruits."
-msgstr ""
+msgstr "단단하기가 제일인 열매로다."
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SUPERTELESCOPE
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SUPERTELESCOPE"
@@ -27522,7 +27514,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.SEA_CHIMINEA.HIGH
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.SEA_CHIMINEA.HIGH"
 msgid "That thing's working waaaay too hard."
-msgstr ""
+msgstr "일을 너어어어무 열심히 하는데."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WATERYGRAVE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WATERYGRAVE"
@@ -27742,7 +27734,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.PLANT_NORMAL.GENERIC
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.PLANT_NORMAL.GENERIC"
 msgid "Farming is so hard!"
-msgstr ""
+msgstr "농사는 너무 힘들어!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.ICEMAKER.HIGH
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.ICEMAKER.HIGH"
@@ -28217,7 +28209,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MOSQUITOSACK_YELLOW
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MOSQUITOSACK_YELLOW"
 msgid "MOSQUITO HARD DRIVE IS INFECTED WITH A VIRUS"
-msgstr ""
+msgstr "모기 드라이브 바이러스에 감염됨"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.SLURTLEHOLE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SLURTLEHOLE"
@@ -28377,7 +28369,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.DUG_COFFEEBUSH
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.DUG_COFFEEBUSH"
 msgid "Planting this sounds like hard work."
-msgstr ""
+msgstr "이거 심기 되게 귀찮을 것 같은데."
 
 #. STRINGS.TALKINGBIRD.on_dropped.3
 msgctxt "STRINGS.TALKINGBIRD.on_dropped.3"
@@ -29517,7 +29509,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.DUG_BERRYBUSH
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.DUG_BERRYBUSH"
 msgid "Planting this sounds like hard work."
-msgstr ""
+msgstr "이거 심기 되게 귀찮을 것 같은데."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.OBSIDIANFIREPIT.NORMAL
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.OBSIDIANFIREPIT.NORMAL"
@@ -31336,8 +31328,7 @@ msgstr ""
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.warly
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.warly"
-msgid ""
-"*Has a refined palate\n"
+msgid "*Has a refined palate\n"
 "*Cooks in custom kitchenware\n"
 "*Brings a stylish chef pouch"
 msgstr ""
@@ -31890,7 +31881,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.ARMOR_SNAKESKIN
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ARMOR_SNAKESKIN"
 msgid "PREVENTS HARDWARE MALFUNCTIONS FROM PRECIPITATION EVENTS"
-msgstr ""
+msgstr "강수로 인한 하드웨어 오작동 방지"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_IA_8
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_IA_8"
@@ -31920,7 +31911,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.SLURTLESLIME
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.SLURTLESLIME"
 msgid "It's hard to hold on to."
-msgstr ""
+msgstr "들고 있기가 힘들어."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.FISHINGROD
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.FISHINGROD"
@@ -33110,7 +33101,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TRINKET_IA_17
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TRINKET_IA_17"
 msgid "Tough leather is hard to chew."
-msgstr ""
+msgstr "질긴 가죽 잘 안 씹힌다."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_NODANGERSIESTA
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_NODANGERSIESTA"
@@ -33349,11 +33340,9 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_CANFIX
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_CANFIX"
-msgid ""
-"\n"
+msgid "\n"
 "I can fix this, methinks."
-msgstr ""
-"\n"
+msgstr "\n"
 "고칠 수 있것어, 아마."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COCONADE.GENERIC
@@ -34499,7 +34488,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.TRINKET_IA_8
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.TRINKET_IA_8"
 msgid "Hardened what?"
-msgstr ""
+msgstr "단단한 뭐라고?"
 
 #. STRINGS.NAMES.MUSSELBOUILLABAISE
 msgctxt "STRINGS.NAMES.MUSSELBOUILLABAISE"
@@ -34993,8 +34982,7 @@ msgstr ""
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.woodlegs
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.woodlegs"
-msgid ""
-"*Can sniff out treasure\n"
+msgid "*Can sniff out treasure\n"
 "*Captain of the \"Sea Legs\"\n"
 "*Pirate"
 msgstr ""
@@ -35127,7 +35115,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COFFEEBOT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COFFEEBOT"
 msgid "Is hard worker."
-msgstr ""
+msgstr "열심히 일한다."
 
 #. STRINGS.MERMNAMES.2
 msgctxt "STRINGS.MERMNAMES.2"
@@ -35682,7 +35670,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.RED_MUSHROOM.INGROUND
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.RED_MUSHROOM.INGROUND"
 msgid "It'll be hard to harvest like that."
-msgstr ""
+msgstr "저래서는 수확하기 어렵겠어."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.JUNGLETREE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.JUNGLETREE.GENERIC"
@@ -36297,7 +36285,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMORSEASHELL
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMORSEASHELL"
 msgid "This doesn't seem very hardy."
-msgstr ""
+msgstr "그닥 튼튼해 보이지는 않아."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.JUNGLETREESEED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.JUNGLETREESEED"
@@ -38152,7 +38140,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.FABRIC
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.FABRIC"
 msgid "Soft cloth made from hard roots!"
-msgstr ""
+msgstr "질긴 뿌리로 만든 부드러운 천이야!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.JELLYJERKY
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.JELLYJERKY"
@@ -39752,7 +39740,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.JUNGLETREESEED
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.JUNGLETREESEED"
 msgid "Hard to believe such a big tree comes from this!"
-msgstr ""
+msgstr "그렇게 큰 나무가 이렇게 작은 데서 나온다니!"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DEVTOOL
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DEVTOOL"
@@ -40411,11 +40399,9 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_CANFIX
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_CANFIX"
-msgid ""
-"\n"
+msgid "\n"
 "I believe I could repair that."
-msgstr ""
-"\n"
+msgstr "\n"
 "아마 내가 고칠 수 있겠어."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CRAB.GENERIC
@@ -45842,3 +45828,4 @@ msgstr "조수 웅덩이"
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WATERCHEST"
 msgid "Treasures suspended over the bottomless abyss."
 msgstr "무저갱 속에 쳐박혀 있던 보물이야."
+

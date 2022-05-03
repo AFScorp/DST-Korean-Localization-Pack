@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2022-05-03 10:16\n"
+"PO-Revision-Date: 2022-05-03 16:46\n"
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.BLOWDART_POISON
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.BLOWDART_POISON"
@@ -918,17 +918,17 @@ msgstr ""
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.MOLE.UNDERGROUND
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.MOLE.UNDERGROUND"
 msgid "Who's down there?"
-msgstr ""
+msgstr "거기 밑에 누구야?"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SUNKEN_BOAT.ABANDONED
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SUNKEN_BOAT.ABANDONED"
 msgid "Are you all alone?"
-msgstr ""
+msgstr "너 혼자니?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRINKET_IA_21
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRINKET_IA_21"
 msgid "I've put away childish things."
-msgstr ""
+msgstr "어린애 장난은 앳저녁에 집어쳤어."
 
 #. STRINGS.NAMES.RAINBOWJELLYFISH_DEAD
 msgctxt "STRINGS.NAMES.RAINBOWJELLYFISH_DEAD"
@@ -938,12 +938,12 @@ msgstr "죽은 무지개해파리"
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ROCK_OBSIDIAN
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ROCK_OBSIDIAN"
 msgid "It refuses to bend to my tools."
-msgstr ""
+msgstr "내 의지에 복종하기를 거부하는군."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FROGLEGS_COOKED
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FROGLEGS_COOKED"
 msgid "Could use garlic and clarified butter..."
-msgstr ""
+msgstr "마늘과 정제버터가 있으면 좋겠군..."
 
 #. STRINGS.SHIPNAMES.25
 msgctxt "STRINGS.SHIPNAMES.25"
@@ -953,17 +953,17 @@ msgstr "시라쿠샤"
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.GIVE.BUSY
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.GIVE.BUSY"
 msgid "Goodness, it seems busy."
-msgstr ""
+msgstr "아이고야, 바쁜 모양이네."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MERMFISHER
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MERMFISHER"
 msgid "Ugh, bet you never get that fish smell out."
-msgstr ""
+msgstr "윽, 생선 냄새는 또 빠지지를 않네."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SEAFOODGUMBO
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SEAFOODGUMBO"
 msgid "This will make very strong Wolfgang!"
-msgstr ""
+msgstr "볼프강을 아주 강하게 해 줄 거다!"
 
 #. STRINGS.NAMES.SEATRAP
 msgctxt "STRINGS.NAMES.SEATRAP"
@@ -973,57 +973,57 @@ msgstr "바다 덫"
 #. STRINGS.CHARACTERS.WALANI.ANNOUNCE_TREASURE
 msgctxt "STRINGS.CHARACTERS.WALANI.ANNOUNCE_TREASURE"
 msgid "Woohoo! Treasure!"
-msgstr ""
+msgstr "우후! 보물이잖아!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.TIGERSHARK
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.TIGERSHARK"
 msgid "Come at me ye striped devil!"
-msgstr ""
+msgstr "뎀벼 이 줄무늬 악마 늬석!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CORAL_BRAIN_ROCK
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CORAL_BRAIN_ROCK"
 msgid "I wonder what it's plotting..."
-msgstr ""
+msgstr "무슨 생각을 하는 걸까..."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMORDRAGONFLY
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMORDRAGONFLY"
 msgid "Heavy and hot."
-msgstr ""
+msgstr "덥고 무거워."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MONSTERTARTARE
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MONSTERTARTARE"
 msgid "Looks good, tastes horrible."
-msgstr ""
+msgstr "겉은 괜찮아 보여도 맛은 최악이야."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGOONEGG
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGOONEGG"
 msgid "What use is an egg that you cannot eat?"
-msgstr ""
+msgstr "먹지 못하는 알이 무슨 소용일까?"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PERD
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PERD"
 msgid "Whut a maniac!"
-msgstr ""
+msgstr "이른 도른 눔!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SAIL_WOODLEGS
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SAIL_WOODLEGS"
 msgid "This sail looks like it would be special to someone."
-msgstr ""
+msgstr "누군가한텐 특별한 의미를 가졌을 법한 돛이야."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.PRIMEAPEBARREL
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.PRIMEAPEBARREL"
 msgid "Too many monkeys."
-msgstr ""
+msgstr "원숭이가 너무 많아."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.STINGER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.STINGER"
 msgid "It would really sting to not have a use for this."
-msgstr ""
+msgstr "쓸 데가 없으면 따끔거려서 못 견디게 생겼네."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.TURF_WOODFLOOR
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.TURF_WOODFLOOR"
 msgid "Creaks under me pegleg."
-msgstr ""
+msgstr "의족으로 밟으믄 삐걱그려."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_TREASURE
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_TREASURE"
@@ -1033,17 +1033,17 @@ msgstr ""
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DOYDOYFEATHER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DOYDOYFEATHER"
 msgid "A feather from my feathered friend."
-msgstr ""
+msgstr "깃털 달린 친구가 준 깃털이야."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOSQUITO_POISON
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOSQUITO_POISON"
 msgid "These ones leave a gift when they bite."
-msgstr ""
+msgstr "이 녀석들 물고 나서 선물도 주고 가네."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.JUNGLETREE.BURNING
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.JUNGLETREE.BURNING"
 msgid "What a waste of wood."
-msgstr ""
+msgstr "나무가 아깝네."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRAWLNETDROPPED.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRAWLNETDROPPED.GENERIC"
@@ -1053,17 +1053,17 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.OCTOPUSKING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.OCTOPUSKING"
 msgid "Strong creature! Give Wolfgang many good things!"
-msgstr ""
+msgstr "강한 생물이다! 볼프강에게 좋은 거 많이 줘!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.SLURTLESLIME
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SLURTLESLIME"
 msgid "Nature giveth, and nature grosseth."
-msgstr ""
+msgstr "자연의 선물이자, 자연의 역겨움이지."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BOAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BOAT"
 msgid "Where did this vessel come from?"
-msgstr ""
+msgstr "이 배는 또 어디서 난 걸까?"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.BOTTLELANTERN
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.BOTTLELANTERN"
@@ -1088,7 +1088,7 @@ msgstr "단단한 과실이 연약한 묘목이 자랄 길을 내 주다니."
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN.GENERIC"
 msgid "Ye think 'e speaks Latin?"
-msgstr ""
+msgstr "인석 라틴어 할 줄 아냐?"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.STALAGMITE_TALL
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.STALAGMITE_TALL"
@@ -1098,7 +1098,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SWEETPOTATOSOUFFLE
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SWEETPOTATOSOUFFLE"
 msgid "Cooked to perfection!"
-msgstr ""
+msgstr "잘 익었네!"
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.FIREHOUND
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.FIREHOUND"

@@ -73,12 +73,12 @@ local function replacePP(str, name)
 		local name = name or ""
 		local pptype = PPtype(name) or 0
 
-		if pptype ~= 2 then
-			str = str:gsub(name, name.."으")
+		if pptype == 1 then
+			str = str:gsub(name.."로", name.."으로")
 		end
 		
 		if pptype ~= 0 then
-			local oldPP = string.utf8sub(str:match(name.."([^%s]*)"), 1)
+			local _, __, oldPP = str:match(name.."([^%s]*)")
 			str = pptable[oldPP] and str:gsub(name .. oldPP, name .. pptable[oldPP]) or str
 		end
 		return str

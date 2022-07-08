@@ -1,6 +1,7 @@
 local pp = require "pphandle"
 local STRINGS = GLOBAL.STRINGS
 local shuffleArray = GLOBAL.shuffleArray
+local ShardSaveGameIndex = GLOBAL.ShardSaveGameIndex
 ---------------------------------------------------------
 -- Added Overriding Function --
 -- Changes word order.(nouns + Verb or adjective + nouns)
@@ -35,11 +36,13 @@ local function OnUpdate(self)
 	local OnUpdate_old = self.OnUpdate or function() end
 	self.OnUpdate = function(self)
 		OnUpdate_old(self)
+		if not self.shown then
+			return
+		end
+
 		local str = nil
 		if not self.isFE then
-			str = self.owner.HUD.controls:GetTooltip() or
-				self.owner.components.playercontroller ~= nil and self.owner.components.playercontroller:GetHoverTextOverride()
-				or ""
+			str = self.owner.HUD.controls:GetTooltip() or self.owner.components.playercontroller:GetHoverTextOverride()
 		else
 			str = self.owner:GetTooltip()
 		end
@@ -50,6 +53,10 @@ local function OnUpdate(self)
 			if lmb ~= nil then
 				local overriden
 				str, overriden = lmb:GetActionString()
+
+				if lmb.action.show_primary_input_left then
+                	str = TheInput:GetLocalizedControl(TheInput:GetControllerID(), CONTROL_PRIMARY) .. " " .. str
+                end
 				
 				if not overriden and lmb.target ~= nil and lmb.invobject == nil and lmb.target ~= lmb.doer then
 					local name = lmb.target:GetDisplayName()
@@ -58,9 +65,9 @@ local function OnUpdate(self)
 						name = (adjective ~= nil and (adjective.." "..name)) or name
 						
 						if lmb.target.replica.stackable ~= nil and lmb.target.replica.stackable:IsStack() then
-							name = name .. " " .. tostring(lmb.target.replica.stackable:StackSize()).."개"
+							name = name.." "..tostring(lmb.target.replica.stackable:StackSize()).."개"
 						end
-						str = name .. " " .. str
+						str = name.." "..str
 					end
 				end
 			end
@@ -74,7 +81,7 @@ end
 
 AddClassPostConstruct("widgets/hoverer", OnUpdate)
 
---Server list world day printing correction
+--Day correction on server info widget in server list in "Browse Game"
 AddClassPostConstruct("screens/redux/serverlistingscreen", function(self)
 	local updatedata = self.UpdateServerData or function() end
 	
@@ -85,6 +92,17 @@ AddClassPostConstruct("screens/redux/serverlistingscreen", function(self)
 		self.day_description.text:SetString(day..STRINGS.UI.SERVERLISTINGSCREEN.DAYDESC)
 	end
 end)
+
+--Correcting season and day on server slots in "Host Game"
+local function FixShardSaveIndex(self)
+	local _GetSlotDayAndSeasonText = self.GetSlotDayAndSeasonText
+	function self:GetSlotDayAndSeasonText(slot)
+		local txt = _GetSlotDayAndSeasonText(self, slot)
+		return txt:gsub(STRINGS.UI.SERVERCREATIONSCREEN.SERVERDAY.." ", "")..STRINGS.UI.SERVERCREATIONSCREEN.SERVERDAY
+	end
+end
+
+FixShardSaveIndex(GLOBAL.ShardSaveIndex)
 
 --texts in skin spinner now truncates into 2 lines.
 local function truncatespinner(self)
@@ -120,7 +138,7 @@ AddClassPostConstruct("widgets/uiclock", function(self)
 		UpdateDayStr(self)
 		
 		if self._cycles ~= nil then
-			self._text:SetString(tostring(GLOBAL.ThePlayer.Network:GetPlayerAge() ).." "..STRINGS.UI.HUD.CLOCKDAY)
+			self._text:SetString(tostring(GLOBAL.ThePlayer.Network:GetPlayerAge()).." "..STRINGS.UI.HUD.CLOCKDAY)
 		else
 			self._text:SetString("")
 		end

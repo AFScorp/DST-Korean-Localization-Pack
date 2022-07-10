@@ -2,6 +2,7 @@ local pp = require "pphandle"
 local STRINGS = GLOBAL.STRINGS
 local shuffleArray = GLOBAL.shuffleArray
 local ShardSaveGameIndex = GLOBAL.ShardSaveGameIndex
+local TheInput = GLOBAL.TheInput
 ---------------------------------------------------------
 -- Added Overriding Function --
 -- Changes word order.(nouns + Verb or adjective + nouns)
@@ -55,7 +56,7 @@ local function OnUpdate(self)
 				str, overriden = lmb:GetActionString()
 
 				if lmb.action.show_primary_input_left then
-                	str = TheInput:GetLocalizedControl(TheInput:GetControllerID(), CONTROL_PRIMARY) .. " " .. str
+                	return
                 end
 				
 				if not overriden and lmb.target ~= nil and lmb.invobject == nil and lmb.target ~= lmb.doer then

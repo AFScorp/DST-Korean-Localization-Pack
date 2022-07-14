@@ -3,6 +3,8 @@ local STRINGS = GLOBAL.STRINGS
 local shuffleArray = GLOBAL.shuffleArray
 local ShardSaveGameIndex = GLOBAL.ShardSaveGameIndex
 local TheInput = GLOBAL.TheInput
+
+LoadPOFile("ko.po", "ko")
 ---------------------------------------------------------
 -- Added Overriding Function --
 -- Changes word order.(nouns + Verb or adjective + nouns)
@@ -105,8 +107,8 @@ end
 
 FixShardSaveIndex(GLOBAL.ShardSaveIndex)
 
---texts in skin spinner now truncates into 2 lines.
-local function truncatespinner(self)
+--Deprecated: now SetMultilineTruncatedString has shrink_to_fit option
+--[[local function truncatespinner(self)
 	local MakeSpinnerOld = self.MakeSpinner
 	function self:MakeSpinner()
 		local spinner_group = MakeSpinnerOld(self)
@@ -117,9 +119,11 @@ local function truncatespinner(self)
 			local chars = width/4
 			
 			if chars > 5 and width > 10 then
-				self.text:SetMultilineTruncatedString(_msg, 2, width, chars, true)
-			else
-				self.text:SetString(_msg)
+				if self.auto_shrink_text then
+					self.text:SetMultilineTruncatedString(_msg, 2, width, chars, true)
+				else
+					self.text:SetString(_msg)
+				end
 			end
 		end
 		
@@ -128,7 +132,7 @@ local function truncatespinner(self)
 	end
 end
 
-AddClassPostConstruct("widgets/recipepopup", truncatespinner)
+AddClassPostConstruct("widgets/recipepopup", truncatespinner)]]
 
 -- In-Game UI Clock
 AddClassPostConstruct("widgets/uiclock", function(self)
@@ -267,4 +271,3 @@ GLOBAL.GetSpecialCharacterString = function(character)
 end
 
 ------------------------------------------
-LoadPOFile("ko.po", "ko")

@@ -25,7 +25,7 @@ AddClassPostConstruct("screens/worldgenscreen", ChangeFlavourText)
 ------------------------------------------------------------------------
 
 -- In-Game tooltip Text.
--- Step 1: Rearrange the placer tooltip
+-- Rearrange the placer tooltip
 local function GetHoverTextOverride(self)
 	function self:GetHoverTextOverride()
 		return self.placer_recipe ~= nil and ((STRINGS.NAMES[string.upper(self.placer_recipe.name)] or STRINGS.UI.HUD.HERE) .. " " .. STRINGS.UI.HUD.BUILD) or nil
@@ -34,7 +34,7 @@ end
 
 AddComponentPostInit("playercontroller", GetHoverTextOverride)
 
--- Step 2: Rearrange the whole tooltip
+-- Rearrange the non-overriden tooltip
 local function OnUpdate(self)
 	local OnUpdate_old = self.OnUpdate or function() end
 	self.OnUpdate = function(self)

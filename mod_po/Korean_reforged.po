@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2022-07-28 18:18\n"
+"PO-Revision-Date: 2022-07-29 00:20\n"
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona"
@@ -30,7 +30,11 @@ msgid "*Brings a spatula to cook boosting food for his allies!\n"
 "*Deals 10% more healing.\n"
 "Expertise:\n"
 "Melee, Staves"
-msgstr ""
+msgstr "*동료들에게 보양식을 만들어주는 뒤집개를 가지고 옵니다!\n"
+"*요리의 대가입니다\n"
+"*치유량이 10% 늘어납니다\n"
+"특화:\n"
+"근접 무기, 지팡이"
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wortox
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wortox"
@@ -49,7 +53,10 @@ msgid "*Spawns with a plant-based blowdart.\n"
 "*Blossoms over time as long as he avoids damage.\n\n"
 "Expertise:\n"
 "Darts, Staves"
-msgstr ""
+msgstr "*식물로 만든 바람총을 가지고 생성됩니다\n"
+"*오랫동안 피해를 입지 않으면 꽃이 핍니다\n\n"
+"특화:\n"
+"다트, 지팡이"
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wurt
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wurt"
@@ -398,7 +405,7 @@ msgstr "파리지옥 중에서 저런 건 본 적이 없었지, 분명."
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ADULT_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ADULT_FLYTRAP"
 msgid "F-fear me! I'm a scary imp!"
-msgstr ""
+msgstr "버-벌벌 떨어라! 난 무서운 임프다!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ADULT_FLYTRAP
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ADULT_FLYTRAP"
@@ -558,7 +565,7 @@ msgstr "음식 고마워요!"
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.FORGE_COOKPOT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.FORGE_COOKPOT"
 msgid "I'll take mine to-go!"
-msgstr ""
+msgstr "내 건 들고 가서 먹을게!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FORGE_COOKPOT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FORGE_COOKPOT"
@@ -593,22 +600,22 @@ msgstr "양념 폭탄"
 #. STRINGS.ACTIONS.CASTAOE.SPICE_BOMB_HEAL
 msgctxt "STRINGS.NAMES.SPICE_BOMB"
 msgid "Heal Bomb"
-msgstr ""
+msgstr "회복탄"
 
 #. STRINGS.ACTIONS.CASTAOE.SPICE_BOMB_ATTACK
 msgctxt "STRINGS.NAMES.SPICE_BOMB"
 msgid "Attack Bomb"
-msgstr ""
+msgstr "공격력탄"
 
 #. STRINGS.ACTIONS.CASTAOE.SPICE_BOMB_DEFENSE
 msgctxt "STRINGS.NAMES.SPICE_BOMB"
 msgid "Defense Bomb"
-msgstr ""
+msgstr "방어력탄"
 
 #. STRINGS.ACTIONS.CASTAOE.SPICE_BOMB_SPEED
 msgctxt "STRINGS.NAMES.SPICE_BOMB"
 msgid "Speed Bomb"
-msgstr ""
+msgstr "이속탄"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.TELEPORT_STAFF
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.TELEPORT_STAFF"
@@ -698,82 +705,82 @@ msgstr "순간이동"
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GAUNTLET
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GAUNTLET"
 msgid "This will push my foes out of the way."
-msgstr ""
+msgstr "내 앞의 적들을 밀어낼 수 있어."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GAUNTLET
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GAUNTLET"
 msgid "It's been a while since I ruled with an iron fist."
-msgstr ""
+msgstr "철권통치를 했던 때가 꽤 오래 됐군."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GAUNTLET
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.GAUNTLET"
 msgid "Mighty punches knock puny foes away!"
-msgstr ""
+msgstr "강력한 주먹으로 약한 적을 밀어낸다!"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.GAUNTLET
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GAUNTLET"
 msgid "THIS DOES PUT A SMILE ON MY FACE"
-msgstr ""
+msgstr "미소가 절로 지어지는 무기"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.GAUNTLET
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.GAUNTLET"
 msgid "It's too big for my hand to fit inside."
-msgstr ""
+msgstr "너무 커서 내 손이 안 맞아."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.GAUNTLET
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GAUNTLET"
 msgid "My life ebbs away more with each use."
-msgstr ""
+msgstr "사용할 때마다 내 생명력이 깎여나가."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GAUNTLET
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GAUNTLET"
 msgid "How's this work?"
-msgstr ""
+msgstr "이거 어떻게 쓰는 거지?"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GAUNTLET
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GAUNTLET"
 msgid "I'm not strong enough to brute force enemies away."
-msgstr ""
+msgstr "난 적들을 밀어낼 만큼 강하지가 못하구나."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GAUNTLET
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GAUNTLET"
 msgid "I will push thee back to Hel, beasts!"
-msgstr ""
+msgstr "네놈들을 저승으로 도로 밀어넣어주마, 짐승들아!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.GAUNTLET
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.GAUNTLET"
 msgid "It doesn't fit on our hand."
-msgstr ""
+msgstr "우리 손에 안 맞아."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.GAUNTLET
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.GAUNTLET"
 msgid "Ha! They can't even touch me!"
-msgstr ""
+msgstr "하! 나한테 손도 못 대네!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GAUNTLET
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GAUNTLET"
 msgid "The perfect prank pulling gauntlet!"
-msgstr ""
+msgstr "장난치기 딱 좋은 장갑이야!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GAUNTLET
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GAUNTLET"
 msgid "Heavy"
-msgstr ""
+msgstr "무거워"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.GAUNTLET
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.GAUNTLET"
 msgid "What a heavy oven mitt."
-msgstr ""
+msgstr "참 무거운 오븐 장갑이네."
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.GAUNTLET
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.GAUNTLET"
 msgid "We can use the gont-lit."
-msgstr ""
+msgstr "우린 곤뜰렛 쓸 수 있어."
 
 #. STRINGS.NAMES.GAUNTLET
 msgctxt "STRINGS.NAMES.GAUNTLET"
 msgid "Gauntlet"
-msgstr ""
+msgstr "건틀렛"
 
 #. STRINGS.ACTIONS.CASTAOE.LAVAARENA_GAUNTLET
 msgctxt "STRINGS.ACTIONS.CASTAOE.LAVAARENA_GAUNTLET"
@@ -1028,17 +1035,17 @@ msgstr "회귀의 지팡이"
 #. STRINGS.ACTIONS.CASTAOE.PORTAL_ACTIVATE
 msgctxt "STRINGS.ACTIONS.CASTAOE.PORTAL_ACTIVATE"
 msgid "Teleport"
-msgstr ""
+msgstr "순간이동"
 
 #. STRINGS.ACTIONS.CASTAOE.PORTAL_TARGET
 msgctxt "STRINGS.ACTIONS.CASTAOE.PORTAL_TARGET"
 msgid "Set Teleport Location"
-msgstr ""
+msgstr "순간이동 지점 설정"
 
 #. STRINGS.NAMES.PITPIG
 msgctxt "STRINGS.NAMES.PITPIG"
 msgid "Pitpig"
-msgstr ""
+msgstr "전투 돼지"
 
 #. STRINGS.NAMES.BOARILLA
 msgctxt "STRINGS.NAMES.BOARILLA"
@@ -1168,22 +1175,22 @@ msgstr "서버"
 #. STRINGS.UI.WXPLOBBYPANEL.LEVEL
 msgctxt "STRINGS.UI.LOBBYSCREEN.LEVEL"
 msgid "Level {val}"
-msgstr ""
+msgstr "레벨 {val}"
 
 #. STRINGS.UI.WXPLOBBYPANEL.MULT_VAL
 msgctxt "STRINGS.UI.LOBBYSCREEN.MULT_VAL"
 msgid "{name} x{val}"
-msgstr ""
+msgstr "{name} x{val}"
 
 #. STRINGS.UI.WXPLOBBYPANEL.ADD_VAL
 msgctxt "STRINGS.UI.LOBBYSCREEN.ADD_VAL"
 msgid "{name} + x{val}"
-msgstr ""
+msgstr "{name} + x{val}"
 
 #. STRINGS.UI.WXPLOBBYPANEL.MUTATOR_VAL
 msgctxt "STRINGS.UI.LOBBYSCREEN.MUTATOR_VAL"
 msgid "x{val}"
-msgstr ""
+msgstr "x{val}"
 
 #. STRINGS.UI.WXPLOBBYPANEL.TOTAL_ROUNDS_COMPLETED
 msgctxt "STRINGS.UI.WXPLOBBYPANEL.TOTAL_ROUNDS_COMPLETED"
@@ -1953,7 +1960,7 @@ msgstr "팀 통계로 돌아가기"
 #. STRINGS.UI.ACHIEVEMENTS_PANEL
 msgctxt "STRINGS.UI.ACHIEVEMENTS_PANEL"
 msgid "Achievements"
-msgstr ""
+msgstr "도전과제"
 
 #. STRINGS.UI.NEWS_PANEL.TAB
 msgctxt "STRINGS.UI.NEWS_PANEL.TAB"
@@ -2173,7 +2180,7 @@ msgstr "속도 깃발"
 #. STRINGS.REFORGED.ENEMIES.CROCOMMANDER_RAPIDFIRE.ABILITIES.BANNER_SPEED.DESC
 msgctxt "STRINGS.REFORGED.ENEMIES.CROCOMMANDER_RAPIDFIRE.ABILITIES.BANNER_SPEED.DESC"
 msgid "Increases the speed of allies nearby."
-msgstr ""
+msgstr "근처에 있는 아군의 속도가 높아집니다."
 
 #. STRINGS.REFORGED.ENEMIES.SNORTOISE.NAME
 msgctxt "STRINGS.REFORGED.ENEMIES.SNORTOISE.NAME"
@@ -2833,7 +2840,7 @@ msgstr "창"
 #. STRINGS.REFORGED.WEAPONS.PITHPIKE.DESC
 msgctxt "STRINGS.REFORGED.WEAPONS.PITHPIKE.DESC"
 msgid "Wigfrid's go-to weapon for battle."
-msgstr ""
+msgstr "위그프리드의 전투용 무기입니다."
 
 #. STRINGS.REFORGED.WEAPONS.PITHPIKE.ABILITIES.CHARGE.NAME
 msgctxt "STRINGS.REFORGED.WEAPONS.PITHPIKE.ABILITIES.CHARGE.NAME"
@@ -3107,7 +3114,7 @@ msgstr "향신료 버프 폭탄"
 #. STRINGS.REFORGED.WEAPONS.SPICE_BOMB.ABILITIES.THROW.DESC
 msgctxt "STRINGS.REFORGED.WEAPONS.SPICE_BOMB.ABILITIES.THROW.DESC"
 msgid "hrow these at your allies to make them smelly!"
-msgstr ""
+msgstr "던져서 아군에게 향을 입혀줍니다!"
 
 #. STRINGS.REFORGED.WEAPONS.FORGE_TRIDENT.NAME
 msgctxt "STRINGS.REFORGED.WEAPONS.FORGE_TRIDENT.NAME"
@@ -3522,12 +3529,12 @@ msgstr "연마장의 모든 적을 물리치고 승리의 길을 개척하세요
 #. STRINGS.REFORGED.GAMETYPES.classic_rlgl.name
 msgctxt "STRINGS.REFORGED.GAMETYPES.classic_rlgl.name"
 msgid "Redlight/Greenlight"
-msgstr "빨간불/초록불"
+msgstr "신호등"
 
 #. STRINGS.REFORGED.GAMETYPES.classic_rlgl.desc
 msgctxt "STRINGS.REFORGED.GAMETYPES.classic_rlgl.desc"
 msgid "The original RLGL from Forged Forge."
-msgstr "Forged Forge의 원조 RLGL입니다."
+msgstr "Forged Forge의 원조 신호등 모드."
 
 #. STRINGS.REFORGED.GAMETYPES.rlgl.name
 msgctxt "STRINGS.REFORGED.GAMETYPES.rlgl.name"
@@ -4164,52 +4171,52 @@ msgstr "파랑꿀"
 #. STRINGS.REFORGED.RLGL.NOLIGHT
 msgctxt "STRINGS.REFORGED.RLGL.NOLIGHT"
 msgid "NO LIGHT!"
-msgstr "없는불!"
+msgstr "불 없음!"
 
 #. STRINGS.REFORGED.RLGL.NOLIGHT_SPEECH.1
 msgctxt "STRINGS.REFORGED.RLGL.NOLIGHT_SPEECH.1"
 msgid "NO LIGHT!"
-msgstr "없는불!"
+msgstr "불 없음!"
 
 #. STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.1
 msgctxt "STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.1"
 msgid "NO FLIGHT"
-msgstr "없는풀"
+msgstr "풀 없음"
 
 #. STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.2
 msgctxt "STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.2"
 msgid "NO SIGHT"
-msgstr "없는눈"
+msgstr "눈 없음"
 
 #. STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.3
 msgctxt "STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.3"
 msgid "NO FIGHT"
-msgstr "없는뿔"
+msgstr "뿔 없음"
 
 #. STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.4
 msgctxt "STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.4"
 msgid "NO LITE"
-msgstr "없는룰"
+msgstr "룰 없음"
 
 #. STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.5
 msgctxt "STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.5"
 msgid "NO MIGHT"
-msgstr "없는물"
+msgstr "물 없음"
 
 #. STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.6
 msgctxt "STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.6"
 msgid "NO RIGHT"
-msgstr "없는줄"
+msgstr "줄 없음"
 
 #. STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.7
 msgctxt "STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.7"
 msgid "NO KITE"
-msgstr "없는뜰"
+msgstr "뜰 없음"
 
 #. STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.8
 msgctxt "STRINGS.REFORGED.RLGL.NOLIGHT_FAKEOUT_BANTER.8"
 msgid "NO WHITE"
-msgstr "없는꿀"
+msgstr "꿀 없음"
 
 #. STRINGS.REFORGED.USERCOMMANDS.START_VOTE_TITLE
 msgctxt "STRINGS.REFORGED.USERCOMMANDS.START_VOTE_TITLE"
@@ -4474,37 +4481,37 @@ msgstr "알 수 없는 문자열"
 #. STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.ROUND_1_START
 msgctxt "STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.ROUND_1_START"
 msgid "Round 1 Start!"
-msgstr ""
+msgstr "라운드 1 시작!"
 
 #. STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.ROUND_1_FINAL_BANTER
 msgctxt "STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.ROUND_1_FINAL_BANTER"
 msgid "Round 1 Final Wave"
-msgstr ""
+msgstr "라운드 1 마지막 공세"
 
 #. STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.ROUND_2_START
 msgctxt "STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.ROUND_2_START"
 msgid "Round 2 Start!"
-msgstr ""
+msgstr "라운드 2 시작!"
 
 #. STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.ROUND_2_FINAL_BANTER
 msgctxt "STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.ROUND_2_FINAL_BANTER"
 msgid "Round 2 Final Wave"
-msgstr ""
+msgstr "라운드 2 마지막 공세"
 
 #. STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.ROUND_3_START
 msgctxt "STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.ROUND_3_START"
 msgid "Round 3 Start!"
-msgstr ""
+msgstr "라운드 3 시작!"
 
 #. STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.ROUND_3_FINAL_BANTER
 msgctxt "STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.ROUND_3_FINAL_BANTER"
 msgid "Round 3 Final Wave"
-msgstr ""
+msgstr "라운드 3 마지막 공세"
 
 #. STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.ROUND_4_START
 msgctxt "STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.ROUND_4_START"
 msgid "Round 4 Start!"
-msgstr ""
+msgstr "라운드 4 시작!"
 
 #. STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.ROUND_4_FINAL_BANTER.1
 msgctxt "STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.ROUND_4_FINAL_BANTER.1"
@@ -4519,7 +4526,7 @@ msgstr "라운드 4 마지막 공세"
 #. STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.ROUND_5_START
 msgctxt "STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.ROUND_5_START"
 msgid "Round 5 Start!"
-msgstr ""
+msgstr "라운드 5 시작!"
 
 #. STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.ROUND_5_FINAL_BANTER.1
 msgctxt "STRINGS.REFORGED.FORGELORD_DIALOGUE.RANDOMIZED.ROUND_5_FINAL_BANTER.1"
@@ -4629,62 +4636,62 @@ msgstr "표식"
 #. STRINGS.REFORGED.DEBUFFS.healingcircle_regenbuff
 msgctxt "STRINGS.REFORGED.DEBUFFS.healingcircle_regenbuff"
 msgid "Trapped"
-msgstr ""
+msgstr "속박"
 
 #. STRINGS.REFORGED.DEBUFFS.healingcircle_regenbuff
 msgctxt "STRINGS.REFORGED.DEBUFFS.healingcircle_regenbuff"
 msgid "Who's a good boy!"
-msgstr ""
+msgstr "착하다, 우리 강아지!"
 
 #. STRINGS.REFORGED.DEBUFFS.healingcircle_regenbuff
 msgctxt "STRINGS.REFORGED.DEBUFFS.healingcircle_regenbuff"
 msgid "Poisoned"
-msgstr ""
+msgstr "중독"
 
 #. STRINGS.REFORGED.DEBUFFS.healingcircle_regenbuff
 msgctxt "STRINGS.REFORGED.DEBUFFS.healingcircle_regenbuff"
 msgid "Red Spicey"
-msgstr ""
+msgstr "빨간맛"
 
 #. STRINGS.REFORGED.DEBUFFS.healingcircle_regenbuff
 msgctxt "STRINGS.REFORGED.DEBUFFS.healingcircle_regenbuff"
 msgid "Blue Spicey"
-msgstr ""
+msgstr "파란맛"
 
 #. STRINGS.REFORGED.DEBUFFS.healingcircle_regenbuff
 msgctxt "STRINGS.REFORGED.DEBUFFS.healingcircle_regenbuff"
 msgid "Yellow Spicey"
-msgstr ""
+msgstr "노란맛"
 
 #. STRINGS.REFORGED.DEBUFFS.healingcircle_regenbuff
 msgctxt "STRINGS.REFORGED.DEBUFFS.healingcircle_regenbuff"
 msgid "Green Spicey"
-msgstr ""
+msgstr "녹색맛"
 
 #. STRINGS.REFORGED.DEBUFFS.healingcircle_regenbuff
 msgctxt "STRINGS.REFORGED.DEBUFFS.healingcircle_regenbuff"
 msgid "Shield Up"
-msgstr ""
+msgstr "방어력 업"
 
 #. STRINGS.REFORGED.DEBUFFS.healingcircle_regenbuff
 msgctxt "STRINGS.REFORGED.DEBUFFS.healingcircle_regenbuff"
 msgid "Defense Banner"
-msgstr ""
+msgstr "방어 깃발"
 
 #. STRINGS.REFORGED.DEBUFFS.healingcircle_regenbuff
 msgctxt "STRINGS.REFORGED.DEBUFFS.healingcircle_regenbuff"
 msgid "Attack Banner"
-msgstr ""
+msgstr "공격 깃발"
 
 #. STRINGS.REFORGED.DEBUFFS.healingcircle_regenbuff
 msgctxt "STRINGS.REFORGED.DEBUFFS.healingcircle_regenbuff"
 msgid "Heal Banner"
-msgstr ""
+msgstr "회복 깃발"
 
 #. STRINGS.REFORGED.DEBUFFS.healingcircle_regenbuff
 msgctxt "STRINGS.REFORGED.DEBUFFS.healingcircle_regenbuff"
 msgid "Speed Banner"
-msgstr ""
+msgstr "속도 깃발"
 
 #. STRINGS.REFORGED.PERKS.generic.tank.TITLE
 msgctxt "STRINGS.REFORGED.PERKS.generic.tank.TITLE"
@@ -4744,7 +4751,7 @@ msgstr "원조 연마장에 있었던 캐릭터를 무작위로, 원래 능력�
 #. STRINGS.REFORGED.PERKS.random.base_random.STARTING_ITEMS
 msgctxt "STRINGS.REFORGED.PERKS.random.base_random.STARTING_ITEMS"
 msgid "Starting items of the randomly selected characters loadout."
-msgstr ""
+msgstr "무작위 선택 캐릭터의 시작 아이템."
 
 #. STRINGS.REFORGED.PERKS.wendy.baby_ben.TITLE
 msgctxt "STRINGS.REFORGED.PERKS.wendy.baby_ben.TITLE"
@@ -4774,7 +4781,11 @@ msgid "*Becomes Overcharged from electric attacks.\n"
 "*Electric attacks are drawn to WX-78.\n\n"
 "Expertise:\n"
 "Melee, Staves"
-msgstr ""
+msgstr "*전기 공격을 받으면 과충전됩니다\n"
+"*전기 공격 저항력이 증가합니다\n"
+"*전기 공격이 WX-78에게 향합니다\n\n"
+"특화:\n"
+"근접 무기, 지팡이"
 
 #. STRINGS.REFORGED.PERKS.warly.cookpot.TITLE
 msgctxt "STRINGS.REFORGED.PERKS.warly.cookpot.TITLE"
@@ -5002,7 +5013,7 @@ msgstr "불 좀 켜 줄래"
 #. STRINGS.REFORGED.ACHIEVEMENTS.rlgl_normal.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rlgl_normal.DESCRIPTION"
 msgid "Beat the Swineclops waveset in 'Red-Light Green-Light' mode."
-msgstr ""
+msgstr "'신호등' 모드로 외눈돼지 웨이브셋을 클리어"
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rlglolbl_normal.TITLE
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rlglolbl_normal.TITLE"
@@ -5012,7 +5023,7 @@ msgstr "교통 정리"
 #. STRINGS.REFORGED.ACHIEVEMENTS.rlglolbl_normal.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rlglolbl_normal.DESCRIPTION"
 msgid "Beat the Swineclops waveset in 'Red-Light Green-Light Orange-Light Blue-Light' mode."
-msgstr ""
+msgstr "'4색 신호등' 모드에서 외눈돼지 웨이브셋 격퇴"
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rainbow_normal.TITLE
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rainbow_normal.TITLE"
@@ -5022,7 +5033,7 @@ msgstr "무지개 너머"
 #. STRINGS.REFORGED.ACHIEVEMENTS.rainbow_normal.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rainbow_normal.DESCRIPTION"
 msgid "Beat the Swineclops waveset in 'Rainbow-Lights' mode."
-msgstr ""
+msgstr "'무지개빛' 모드로 외눈돼지 웨이브셋 클리어"
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rlgl_hard.TITLE
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rlgl_hard.TITLE"
@@ -5032,7 +5043,7 @@ msgstr "불도깨비"
 #. STRINGS.REFORGED.ACHIEVEMENTS.rlgl_hard.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rlgl_hard.DESCRIPTION"
 msgid "Beat the Swineclops waveset in 'Red-Light Green-Light' mode on hard difficulty."
-msgstr ""
+msgstr "'신호등' 모드에서 어려움 난이도로 외눈돼지 웨이브셋 클리어"
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rlglolbl_hard.TITLE
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rlglolbl_hard.TITLE"
@@ -5042,7 +5053,7 @@ msgstr "교통의 악마"
 #. STRINGS.REFORGED.ACHIEVEMENTS.rlglolbl_hard.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rlglolbl_hard.DESCRIPTION"
 msgid "Beat the Swineclops waveset in 'Red-Light Green-Light Orange-Light Blue-Light' mode on hard difficulty."
-msgstr ""
+msgstr "'4색 신호등' 모드에서 어려움 난이도로 외눈돼지 웨이브셋을 클리어"
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rainbow_hard.TITLE
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rainbow_hard.TITLE"
@@ -5052,7 +5063,7 @@ msgstr "파티지옥"
 #. STRINGS.REFORGED.ACHIEVEMENTS.rainbow_hard.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rainbow_hard.DESCRIPTION"
 msgid "Beat the Swineclops waveset in 'Rainbow-Lights' mode on hard difficulty."
-msgstr ""
+msgstr "'무지개빛' 모드에서 어려움 난이도로 외눈돼지 웨이브셋 클리어"
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rlgl_no_deaths.TITLE
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rlgl_no_deaths.TITLE"
@@ -5062,7 +5073,7 @@ msgstr "밝다 밝아"
 #. STRINGS.REFORGED.ACHIEVEMENTS.rlgl_no_deaths.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rlgl_no_deaths.DESCRIPTION"
 msgid "Without any teammates dying, beat the Swineclops waveset in 'Red-Light Green-Light' mode."
-msgstr ""
+msgstr "'신호등' 모드에서 사상자 없이 외눈돼지 웨이브셋 격퇴"
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rlglolbl_no_deaths.TITLE
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rlglolbl_no_deaths.TITLE"
@@ -5072,7 +5083,7 @@ msgstr "깜빡대는 빛 속에"
 #. STRINGS.REFORGED.ACHIEVEMENTS.rlglolbl_no_deaths.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rlglolbl_no_deaths.DESCRIPTION"
 msgid "Without any teammates dying, beat the Swineclops waveset in 'Red-Light Green-Light Orange-Light Blue-Light' mode."
-msgstr ""
+msgstr "사상자 없이 '4색 신호등' 모드로 외눈돼지 웨이브셋 클리어"
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.rainbow_no_deaths.TITLE
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rainbow_no_deaths.TITLE"
@@ -5082,7 +5093,7 @@ msgstr "무지개가 나를 감싸네"
 #. STRINGS.REFORGED.ACHIEVEMENTS.rainbow_no_deaths.DESCRIPTION
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.rainbow_no_deaths.DESCRIPTION"
 msgid "Without any teammates dying, beat the Swineclops waveset in 'Rainbow-Lights' mode."
-msgstr ""
+msgstr "'무지개빛' 모드에서 사상자 없이 외눈돼지 웨이브셋 격퇴"
 
 #. STRINGS.REFORGED.ACHIEVEMENTS.endless.TITLE
 msgctxt "STRINGS.REFORGED.ACHIEVEMENTS.endless.TITLE"

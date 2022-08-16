@@ -3,8 +3,14 @@ local STRINGS = GLOBAL.STRINGS
 local shuffleArray = GLOBAL.shuffleArray
 local ShardSaveGameIndex = GLOBAL.ShardSaveGameIndex
 local TheInput = GLOBAL.TheInput
+local LOC = GLOBAL.LOC
+local LANGUAGE = GLOBAL.LANGUAGE
+--local pofile = GLOBAL.resolvefilepath("ko.po")
 
-LoadPOFile("ko.po", "ko")
+local localization_ko = {id = LANGUAGE.KOREAN,  alt_id = nil, strings = "ko.po", code = "ko", scale = 1.0, in_steam_menu = false, in_console_menu = true, shrink_to_fit_word = false}
+LOC.SetCurrentLocale(localization_ko)
+LOC.SwapLanguage()
+--LoadPOFile("ko.po", "ko")
 ---------------------------------------------------------
 -- Added Overriding Function --
 -- Changes word order.(nouns + Verb or adjective + nouns)

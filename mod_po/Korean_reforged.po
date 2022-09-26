@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2022-07-29 00:20\n"
+"PO-Revision-Date: 2022-09-26 10:40\n"
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona"
@@ -4371,7 +4371,7 @@ msgstr "강제 시작이 취소되었습니다!"
 #. STRINGS.REFORGED.ADMIN_COMMANDS.SPAWNING_ENT
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.SPAWNING_ENT"
 msgid "Spawning %d %s."
-msgstr "%s %d마리 생성"
+msgstr "%d마리 %s 생성"
 
 #. STRINGS.REFORGED.ADMIN_COMMANDS.EQUIPPING_ITEM
 msgctxt "STRINGS.REFORGED.ADMIN_COMMANDS.EQUIPPING_ITEM"

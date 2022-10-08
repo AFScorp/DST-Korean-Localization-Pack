@@ -7,9 +7,9 @@ local LOC = GLOBAL.LOC
 local LANGUAGE = GLOBAL.LANGUAGE
 --local pofile = GLOBAL.resolvefilepath("ko.po")
 
-local languagefile = CURRENT_BETA == 0 and "ko_release.po" or "ko_beta.po"
+--local languagefile = CURRENT_BETA == 0 and "ko_release.po" or "ko_beta.po"
 
-local localization_ko = {id = LANGUAGE.KOREAN,  alt_id = nil, strings = languagefile, code = "ko", scale = 1.0, in_steam_menu = false, in_console_menu = true, shrink_to_fit_word = false}
+local localization_ko = {id = LANGUAGE.KOREAN,  alt_id = nil, strings = "ko.po", code = "ko", scale = 1.0, in_steam_menu = false, in_console_menu = true, shrink_to_fit_word = false}
 LOC.SetCurrentLocale(localization_ko)
 LOC.SwapLanguage()
 --LoadPOFile("ko.po", "ko")

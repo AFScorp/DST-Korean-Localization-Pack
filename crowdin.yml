@@ -2,4 +2,4 @@ files:
   - source: /lang_source/ReForged.pot
     translation: /mod_po/%language%_reforged.po
   - source: /lang_source/Don't Starve Together.pot
-    translation: /modmains/scripts/languages/%two_letters_code%_beta.po
+    translation: /modmains/scripts/languages/%two_letters_code%.po

@@ -53,7 +53,7 @@ local function OnUpdate(self)
 
 		local str = nil
 		if not self.isFE then
-			str = self.owner.HUD.controls:GetTooltip() or self.owner.components.playercontroller:GetHoverTextOverride()
+			str = (self.owner.HUD ~= nil and self.owner.HUD.controls:GetTooltip()) or (self.owner.components ~= nil and self.owner.components.playercontroller:GetHoverTextOverride())
 		else
 			str = self.owner:GetTooltip()
 		end

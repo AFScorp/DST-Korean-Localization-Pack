@@ -1,10 +1,10 @@
-local pp = require "pphandle"
-local STRINGS = GLOBAL.STRINGS
-local shuffleArray = GLOBAL.shuffleArray
-local ShardSaveGameIndex = GLOBAL.ShardSaveGameIndex
-local TheInput = GLOBAL.TheInput
-local LOC = GLOBAL.LOC
-local LANGUAGE = GLOBAL.LANGUAGE
+env.pp = require "pphandle"
+env.STRINGS = GLOBAL.STRINGS
+env.shuffleArray = GLOBAL.shuffleArray
+env.ShardSaveGameIndex = GLOBAL.ShardSaveGameIndex
+env.TheInput = GLOBAL.TheInput
+env.LOC = GLOBAL.LOC
+env.LANGUAGE = GLOBAL.LANGUAGE
 --local pofile = GLOBAL.resolvefilepath("ko.po")
 
 --local languagefile = CURRENT_BETA == 0 and "ko_release.po" or "ko_beta.po"
@@ -32,7 +32,7 @@ AddClassPostConstruct("screens/worldgenscreen", ChangeFlavourText)
 -- codes that should work only on client
 ------------------------------------------------------------------------
 
--- In-Game tooltip Text.
+-- In-Game tooltip text.
 -- Rearrange the placer tooltip
 local function GetHoverTextOverride(self)
 	function self:GetHoverTextOverride()
@@ -92,7 +92,7 @@ end
 
 AddClassPostConstruct("widgets/hoverer", OnUpdate)
 
---Day correction on server info widget in server list in "Browse Game"
+--Correcting the server day info in "Browse Game"
 AddClassPostConstruct("screens/redux/serverlistingscreen", function(self)
 	local updatedata = self.UpdateServerData or function() end
 	
@@ -168,6 +168,8 @@ AddClassPostConstruct("widgets/uiclock", function(self)
 		self._showingcycles = true
 	end
 end)
+
+modimport("scripts/fix_playstyle")
 
 ----------------------------------------------------------------------------------------
 -- codes that work only on server
@@ -253,7 +255,8 @@ AddPrefabPostInit("player_common", function(inst)
 end)
 
 --3. carrat race winner
-AddPrefabPostInit("yotc_carrat_race_finish", function(inst)
+--disabled, the parameter is easely lost. Also not tested enough.
+--[[AddPrefabPostInit("yotc_carrat_race_finish", function(inst)
 	if inst.components.inspectable ~= nil then
 		if inst.components.inspectable.getspecialdescription_old == nil then
 			inst.components.inspectable.getspecialdescription_old = inst.components.inspectable.getspecialdescription or function() end
@@ -264,7 +267,7 @@ AddPrefabPostInit("yotc_carrat_race_finish", function(inst)
 			return (winner ~= nil and pp.replacePP(str, winner)) or str
 		end
 	end
-end)
+end)]]
 
 --Localization for player ghost speech
 

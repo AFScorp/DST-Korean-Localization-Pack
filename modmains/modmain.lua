@@ -143,7 +143,7 @@ end
 AddClassPostConstruct("widgets/recipepopup", truncatespinner)]]
 
 -- In-Game UI Clock
-AddClassPostConstruct("widgets/uiclock", function(self)
+local function UIClock(self)
 	local UpdateDayStr = self.UpdateDayString or function() end
 	local basescale = 1
 	
@@ -167,7 +167,9 @@ AddClassPostConstruct("widgets/uiclock", function(self)
 		self._text:SetSize(28)
 		self._showingcycles = true
 	end
-end)
+end
+
+AddClassPostConstruct("widgets/uiclock", UIClock)
 
 modimport("scripts/fix_playstyle")
 
@@ -213,7 +215,7 @@ end
 
 --Replace pp. according to the name
 --1. player skeleton
-AddPrefabPostInit("skeleton_player", function(inst)
+local function skeleton_player(inst)
 	local function reassignfn(inst)
 		if inst.components.inspectable.getspecialdescription_old == nil then
 			inst.components.inspectable.getspecialdescription_old = inst.components.inspectable.getspecialdescription
@@ -239,10 +241,12 @@ AddPrefabPostInit("skeleton_player", function(inst)
 		inst.oldOnLoad(inst, ...)
 		reassignfn(inst)
 	end
-end)
+end
+
+AddPrefabPostInit("skeleton_player", skeleton_player)
 
 --2. player inspection
-AddPrefabPostInit("player_common", function(inst)
+local function player_common(inst)
 	if inst.components.inspectable ~= nil then
 		if inst.components.inspectable.getspecialdescription_old == nil then
 			inst.components.inspectable.getspecialdescription_old = inst.components.inspectable.getspecialdescription
@@ -252,8 +256,9 @@ AddPrefabPostInit("player_common", function(inst)
 			return pp.replacePP(inst.components.inspectable.getspecialdescription_old(inst, ...), inst:GetDisplayName())
 		end
 	end
-end)
+end
 
+AddPrefabPostInit("player_common", player_common)
 --3. carrat race winner
 --disabled, the parameter is easely lost. Also not tested enough.
 --[[AddPrefabPostInit("yotc_carrat_race_finish", function(inst)

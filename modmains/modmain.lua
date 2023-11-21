@@ -22,9 +22,11 @@ LOC.SwapLanguage()
 -- switch two tables to fit the word order into Korean
 -- then force set it by current index
 local function ChangeFlavourText(self)
-	self.verbs = shuffleArray(STRINGS.UI.WORLDGEN.NOUNS)
-	self.nouns = shuffleArray(STRINGS.UI.WORLDGEN.VERBS)
-	self.flavourtext:SetString(self.verbs[self.verbidx].." "..self.nouns[self.nounidx])
+	if self.flavortext then
+		self.verbs = shuffleArray(STRINGS.UI.WORLDGEN.NOUNS)
+		self.nouns = shuffleArray(STRINGS.UI.WORLDGEN.VERBS)
+		self.flavourtext:SetString(self.verbs[self.verbidx].." "..self.nouns[self.nounidx])
+	end
 end
 
 AddClassPostConstruct("screens/worldgenscreen", ChangeFlavourText)

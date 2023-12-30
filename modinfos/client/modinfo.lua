@@ -1,5 +1,5 @@
 name = "굶지마 다함께 한글화 [클라이언트 버전]"
-version = "1.3.2-20231222.00"
+version = "1.3.2-20231230.00"
 description = [[Version: ]] .. version ..
 [[
 
@@ -28,6 +28,9 @@ dont_starve_compatible = false
 reign_of_giants_compatible = false
 shipwrecked_compatible = false
 dst_compatible = true
+
+--compatibility tag with ReForged
+forge_compatible = true
 
 all_clients_require_mod=false
 server_filter_tags = {"korean","language"}

@@ -1,8 +1,3 @@
-msgid ""
-msgstr ""
-"Application: Dont' Starve\n"
-"POT Version: 2.0\n"
-
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona"
 msgid "*All ability cooldowns are 10% faster.\n\n\n\nExpertise:\nMelee, Darts, Staves"

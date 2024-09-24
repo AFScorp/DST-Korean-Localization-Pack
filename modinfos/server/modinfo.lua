@@ -1,5 +1,5 @@
 name = "굶지마 다함께 한글화 [서버 버전]"
-version = "1.3.2-20240709.00"
+version = "1.3.2-20240924.00"
 description = [[Version: ]] .. version ..
 [[
 

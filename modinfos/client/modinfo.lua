@@ -1,5 +1,5 @@
 name = "굶지마 다함께 한글화 [클라이언트 버전]"
-version = "1.3.2-20250430.00"
+version = "1.3.2-20250627.00"
 description = [[Version: ]] .. version ..
 [[
 
@@ -35,3 +35,4 @@ forge_compatible = true
 all_clients_require_mod=false
 server_filter_tags = {"korean","language"}
 client_only_mod=true
+

@@ -3,7 +3,7 @@ git:
     - filter_type: file
       file_format: PO
       source_file: "lang_source/Don't Starve Together.pot"
-      source_langugage: en
+      source_language: en
       translation_files_expression: 'modmains/scripts/languages/<lang>.po'
     - filter_type: file
       file_format: PO
@@ -14,6 +14,6 @@ git:
       file_format: PO
       source_file: "lang_source/Don't Starve.pot"
       source_language: en
-      translatioN_files_expression: 'mod_po/<lang>.po'
+      translation_files_expression: 'mod_po/<lang>.po'
   settings:
     pr_branch_name: Transifex

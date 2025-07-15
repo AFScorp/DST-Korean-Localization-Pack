@@ -16,4 +16,4 @@ git:
       source_language: en
       translation_files_expression: 'mod_po/<lang>.po'
   settings:
-    pr_branch_name: Transifex
+    pr_branch_name: Transifex_<br_unique_id>

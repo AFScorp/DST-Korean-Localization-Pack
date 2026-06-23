@@ -397237,7 +397237,7 @@ msgstr "폭신한 사슴털 귀마개"
 #. STRINGS.SKIN_NAMES.eets_e_basic
 msgctxt "STRINGS.SKIN_NAMES.eets_e_basic"
 msgid "Eets"
-msgstr "이츠"
+msgstr "먹깨비"
 
 #. STRINGS.SKIN_NAMES.eets_e_basic_builder
 msgctxt "STRINGS.SKIN_NAMES.eets_e_basic_builder"
@@ -415474,7 +415474,7 @@ msgstr "토끼 귀마개"
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.EETS
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.EETS"
 msgid "Eets"
-msgstr "이츠"
+msgstr "먹깨비"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.ENDTABLE
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.ENDTABLE"

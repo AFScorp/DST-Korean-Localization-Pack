@@ -423510,7 +423510,7 @@ msgid ""
 "\n"
 "You will have a total of {doodad_net} Spools."
 msgstr ""
-"{item_name} 아이템을 {doodad_count} 실타래로 푸시겠습니까?\n"
+" {count} 아이템을 {doodad_count} 실타래로 푸시겠습니까?\n"
 "\n"
 "총 {doodad_net} 실타래를 보유하게 됩니다."
 

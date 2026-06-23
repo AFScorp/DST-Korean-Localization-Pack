@@ -2,13 +2,13 @@
 # "POT Version: 2.0\n"
 # Translators:
 # Snow ball, 2026
-# Mr. Dream <dreamer12513@gmail.com>, 2026
 # Transifex Bot <>, 2026
 # AFS Co. Ltd., 2026
+# Mr. Dream <dreamer12513@gmail.com>, 2026
 # 
 msgid ""
 msgstr ""
-"Last-Translator: AFS Co. Ltd., 2026\n"
+"Last-Translator: Mr. Dream <dreamer12513@gmail.com>, 2026\n"
 "Language-Team: Korean (https://app.transifex.com/DSTKoreanTeam/teams/115873/ko/)\n"
 "Language: ko\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -338872,12 +338872,12 @@ msgstr "브루들링"
 #. STRINGS.NAMES.CRITTER_EETS
 msgctxt "STRINGS.NAMES.CRITTER_EETS"
 msgid "Eets"
-msgstr "이츠"
+msgstr "먹깨비"
 
 #. STRINGS.NAMES.CRITTER_EETS_BUILDER
 msgctxt "STRINGS.NAMES.CRITTER_EETS_BUILDER"
 msgid "Eets"
-msgstr "이츠"
+msgstr "먹깨비"
 
 #. STRINGS.NAMES.CRITTER_EYEOFTERROR
 msgctxt "STRINGS.NAMES.CRITTER_EYEOFTERROR"
@@ -353840,7 +353840,7 @@ msgid ""
 "Befriend a hungry Eets.\n"
 "It's emotional."
 msgstr ""
-"배고픈 이츠와 친구가 되세요.\n"
+"배고픈 먹깨비와 친구가 되세요.\n"
 "감성적이군요."
 
 #. STRINGS.RECIPE_DESC.CRITTER_EYEOFTERROR_BUILDER

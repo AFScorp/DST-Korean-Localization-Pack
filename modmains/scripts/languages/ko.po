@@ -374740,7 +374740,7 @@ msgstr "사슴 솜털로 만든 귀마개입니다."
 #. STRINGS.SKIN_DESCRIPTIONS.eets_e_basic
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.eets_e_basic"
 msgid "It's emotional."
-msgstr "감성적입니다."
+msgstr "배고픔, 그것은 감정."
 
 #. STRINGS.SKIN_DESCRIPTIONS.eets_e_basic_builder
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.eets_e_basic_builder"

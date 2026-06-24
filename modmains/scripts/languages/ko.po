@@ -3,12 +3,12 @@
 # Translators:
 # Snow ball, 2026
 # Transifex Bot <>, 2026
-# AFS Co. Ltd., 2026
 # Mr. Dream <dreamer12513@gmail.com>, 2026
+# AFS Co. Ltd., 2026
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Mr. Dream <dreamer12513@gmail.com>, 2026\n"
+"Last-Translator: AFS Co. Ltd., 2026\n"
 "Language-Team: Korean (https://app.transifex.com/DSTKoreanTeam/teams/115873/ko/)\n"
 "Language: ko\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -353841,7 +353841,7 @@ msgid ""
 "It's emotional."
 msgstr ""
 "배고픈 먹깨비와 친구가 되세요.\n"
-"감성적이군요."
+"감성이 풍부합니다."
 
 #. STRINGS.RECIPE_DESC.CRITTER_EYEOFTERROR_BUILDER
 msgctxt "STRINGS.RECIPE_DESC.CRITTER_EYEOFTERROR_BUILDER"

@@ -353841,7 +353841,7 @@ msgid ""
 "It's emotional."
 msgstr ""
 "배고픈 먹깨비와 친구가 되세요.\n"
-"감성이 풍부합니다."
+"배고픔, 그것은 감정."
 
 #. STRINGS.RECIPE_DESC.CRITTER_EYEOFTERROR_BUILDER
 msgctxt "STRINGS.RECIPE_DESC.CRITTER_EYEOFTERROR_BUILDER"

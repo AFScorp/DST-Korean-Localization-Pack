@@ -3,12 +3,12 @@
 # Translators:
 # Snow ball, 2026
 # Transifex Bot <>, 2026
-# Mr. Dream <dreamer12513@gmail.com>, 2026
 # AFS Co. Ltd., 2026
+# Mr. Dream <dreamer12513@gmail.com>, 2026
 # 
 msgid ""
 msgstr ""
-"Last-Translator: AFS Co. Ltd., 2026\n"
+"Last-Translator: Mr. Dream <dreamer12513@gmail.com>, 2026\n"
 "Language-Team: Korean (https://app.transifex.com/DSTKoreanTeam/teams/115873/ko/)\n"
 "Language: ko\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -3970,7 +3970,7 @@ msgid ""
 "If I eat anymore, I'm gonna pop.\n"
 "Hmm, pop... popcorn... mmmmm..."
 msgstr ""
-"더 먹으면 배 터지겠어.\n"
+"더 먹으면 팝콘처럼 배 터지겠어.\n"
 "흐음, 뻥... 뻥이요... 으으음..."
 
 #. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS_SNACK.2

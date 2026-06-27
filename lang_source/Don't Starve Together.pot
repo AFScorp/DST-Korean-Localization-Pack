@@ -683,6 +683,11 @@ msgctxt "STRINGS.ACTIONS.CYCLE.GENERIC"
 msgid "Cycle"
 msgstr "Cycle"
 
+#. STRINGS.ACTIONS.CYCLE.PAR
+msgctxt "STRINGS.ACTIONS.CYCLE.PAR"
+msgid "Cycle Par"
+msgstr "Cycle Par"
+
 #. STRINGS.ACTIONS.CYCLE.TUNE
 msgctxt "STRINGS.ACTIONS.CYCLE.TUNE"
 msgid "Hit"
@@ -1068,6 +1073,21 @@ msgctxt "STRINGS.ACTIONS.GOHOME"
 msgid "Go Home"
 msgstr "Go Home"
 
+#. STRINGS.ACTIONS.GOLF_START_AIMING
+msgctxt "STRINGS.ACTIONS.GOLF_START_AIMING"
+msgid "Aim"
+msgstr "Aim"
+
+#. STRINGS.ACTIONS.GOLF_START_CHARGING
+msgctxt "STRINGS.ACTIONS.GOLF_START_CHARGING"
+msgid "Putt (Hold)"
+msgstr "Putt (Hold)"
+
+#. STRINGS.ACTIONS.GOLF_STOP_AIMING
+msgctxt "STRINGS.ACTIONS.GOLF_STOP_AIMING"
+msgid "Stop Aiming"
+msgstr "Stop Aiming"
+
 #. STRINGS.ACTIONS.GRAVEDIG
 msgctxt "STRINGS.ACTIONS.GRAVEDIG"
 msgid "Beckon"
@@ -1417,6 +1437,11 @@ msgstr "Forge at"
 msgctxt "STRINGS.ACTIONS.OPEN_CRAFTING.GENERIC"
 msgid "Research at"
 msgstr "Research at"
+
+#. STRINGS.ACTIONS.OPEN_CRAFTING.GOLFPROPS
+msgctxt "STRINGS.ACTIONS.OPEN_CRAFTING.GOLFPROPS"
+msgid "Get Props at"
+msgstr "Get Props at"
 
 #. STRINGS.ACTIONS.OPEN_CRAFTING.OFFERING
 msgctxt "STRINGS.ACTIONS.OPEN_CRAFTING.OFFERING"
@@ -2112,6 +2137,11 @@ msgstr "Tell Story"
 msgctxt "STRINGS.ACTIONS.TERRAFORM"
 msgid "Dig"
 msgstr "Dig"
+
+#. STRINGS.ACTIONS.TERRAFORM_REMOVE
+msgctxt "STRINGS.ACTIONS.TERRAFORM_REMOVE"
+msgid "Uproot"
+msgstr "Uproot"
 
 #. STRINGS.ACTIONS.TILL
 msgctxt "STRINGS.ACTIONS.TILL"
@@ -5071,6 +5101,12 @@ msgctxt ""
 "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.GIVE.CARNIVALGAME_ALREADY_PLAYING"
 msgid "A game is already underway."
 msgstr "A game is already underway."
+
+#. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY
+msgctxt ""
+"STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY"
+msgid "It's a hole issue."
+msgstr "It's a hole issue."
 
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM"
@@ -10306,6 +10342,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "The thrill of discovery!"
 msgstr "The thrill of discovery!"
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
+msgid "The thrill of discovery!"
+msgstr "The thrill of discovery!"
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_LAMP"
 msgid "It's powered by whimsy."
@@ -10357,6 +10398,101 @@ msgctxt ""
 "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_FEEDCHICKS_STATION.PLAYING"
 msgid "This looks like fun!"
 msgstr "This looks like fun!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLFBALL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLFBALL"
+msgid "I've seen you round here!"
+msgstr "I've seen you round here!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLFCLUB
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLFCLUB"
+msgid "Putter up!"
+msgstr "Putter up!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY"
+msgid "Hm, there must be a formula to the perfect mini-golf course."
+msgstr "Hm, there must be a formula to the perfect mini-golf course."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY"
+msgid "The physics should be forgiving here."
+msgstr "The physics should be forgiving here."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD"
+msgid "This may require more calculation."
+msgstr "This may require more calculation."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM"
+msgid "I'll give it a shot."
+msgstr "I'll give it a shot."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT"
+msgid "It's just in the way."
+msgstr "It's just in the way."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN"
+msgid "I'm not blown away by it."
+msgstr "I'm not blown away by it."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE"
+msgid "There's no getting around that."
+msgstr "There's no getting around that."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL"
+msgid "The obstacle has its ups and downs."
+msgstr "The obstacle has its ups and downs."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER"
+msgid "It's really turning things around."
+msgstr "It's really turning things around."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING"
+msgid "And they say there's no such thing as a free launch!"
+msgstr "And they say there's no such thing as a free launch!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE"
+msgid "I wish I could study how the two ends connect, but it might be gross."
+msgstr "I wish I could study how the two ends connect, but it might be gross."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLF_HOLE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLF_HOLE"
+msgid "I'll putt the ball right in there."
+msgstr "I'll putt the ball right in there."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT"
+msgid "Where to end?"
+msgstr "Where to end?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC"
+msgid "It needs a token to get this par-tee started!"
+msgstr "It needs a token to get this par-tee started!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE"
+msgid "It's a hole issue."
+msgstr "It's a hole issue."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING"
+msgid "A game is in play."
+msgstr "A game is in play."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT"
+msgid "Where to begin?"
+msgstr "Where to begin?"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_HERDING_CHICK
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_HERDING_CHICK"
@@ -24867,6 +25003,12 @@ msgctxt ""
 msgid "We can wait till they're done. Right Woby?"
 msgstr "We can wait till they're done. Right Woby?"
 
+#. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY
+msgctxt ""
+"STRINGS.CHARACTERS.WALTER.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY"
+msgid "We can't play until there's a flaghole, Woby!"
+msgstr "We can't play until there's a flaghole, Woby!"
+
 #. STRINGS.CHARACTERS.WALTER.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM
 msgctxt "STRINGS.CHARACTERS.WALTER.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM"
 msgid "I had a feeling that wouldn't work..."
@@ -29629,6 +29771,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "The suspense is killing me!"
 msgstr "The suspense is killing me!"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
+msgid "The suspense is killing me!"
+msgstr "The suspense is killing me!"
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALDECOR_LAMP"
 msgid "Do you think it's powered by magic?"
@@ -29680,6 +29827,105 @@ msgctxt ""
 "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_FEEDCHICKS_STATION.PLAYING"
 msgid "This doesn't look too hard!"
 msgstr "This doesn't look too hard!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLFBALL
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLFBALL"
+msgid "Remember not to chase this ball, Woby!"
+msgstr "Remember not to chase this ball, Woby!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLFCLUB
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLFCLUB"
+msgid ""
+"It's all about control, see? Not power. Just careful aim, steady hands and "
+"good attitude!"
+msgstr ""
+"It's all about control, see? Not power. Just careful aim, steady hands and "
+"good attitude!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY"
+msgid "I can't wait to play our very own custom mini-golf course, Woby!"
+msgstr "I can't wait to play our very own custom mini-golf course, Woby!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY"
+msgid "Elementary, my dear Woby!"
+msgstr "Elementary, my dear Woby!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD"
+msgid "This will be a tricky one, Woby! But we can do it!"
+msgstr "This will be a tricky one, Woby! But we can do it!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM"
+msgid "Promise not to chase the ball, Woby?"
+msgstr "Promise not to chase the ball, Woby?"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT"
+msgid "Wow, neat carving!"
+msgstr "Wow, neat carving!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN"
+msgid "Look, Woby! We have a fan!"
+msgstr "Look, Woby! We have a fan!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE"
+msgid "That will keep the ball from rolling off... and you too, Woby!"
+msgstr "That will keep the ball from rolling off... and you too, Woby!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL"
+msgid "Bark when it goes down, Woby!"
+msgstr "Bark when it goes down, Woby!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER"
+msgid "Let's take it for a spin!"
+msgstr "Let's take it for a spin!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING"
+msgid "Launch time! Not lunch time, Woby!"
+msgstr "Launch time! Not lunch time, Woby!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE"
+msgid "Maybe it's a shortcut!"
+msgstr "Maybe it's a shortcut!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLF_HOLE
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLF_HOLE"
+msgid "And this is where the ball goes, Woby!"
+msgstr "And this is where the ball goes, Woby!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT"
+msgid "Where should the flaghole go, Wobes?"
+msgstr "Where should the flaghole go, Wobes?"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC"
+msgid "Now we just need to give it a token!"
+msgstr "Now we just need to give it a token!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE"
+msgid "We can't play until there's a flaghole, Woby!"
+msgstr "We can't play until there's a flaghole, Woby!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING"
+msgid "It has a token already!"
+msgstr "It has a token already!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT"
+msgid "Where should we start, Woby girl?"
+msgstr "Where should we start, Woby girl?"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_HERDING_CHICK
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALGAME_HERDING_CHICK"
@@ -44184,6 +44430,12 @@ msgctxt ""
 msgid "I'll just come back later. Or earlier."
 msgstr "I'll just come back later. Or earlier."
 
+#. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY
+msgctxt ""
+"STRINGS.CHARACTERS.WANDA.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY"
+msgid "Oh botheration, I've forgotten the flaghole, haven't I?"
+msgstr "Oh botheration, I've forgotten the flaghole, haven't I?"
+
 #. STRINGS.CHARACTERS.WANDA.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM
 msgctxt "STRINGS.CHARACTERS.WANDA.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM"
 msgid "It needs something that will fit into this small slot..."
@@ -48783,6 +49035,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "I couldn't help it, I looked ahead and took a peek..."
 msgstr "I couldn't help it, I looked ahead and took a peek..."
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
+msgid "I couldn't help it, I looked ahead and took a peek..."
+msgstr "I couldn't help it, I looked ahead and took a peek..."
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALDECOR_LAMP"
 msgid "Ah... I feel a bit better already."
@@ -48834,6 +49091,101 @@ msgctxt ""
 "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_FEEDCHICKS_STATION.PLAYING"
 msgid "Well... I guess I've got enough time for some nanty narking!"
 msgstr "Well... I guess I've got enough time for some nanty narking!"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLFBALL
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLFBALL"
+msgid "Always rolling toward its next mistake."
+msgstr "Always rolling toward its next mistake."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLFCLUB
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLFCLUB"
+msgid "If only everything required a little adjustment to set it right."
+msgstr "If only everything required a little adjustment to set it right."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY"
+msgid "I've designed this course before."
+msgstr "I've designed this course before."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY"
+msgid "A nice refresher course."
+msgstr "A nice refresher course."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD"
+msgid "Seems we are getting a little fancy."
+msgstr "Seems we are getting a little fancy."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM"
+msgid "Nothing too fancy."
+msgstr "Nothing too fancy."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT"
+msgid "They serve no purpose but to slow my progress."
+msgstr "They serve no purpose but to slow my progress."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN"
+msgid "I thought I felt a draft."
+msgstr "I thought I felt a draft."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE"
+msgid "It keeps things contained."
+msgstr "It keeps things contained."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL"
+msgid "It's really a matter of timing."
+msgstr "It's really a matter of timing."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER"
+msgid "Always in motion, like the hands of time."
+msgstr "Always in motion, like the hands of time."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING"
+msgid "It turns careful planning into a single irreversible event."
+msgstr "It turns careful planning into a single irreversible event."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE"
+msgid "I do love a shortcut... even if I'm not sure where it leads."
+msgstr "I do love a shortcut... even if I'm not sure where it leads."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLF_HOLE
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLF_HOLE"
+msgid "Haven't I played this hole already?"
+msgstr "Haven't I played this hole already?"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT"
+msgid "I've seen where this game ends."
+msgstr "I've seen where this game ends."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC"
+msgid "Now where did I put that token?"
+msgstr "Now where did I put that token?"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE"
+msgid "Oh botheration, I've forgotten the flaghole, haven't I?"
+msgstr "Oh botheration, I've forgotten the flaghole, haven't I?"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING"
+msgid "I must have paid the token already."
+msgstr "I must have paid the token already."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT"
+msgid "The beginning is a good place to start."
+msgstr "The beginning is a good place to start."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_HERDING_CHICK
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALGAME_HERDING_CHICK"
@@ -63362,6 +63714,12 @@ msgctxt ""
 msgid "Un moment, the game has already started."
 msgstr "Un moment, the game has already started."
 
+#. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY
+msgctxt ""
+"STRINGS.CHARACTERS.WARLY.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY"
+msgid "It's missing the key ingredient! The flaghole!"
+msgstr "It's missing the key ingredient! The flaghole!"
+
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM"
 msgid "That wasn't to its liking."
@@ -67811,6 +68169,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "I wonder what could be inside?"
 msgstr "I wonder what could be inside?"
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
+msgid "I wonder what could be inside?"
+msgstr "I wonder what could be inside?"
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALDECOR_LAMP"
 msgid "How pleasant!"
@@ -67862,6 +68225,103 @@ msgctxt ""
 "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_FEEDCHICKS_STATION.PLAYING"
 msgid "Quite the demanding group of diners."
 msgstr "Quite the demanding group of diners."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLFBALL
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLFBALL"
+msgid "Look at those cute little dimples!"
+msgstr "Look at those cute little dimples!"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLFCLUB
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLFCLUB"
+msgid "A gentle instrument!"
+msgstr "A gentle instrument!"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY"
+msgid ""
+"If I don't arrange it the same as before, will the outcome be different?"
+msgstr ""
+"If I don't arrange it the same as before, will the outcome be different?"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY"
+msgid "This course is but an appetizer."
+msgstr "This course is but an appetizer."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD"
+msgid "Now we are spicing things up!"
+msgstr "Now we are spicing things up!"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM"
+msgid "Medium! Just the way I like it!"
+msgstr "Medium! Just the way I like it!"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT"
+msgid "Aren't you quite the unwelcome guest!"
+msgstr "Aren't you quite the unwelcome guest!"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN"
+msgid "The wind is an unwelcome guest!"
+msgstr "The wind is an unwelcome guest!"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE"
+msgid "Simple, it holds the course together."
+msgstr "Simple, it holds the course together."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL"
+msgid "Like a nightmare soufflé."
+msgstr "Like a nightmare soufflé."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER"
+msgid "It would make a real mess of dinner!"
+msgstr "It would make a real mess of dinner!"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING"
+msgid "I wonder if it can flip crepes."
+msgstr "I wonder if it can flip crepes."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE"
+msgid "It has fast digestion."
+msgstr "It has fast digestion."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLF_HOLE
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLF_HOLE"
+msgid "The ball is delivered here!"
+msgstr "The ball is delivered here!"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT"
+msgid "Where shall we end?"
+msgstr "Where shall we end?"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC"
+msgid "All I need now is a token."
+msgstr "All I need now is a token."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE"
+msgid "It's missing the key ingredient! The flaghole!"
+msgstr "It's missing the key ingredient! The flaghole!"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING"
+msgid "The game has already begun!"
+msgstr "The game has already begun!"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT"
+msgid "Where should we begin?"
+msgstr "Where should we begin?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_HERDING_CHICK
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALGAME_HERDING_CHICK"
@@ -81460,6 +81920,12 @@ msgctxt ""
 msgid "A warrior must be patient."
 msgstr "A warrior must be patient."
 
+#. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY
+msgctxt ""
+"STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY"
+msgid "This arena awaiteth its completion!"
+msgstr "This arena awaiteth its completion!"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM
 msgctxt ""
 "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM"
@@ -85917,6 +86383,12 @@ msgctxt ""
 msgid "A box of mystery."
 msgstr "A box of mystery."
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
+msgctxt ""
+"STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
+msgid "A box of mystery."
+msgstr "A box of mystery."
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALDECOR_LAMP"
 msgid "It hath a feeling of magic about it."
@@ -85968,6 +86440,107 @@ msgctxt ""
 "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_FEEDCHICKS_STATION.PLAYING"
 msgid "A test of reflexes!"
 msgstr "A test of reflexes!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLFBALL
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLFBALL"
+msgid "Let it roll forth into glory!"
+msgstr "Let it roll forth into glory!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLFCLUB
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLFCLUB"
+msgid "A weapon of precision, not brute force."
+msgstr "A weapon of precision, not brute force."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY"
+msgid "A warrior charts her own course!"
+msgstr "A warrior charts her own course!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY
+msgctxt ""
+"STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY"
+msgid "I couldst defeat this arena whilst I slumber!"
+msgstr "I couldst defeat this arena whilst I slumber!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD
+msgctxt ""
+"STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD"
+msgid "I stand unshaken before any contest, no matter how arduous."
+msgstr "I stand unshaken before any contest, no matter how arduous."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM
+msgctxt ""
+"STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM"
+msgid "Neither gentle meadow, nor cruel gauntlet."
+msgstr "Neither gentle meadow, nor cruel gauntlet."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT"
+msgid "They stand as memories made manifest in timber."
+msgstr "They stand as memories made manifest in timber."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN"
+msgid "Keep thy cursed winds from mine ball!"
+msgstr "Keep thy cursed winds from mine ball!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE"
+msgid "It keeps the field of battle contained."
+msgstr "It keeps the field of battle contained."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL
+msgctxt ""
+"STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL"
+msgid "Rise and fall as thou wilt, I shall still prevail!"
+msgstr "Rise and fall as thou wilt, I shall still prevail!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER"
+msgid "Restless disc of chaos!"
+msgstr "Restless disc of chaos!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING"
+msgid "Upward and onward!"
+msgstr "Upward and onward!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE
+msgctxt ""
+"STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE"
+msgid "Thou mayst whisk my ball away, but not mine resolve!"
+msgstr "Thou mayst whisk my ball away, but not mine resolve!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLF_HOLE
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLF_HOLE"
+msgid "'Tis already waving the flag of surrender!"
+msgstr "'Tis already waving the flag of surrender!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT"
+msgid "I shall decide the ball's destiny!"
+msgstr "I shall decide the ball's destiny!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC"
+msgid "It demandeth a tribute!"
+msgstr "It demandeth a tribute!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE
+msgctxt ""
+"STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE"
+msgid "This arena awaiteth its completion!"
+msgstr "This arena awaiteth its completion!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING"
+msgid "The toll is paid, let the proving begin!"
+msgstr "The toll is paid, let the proving begin!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT"
+msgid "To mark the place of the ball's departure."
+msgstr "To mark the place of the ball's departure."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_HERDING_CHICK
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALGAME_HERDING_CHICK"
@@ -100424,6 +100997,12 @@ msgctxt ""
 msgid "It seems I'll have to bide my time."
 msgstr "It seems I'll have to bide my time."
 
+#. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY
+msgctxt ""
+"STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY"
+msgid "Ugh! The course is unfinished!"
+msgstr "Ugh! The course is unfinished!"
+
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM"
 msgid "Hmph. Picky."
@@ -104950,6 +105529,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "Curiosity always seems to get the better of me."
 msgstr "Curiosity always seems to get the better of me."
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
+msgid "Curiosity always seems to get the better of me."
+msgstr "Curiosity always seems to get the better of me."
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALDECOR_LAMP"
 msgid "A paltry light source. But it will do."
@@ -105001,6 +105585,101 @@ msgctxt ""
 "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_FEEDCHICKS_STATION.PLAYING"
 msgid "I'll play it, but I won't enjoy it."
 msgstr "I'll play it, but I won't enjoy it."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLFBALL
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLFBALL"
+msgid "So small and obedient. It goes where I direct it."
+msgstr "So small and obedient. It goes where I direct it."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLFCLUB
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLFCLUB"
+msgid "Is this even a regulation putter?"
+msgstr "Is this even a regulation putter?"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY"
+msgid "A course of my own conjuring?"
+msgstr "A course of my own conjuring?"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY"
+msgid "This course is beneath me."
+msgstr "This course is beneath me."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD"
+msgid "Difficult? Let's see about that."
+msgstr "Difficult? Let's see about that."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM"
+msgid "Should make for a decent round."
+msgstr "Should make for a decent round."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT"
+msgid "Must you always be in my way?"
+msgstr "Must you always be in my way?"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN"
+msgid "Can someone turn off that blasted fan?"
+msgstr "Can someone turn off that blasted fan?"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE"
+msgid "It reminds lesser players where the world ends."
+msgstr "It reminds lesser players where the world ends."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL"
+msgid "Up or down? Make up your mind!"
+msgstr "Up or down? Make up your mind!"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER"
+msgid "Reminds me of that accursed thing."
+msgstr "Reminds me of that accursed thing."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING"
+msgid "It flings the ball skyward, sparing it the indignity of rolling."
+msgstr "It flings the ball skyward, sparing it the indignity of rolling."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE"
+msgid "Careful where you send my ball."
+msgstr "Careful where you send my ball."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLF_HOLE
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLF_HOLE"
+msgid "Child's play, but I don't feel bad about winning."
+msgstr "Child's play, but I don't feel bad about winning."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT"
+msgid "Obviously it belongs at the end."
+msgstr "Obviously it belongs at the end."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC"
+msgid "It costs a whole token?!"
+msgstr "It costs a whole token?!"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE"
+msgid "Ugh! The course is unfinished!"
+msgstr "Ugh! The course is unfinished!"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING"
+msgid "It's been paid already!"
+msgstr "It's been paid already!"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT"
+msgid "It goes at the beginning of course!"
+msgstr "It goes at the beginning of course!"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_HERDING_CHICK
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALGAME_HERDING_CHICK"
@@ -119436,6 +120115,12 @@ msgctxt ""
 msgid "We're playing next!"
 msgstr "We're playing next!"
 
+#. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY
+msgctxt ""
+"STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY"
+msgid "We think it's missing the flaghole still!"
+msgstr "We think it's missing the flaghole still!"
+
 #. STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM
 msgctxt "STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM"
 msgid "Hmm, it doesn't want that."
@@ -123833,6 +124518,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "We can't wait to see what's inside!"
 msgstr "We can't wait to see what's inside!"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
+msgid "We can't wait to see what's inside!"
+msgstr "We can't wait to see what's inside!"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALDECOR_LAMP"
 msgid "Night lights make the dark a little less scary."
@@ -123886,6 +124576,101 @@ msgctxt ""
 "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_FEEDCHICKS_STATION.PLAYING"
 msgid "Don't worry bird mom, all your babies will get fed."
 msgstr "Don't worry bird mom, all your babies will get fed."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLFBALL
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLFBALL"
+msgid "Don't worry little ball! We'll get you to the hole!"
+msgstr "Don't worry little ball! We'll get you to the hole!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLFCLUB
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLFCLUB"
+msgid "Just a little tap and off the ball goes!"
+msgstr "Just a little tap and off the ball goes!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY"
+msgid "We'll make our very own mini-golf course!"
+msgstr "We'll make our very own mini-golf course!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY"
+msgid "So easy!"
+msgstr "So easy!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD"
+msgid "We're up for a challenge!"
+msgstr "We're up for a challenge!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM"
+msgid "This one is juuuuust right!"
+msgstr "This one is juuuuust right!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT"
+msgid "Excuse us!"
+msgstr "Excuse us!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN"
+msgid "It's so windy!"
+msgstr "It's so windy!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE"
+msgid "We have to stay inside the fence to play."
+msgstr "We have to stay inside the fence to play."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL"
+msgid "We have to time it juuuuust right."
+msgstr "We have to time it juuuuust right."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER"
+msgid "Ooooh! Spinny fun!"
+msgstr "Ooooh! Spinny fun!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING"
+msgid "It makes the ball jump!"
+msgstr "It makes the ball jump!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE"
+msgid "Just like the big one, but for golf balls!"
+msgstr "Just like the big one, but for golf balls!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLF_HOLE
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLF_HOLE"
+msgid "We can do it!"
+msgstr "We can do it!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT"
+msgid "Can we put it next to the start?"
+msgstr "Can we put it next to the start?"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC"
+msgid "It costs a token! Do we have a token?"
+msgstr "It costs a token! Do we have a token?"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE"
+msgid "We think it's missing the flaghole still!"
+msgstr "We think it's missing the flaghole still!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING"
+msgid "It has a token already! We can play!"
+msgstr "It has a token already! We can play!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT"
+msgid "We can start anywhere we want?"
+msgstr "We can start anywhere we want?"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_HERDING_CHICK
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALGAME_HERDING_CHICK"
@@ -138246,6 +139031,12 @@ msgctxt ""
 msgid "They already started without me..."
 msgstr "They already started without me..."
 
+#. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY
+msgctxt ""
+"STRINGS.CHARACTERS.WENDY.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY"
+msgid "It's incomplete. Like me."
+msgstr "It's incomplete. Like me."
+
 #. STRINGS.CHARACTERS.WENDY.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM
 msgctxt "STRINGS.CHARACTERS.WENDY.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM"
 msgid "That's not what it wants."
@@ -142704,6 +143495,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "What secrets does it hide?"
 msgstr "What secrets does it hide?"
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
+msgid "What secrets does it hide?"
+msgstr "What secrets does it hide?"
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALDECOR_LAMP"
 msgid "It can't hold back the darkness forever."
@@ -142755,6 +143551,101 @@ msgctxt ""
 "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_FEEDCHICKS_STATION.PLAYING"
 msgid "What a funny game."
 msgstr "What a funny game."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLFBALL
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLFBALL"
+msgid "It never chooses where it goes. Few things do."
+msgstr "It never chooses where it goes. Few things do."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLFCLUB
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLFCLUB"
+msgid "This will do the job."
+msgstr "This will do the job."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY"
+msgid "What should we do, Abigail?"
+msgstr "What should we do, Abigail?"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY"
+msgid "We all start somewhere."
+msgstr "We all start somewhere."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD"
+msgid "Not for the faint of heart."
+msgstr "Not for the faint of heart."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM"
+msgid "Somewhere in between... just like me."
+msgstr "Somewhere in between... just like me."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT"
+msgid "A lifeless likeness."
+msgstr "A lifeless likeness."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN"
+msgid "I love the wind, but not while I'm putting."
+msgstr "I love the wind, but not while I'm putting."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE"
+msgid "So that the ball doesn't escape."
+msgstr "So that the ball doesn't escape."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL"
+msgid "I've known down more than up."
+msgstr "I've known down more than up."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER"
+msgid "It exists to interfere."
+msgstr "It exists to interfere."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING"
+msgid "Gravity remains inevitable."
+msgstr "Gravity remains inevitable."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE"
+msgid "Will the ball end up in a better place?"
+msgstr "Will the ball end up in a better place?"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLF_HOLE
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLF_HOLE"
+msgid "Aww cute, it's like a mini abyss."
+msgstr "Aww cute, it's like a mini abyss."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT"
+msgid "Let's put the end further away..."
+msgstr "Let's put the end further away..."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC"
+msgid "Nothing in life is free."
+msgstr "Nothing in life is free."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE"
+msgid "The course is incomplete. Like me."
+msgstr "The course is incomplete. Like me."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING"
+msgid "The price has been paid."
+msgstr "The price has been paid."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT"
+msgid "Where should we start, Abby?"
+msgstr "Where should we start, Abby?"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_HERDING_CHICK
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALGAME_HERDING_CHICK"
@@ -157139,6 +158030,12 @@ msgctxt ""
 msgid "I'm afraid I'll have to wait."
 msgstr "I'm afraid I'll have to wait."
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY
+msgctxt ""
+"STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY"
+msgid "The mini-golf course requires at least a flaghole to be playable."
+msgstr "The mini-golf course requires at least a flaghole to be playable."
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM
 msgctxt ""
 "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM"
@@ -161743,6 +162640,12 @@ msgctxt ""
 msgid "How intriguing! I wonder what's inside?"
 msgstr "How intriguing! I wonder what's inside?"
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
+msgctxt ""
+"STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
+msgid "How intriguing! I wonder what's inside?"
+msgstr "How intriguing! I wonder what's inside?"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALDECOR_LAMP"
 msgid "It has a most curious light source."
@@ -161796,6 +162699,134 @@ msgctxt ""
 "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_FEEDCHICKS_STATION.PLAYING"
 msgid "The game appears to require quick reflexes."
 msgstr "The game appears to require quick reflexes."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFBALL
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFBALL"
+msgid "A near-perfect sphere, optimized for predictable rolling dynamics."
+msgstr "A near-perfect sphere, optimized for predictable rolling dynamics."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFCLUB
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFCLUB"
+msgid "Essentially an instrument optimized for low-velocity kinetic transfer."
+msgstr ""
+"Essentially an instrument optimized for low-velocity kinetic transfer."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY
+msgctxt ""
+"STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY"
+msgid ""
+"One may use this to create a custom, and hopefully delightful, mini-golf "
+"course."
+msgstr ""
+"One may use this to create a custom, and hopefully delightful, mini-golf "
+"course."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY
+msgctxt ""
+"STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY"
+msgid "An introductory course, no doubt."
+msgstr "An introductory course, no doubt."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD
+msgctxt ""
+"STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD"
+msgid "For those up for a challenge."
+msgstr "For those up for a challenge."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM
+msgctxt ""
+"STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM"
+msgid "A course of middling difficulty."
+msgstr "A course of middling difficulty."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT
+msgctxt ""
+"STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT"
+msgid "It is both aesthetic marker and deliberate impediment to linear play."
+msgstr "It is both aesthetic marker and deliberate impediment to linear play."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN"
+msgid "The ball path must be adjusted to account for the wind."
+msgstr "The ball path must be adjusted to account for the wind."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE"
+msgid "It designates the play area."
+msgstr "It designates the play area."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL
+msgctxt ""
+"STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL"
+msgid "A wall that rises and falls at set intervals."
+msgstr "A wall that rises and falls at set intervals."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER
+msgctxt ""
+"STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER"
+msgid ""
+"Its behavior is simple to describe, but intentionally difficult to "
+"accommodate."
+msgstr ""
+"Its behavior is simple to describe, but intentionally difficult to "
+"accommodate."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING
+msgctxt ""
+"STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING"
+msgid "A controlled propulsion platform using stored mechanical energy."
+msgstr "A controlled propulsion platform using stored mechanical energy."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE
+msgctxt ""
+"STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE"
+msgid ""
+"It connects to another on the course, enabling instantaneous transfer "
+"between them."
+msgstr ""
+"It connects to another on the course, enabling instantaneous transfer "
+"between them."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLF_HOLE
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLF_HOLE"
+msgid ""
+"The objective of the game is to deposit the ball into that hole with as few "
+"strokes as possible."
+msgstr ""
+"The objective of the game is to deposit the ball into that hole with as few "
+"strokes as possible."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT"
+msgid ""
+"The flaghole should be positioned sufficiently far from the start to provide"
+" an appropriate challenge."
+msgstr ""
+"The flaghole should be positioned sufficiently far from the start to provide"
+" an appropriate challenge."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC
+msgctxt ""
+"STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC"
+msgid "A token must be deposited before the machine will dispense a ball."
+msgstr "A token must be deposited before the machine will dispense a ball."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE
+msgctxt ""
+"STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE"
+msgid "The mini-golf course requires at least a flaghole to be playable."
+msgstr "The mini-golf course requires at least a flaghole to be playable."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING
+msgctxt ""
+"STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING"
+msgid "A token has been inserted. The match is already in play."
+msgstr "A token has been inserted. The match is already in play."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT"
+msgid "Where the ball dropper is placed determines where we begin play."
+msgstr "Where the ball dropper is placed determines where we begin play."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_HERDING_CHICK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_HERDING_CHICK"
@@ -176763,6 +177794,12 @@ msgctxt ""
 msgid "Come on, hurry up!"
 msgstr "Come on, hurry up!"
 
+#. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY
+msgctxt ""
+"STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY"
+msgid "Aw crap! The course is missing something!"
+msgstr "Aw crap! The course is missing something!"
+
 #. STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM
 msgctxt "STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM"
 msgid "I guess that won't work."
@@ -181200,6 +182237,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "Ooooh what's in the box?"
 msgstr "Ooooh what's in the box?"
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
+msgid "Ooooh what's in the box?"
+msgstr "Ooooh what's in the box?"
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALDECOR_LAMP"
 msgid "It makes light, but no fire. Creepy."
@@ -181253,6 +182295,101 @@ msgctxt ""
 "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_FEEDCHICKS_STATION.PLAYING"
 msgid "Heh. This actually looks kinda fun."
 msgstr "Heh. This actually looks kinda fun."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLFBALL
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLFBALL"
+msgid "Whose face should I imagine on it?"
+msgstr "Whose face should I imagine on it?"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLFCLUB
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLFCLUB"
+msgid "I can't wait to whack that ball!"
+msgstr "I can't wait to whack that ball!"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY"
+msgid "I'm making the hardest course ever."
+msgstr "I'm making the hardest course ever."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY"
+msgid "Ha! Is this for babies?"
+msgstr "Ha! Is this for babies?"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD"
+msgid "Let's play! I'm on a hot streak!"
+msgstr "Let's play! I'm on a hot streak!"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM"
+msgid "No problem!"
+msgstr "No problem!"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT"
+msgid "It's all firewood as far as I'm concerned."
+msgstr "It's all firewood as far as I'm concerned."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN"
+msgid "Don't push my ball around!"
+msgstr "Don't push my ball around!"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE"
+msgid "Boundaries mean nothing to me."
+msgstr "Boundaries mean nothing to me."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL"
+msgid "It's testing my patience."
+msgstr "It's testing my patience."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER"
+msgid "Ugh, it's making me dizzy!"
+msgstr "Ugh, it's making me dizzy!"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING"
+msgid "Boing! Bye!"
+msgstr "Boing! Bye!"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE"
+msgid "Gross! Better not drool all over my ball!"
+msgstr "Gross! Better not drool all over my ball!"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLF_HOLE
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLF_HOLE"
+msgid "Easy target."
+msgstr "Easy target."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT"
+msgid "Let's not make it too easy."
+msgstr "Let's not make it too easy."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC"
+msgid "It needs a token."
+msgstr "It needs a token."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE"
+msgid "Aw crap! The course is missing something!"
+msgstr "Aw crap! The course is missing something!"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING"
+msgid "It's got a stinkin' token already."
+msgstr "It's got a stinkin' token already."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT"
+msgid "Let's find a spot already. I wanna play!"
+msgstr "Let's find a spot already. I wanna play!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_HERDING_CHICK
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALGAME_HERDING_CHICK"
@@ -195658,6 +196795,12 @@ msgctxt ""
 msgid "I can wait until they're done."
 msgstr "I can wait until they're done."
 
+#. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY
+msgctxt ""
+"STRINGS.CHARACTERS.WINONA.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY"
+msgid "The course ain't set up yet!"
+msgstr "The course ain't set up yet!"
+
 #. STRINGS.CHARACTERS.WINONA.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM
 msgctxt "STRINGS.CHARACTERS.WINONA.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM"
 msgid "Guess it doesn't want that."
@@ -200135,6 +201278,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "Alright, I gotta know what's inside..."
 msgstr "Alright, I gotta know what's inside..."
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
+msgid "Alright, I gotta know what's inside..."
+msgstr "Alright, I gotta know what's inside..."
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALDECOR_LAMP"
 msgid "A bit delicate lookin' for my taste, but at least it works."
@@ -200186,6 +201334,101 @@ msgctxt ""
 "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_FEEDCHICKS_STATION.PLAYING"
 msgid "Yeesh, that mama bird sure has a lot of mouths to feed."
 msgstr "Yeesh, that mama bird sure has a lot of mouths to feed."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLFBALL
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLFBALL"
+msgid "Built to roll."
+msgstr "Built to roll."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLFCLUB
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLFCLUB"
+msgid "My trusty putter."
+msgstr "My trusty putter."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY"
+msgid "One Winona special, comin' right up!"
+msgstr "One Winona special, comin' right up!"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY"
+msgid "Let's just ease into the game."
+msgstr "Let's just ease into the game."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD"
+msgid "This one might get tricky."
+msgstr "This one might get tricky."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM"
+msgid "It should be manageable."
+msgstr "It should be manageable."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT"
+msgid "You're just gonna stand there all day, aintcha?"
+msgstr "You're just gonna stand there all day, aintcha?"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN"
+msgid "That is one pesky fan."
+msgstr "That is one pesky fan."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE"
+msgid "Easier than chasin' balls all day."
+msgstr "Easier than chasin' balls all day."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL"
+msgid "Goes up, goes down. Simple enough."
+msgstr "Goes up, goes down. Simple enough."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER"
+msgid "Don't stare at it too long."
+msgstr "Don't stare at it too long."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING"
+msgid "Pop goes the golf ball."
+msgstr "Pop goes the golf ball."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE"
+msgid "Here goes nothin'..."
+msgstr "Here goes nothin'..."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLF_HOLE
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLF_HOLE"
+msgid "I've been known to sink a putt or two."
+msgstr "I've been known to sink a putt or two."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT"
+msgid "Where should we put the ol' flaghole?"
+msgstr "Where should we put the ol' flaghole?"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC"
+msgid "Nothin's free in life. This thing needs a token!"
+msgstr "Nothin's free in life. This thing needs a token!"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE"
+msgid "The course ain't set up yet!"
+msgstr "The course ain't set up yet!"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING"
+msgid "All paid up. Let's play!"
+msgstr "All paid up. Let's play!"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT"
+msgid "Where should we tee off?"
+msgstr "Where should we tee off?"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_HERDING_CHICK
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CARNIVALGAME_HERDING_CHICK"
@@ -214614,6 +215857,12 @@ msgctxt ""
 msgid "Friends are having good time, Wolfgang can wait."
 msgstr "Friends are having good time, Wolfgang can wait."
 
+#. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY
+msgctxt ""
+"STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY"
+msgid "Wolfgang need to finish set up course first."
+msgstr "Wolfgang need to finish set up course first."
+
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM
 msgctxt ""
 "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM"
@@ -219047,6 +220296,12 @@ msgctxt ""
 msgid "What is in tiny secret box?"
 msgstr "What is in tiny secret box?"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
+msgctxt ""
+"STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
+msgid "What is in tiny secret box?"
+msgstr "What is in tiny secret box?"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALDECOR_LAMP"
 msgid "Makes tiny, pretty light."
@@ -219098,6 +220353,103 @@ msgctxt ""
 "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_FEEDCHICKS_STATION.PLAYING"
 msgid "Ha ha! Wolfgang will feed all the birdies!"
 msgstr "Ha ha! Wolfgang will feed all the birdies!"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLFBALL
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLFBALL"
+msgid "Sorry if Wolfgang swing too mighty, little ball."
+msgstr "Sorry if Wolfgang swing too mighty, little ball."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLFCLUB
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLFCLUB"
+msgid "Is puny club but Wolfgang make it work."
+msgstr "Is puny club but Wolfgang make it work."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY"
+msgid "Wolfgang make own course!"
+msgstr "Wolfgang make own course!"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY"
+msgid "Is for little babies!"
+msgstr "Is for little babies!"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD"
+msgid "Finally, little bit challenge for Wolfgang!"
+msgstr "Finally, little bit challenge for Wolfgang!"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM
+msgctxt ""
+"STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM"
+msgid "For average mini-golfer, but Wolfgang mightier than average."
+msgstr "For average mini-golfer, but Wolfgang mightier than average."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT"
+msgid "Get out of Wolfgang way!"
+msgstr "Get out of Wolfgang way!"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN"
+msgid "Hey, don't blow away Wolfgang ball!"
+msgstr "Hey, don't blow away Wolfgang ball!"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE"
+msgid "Is strong enough to keep Wolfgang ball in?"
+msgstr "Is strong enough to keep Wolfgang ball in?"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL
+msgctxt ""
+"STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL"
+msgid "Little up and down wall is frustrating Wolfgang!"
+msgstr "Little up and down wall is frustrating Wolfgang!"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER"
+msgid "Make Wolfgang dizzy."
+msgstr "Make Wolfgang dizzy."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING"
+msgid "Bouncy bouncy little ball!"
+msgstr "Bouncy bouncy little ball!"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE"
+msgid "Where will it send little ball?"
+msgstr "Where will it send little ball?"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLF_HOLE
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLF_HOLE"
+msgid "What was that about bogey-man?"
+msgstr "What was that about bogey-man?"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT"
+msgid "Where Wolfgang put flaghole?"
+msgstr "Where Wolfgang put flaghole?"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC"
+msgid "No free game for Wolfgang? Need token!"
+msgstr "No free game for Wolfgang? Need token!"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE"
+msgid "Wolfgang need to finish set up course first."
+msgstr "Wolfgang need to finish set up course first."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING"
+msgid "Paid token! Wolfgang play now!"
+msgstr "Paid token! Wolfgang play now!"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT"
+msgid "Where Wolfgang begin?"
+msgstr "Where Wolfgang begin?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_HERDING_CHICK
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALGAME_HERDING_CHICK"
@@ -222380,8 +223732,8 @@ msgstr "Feels slimy but nice on Wolfgang's skin."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HEALINGSALVE_FUMAROLE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HEALINGSALVE_FUMAROLE"
-msgid "Keeps Wolgang's skin from burning!"
-msgstr "Keeps Wolgang's skin from burning!"
+msgid "Keeps Wolfgang's skin from burning!"
+msgstr "Keeps Wolfgang's skin from burning!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HEALINGSTAFF
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HEALINGSTAFF"
@@ -233458,6 +234810,12 @@ msgctxt ""
 msgid "It's not polite to cut in line."
 msgstr "It's not polite to cut in line."
 
+#. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY
+msgctxt ""
+"STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY"
+msgid "It needs a flaghole still."
+msgstr "It needs a flaghole still."
+
 #. STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM
 msgctxt "STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM"
 msgid "Had to give it a shot, eh?"
@@ -237854,6 +239212,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "I can't stop wondering what's inside..."
 msgstr "I can't stop wondering what's inside..."
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
+msgid "I can't stop wondering what's inside..."
+msgstr "I can't stop wondering what's inside..."
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALDECOR_LAMP"
 msgid "Alright I admit, this one's pretty nice."
@@ -237905,6 +239268,101 @@ msgctxt ""
 "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_FEEDCHICKS_STATION.PLAYING"
 msgid "All that beautiful wood wasted on carving birds..."
 msgstr "All that beautiful wood wasted on carving birds..."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLFBALL
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLFBALL"
+msgid "No, you may not, Luce."
+msgstr "No, you may not, Luce."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLFCLUB
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLFCLUB"
+msgid "Don't tell me you're jealous of a putter, Lucy."
+msgstr "Don't tell me you're jealous of a putter, Lucy."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY"
+msgid "Finally, my own mini- c'mon, Luce! I have other talents!"
+msgstr "Finally, my own mini- c'mon, Luce! I have other talents!"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY"
+msgid "Nice little warmup round."
+msgstr "Nice little warmup round."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD"
+msgid "Ooh, tricky... no, I have not been golfing all day, Lucy."
+msgstr "Ooh, tricky... no, I have not been golfing all day, Lucy."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM"
+msgid "Something for the casual duffer."
+msgstr "Something for the casual duffer."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT"
+msgid "I should just chop that down."
+msgstr "I should just chop that down."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN"
+msgid "I love a cool breeze, but that's just annoying."
+msgstr "I love a cool breeze, but that's just annoying."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE"
+msgid "That'll keep the ball from wandering off."
+msgstr "That'll keep the ball from wandering off."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL"
+msgid "Just need to time it right."
+msgstr "Just need to time it right."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER"
+msgid "It's just a spinning headache."
+msgstr "It's just a spinning headache."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING"
+msgid "Not much control here."
+msgstr "Not much control here."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE"
+msgid "I don't trust it one bit."
+msgstr "I don't trust it one bit."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLF_HOLE
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLF_HOLE"
+msgid "Yes, Lucy. I counted every stroke."
+msgstr "Yes, Lucy. I counted every stroke."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT"
+msgid "Let's just put it somewhere fair."
+msgstr "Let's just put it somewhere fair."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC"
+msgid "Hm, needs a token eh?"
+msgstr "Hm, needs a token eh?"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE"
+msgid "The course needs a flaghole still."
+msgstr "The course needs a flaghole still."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING"
+msgid "The game is going already."
+msgstr "The game is going already."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT"
+msgid "Just put it on solid ground and call it a day."
+msgstr "Just put it on solid ground and call it a day."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_HERDING_CHICK
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALGAME_HERDING_CHICK"
@@ -249160,8 +250618,8 @@ msgstr "It needs some sort of energy, Luce."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.VAULT_PILLAR_GUARD_PIECE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.VAULT_PILLAR_GUARD_PIECE"
-msgid "Must be a part for that stone hoser"
-msgstr "Must be a part for that stone hoser"
+msgid "Must be a part for that stone hoser."
+msgstr "Must be a part for that stone hoser."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.VAULT_REFINER_PEDESTAL
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.VAULT_REFINER_PEDESTAL"
@@ -252291,6 +253749,12 @@ msgctxt ""
 "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.GIVE.CARNIVALGAME_ALREADY_PLAYING"
 msgid "Not yet"
 msgstr "Not yet"
+
+#. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY
+msgctxt ""
+"STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY"
+msgid "Friend not finished"
+msgstr "Friend not finished"
 
 #. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM
 msgctxt ""
@@ -256718,6 +258182,12 @@ msgctxt ""
 msgid "Surprise"
 msgstr "Surprise"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
+msgctxt ""
+"STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
+msgid "Surprise"
+msgstr "Surprise"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALDECOR_LAMP"
 msgid "Friend make nice glowy light"
@@ -256769,6 +258239,103 @@ msgctxt ""
 "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_FEEDCHICKS_STATION.PLAYING"
 msgid "Tweeters hungry"
 msgstr "Tweeters hungry"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFBALL
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFBALL"
+msgid "Sorry, ball friend"
+msgstr "Sorry, ball friend"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFCLUB
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFCLUB"
+msgid "Gentle hit ball friend"
+msgstr "Gentle hit ball friend"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY"
+msgid "Make special friend!"
+msgstr "Make special friend!"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY"
+msgid "Fun friend"
+msgstr "Fun friend"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD"
+msgid "Tricky friend"
+msgstr "Tricky friend"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM
+msgctxt ""
+"STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM"
+msgid "Middle friend"
+msgstr "Middle friend"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT"
+msgid "Fake friend?"
+msgstr "Fake friend?"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN"
+msgid "Windy friend"
+msgstr "Windy friend"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE"
+msgid "Keep friend inside"
+msgstr "Keep friend inside"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL
+msgctxt ""
+"STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL"
+msgid "Up friend, down friend"
+msgstr "Up friend, down friend"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER"
+msgid "Dizzy friend"
+msgstr "Dizzy friend"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING"
+msgid "Bye ball friend!"
+msgstr "Bye ball friend!"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE"
+msgid "Eat ball friend?"
+msgstr "Eat ball friend?"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLF_HOLE
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLF_HOLE"
+msgid "Ball friend go here"
+msgstr "Ball friend go here"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT"
+msgid "Where end friend?"
+msgstr "Where end friend?"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC"
+msgid "Need shiny?"
+msgstr "Need shiny?"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE"
+msgid "Friend not finished"
+msgstr "Friend not finished"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING"
+msgid "Already has shiny"
+msgstr "Already has shiny"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT"
+msgid "Where start friend?"
+msgstr "Where start friend?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_HERDING_CHICK
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_HERDING_CHICK"
@@ -267984,8 +269551,8 @@ msgstr "Mean rock!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_PILLAR_GUARD_CONSTR
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_PILLAR_GUARD_CONSTR"
-msgid "Baby rock friend soon tall rock friend."
-msgstr "Baby rock friend soon tall rock friend."
+msgid "Baby rock friend soon tall rock friend"
+msgstr "Baby rock friend soon tall rock friend"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_PILLAR_GUARD_CONSTR_PLANS
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_PILLAR_GUARD_CONSTR_PLANS"
@@ -271136,6 +272703,12 @@ msgctxt ""
 "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVE.CARNIVALGAME_ALREADY_PLAYING"
 msgid "Let them have their fun, then I'll show the mortals how it's done."
 msgstr "Let them have their fun, then I'll show the mortals how it's done."
+
+#. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY
+msgctxt ""
+"STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY"
+msgid "Can't compete until the course is complete!"
+msgstr "Can't compete until the course is complete!"
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM"
@@ -275700,6 +277273,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "Hyuyu, how very mysterious!"
 msgstr "Hyuyu, how very mysterious!"
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
+msgid "Hyuyu, how very mysterious!"
+msgstr "Hyuyu, how very mysterious!"
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_LAMP"
 msgid "A fairy light to glow in the night."
@@ -275753,6 +277331,101 @@ msgctxt ""
 "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_FEEDCHICKS_STATION.PLAYING"
 msgid "You must be quick to feed the chicks."
 msgstr "You must be quick to feed the chicks."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLFBALL
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLFBALL"
+msgid "Roll and roam, far from home!"
+msgstr "Roll and roam, far from home!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLFCLUB
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLFCLUB"
+msgid "Tap it light, send it right... or out of sight!"
+msgstr "Tap it light, send it right... or out of sight!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY"
+msgid "It shall be a design of mine!"
+msgstr "It shall be a design of mine!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY"
+msgid "Oh pleasey, so easy!"
+msgstr "Oh pleasey, so easy!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD"
+msgid "What the putt?!"
+msgstr "What the putt?!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM"
+msgid "Good stuff, not too tough!"
+msgstr "Good stuff, not too tough!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT"
+msgid "It mocks me as it blocks me!"
+msgstr "It mocks me as it blocks me!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN"
+msgid "The ball goes where it blows."
+msgstr "The ball goes where it blows."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE"
+msgid "A tidy frame for a bounded game!"
+msgstr "A tidy frame for a bounded game!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL"
+msgid "The retracting is so distracting!"
+msgstr "The retracting is so distracting!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER"
+msgid "Use the spin for a skillful win!"
+msgstr "Use the spin for a skillful win!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING"
+msgid "I'm dying to send the ball flying!"
+msgstr "I'm dying to send the ball flying!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE"
+msgid "Where the ball goes? No one knows!"
+msgstr "Where the ball goes? No one knows!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLF_HOLE
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLF_HOLE"
+msgid "The small ball shall fall!"
+msgstr "The small ball shall fall!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT"
+msgid "It depends on where it ends."
+msgstr "It depends on where it ends."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC"
+msgid "It must be awoken with a token!"
+msgstr "It must be awoken with a token!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE"
+msgid "Can't compete until the course is complete!"
+msgstr "Can't compete until the course is complete!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING"
+msgid "Hey! The game is in play!"
+msgstr "Hey! The game is in play!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT"
+msgid "Oh gee, where goes the tee?"
+msgstr "Oh gee, where goes the tee?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_HERDING_CHICK
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_HERDING_CHICK"
@@ -286947,8 +288620,8 @@ msgstr "The ball took a fall!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.VAULT_ORB_REFINED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.VAULT_ORB_REFINED"
-msgid "For imitation of my teleportaion."
-msgstr "For imitation of my teleportaion."
+msgid "For imitation of my teleportation."
+msgstr "For imitation of my teleportation."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.VAULT_PILLAR_GUARD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.VAULT_PILLAR_GUARD"
@@ -290112,6 +291785,12 @@ msgstr "Don't work."
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.GIVE.CARNIVALGAME_ALREADY_PLAYING"
 msgid "Me next, me next!"
 msgstr "Me next, me next!"
+
+#. STRINGS.CHARACTERS.WURT.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY
+msgctxt ""
+"STRINGS.CHARACTERS.WURT.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY"
+msgid "Glurph! What missing?!"
+msgstr "Glurph! What missing?!"
 
 #. STRINGS.CHARACTERS.WURT.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM
 msgctxt "STRINGS.CHARACTERS.WURT.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM"
@@ -294605,6 +296284,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "Open up!"
 msgstr "Open up!"
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
+msgid "Open up!"
+msgstr "Open up!"
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALDECOR_LAMP"
 msgid "How little light ball float like that?"
@@ -294656,6 +296340,101 @@ msgctxt ""
 "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_FEEDCHICKS_STATION.PLAYING"
 msgid "Why feeding fake birdies fake worms?"
 msgstr "Why feeding fake birdies fake worms?"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLFBALL
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLFBALL"
+msgid "Me hit!"
+msgstr "Me hit!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLFCLUB
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLFCLUB"
+msgid "Why not swing hard?"
+msgstr "Why not swing hard?"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY"
+msgid "Me make best one."
+msgstr "Me make best one."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY"
+msgid "For babies! Flort!"
+msgstr "For babies! Flort!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD"
+msgid "Hard one? Glorp! Me still win."
+msgstr "Hard one? Glorp! Me still win."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM"
+msgid "Me beat anyone. Me best!"
+msgstr "Me beat anyone. Me best!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT"
+msgid "Me make ball go around it."
+msgstr "Me make ball go around it."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN"
+msgid "Glurph! Bad wind!"
+msgstr "Glurph! Bad wind!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE"
+msgid "Stop ball from running away... good fence."
+msgstr "Stop ball from running away... good fence."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL"
+msgid "Wait for right time, then go fast!"
+msgstr "Wait for right time, then go fast!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER"
+msgid "Wheeeeee!"
+msgstr "Wheeeeee!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING"
+msgid "Make ball jump!"
+msgstr "Make ball jump!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE"
+msgid "Florp! Make ball disappear... then pop out somewhere else!"
+msgstr "Florp! Make ball disappear... then pop out somewhere else!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLF_HOLE
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLF_HOLE"
+msgid "Me win! Me always win! Florp!"
+msgstr "Me win! Me always win! Florp!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT"
+msgid "Me choose where finish."
+msgstr "Me choose where finish."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC"
+msgid "Need token to play! Gimme token!"
+msgstr "Need token to play! Gimme token!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE"
+msgid "Glurph! What missing?!"
+msgstr "Glurph! What missing?!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING"
+msgid "Already put token! Flort!"
+msgstr "Already put token! Flort!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT"
+msgid "Me choose where start."
+msgstr "Me choose where start."
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_HERDING_CHICK
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALGAME_HERDING_CHICK"
@@ -309025,6 +310804,12 @@ msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.GIVE.CARNIVALGAME_ALREADY_PLAYING"
 msgid "WAITING IN QUEUE, CALCULATING TIME REMAINING..."
 msgstr "WAITING IN QUEUE, CALCULATING TIME REMAINING..."
 
+#. STRINGS.CHARACTERS.WX78.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY
+msgctxt ""
+"STRINGS.CHARACTERS.WX78.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY"
+msgid "MISSING COMPONENT: FLAGHOLE"
+msgstr "MISSING COMPONENT: FLAGHOLE"
+
 #. STRINGS.CHARACTERS.WX78.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM
 msgctxt "STRINGS.CHARACTERS.WX78.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM"
 msgid "ERROR: INVALID ITEM"
@@ -313525,6 +315310,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "ITS CONTENTS HAVE BEEN OBFUSCATED"
 msgstr "ITS CONTENTS HAVE BEEN OBFUSCATED"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
+msgid "ITS CONTENTS HAVE BEEN OBFUSCATED"
+msgstr "ITS CONTENTS HAVE BEEN OBFUSCATED"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALDECOR_LAMP"
 msgid "MINISCULE LIGHT SOURCE"
@@ -313577,6 +315367,101 @@ msgctxt ""
 "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_FEEDCHICKS_STATION.PLAYING"
 msgid "BROTHERS AND SISTERS, WHY DO YOU TOIL FOR THEIR AMUSEMENT?"
 msgstr "BROTHERS AND SISTERS, WHY DO YOU TOIL FOR THEIR AMUSEMENT?"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLFBALL
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLFBALL"
+msgid "OPTIMIZED FOR ROLLING BEHAVIOR"
+msgstr "OPTIMIZED FOR ROLLING BEHAVIOR"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLFCLUB
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLFCLUB"
+msgid "MINIMAL ENERGY INPUT REQUIRED FOR SUCCESSFUL OPERATION"
+msgstr "MINIMAL ENERGY INPUT REQUIRED FOR SUCCESSFUL OPERATION"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY"
+msgid "CUSTOM COURSE GENERATOR"
+msgstr "CUSTOM COURSE GENERATOR"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY"
+msgid "HOW INSULTING"
+msgstr "HOW INSULTING"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD"
+msgid "HARD MODE... FOR FLESHLINGS"
+msgstr "HARD MODE... FOR FLESHLINGS"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM"
+msgid "STANDARD DIFFICULTY SETTING"
+msgstr "STANDARD DIFFICULTY SETTING"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT"
+msgid "FUNCTION: INTERRUPT BALL TRAJECTORY, IRRITATE ME"
+msgstr "FUNCTION: INTERRUPT BALL TRAJECTORY, IRRITATE ME"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN"
+msgid "AIRFLOW DEVICE. ANNOYING"
+msgstr "AIRFLOW DEVICE. ANNOYING"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE"
+msgid "BALL CONTAINMENT SYSTEM"
+msgstr "BALL CONTAINMENT SYSTEM"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL"
+msgid "PATTERN DETECTED, TIMING CRITICAL"
+msgstr "PATTERN DETECTED, TIMING CRITICAL"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER"
+msgid "ANGULAR MOTION SYSTEM FOR INCREASED CHAOS"
+msgstr "ANGULAR MOTION SYSTEM FOR INCREASED CHAOS"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING"
+msgid "PATH OVERRIDE DEVICE"
+msgstr "PATH OVERRIDE DEVICE"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE"
+msgid "SYSTEM BYPASSES COURSE STRUCTURE"
+msgstr "SYSTEM BYPASSES COURSE STRUCTURE"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLF_HOLE
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLF_HOLE"
+msgid "OBJECTIVE IDENTIFIED"
+msgstr "OBJECTIVE IDENTIFIED"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT"
+msgid "DESTINATION POINT"
+msgstr "DESTINATION POINT"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC"
+msgid "INPUT REQUIRED: TOKEN"
+msgstr "INPUT REQUIRED: TOKEN"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE"
+msgid "MISSING COMPONENT: FLAGHOLE"
+msgstr "MISSING COMPONENT: FLAGHOLE"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING"
+msgid "GAME IN PROGRESS"
+msgstr "GAME IN PROGRESS"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT"
+msgid "ORIGIN POINT"
+msgstr "ORIGIN POINT"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_HERDING_CHICK
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALGAME_HERDING_CHICK"
@@ -338583,6 +340468,26 @@ msgctxt "STRINGS.NAMES.CARNIVALDECOR_EGGRIDE4_KIT"
 msgid "Mini Tower Drop Kit"
 msgstr "Mini Tower Drop Kit"
 
+#. STRINGS.NAMES.CARNIVALDECOR_EGGRIDE5
+msgctxt "STRINGS.NAMES.CARNIVALDECOR_EGGRIDE5"
+msgid "Mini Spinning Eggcups"
+msgstr "Mini Spinning Eggcups"
+
+#. STRINGS.NAMES.CARNIVALDECOR_EGGRIDE5_KIT
+msgctxt "STRINGS.NAMES.CARNIVALDECOR_EGGRIDE5_KIT"
+msgid "Mini Spinning Eggcups Kit"
+msgstr "Mini Spinning Eggcups Kit"
+
+#. STRINGS.NAMES.CARNIVALDECOR_EGGRIDE6
+msgctxt "STRINGS.NAMES.CARNIVALDECOR_EGGRIDE6"
+msgid "Mini Rollercoaster"
+msgstr "Mini Rollercoaster"
+
+#. STRINGS.NAMES.CARNIVALDECOR_EGGRIDE6_KIT
+msgctxt "STRINGS.NAMES.CARNIVALDECOR_EGGRIDE6_KIT"
+msgid "Mini Rollercoaster Kit"
+msgstr "Mini Rollercoaster Kit"
+
 #. STRINGS.NAMES.CARNIVALDECOR_FIGURE_COMMON
 msgctxt "STRINGS.NAMES.CARNIVALDECOR_FIGURE_COMMON"
 msgid "Common Cawnival Statuette"
@@ -338595,8 +340500,13 @@ msgstr "Green Mystery Box"
 
 #. STRINGS.NAMES.CARNIVALDECOR_FIGURE_KIT_SEASON2
 msgctxt "STRINGS.NAMES.CARNIVALDECOR_FIGURE_KIT_SEASON2"
-msgid "Gold Mystery Box"
-msgstr "Gold Mystery Box"
+msgid "Yellow Mystery Box"
+msgstr "Yellow Mystery Box"
+
+#. STRINGS.NAMES.CARNIVALDECOR_FIGURE_KIT_SEASON3
+msgctxt "STRINGS.NAMES.CARNIVALDECOR_FIGURE_KIT_SEASON3"
+msgid "Red Mystery Box"
+msgstr "Red Mystery Box"
 
 #. STRINGS.NAMES.CARNIVALDECOR_FIGURE_RARE
 msgctxt "STRINGS.NAMES.CARNIVALDECOR_FIGURE_RARE"
@@ -338657,6 +340567,181 @@ msgstr "Trapdoor"
 msgctxt "STRINGS.NAMES.CARNIVALGAME_FEEDCHICKS_STATION"
 msgid "Hubbub for Grub"
 msgstr "Hubbub for Grub"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFBALL
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFBALL"
+msgid "Golf Ball"
+msgstr "Golf Ball"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFCLUB
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFCLUB"
+msgid "Putter"
+msgstr "Putter"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFGAME_KIT_DIY
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFGAME_KIT_DIY"
+msgid "Custom Mini-Golf Kit"
+msgstr "Custom Mini-Golf Kit"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFGAME_KIT_EASY
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFGAME_KIT_EASY"
+msgid "Beginner Mini-Golf Kit"
+msgstr "Beginner Mini-Golf Kit"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFGAME_KIT_HARD
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFGAME_KIT_HARD"
+msgid "Expert Mini-Golf Kit"
+msgstr "Expert Mini-Golf Kit"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFGAME_KIT_MEDIUM
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFGAME_KIT_MEDIUM"
+msgid "Standard Mini-Golf Kit"
+msgstr "Standard Mini-Golf Kit"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT1
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT1"
+msgid "Carrot Obstacle"
+msgstr "Carrot Obstacle"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT10
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT10"
+msgid "Tentacle Obstacle"
+msgstr "Tentacle Obstacle"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT2
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT2"
+msgid "Rose Obstacle"
+msgstr "Rose Obstacle"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT3
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT3"
+msgid "Ham Bat Obstacle"
+msgstr "Ham Bat Obstacle"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT4
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT4"
+msgid "Corn Obstacle"
+msgstr "Corn Obstacle"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT5
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT5"
+msgid "Mushroom Obstacle"
+msgstr "Mushroom Obstacle"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT6
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT6"
+msgid "Bearger Obstacle"
+msgstr "Bearger Obstacle"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT7
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT7"
+msgid "Deerclops Obstacle"
+msgstr "Deerclops Obstacle"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT8
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT8"
+msgid "Spider Obstacle"
+msgstr "Spider Obstacle"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT9
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT9"
+msgid "Dragonfly Obstacle"
+msgstr "Dragonfly Obstacle"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_FAN
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_FAN"
+msgid "Fan"
+msgstr "Fan"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_FENCE
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_FENCE"
+msgid "Mini-Golf Boundary Fence"
+msgstr "Mini-Golf Boundary Fence"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_MEDIUMSPINNER_CCW
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_MEDIUMSPINNER_CCW"
+msgid "Counter Clockwise Medium Spin Plate"
+msgstr "Counter Clockwise Medium Spin Plate"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_MEDIUMSPINNER_CW
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_MEDIUMSPINNER_CW"
+msgid "Clockwise Medium Spin Plate"
+msgstr "Clockwise Medium Spin Plate"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_MOVINGWALL_BLUE
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_MOVINGWALL_BLUE"
+msgid "Blue Pop-up Blocker"
+msgstr "Blue Pop-up Blocker"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_MOVINGWALL_RED
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_MOVINGWALL_RED"
+msgid "Red Pop-up Blocker"
+msgstr "Red Pop-up Blocker"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_SMALLSPINNER_CCW
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_SMALLSPINNER_CCW"
+msgid "Counter Clockwise Small Spin Plate"
+msgstr "Counter Clockwise Small Spin Plate"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_SMALLSPINNER_CW
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_SMALLSPINNER_CW"
+msgid "Clockwise Small Spin Plate"
+msgstr "Clockwise Small Spin Plate"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_SPRING
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_SPRING"
+msgid "Persistent Directional Springboard"
+msgstr "Persistent Directional Springboard"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_SPRING_NOFACED
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_SPRING_NOFACED"
+msgid "Persistent Springboard"
+msgstr "Persistent Springboard"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_SPRING_NOFACED_ONETIME
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_SPRING_NOFACED_ONETIME"
+msgid "Springboard"
+msgstr "Springboard"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_SPRING_ONETIME
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_SPRING_ONETIME"
+msgid "Directional Springboard"
+msgstr "Directional Springboard"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_WORMHOLE
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_WORMHOLE"
+msgid "Mini Worm Hole"
+msgstr "Mini Worm Hole"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_WORMHOLE_LIMITED
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_WORMHOLE_LIMITED"
+msgid "Sick Mini Worm Hole"
+msgstr "Sick Mini Worm Hole"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLF_HOLE
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLF_HOLE"
+msgid "Mini-Golf Flaghole"
+msgstr "Mini-Golf Flaghole"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLF_HOLE_KIT
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLF_HOLE_KIT"
+msgid "Mini-Golf Flaghole Kit"
+msgstr "Mini-Golf Flaghole Kit"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLF_SHAPE
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLF_SHAPE"
+msgid "Course Wall"
+msgstr "Course Wall"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLF_TEE
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLF_TEE"
+msgid "Mini-Golf Ball Dropper"
+msgstr "Mini-Golf Ball Dropper"
+
+#. STRINGS.NAMES.CARNIVALGAME_GOLF_TEE_KIT
+msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLF_TEE_KIT"
+msgid "Mini-Golf Ball Dropper Kit"
+msgstr "Mini-Golf Ball Dropper Kit"
 
 #. STRINGS.NAMES.CARNIVALGAME_HERDING_CHICK
 msgctxt "STRINGS.NAMES.CARNIVALGAME_HERDING_CHICK"
@@ -338760,8 +340845,8 @@ msgstr "Cawnival Token"
 
 #. STRINGS.NAMES.CARNIVAL_GAMETOKEN_MULTIPLE
 msgctxt "STRINGS.NAMES.CARNIVAL_GAMETOKEN_MULTIPLE"
-msgid "3 Cawnival Tokens"
-msgstr "3 Cawnival Tokens"
+msgid "Cawnival Tokens"
+msgstr "Cawnival Tokens"
 
 #. STRINGS.NAMES.CARNIVAL_HOST
 msgctxt "STRINGS.NAMES.CARNIVAL_HOST"
@@ -354321,6 +356406,16 @@ msgctxt "STRINGS.RECIPE_DESC.CARNIVALDECOR_EGGRIDE4_KIT"
 msgid "The new height of Cawnival decor."
 msgstr "The new height of Cawnival decor."
 
+#. STRINGS.RECIPE_DESC.CARNIVALDECOR_EGGRIDE5_KIT
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALDECOR_EGGRIDE5_KIT"
+msgid "A new spin on Canwival decor."
+msgstr "A new spin on Canwival decor."
+
+#. STRINGS.RECIPE_DESC.CARNIVALDECOR_EGGRIDE6_KIT
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALDECOR_EGGRIDE6_KIT"
+msgid "A little eggstreme decor!"
+msgstr "A little eggstreme decor!"
+
 #. STRINGS.RECIPE_DESC.CARNIVALDECOR_FIGURE_KIT
 msgctxt "STRINGS.RECIPE_DESC.CARNIVALDECOR_FIGURE_KIT"
 msgid "What could be inside this mysterious green box?"
@@ -354328,8 +356423,13 @@ msgstr "What could be inside this mysterious green box?"
 
 #. STRINGS.RECIPE_DESC.CARNIVALDECOR_FIGURE_KIT_SEASON2
 msgctxt "STRINGS.RECIPE_DESC.CARNIVALDECOR_FIGURE_KIT_SEASON2"
-msgid "What could be inside this mysterious gold box?"
-msgstr "What could be inside this mysterious gold box?"
+msgid "What could be inside this mysterious yellow box?"
+msgstr "What could be inside this mysterious yellow box?"
+
+#. STRINGS.RECIPE_DESC.CARNIVALDECOR_FIGURE_KIT_SEASON3
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALDECOR_FIGURE_KIT_SEASON3"
+msgid "What could be inside this mysterious red box?"
+msgstr "What could be inside this mysterious red box?"
 
 #. STRINGS.RECIPE_DESC.CARNIVALDECOR_LAMP_KIT
 msgctxt "STRINGS.RECIPE_DESC.CARNIVALDECOR_LAMP_KIT"
@@ -354350,6 +356450,158 @@ msgstr "Surprisingly refreshing!"
 msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_FEEDCHICKS_KIT"
 msgid "Let them eat grubs!"
 msgstr "Let them eat grubs!"
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFGAME_KIT_DIY
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFGAME_KIT_DIY"
+msgid "Create a custom course!"
+msgstr "Create a custom course!"
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFGAME_KIT_EASY
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFGAME_KIT_EASY"
+msgid ""
+"Bring on the beginner!\n"
+"Comes with four variations!"
+msgstr ""
+"Bring on the beginner!\n"
+"Comes with four variations!"
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFGAME_KIT_HARD
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFGAME_KIT_HARD"
+msgid ""
+"For the professional putter.\n"
+"Comes with four variations!"
+msgstr ""
+"For the professional putter.\n"
+"Comes with four variations!"
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFGAME_KIT_MEDIUM
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFGAME_KIT_MEDIUM"
+msgid ""
+"For the casual mini-golfer.\n"
+"Comes with four variations!"
+msgstr ""
+"For the casual mini-golfer.\n"
+"Comes with four variations!"
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_CUTOUT1
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_CUTOUT1"
+msgid "A Bunnyman favorite."
+msgstr "A Bunnyman favorite."
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_CUTOUT10
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_CUTOUT10"
+msgid "Not deadly, but still annoying."
+msgstr "Not deadly, but still annoying."
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_CUTOUT2
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_CUTOUT2"
+msgid "A thorn in your side."
+msgstr "A thorn in your side."
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_CUTOUT3
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_CUTOUT3"
+msgid "Ball, meat obstacle."
+msgstr "Ball, meat obstacle."
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_CUTOUT4
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_CUTOUT4"
+msgid "No need for a corny description."
+msgstr "No need for a corny description."
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_CUTOUT5
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_CUTOUT5"
+msgid "It's just for fungi!"
+msgstr "It's just for fungi!"
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_CUTOUT6
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_CUTOUT6"
+msgid "It bears a strong resemblance."
+msgstr "It bears a strong resemblance."
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_CUTOUT7
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_CUTOUT7"
+msgid "More obstructive than destructive."
+msgstr "More obstructive than destructive."
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_CUTOUT8
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_CUTOUT8"
+msgid "Hated by almost everyone."
+msgstr "Hated by almost everyone."
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_CUTOUT9
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_CUTOUT9"
+msgid "It will still get you heated."
+msgstr "It will still get you heated."
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_FAN
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_FAN"
+msgid "It's nice to have fans."
+msgstr "It's nice to have fans."
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_MEDIUMSPINNER_CCW
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_MEDIUMSPINNER_CCW"
+msgid "Put a spin on it."
+msgstr "Put a spin on it."
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_MEDIUMSPINNER_CW
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_MEDIUMSPINNER_CW"
+msgid "Put a spin on it."
+msgstr "Put a spin on it."
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_MOVINGWALL_BLUE
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_MOVINGWALL_BLUE"
+msgid "It keeps popping up!"
+msgstr "It keeps popping up!"
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_MOVINGWALL_RED
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_MOVINGWALL_RED"
+msgid "It keeps popping up!"
+msgstr "It keeps popping up!"
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_SMALLSPINNER_CCW
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_SMALLSPINNER_CCW"
+msgid "Put a little spin on it."
+msgstr "Put a little spin on it."
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_SMALLSPINNER_CW
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_SMALLSPINNER_CW"
+msgid "Put a little spin on it."
+msgstr "Put a little spin on it."
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_SPRING
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_SPRING"
+msgid "It'll spring into action, again and again!"
+msgstr "It'll spring into action, again and again!"
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_SPRING_NOFACED
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_SPRING_NOFACED"
+msgid "It'll spring into action, again and again!"
+msgstr "It'll spring into action, again and again!"
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_SPRING_NOFACED_ONETIME
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_SPRING_NOFACED_ONETIME"
+msgid "Launch served once per game."
+msgstr "Launch served once per game."
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_SPRING_ONETIME
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_SPRING_ONETIME"
+msgid "Launch served once per game."
+msgstr "Launch served once per game."
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_WORMHOLE
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_WORMHOLE"
+msgid "It eats up and spits out golf balls."
+msgstr "It eats up and spits out golf balls."
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_WORMHOLE_LIMITED
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_WORMHOLE_LIMITED"
+msgid "It lives to transport your golf ball once only!"
+msgstr "It lives to transport your golf ball once only!"
+
+#. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLF_SHAPE
+msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLF_SHAPE"
+msgid "Of course, a course needs walls."
+msgstr "Of course, a course needs walls."
 
 #. STRINGS.RECIPE_DESC.CARNIVALGAME_HERDING_KIT
 msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_HERDING_KIT"
@@ -363079,11 +365331,13 @@ msgstr ""
 #. STRINGS.SCRAPBOOK.SPECIALINFO.VAULT_ORB_REFINED
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.VAULT_ORB_REFINED"
 msgid ""
-"A refined piece of a Portation Orb. It can be socketed at the Telelocator "
-"Focus, and used to teleport to one by focusing."
+"A refined piece of a Portation Orb that can be expended to teleport to a "
+"fully-socketed Telelocater Focus. A Telelocater Focus must be socketed with "
+"three Portation Orbs to become operational."
 msgstr ""
-"A refined piece of a Portation Orb. It can be socketed at the Telelocator "
-"Focus, and used to teleport to one by focusing."
+"A refined piece of a Portation Orb that can be expended to teleport to a "
+"fully-socketed Telelocater Focus. A Telelocater Focus must be socketed with "
+"three Portation Orbs to become operational."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.VAULT_REFINER_PEDESTAL
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.VAULT_REFINER_PEDESTAL"
@@ -371720,6 +373974,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.backpack_mandrake_resurrected"
 msgid "Keep this lil guy quiet by shoving some delicious loot in his mouth!"
 msgstr "Keep this lil guy quiet by shoving some delicious loot in his mouth!"
 
+#. STRINGS.SKIN_DESCRIPTIONS.backpack_minigolf
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.backpack_minigolf"
+msgid "For club members only."
+msgstr "For club members only."
+
 #. STRINGS.SKIN_DESCRIPTIONS.backpack_mushy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.backpack_mushy"
 msgid "A backpack which has grown moldy from disuse."
@@ -372756,6 +375015,36 @@ msgid ""
 msgstr ""
 "Not even an interdimensional anomaly can stop capitalism. Let's do some "
 "business."
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_minigolf_black
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_minigolf_black"
+msgid "Be dashingly dressed while you putter around."
+msgstr "Be dashingly dressed while you putter around."
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_minigolf_blacktie
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_minigolf_blacktie"
+msgid "Be dashingly dressed while you putter around."
+msgstr "Be dashingly dressed while you putter around."
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_minigolf_mint
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_minigolf_mint"
+msgid "Be dashingly dressed while you putter around."
+msgstr "Be dashingly dressed while you putter around."
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_minigolf_minttie
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_minigolf_minttie"
+msgid "Be dashingly dressed while you putter around."
+msgstr "Be dashingly dressed while you putter around."
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_minigolf_red
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_minigolf_red"
+msgid "Be dashingly dressed while you putter around."
+msgstr "Be dashingly dressed while you putter around."
+
+#. STRINGS.SKIN_DESCRIPTIONS.body_minigolf_redtie
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_minigolf_redtie"
+msgid "Be dashingly dressed while you putter around."
+msgstr "Be dashingly dressed while you putter around."
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_oni_001
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_oni_001"
@@ -378472,8 +380761,8 @@ msgstr "n/a"
 
 #. STRINGS.SKIN_DESCRIPTIONS.fencegate_rose_item
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.fencegate_rose_item"
-msgid "b/a"
-msgstr "b/a"
+msgid "n/a"
+msgstr "n/a"
 
 #. STRINGS.SKIN_DESCRIPTIONS.fencegate_shell_item
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.fencegate_shell_item"
@@ -380635,6 +382924,36 @@ msgstr "Hard-wearing cotton dungarees, in an 'unsuitably blue' color."
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_merchant"
 msgid "These slacks really say \"Buy some torches!\""
 msgstr "These slacks really say \"Buy some torches!\""
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_minigolf_pants_black
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_minigolf_pants_black"
+msgid "No one would ever suggest these pants are sub-par."
+msgstr "No one would ever suggest these pants are sub-par."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_minigolf_pants_purple
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_minigolf_pants_purple"
+msgid "No one would ever suggest these pants are sub-par."
+msgstr "No one would ever suggest these pants are sub-par."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_minigolf_pants_red
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_minigolf_pants_red"
+msgid "No one would ever suggest these pants are sub-par."
+msgstr "No one would ever suggest these pants are sub-par."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_minigolf_skirt_black
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_minigolf_skirt_black"
+msgid "Check those socks, there might be a hole-in-one."
+msgstr "Check those socks, there might be a hole-in-one."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_minigolf_skirt_mint
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_minigolf_skirt_mint"
+msgid "Check those socks, there might be a hole-in-one."
+msgstr "Check those socks, there might be a hole-in-one."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_minigolf_skirt_red
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_minigolf_skirt_red"
+msgid "Check those socks, there might be a hole-in-one."
+msgstr "Check those socks, there might be a hole-in-one."
 
 #. STRINGS.SKIN_DESCRIPTIONS.legs_oni
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_oni"
@@ -383137,6 +385456,23 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.minerhat_western"
 msgid "There's gold in them caves!"
 msgstr "There's gold in them caves!"
 
+#. STRINGS.SKIN_DESCRIPTIONS.minisign_cawnival
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.minisign_cawnival"
+msgid ""
+"Corvus Goodfeather humbly suggests writing a nice review for the Cawnival."
+msgstr ""
+"Corvus Goodfeather humbly suggests writing a nice review for the Cawnival."
+
+#. STRINGS.SKIN_DESCRIPTIONS.minisign_cawnival_drawn
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.minisign_cawnival_drawn"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.minisign_cawnival_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.minisign_cawnival_item"
+msgid "n/a"
+msgstr "n/a"
+
 #. STRINGS.SKIN_DESCRIPTIONS.minisign_fantasy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.minisign_fantasy"
 msgid "Display your flowery prose for all to see."
@@ -383334,6 +385670,11 @@ msgstr "Nothing creates an ambiance quite like a glowing fungus."
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mushroom_light_an"
 msgid "This mushlamp was made to dazzle."
 msgstr "This mushlamp was made to dazzle."
+
+#. STRINGS.SKIN_DESCRIPTIONS.mushroom_light_cawnival
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.mushroom_light_cawnival"
+msgid "Eggsquisite illumination."
+msgstr "Eggsquisite illumination."
 
 #. STRINGS.SKIN_DESCRIPTIONS.mushroom_light_festive
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mushroom_light_festive"
@@ -383848,6 +386189,25 @@ msgstr ""
 "This Midsummer Cawnival Chest contains the following skin items: Cawnival "
 "Wrapping, Cawnival Shrub Hat, Cawnival Crown, Cawnival Lamp, Midsummer "
 "Frest, Cawnival Siesta Spot, and Cawnival Tammie."
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_cawnival_items2
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_cawnival_items2"
+msgid ""
+"This Cawnival Mini-Golf Chest contains the following skin items: Cawnival "
+"Putter's Pack, Tee Time Sweater Vest, Par None Sweater Vest, Fairway Sweater"
+" Vest, Mulligan Sweater Vest, Chipper Sweater Vest, Lucky Stroke Sweater "
+"Vest, Black Birdie Pants, Plum Birdie Pants, Red Birdie Pants, Black Mini-"
+"Golf Skirt, Green Mini-Golf Skirt, Red Mini-Golf Skirt, Egg Caddy Cap, Bow "
+"Caddy Cap, Flag Caddy Cap, Cawnival Torch, Cawnival Plaque, and Cawnival Egg"
+" Lamp."
+msgstr ""
+"This Cawnival Mini-Golf Chest contains the following skin items: Cawnival "
+"Putter's Pack, Tee Time Sweater Vest, Par None Sweater Vest, Fairway Sweater"
+" Vest, Mulligan Sweater Vest, Chipper Sweater Vest, Lucky Stroke Sweater "
+"Vest, Black Birdie Pants, Plum Birdie Pants, Red Birdie Pants, Black Mini-"
+"Golf Skirt, Green Mini-Golf Skirt, Red Mini-Golf Skirt, Egg Caddy Cap, Bow "
+"Caddy Cap, Flag Caddy Cap, Cawnival Torch, Cawnival Plaque, and Cawnival Egg"
+" Lamp."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_character_wanda
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_character_wanda"
@@ -390652,6 +393012,21 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab4_merchant"
 msgid "n/a"
 msgstr "n/a"
 
+#. STRINGS.SKIN_DESCRIPTIONS.researchlab4_minigolf_green
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab4_minigolf_green"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.researchlab4_minigolf_purple
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab4_minigolf_purple"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.researchlab4_minigolf_red
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab4_minigolf_red"
+msgid "n/a"
+msgstr "n/a"
+
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab4_tophat_circus
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab4_tophat_circus"
 msgid "n/a"
@@ -391604,6 +393979,21 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.tophat_merchant"
 msgid "This hat lets everyone know that you have useful wares for sale."
 msgstr "This hat lets everyone know that you have useful wares for sale."
 
+#. STRINGS.SKIN_DESCRIPTIONS.tophat_minigolf_green
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.tophat_minigolf_green"
+msgid "Let everyone know your head's in the game."
+msgstr "Let everyone know your head's in the game."
+
+#. STRINGS.SKIN_DESCRIPTIONS.tophat_minigolf_purple
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.tophat_minigolf_purple"
+msgid "Let everyone know your head's in the game."
+msgstr "Let everyone know your head's in the game."
+
+#. STRINGS.SKIN_DESCRIPTIONS.tophat_minigolf_red
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.tophat_minigolf_red"
+msgid "Let everyone know your head's in the game."
+msgstr "Let everyone know your head's in the game."
+
 #. STRINGS.SKIN_DESCRIPTIONS.tophat_spiked
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.tophat_spiked"
 msgid "This hat is filled to the brim with dapper darkness."
@@ -391638,6 +394028,11 @@ msgstr "A torch made in honor of the clever carrat."
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.torch_carrat_alt"
 msgid "A torch made in honor of the clever carrat."
 msgstr "A torch made in honor of the clever carrat."
+
+#. STRINGS.SKIN_DESCRIPTIONS.torch_cawnival
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.torch_cawnival"
+msgid "There's nothing like a day at the Cawnival to brighten the mood."
+msgstr "There's nothing like a day at the Cawnival to brighten the mood."
 
 #. STRINGS.SKIN_DESCRIPTIONS.torch_nautical
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.torch_nautical"
@@ -396282,6 +398677,11 @@ msgctxt "STRINGS.SKIN_NAMES.backpack_mandrake_resurrected"
 msgid "Meepsack"
 msgstr "Meepsack"
 
+#. STRINGS.SKIN_NAMES.backpack_minigolf
+msgctxt "STRINGS.SKIN_NAMES.backpack_minigolf"
+msgid "Cawnival Putter's Pack"
+msgstr "Cawnival Putter's Pack"
+
 #. STRINGS.SKIN_NAMES.backpack_mushy
 msgctxt "STRINGS.SKIN_NAMES.backpack_mushy"
 msgid "Moldy Backpack"
@@ -397131,6 +399531,36 @@ msgstr "Toggle Jacket"
 msgctxt "STRINGS.SKIN_NAMES.body_merchant_coat"
 msgid "Merchant Coat"
 msgstr "Merchant Coat"
+
+#. STRINGS.SKIN_NAMES.body_minigolf_black
+msgctxt "STRINGS.SKIN_NAMES.body_minigolf_black"
+msgid "Tee Time Sweater Vest"
+msgstr "Tee Time Sweater Vest"
+
+#. STRINGS.SKIN_NAMES.body_minigolf_blacktie
+msgctxt "STRINGS.SKIN_NAMES.body_minigolf_blacktie"
+msgid "Par None Sweater Vest"
+msgstr "Par None Sweater Vest"
+
+#. STRINGS.SKIN_NAMES.body_minigolf_mint
+msgctxt "STRINGS.SKIN_NAMES.body_minigolf_mint"
+msgid "Fairway Sweater Vest"
+msgstr "Fairway Sweater Vest"
+
+#. STRINGS.SKIN_NAMES.body_minigolf_minttie
+msgctxt "STRINGS.SKIN_NAMES.body_minigolf_minttie"
+msgid "Mulligan Sweater Vest"
+msgstr "Mulligan Sweater Vest"
+
+#. STRINGS.SKIN_NAMES.body_minigolf_red
+msgctxt "STRINGS.SKIN_NAMES.body_minigolf_red"
+msgid "Chipper Sweater Vest"
+msgstr "Chipper Sweater Vest"
+
+#. STRINGS.SKIN_NAMES.body_minigolf_redtie
+msgctxt "STRINGS.SKIN_NAMES.body_minigolf_redtie"
+msgid "Lucky Stroke Sweater Vest"
+msgstr "Lucky Stroke Sweater Vest"
 
 #. STRINGS.SKIN_NAMES.body_oni_001
 msgctxt "STRINGS.SKIN_NAMES.body_oni_001"
@@ -403722,6 +406152,36 @@ msgctxt "STRINGS.SKIN_NAMES.legs_merchant"
 msgid "Merchant Pants"
 msgstr "Merchant Pants"
 
+#. STRINGS.SKIN_NAMES.legs_minigolf_pants_black
+msgctxt "STRINGS.SKIN_NAMES.legs_minigolf_pants_black"
+msgid "Black Birdie Pants"
+msgstr "Black Birdie Pants"
+
+#. STRINGS.SKIN_NAMES.legs_minigolf_pants_purple
+msgctxt "STRINGS.SKIN_NAMES.legs_minigolf_pants_purple"
+msgid "Plum Birdie Pants"
+msgstr "Plum Birdie Pants"
+
+#. STRINGS.SKIN_NAMES.legs_minigolf_pants_red
+msgctxt "STRINGS.SKIN_NAMES.legs_minigolf_pants_red"
+msgid "Red Birdie Pants"
+msgstr "Red Birdie Pants"
+
+#. STRINGS.SKIN_NAMES.legs_minigolf_skirt_black
+msgctxt "STRINGS.SKIN_NAMES.legs_minigolf_skirt_black"
+msgid "Black Mini-Golf Skirt"
+msgstr "Black Mini-Golf Skirt"
+
+#. STRINGS.SKIN_NAMES.legs_minigolf_skirt_mint
+msgctxt "STRINGS.SKIN_NAMES.legs_minigolf_skirt_mint"
+msgid "Green Mini-Golf Skirt"
+msgstr "Green Mini-Golf Skirt"
+
+#. STRINGS.SKIN_NAMES.legs_minigolf_skirt_red
+msgctxt "STRINGS.SKIN_NAMES.legs_minigolf_skirt_red"
+msgid "Red Mini-Golf Skirt"
+msgstr "Red Mini-Golf Skirt"
+
 #. STRINGS.SKIN_NAMES.legs_oni
 msgctxt "STRINGS.SKIN_NAMES.legs_oni"
 msgid "Duplicate Dungarees"
@@ -405657,6 +408117,21 @@ msgctxt "STRINGS.SKIN_NAMES.minerhat_western"
 msgid "Ol' Miner Headlamp"
 msgstr "Ol' Miner Headlamp"
 
+#. STRINGS.SKIN_NAMES.minisign_cawnival
+msgctxt "STRINGS.SKIN_NAMES.minisign_cawnival"
+msgid "Cawnival Plaque"
+msgstr "Cawnival Plaque"
+
+#. STRINGS.SKIN_NAMES.minisign_cawnival_drawn
+msgctxt "STRINGS.SKIN_NAMES.minisign_cawnival_drawn"
+msgid "Cawnival Plaque"
+msgstr "Cawnival Plaque"
+
+#. STRINGS.SKIN_NAMES.minisign_cawnival_item
+msgctxt "STRINGS.SKIN_NAMES.minisign_cawnival_item"
+msgid "Cawnival Plaque"
+msgstr "Cawnival Plaque"
+
 #. STRINGS.SKIN_NAMES.minisign_fantasy
 msgctxt "STRINGS.SKIN_NAMES.minisign_fantasy"
 msgid "Fantasmical Plaque"
@@ -405836,6 +408311,11 @@ msgstr "Mushlamp Post"
 msgctxt "STRINGS.SKIN_NAMES.mushroom_light_an"
 msgid "Mosaic Mushlamp"
 msgstr "Mosaic Mushlamp"
+
+#. STRINGS.SKIN_NAMES.mushroom_light_cawnival
+msgctxt "STRINGS.SKIN_NAMES.mushroom_light_cawnival"
+msgid "Cawnival Egg Lamp"
+msgstr "Cawnival Egg Lamp"
 
 #. STRINGS.SKIN_NAMES.mushroom_light_festive
 msgctxt "STRINGS.SKIN_NAMES.mushroom_light_festive"
@@ -406084,8 +408564,8 @@ msgstr "Fanciful Explorer"
 
 #. STRINGS.SKIN_NAMES.pack_20s_1
 msgctxt "STRINGS.SKIN_NAMES.pack_20s_1"
-msgid "The Roaring Chest"
-msgstr "The Roaring Chest"
+msgid "The Roarer Chest"
+msgstr "The Roarer Chest"
 
 #. STRINGS.SKIN_NAMES.pack_adventure_1
 msgctxt "STRINGS.SKIN_NAMES.pack_adventure_1"
@@ -406196,6 +408676,11 @@ msgstr "Decorator's Chest"
 msgctxt "STRINGS.SKIN_NAMES.pack_cawnival_items"
 msgid "Midsummer Cawnival Chest"
 msgstr "Midsummer Cawnival Chest"
+
+#. STRINGS.SKIN_NAMES.pack_cawnival_items2
+msgctxt "STRINGS.SKIN_NAMES.pack_cawnival_items2"
+msgid "Cawnival Mini-Golf Chest"
+msgstr "Cawnival Mini-Golf Chest"
 
 #. STRINGS.SKIN_NAMES.pack_character_wanda
 msgctxt "STRINGS.SKIN_NAMES.pack_character_wanda"
@@ -411092,6 +413577,21 @@ msgctxt "STRINGS.SKIN_NAMES.researchlab4_merchant"
 msgid "Merchantator"
 msgstr "Merchantator"
 
+#. STRINGS.SKIN_NAMES.researchlab4_minigolf_green
+msgctxt "STRINGS.SKIN_NAMES.researchlab4_minigolf_green"
+msgid "Egg Caddycapatator"
+msgstr "Egg Caddycapatator"
+
+#. STRINGS.SKIN_NAMES.researchlab4_minigolf_purple
+msgctxt "STRINGS.SKIN_NAMES.researchlab4_minigolf_purple"
+msgid "Bow Caddycapatator"
+msgstr "Bow Caddycapatator"
+
+#. STRINGS.SKIN_NAMES.researchlab4_minigolf_red
+msgctxt "STRINGS.SKIN_NAMES.researchlab4_minigolf_red"
+msgid "Flag Caddycapatator"
+msgstr "Flag Caddycapatator"
+
 #. STRINGS.SKIN_NAMES.researchlab4_tophat_circus
 msgctxt "STRINGS.SKIN_NAMES.researchlab4_tophat_circus"
 msgid "Prestiringmastatator"
@@ -411987,6 +414487,21 @@ msgctxt "STRINGS.SKIN_NAMES.tophat_merchant"
 msgid "Merchant Hat"
 msgstr "Merchant Hat"
 
+#. STRINGS.SKIN_NAMES.tophat_minigolf_green
+msgctxt "STRINGS.SKIN_NAMES.tophat_minigolf_green"
+msgid "Egg Caddy Cap"
+msgstr "Egg Caddy Cap"
+
+#. STRINGS.SKIN_NAMES.tophat_minigolf_purple
+msgctxt "STRINGS.SKIN_NAMES.tophat_minigolf_purple"
+msgid "Bow Caddy Cap"
+msgstr "Bow Caddy Cap"
+
+#. STRINGS.SKIN_NAMES.tophat_minigolf_red
+msgctxt "STRINGS.SKIN_NAMES.tophat_minigolf_red"
+msgid "Flag Caddy Cap"
+msgstr "Flag Caddy Cap"
+
 #. STRINGS.SKIN_NAMES.tophat_spiked
 msgctxt "STRINGS.SKIN_NAMES.tophat_spiked"
 msgid "Showman's Shadow Hat"
@@ -412021,6 +414536,11 @@ msgstr "Carrat Torch"
 msgctxt "STRINGS.SKIN_NAMES.torch_carrat_alt"
 msgid "Carrat Torch"
 msgstr "Carrat Torch"
+
+#. STRINGS.SKIN_NAMES.torch_cawnival
+msgctxt "STRINGS.SKIN_NAMES.torch_cawnival"
+msgid "Cawnival Torch"
+msgstr "Cawnival Torch"
 
 #. STRINGS.SKIN_NAMES.torch_nautical
 msgctxt "STRINGS.SKIN_NAMES.torch_nautical"
@@ -430434,6 +432954,11 @@ msgstr "Unpin"
 msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.ANCIENT"
 msgid "Ancient Pseudoscience"
 msgstr "Ancient Pseudoscience"
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.CARNIVALGAME_GOLFGAME
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.CARNIVALGAME_GOLFGAME"
+msgid "Custom Course Shack"
+msgstr "Custom Course Shack"
 
 #. STRINGS.UI.CRAFTING_STATION_FILTERS.CARNIVAL_HOSTSHOP
 msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.CARNIVAL_HOSTSHOP"

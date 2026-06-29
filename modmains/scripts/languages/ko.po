@@ -410496,7 +410496,7 @@ msgstr "리본 골프모자 장치"
 #. STRINGS.SKIN_NAMES.researchlab4_minigolf_red
 msgctxt "STRINGS.SKIN_NAMES.researchlab4_minigolf_red"
 msgid "Flag Caddycapatator"
-msgstr ""
+msgstr "깃발 골프모자 장치"
 
 #. STRINGS.SKIN_NAMES.researchlab4_tophat_circus
 msgctxt "STRINGS.SKIN_NAMES.researchlab4_tophat_circus"

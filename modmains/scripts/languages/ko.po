@@ -396466,7 +396466,7 @@ msgstr "치퍼 스웨터 조끼"
 #. STRINGS.SKIN_NAMES.body_minigolf_redtie
 msgctxt "STRINGS.SKIN_NAMES.body_minigolf_redtie"
 msgid "Lucky Stroke Sweater Vest"
-msgstr ""
+msgstr "운빨샷 스웨터 조끼"
 
 #. STRINGS.SKIN_NAMES.body_oni_001
 msgctxt "STRINGS.SKIN_NAMES.body_oni_001"
@@ -411446,7 +411446,7 @@ msgstr "당근이쥐 횃불"
 #. STRINGS.SKIN_NAMES.torch_cawnival
 msgctxt "STRINGS.SKIN_NAMES.torch_cawnival"
 msgid "Cawnival Torch"
-msgstr ""
+msgstr "까악제 횃불"
 
 #. STRINGS.SKIN_NAMES.torch_nautical
 msgctxt "STRINGS.SKIN_NAMES.torch_nautical"
@@ -429796,7 +429796,7 @@ msgstr "고대 유사과학"
 #. STRINGS.UI.CRAFTING_STATION_FILTERS.CARNIVALGAME_GOLFGAME
 msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.CARNIVALGAME_GOLFGAME"
 msgid "Custom Course Shack"
-msgstr ""
+msgstr "커스텀 코스 제작"
 
 #. STRINGS.UI.CRAFTING_STATION_FILTERS.CARNIVAL_HOSTSHOP
 msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.CARNIVAL_HOSTSHOP"

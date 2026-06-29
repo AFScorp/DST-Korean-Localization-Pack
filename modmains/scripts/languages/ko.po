@@ -443765,7 +443765,7 @@ msgstr "{server} 있는 채로 합니다. 여러 서버를 켜는 만큼 사양�
 #. STRINGS.UI.SERVERCREATIONSCREEN.USECAVES_DESC_NOCAVE
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.USECAVES_DESC_NOCAVE"
 msgid "Play with no {server}, sad, but not as demanding on a computer"
-msgstr "{server} 없이 합니다. 슬프지만, 컴퓨터 사양은 덜 타니까요."
+msgstr "{server} 없이 합니다. 컴퓨터 사양은 덜 타니 아쉬운 거죠."
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.USECAVES_NAME_CAVE
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.USECAVES_NAME_CAVE"

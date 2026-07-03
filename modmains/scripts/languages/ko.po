@@ -320735,12 +320735,12 @@ msgstr "일광시간에 최적의 성능을 발휘"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.OCEANFISHINGLURE_SPOON_BLUE
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.OCEANFISHINGLURE_SPOON_BLUE"
-msgid "PERFORMS OPTIMALLY IN DAYLIGHT"
-msgstr "일광시간에 최적의 성능을 발휘"
+msgid "PERFORMS OPTIMALLY AT NIGHT"
+msgstr "밤에 최적의 성능을 발휘"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.OCEANFISHINGLURE_SPOON_GREEN
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.OCEANFISHINGLURE_SPOON_GREEN"
-msgid "PERFORMS OPTIMALLY IN DAYLIGHT"
+msgid "PERFORMS OPTIMALLY AT DUSK"
 msgstr "해질녘에 최적의 성능을 발휘"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.OCEANFISHINGLURE_SPOON_RED
@@ -391746,6 +391746,21 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.walrushat_ceremonial"
 msgid "The height of Highland sophistication."
 msgstr "고지대풍 세련미의 최고봉."
 
+#. STRINGS.SKIN_DESCRIPTIONS.walrushat_minigolf_green
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.walrushat_minigolf_green"
+msgid "Let everyone know your head's in the game."
+msgstr "경기에 집중하는 중이라고 알리세요."
+
+#. STRINGS.SKIN_DESCRIPTIONS.walrushat_minigolf_purple
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.walrushat_minigolf_purple"
+msgid "Let everyone know your head's in the game."
+msgstr "경기에 집중하는 중이라고 알리세요."
+
+#. STRINGS.SKIN_DESCRIPTIONS.walrushat_minigolf_red
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.walrushat_minigolf_red"
+msgid "Let everyone know your head's in the game."
+msgstr "경기에 집중하는 중이라고 알리세요."
+
 #. STRINGS.SKIN_DESCRIPTIONS.walrushat_party
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.walrushat_party"
 msgid "Stays on tight for battle or jigs."
@@ -411996,6 +412011,21 @@ msgstr "까악제 태미"
 msgctxt "STRINGS.SKIN_NAMES.walrushat_ceremonial"
 msgid "Dapper Tammie"
 msgstr "멋쟁이 태머섄터"
+
+#. STRINGS.SKIN_NAMES.walrushat_minigolf_green
+msgctxt "STRINGS.SKIN_NAMES.walrushat_minigolf_green"
+msgid "Egg Caddy Cap"
+msgstr "달걀 골프모자"
+
+#. STRINGS.SKIN_NAMES.walrushat_minigolf_purple
+msgctxt "STRINGS.SKIN_NAMES.walrushat_minigolf_purple"
+msgid "Bow Caddy Cap"
+msgstr "리본 골프모자"
+
+#. STRINGS.SKIN_NAMES.walrushat_minigolf_red
+msgctxt "STRINGS.SKIN_NAMES.walrushat_minigolf_red"
+msgid "Flag Caddy Cap"
+msgstr ""
 
 #. STRINGS.SKIN_NAMES.walrushat_party
 msgctxt "STRINGS.SKIN_NAMES.walrushat_party"

@@ -412025,7 +412025,7 @@ msgstr "리본 골프모자"
 #. STRINGS.SKIN_NAMES.walrushat_minigolf_red
 msgctxt "STRINGS.SKIN_NAMES.walrushat_minigolf_red"
 msgid "Flag Caddy Cap"
-msgstr ""
+msgstr "깃발 골프모자"
 
 #. STRINGS.SKIN_NAMES.walrushat_party
 msgctxt "STRINGS.SKIN_NAMES.walrushat_party"

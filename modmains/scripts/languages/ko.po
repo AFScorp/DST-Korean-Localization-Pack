@@ -32937,7 +32937,7 @@ msgstr "미안해, 워비, 여기서 수영하면 안 될 것 같아."
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.GUACAMOLE
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GUACAMOLE"
 msgid "Now all we need are some chips!"
-msgstr "이제 감자칩만 좀 있으면 되겠어!"
+msgstr "이제 감자튀김만 좀 있으면 되겠어!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.GUANO
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GUANO"
@@ -209146,7 +209146,7 @@ msgstr "절제된 외형을 좋아하나 보구만."
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SALSA
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SALSA"
 msgid "Wish I had some chips to go with this."
-msgstr "곁들여 먹을 감자칩이 있었으면."
+msgstr "찍어먹을 감자튀김 좀 있으면 좋겠는데."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SALTBOX
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SALTBOX"

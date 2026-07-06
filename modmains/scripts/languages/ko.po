@@ -210016,7 +210016,7 @@ msgstr "후, 냄새 한 번 독한 가루네."
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SPICE_SALT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SPICE_SALT"
 msgid "I could really go for some potato chips."
-msgstr "여기에 감자칩 좀 있으면 정말 좋을텐데."
+msgstr "이거 보니까 감자튀김이 엄청 땡기네."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SPICE_SUGAR
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SPICE_SUGAR"

@@ -240837,7 +240837,7 @@ msgstr "예전에 있었던 연어 양식장 생각이 나는군."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.FISH_COOKED
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.FISH_COOKED"
 msgid "Could use some chips."
-msgstr "감자튀김이 당기는군."
+msgstr "감자튀김 땡기는군."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.FLINT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.FLINT"
@@ -248782,7 +248782,7 @@ msgstr "신물 올라오네."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TOMATO_OVERSIZED
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TOMATO_OVERSIZED"
 msgid "Maybe I'll squish it up and put it on some chips."
-msgstr "으깨서 감자튀김이랑 같이 먹어볼까 싶은데."
+msgstr "으깨서 감자튀김에 얹어먹으면 좋겠는데."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TOMATO_SEEDS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TOMATO_SEEDS"

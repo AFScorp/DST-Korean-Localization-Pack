@@ -38379,7 +38379,7 @@ msgstr "한 번 너한테 얹어볼까, 워비? 걱정 마, 농담이야!"
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SALSA
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SALSA"
 msgid "It only comes with one chip?!"
-msgstr "아니, 과자가 한 점밖에 안 딸려 온다고?!"
+msgstr "과자가 딸랑 한 점?!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SALTBOX
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SALTBOX"
@@ -57702,7 +57702,7 @@ msgstr "좀 더 넓은 시야로 보는 거 좋잖아."
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.SCULPTINGTABLE.BLOCK
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SCULPTINGTABLE.BLOCK"
 msgid "Chipping away at stone is not my idea of a good time."
-msgstr "돌을 깎는 건 여가라는 생각이 안 드는데 말이야."
+msgstr "돌을 깎는 걸 여가라고 하기는 힘들어 보이는데."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.SCULPTINGTABLE.BURNT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SCULPTINGTABLE.BURNT"

@@ -2,13 +2,13 @@
 # "POT Version: 2.0\n"
 # Translators:
 # Snow ball, 2026
-# Mr. Dream <dreamer12513@gmail.com>, 2026
 # Transifex Bot <>, 2026
 # AFS Co. Ltd., 2026
+# Mr. Dream <dreamer12513@gmail.com>, 2026
 # 
 msgid ""
 msgstr ""
-"Last-Translator: AFS Co. Ltd., 2026\n"
+"Last-Translator: Mr. Dream <dreamer12513@gmail.com>, 2026\n"
 "Language-Team: Korean (https://app.transifex.com/DSTKoreanTeam/teams/115873/ko/)\n"
 "Language: ko\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1406,7 +1406,7 @@ msgstr "던지기"
 #. STRINGS.ACTIONS.OCEAN_TRAWLER_FIX
 msgctxt "STRINGS.ACTIONS.OCEAN_TRAWLER_FIX"
 msgid "Fix"
-msgstr "고정"
+msgstr "고치기"
 
 #. STRINGS.ACTIONS.OCEAN_TRAWLER_LOWER
 msgctxt "STRINGS.ACTIONS.OCEAN_TRAWLER_LOWER"

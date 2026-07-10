@@ -2,13 +2,13 @@
 # "POT Version: 2.0\n"
 # Translators:
 # Snow ball, 2026
-# Mr. Dream <dreamer12513@gmail.com>, 2026
 # Transifex Bot <>, 2026
 # AFS Co. Ltd., 2026
+# Mr. Dream <dreamer12513@gmail.com>, 2026
 # 
 msgid ""
 msgstr ""
-"Last-Translator: AFS Co. Ltd., 2026\n"
+"Last-Translator: Mr. Dream <dreamer12513@gmail.com>, 2026\n"
 "Language-Team: Korean (https://app.transifex.com/DSTKoreanTeam/teams/115873/ko/)\n"
 "Language: ko\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1406,7 +1406,7 @@ msgstr "던지기"
 #. STRINGS.ACTIONS.OCEAN_TRAWLER_FIX
 msgctxt "STRINGS.ACTIONS.OCEAN_TRAWLER_FIX"
 msgid "Fix"
-msgstr "고정"
+msgstr "고치기"
 
 #. STRINGS.ACTIONS.OCEAN_TRAWLER_LOWER
 msgctxt "STRINGS.ACTIONS.OCEAN_TRAWLER_LOWER"
@@ -32937,7 +32937,7 @@ msgstr "미안해, 워비, 여기서 수영하면 안 될 것 같아."
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.GUACAMOLE
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GUACAMOLE"
 msgid "Now all we need are some chips!"
-msgstr "이제 감자칩만 좀 있으면 되겠어!"
+msgstr "이제 감자튀김만 좀 있으면 되겠어!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.GUANO
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.GUANO"
@@ -38379,7 +38379,7 @@ msgstr "한 번 너한테 얹어볼까, 워비? 걱정 마, 농담이야!"
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SALSA
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SALSA"
 msgid "It only comes with one chip?!"
-msgstr "아니, 과자가 한 점밖에 안 딸려 온다고?!"
+msgstr "과자가 딸랑 한 점?!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SALTBOX
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SALTBOX"
@@ -57702,7 +57702,7 @@ msgstr "좀 더 넓은 시야로 보는 거 좋잖아."
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.SCULPTINGTABLE.BLOCK
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SCULPTINGTABLE.BLOCK"
 msgid "Chipping away at stone is not my idea of a good time."
-msgstr "돌을 깎는 건 여가라는 생각이 안 드는데 말이야."
+msgstr "돌을 깎는 걸 여가라고 하기는 힘들어 보이는데."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.SCULPTINGTABLE.BURNT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SCULPTINGTABLE.BURNT"
@@ -70543,7 +70543,7 @@ msgstr "잘 알려지지 않은 프랑스식 요리야."
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FROZENBANANADAIQUIRI
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FROZENBANANADAIQUIRI"
 msgid "There's no better refreshment!"
-msgstr "이보다 상쾌한 음료는 또 없지!"
+msgstr "이보다 상쾌한 음료가 있을까!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FRUITDRAGON.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FRUITDRAGON.GENERIC"
@@ -88773,7 +88773,7 @@ msgstr "내 위장으로 오라!"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FROZENBANANADAIQUIRI
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FROZENBANANADAIQUIRI"
 msgid "Monkey drink."
-msgstr "원숭이나 먹을 음료로군."
+msgstr "원숭이나 마실 법하군."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FRUITDRAGON.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FRUITDRAGON.GENERIC"
@@ -182265,7 +182265,7 @@ msgstr "으, 저 녀석은 다시는 안 봤으면 좋겠어."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_HORNUCOPIA
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_HORNUCOPIA"
 msgid "Ouchhh! I think I chipped a tooth."
-msgstr "아야야! 이빨 하나 나간 것 같아."
+msgstr "아야야! 이빨 나가겠네."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_KITCOON
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_KITCOON"
@@ -209146,7 +209146,7 @@ msgstr "절제된 외형을 좋아하나 보구만."
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SALSA
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SALSA"
 msgid "Wish I had some chips to go with this."
-msgstr "곁들여 먹을 감자칩이 있었으면."
+msgstr "찍어먹을 감자튀김 좀 있으면 좋겠는데."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SALTBOX
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SALTBOX"
@@ -210016,7 +210016,7 @@ msgstr "후, 냄새 한 번 독한 가루네."
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SPICE_SALT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SPICE_SALT"
 msgid "I could really go for some potato chips."
-msgstr "여기에 감자칩 좀 있으면 정말 좋을텐데."
+msgstr "이거 보니까 감자튀김이 엄청 땡기네."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SPICE_SUGAR
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SPICE_SUGAR"
@@ -240837,7 +240837,7 @@ msgstr "예전에 있었던 연어 양식장 생각이 나는군."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.FISH_COOKED
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.FISH_COOKED"
 msgid "Could use some chips."
-msgstr "감자튀김이 당기는군."
+msgstr "감자튀김 땡기는군."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.FLINT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.FLINT"
@@ -248782,7 +248782,7 @@ msgstr "신물 올라오네."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TOMATO_OVERSIZED
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TOMATO_OVERSIZED"
 msgid "Maybe I'll squish it up and put it on some chips."
-msgstr "으깨서 감자튀김이랑 같이 먹어볼까 싶은데."
+msgstr "으깨서 감자튀김에 얹어먹으면 좋겠는데."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TOMATO_SEEDS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TOMATO_SEEDS"
@@ -317049,7 +317049,7 @@ msgstr "섭취 준비 완료"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.FROZENBANANADAIQUIRI
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.FROZENBANANADAIQUIRI"
 msgid "POTASSIUM"
-msgstr "칼륨 풍부"
+msgstr "칼-륨"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.FRUITDRAGON.GENERIC
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.FRUITDRAGON.GENERIC"
@@ -320735,12 +320735,12 @@ msgstr "일광시간에 최적의 성능을 발휘"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.OCEANFISHINGLURE_SPOON_BLUE
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.OCEANFISHINGLURE_SPOON_BLUE"
-msgid "PERFORMS OPTIMALLY IN DAYLIGHT"
-msgstr "일광시간에 최적의 성능을 발휘"
+msgid "PERFORMS OPTIMALLY AT NIGHT"
+msgstr "밤에 최적의 성능을 발휘"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.OCEANFISHINGLURE_SPOON_GREEN
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.OCEANFISHINGLURE_SPOON_GREEN"
-msgid "PERFORMS OPTIMALLY IN DAYLIGHT"
+msgid "PERFORMS OPTIMALLY AT DUSK"
 msgstr "해질녘에 최적의 성능을 발휘"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.OCEANFISHINGLURE_SPOON_RED
@@ -391746,6 +391746,21 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.walrushat_ceremonial"
 msgid "The height of Highland sophistication."
 msgstr "고지대풍 세련미의 최고봉."
 
+#. STRINGS.SKIN_DESCRIPTIONS.walrushat_minigolf_green
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.walrushat_minigolf_green"
+msgid "Let everyone know your head's in the game."
+msgstr "경기에 집중하는 중이라고 알리세요."
+
+#. STRINGS.SKIN_DESCRIPTIONS.walrushat_minigolf_purple
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.walrushat_minigolf_purple"
+msgid "Let everyone know your head's in the game."
+msgstr "경기에 집중하는 중이라고 알리세요."
+
+#. STRINGS.SKIN_DESCRIPTIONS.walrushat_minigolf_red
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.walrushat_minigolf_red"
+msgid "Let everyone know your head's in the game."
+msgstr "경기에 집중하는 중이라고 알리세요."
+
 #. STRINGS.SKIN_DESCRIPTIONS.walrushat_party
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.walrushat_party"
 msgid "Stays on tight for battle or jigs."
@@ -411996,6 +412011,21 @@ msgstr "까악제 태미"
 msgctxt "STRINGS.SKIN_NAMES.walrushat_ceremonial"
 msgid "Dapper Tammie"
 msgstr "멋쟁이 태머섄터"
+
+#. STRINGS.SKIN_NAMES.walrushat_minigolf_green
+msgctxt "STRINGS.SKIN_NAMES.walrushat_minigolf_green"
+msgid "Egg Caddy Cap"
+msgstr "달걀 골프모자"
+
+#. STRINGS.SKIN_NAMES.walrushat_minigolf_purple
+msgctxt "STRINGS.SKIN_NAMES.walrushat_minigolf_purple"
+msgid "Bow Caddy Cap"
+msgstr "리본 골프모자"
+
+#. STRINGS.SKIN_NAMES.walrushat_minigolf_red
+msgctxt "STRINGS.SKIN_NAMES.walrushat_minigolf_red"
+msgid "Flag Caddy Cap"
+msgstr "깃발 골프모자"
 
 #. STRINGS.SKIN_NAMES.walrushat_party
 msgctxt "STRINGS.SKIN_NAMES.walrushat_party"

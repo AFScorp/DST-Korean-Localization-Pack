@@ -441448,7 +441448,7 @@ msgid ""
 msgstr ""
 "온라인 플레이를 위해서는\n"
 "%s 멤버십이 필요합니다.\n"
-"멤버십에 가입하시겠습니까?"
+"멤버십을 구독하시겠습니까?"
 
 #. STRINGS.UI.PREMIUM_ONLINE.YES
 msgctxt "STRINGS.UI.PREMIUM_ONLINE.YES"

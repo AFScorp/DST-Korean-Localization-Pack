@@ -443414,7 +443414,7 @@ msgstr "로컬"
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.CONVERT_OFFLINE_TO_ONLINE"
 msgid ""
 "This world was last saved as offline. Are you sure you want to play online?"
-msgstr ""
+msgstr "이 세계는 기존에 오프라인으로 저장되었습니다. 온라인으로 플레이하시겠습니까?"
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.CONVERT_ONLINE_TO_OFFLINE
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.CONVERT_ONLINE_TO_OFFLINE"

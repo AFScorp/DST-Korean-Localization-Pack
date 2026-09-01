@@ -364805,7 +364805,7 @@ msgstr ""
 "\n"
 "소켓 2개 필요. WX-78이 부패물 등 썩은 음식을 섭취하여 영양 블록을 생산할 수 있게 된다.\n"
 "\n"
-"감마 회로 제조 I의 효과로 WX-78이 썩기 직전의 음식을 섭취해도 영양 블록을 생산할 수 있게 된다."
+"감마 회로 제조 I: WX-78이 썩기 직전의 음식을 섭취해도 영양 블록을 생산할 수 있게 된다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_HEAT
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_HEAT"
@@ -364820,7 +364820,7 @@ msgstr ""
 "\n"
 "소켓 3개 필요. 체온이 20도 높아지고 인벤토리 내 아이템의 부패 속도가 25%, 생물이 죽는 속도가 10% 증가한다. 주변 생존자의 체온도 높여준다.\n"
 "\n"
-"베타 회로 제조 I의 효과로 빙결 저항 효과를 얻으며, 2개를 장착하면 빙결에 면역이 된다."
+"베타 회로 제조 I: 빙결 저항 효과를 얻으며, 2개를 장착하면 빙결에 면역이 된다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_LIGHT
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_LIGHT"
@@ -364835,7 +364835,7 @@ msgstr ""
 "\n"
 "소켓 3개 필요. 빛을 발산한다.\n"
 "\n"
-"베타 회로 제조 II의 효과로 WX-78이 바라보는 방향으로 원뿔 모양의 빛이 비춰진다."
+"베타 회로 제조 II: WX-78이 바라보는 방향으로 원뿔 모양의 빛이 비춰진다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_LIGHT2
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_LIGHT2"
@@ -364850,7 +364850,7 @@ msgstr ""
 "\n"
 "소켓 1개 필요. 빛을 발산한다.\n"
 "\n"
-"베타 회로 제조 II의 효과로 WX-78이 바라보는 방향으로 원뿔 모양의 빛이 비춰진다."
+"베타 회로 제조 II: WX-78이 바라보는 방향으로 원뿔 모양의 빛이 비춰진다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXHEALTH
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXHEALTH"
@@ -364865,7 +364865,7 @@ msgstr ""
 "\n"
 "소켓 1개 필요. 최대 체력이 40 증가한다.\n"
 "\n"
-"알파 회로 제조 II의 효과로 방어력이 2.5% 증가한다."
+"알파 회로 제조 II: 방어력이 2.5% 증가한다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXHEALTH2
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXHEALTH2"
@@ -364880,7 +364880,7 @@ msgstr ""
 "\n"
 "소켓 2개 필요. 최대 체력이 100 증가한다.\n"
 "\n"
-"알파 회로 제조 II의 효과로 방어력이 5% 증가한다."
+"알파 회로 제조 II: 방어력이 5% 증가한다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXHUNGER
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXHUNGER"

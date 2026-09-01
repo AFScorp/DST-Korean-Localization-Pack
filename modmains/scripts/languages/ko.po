@@ -364754,9 +364754,9 @@ msgstr ""
 "\n"
 "소켓 3개 필요. 30초마다 체력을 5 회복하고, 정신력을 분당 2 회복하며, 최대 정신력이 100 증가한다.\n"
 "\n"
-"알파 회로 제조 I의 효과로 정신력 감소 오라의 영향이 50% 감소한다.\n"
+"알파 회로 제조 I: 정신력 감소 오라의 영향이 50% 감소한다.\n"
 "\n"
-"알파 회로 제조 II의 효과로 의복에 의한 정신력 회복이 30% 증가하고, 체력이 가득 찼을 때 서서히 재생되는 실드를 얻는다. WX-78이 실드를 15 이상 보유했을 때는 공격을 방어하고 체력 피해를 무효화할 수 있다."
+"알파 회로 제조 II: 의복에 의한 정신력 회복이 30% 증가하고, 체력이 가득 찼을 때 서서히 재생되는 실드를 얻는다. WX-78이 실드를 15 이상 보유했을 때는 공격을 방어하고 체력 피해를 무효화할 수 있다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_CHESS
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_CHESS"
@@ -364771,7 +364771,7 @@ msgstr ""
 "\n"
 "소켓 1개 필요. WX-78이 시계태엽 체스병 추종자 제한이 1기 늘어난다. 또한 시계태엽 체스병들을 감전시키지 않고도 상호작용할 수 있다.\n"
 "\n"
-"감마 회로 제조 I의 효과로 체스병들이 WX-78을 선공하지 않게 한다."
+"감마 회로 제조 I: 체스병들이 WX-78을 선공하지 않게 한다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_COLD
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_COLD"
@@ -364790,7 +364790,7 @@ msgstr ""
 "\n"
 "WX-78의 습도가 95% 이상이 되면 습도가 0%가 되고 얼음이 2개 생성된다.\n"
 "\n"
-"베타 회로 제조 I의 효과로 화염 피해 저항 50%을 얻는다."
+"베타 회로 제조 I: 화염 피해 저항 50%을 얻는다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_DIGESTION
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_DIGESTION"

@@ -364897,9 +364897,9 @@ msgstr ""
 "\n"
 "소켓 2개 필요. 최대 허기가 100 증가하고 허기 소모가 20% 감소한다.\n"
 "\n"
-"알파 회로 제조 I의 효과로 허기 소모 감소가 25%로 증가한다.\n"
+"알파 회로 제조 I: 허기 소모 감소가 25%로 증가한다.\n"
 "\n"
-"알파 회로 제조 II의 효과로 허기 소모 감소가 30%로 증가한다."
+"알파 회로 제조 II: 허기 소모 감소가 30%로 증가한다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXHUNGER1
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXHUNGER1"
@@ -364916,9 +364916,9 @@ msgstr ""
 "\n"
 "소켓 1개 필요. 최대 허기가 40 증가한다.\n"
 "\n"
-"알파 회로 제조 I의 효과로 허기 소모가 5% 감소한다.\n"
+"알파 회로 제조 I: 허기 소모가 5% 감소한다.\n"
 "\n"
-"알파 회로 제조 II의 효과로 허기 소모 감소가 10%로 증가한다."
+"알파 회로 제조 II: 허기 소모 감소가 10%로 증가한다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXSANITY
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXSANITY"
@@ -364935,9 +364935,9 @@ msgstr ""
 "\n"
 "소켓 2개 필요. 최대 정신력이 100 증가한다.\n"
 "\n"
-"알파 회로 제조 I의 효과로 정신력 감소 오라의 영향이 50% 감소한다.\n"
+"알파 회로 제조 I: 정신력 감소 오라의 영향이 50% 감소한다.\n"
 "\n"
-"알파 회로 제조 II의 효과로 의복에 의한 정신력 회복이 30% 증가한다."
+"알파 회로 제조 II: 의복에 의한 정신력 회복이 30% 증가한다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXSANITY1
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXSANITY1"
@@ -364954,9 +364954,9 @@ msgstr ""
 "\n"
 "소켓 1개 필요. 최대 정신력이 40 증가한다.\n"
 "\n"
-"알파 회로 제조 I의 효과로 정신력 감소 오라의 영향이 20% 감소한다.\n"
+"알파 회로 제조 I: 정신력 감소 오라의 영향이 20% 감소한다.\n"
 "\n"
-"알파 회로 제조 II의 효과로 의복에 의한 정신력 회복이 10% 증가한다."
+"알파 회로 제조 II: 의복에 의한 정신력 회복이 10% 증가한다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MOVESPEED
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MOVESPEED"
@@ -364971,7 +364971,7 @@ msgstr ""
 "\n"
 "소켓 6개 필요. 이동 속도가 25% 증가한다.\n"
 "\n"
-"베타 회로 제조 II의 효과로 둔화 효과를 25% 적게 받는다."
+"베타 회로 제조 II: 둔화 효과를 25% 적게 받는다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MOVESPEED2
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MOVESPEED2"
@@ -364993,7 +364993,7 @@ msgstr ""
 "2개 장착 시 이동속도 40% 증가.\n"
 "3개 장착 시 이동속도 50% 증가.\n"
 "\n"
-"베타 회로 제조 II의 효과로 둔화 효과를 25% 적게 받는다."
+"베타 회로 제조 II: 둔화 효과를 25% 적게 받는다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MUSIC
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MUSIC"
@@ -365008,7 +365008,7 @@ msgstr ""
 "\n"
 "소켓 3개 필요. 주변 생존자의 정신력을 분당 5 회복하고, 음악을 들은 텃밭 작물의 행복도를 높인다.\n"
 "\n"
-"베타 회로 제조 I의 효과로 노래를 듣는 돼지와 토끼인간을 따라다니게 한다."
+"베타 회로 제조 I: 노래를 듣는 돼지와 토끼인간을 따라다니게 한다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_NIGHTVISION
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_NIGHTVISION"
@@ -365023,7 +365023,7 @@ msgstr ""
 "\n"
 "소켓 4개 필요. 어둠 속에서도 주변이 보인다. 밤 시간 혹은 동굴 내부에 있을 때 작동한다.\n"
 "\n"
-"베타 회로 제조 I의 효과로 두더지 시야 효과가 사라진다."
+"베타 회로 제조 I: 두더지 시야 효과가 사라진다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_RADAR
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_RADAR"
@@ -365038,7 +365038,7 @@ msgstr ""
 "\n"
 "소켓 1개 필요. WX-78의 시야가 넓어진다.\n"
 "\n"
-"베타 회로 제조 I의 효과로 회전익 탐사기, 찌릿콥터, 생체 스캔 분석기 스캔, 와.비.스. 목표 고정 등의 범위가 증가한다."
+"베타 회로 제조 I: 회전익 탐사기, 찌릿콥터, 생체 스캔 분석기 스캔, 와.비.스. 목표 고정 등의 범위가 증가한다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_SCREECH
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_SCREECH"
@@ -365053,7 +365053,7 @@ msgstr ""
 "\n"
 "소켓 3개 필요. WX-78이 주변 생물들을 혼란에 빠트리는 음파 공격을 할 수 있다. 20초의 쿨다운이 있다.\n"
 "\n"
-"감마 회로 제조 I의 효과로 WX-78이 음파 공격을 계속 유지할 수 있다."
+"감마 회로 제조 I: WX-78이 음파 공격을 계속 유지할 수 있다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_SHIELDING
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_SHIELDING"
@@ -365068,7 +365068,7 @@ msgstr ""
 "\n"
 "소켓 4개 필요. WX-78이 막기 자세를 취하여 방어력을 80% 얻을 수 있다. 20초의 쿨다운이 있다.\n"
 "\n"
-"감마 회로 제조 II의 효과로 WX-78이 막기 도중 넉백에 면역이 된다."
+"감마 회로 제조 II: WX-78이 막기 도중 넉백에 면역이 된다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_SPIN
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_SPIN"
@@ -365083,7 +365083,7 @@ msgstr ""
 "\n"
 "소켓 3개 필요. WX-78이 도끼나 곡괭이 종류의 장비를 사용하여 작업 혹은 공격을 할 때 회전할 수 있다.\n"
 "\n"
-"감마 회로 제조 II의 효과로 회전 속도가 빨라진다."
+"감마 회로 제조 II: 회전 속도가 빨라진다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_STACKSIZE
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_STACKSIZE"
@@ -365113,7 +365113,7 @@ msgstr ""
 "\n"
 "또한 WX-78이 감전에 면역이 된다.\n"
 "\n"
-"베타 회로 제조 II의 효과로 WX-78이 일정 횟수 이상 공격받으면 과충전되어 주변에 50의 전기 피해를 광역으로 입히는 전기 폭발을 일으킨다."
+"베타 회로 제조 II: WX-78이 일정 횟수 이상 공격받으면 과충전되어 주변에 50의 전기 피해를 광역으로 입히는 전기 폭발을 일으킨다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78SCANNER
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78SCANNER"

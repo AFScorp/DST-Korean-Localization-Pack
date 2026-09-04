@@ -1,7 +1,8 @@
 # "Application: Dont' Starve\n"
 # "POT Version: 2.0\n"
 # Translators:
-# Snow ball, 2025
+# Snow ball, 2026
+# Mr. Dream <dreamer12513@gmail.com>, 2026
 # Transifex Bot <>, 2026
 # AFS Co. Ltd., 2026
 # 
@@ -320734,12 +320735,12 @@ msgstr "일광시간에 최적의 성능을 발휘"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.OCEANFISHINGLURE_SPOON_BLUE
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.OCEANFISHINGLURE_SPOON_BLUE"
-msgid "PERFORMS OPTIMALLY AT NIGHT"
-msgstr "밤에 최적의 성능을 발휘"
+msgid "PERFORMS OPTIMALLY IN DAYLIGHT"
+msgstr "일광시간에 최적의 성능을 발휘"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.OCEANFISHINGLURE_SPOON_GREEN
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.OCEANFISHINGLURE_SPOON_GREEN"
-msgid "PERFORMS OPTIMALLY AT DUSK"
+msgid "PERFORMS OPTIMALLY IN DAYLIGHT"
 msgstr "해질녘에 최적의 성능을 발휘"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.OCEANFISHINGLURE_SPOON_RED
@@ -364754,9 +364755,9 @@ msgstr ""
 "\n"
 "소켓 3개 필요. 30초마다 체력을 5 회복하고, 정신력을 분당 2 회복하며, 최대 정신력이 100 증가한다.\n"
 "\n"
-"알파 회로 제조 I: 정신력 감소 오라의 영향이 50% 감소한다.\n"
+"알파 회로 제조 I의 효과로 정신력 감소 오라의 영향이 50% 감소한다.\n"
 "\n"
-"알파 회로 제조 II: 의복에 의한 정신력 회복이 30% 증가하고, 체력이 가득 찼을 때 서서히 재생되는 실드를 얻는다. WX-78이 실드를 15 이상 보유했을 때는 공격을 방어하고 체력 피해를 무효화할 수 있다."
+"알파 회로 제조 II의 효과로 의복에 의한 정신력 회복이 30% 증가하고, 체력이 가득 찼을 때 서서히 재생되는 실드를 얻는다. WX-78이 실드를 15 이상 보유했을 때는 공격을 방어하고 체력 피해를 무효화할 수 있다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_CHESS
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_CHESS"
@@ -364771,7 +364772,7 @@ msgstr ""
 "\n"
 "소켓 1개 필요. WX-78이 시계태엽 체스병 추종자 제한이 1기 늘어난다. 또한 시계태엽 체스병들을 감전시키지 않고도 상호작용할 수 있다.\n"
 "\n"
-"감마 회로 제조 I: 체스병들이 WX-78을 선공하지 않게 한다."
+"감마 회로 제조 I의 효과로 체스병들이 WX-78을 선공하지 않게 한다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_COLD
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_COLD"
@@ -364790,7 +364791,7 @@ msgstr ""
 "\n"
 "WX-78의 습도가 95% 이상이 되면 습도가 0%가 되고 얼음이 2개 생성된다.\n"
 "\n"
-"베타 회로 제조 I: 화염 피해 저항 50%을 얻는다."
+"베타 회로 제조 I의 효과로 화염 피해 저항 50%을 얻는다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_DIGESTION
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_DIGESTION"
@@ -364805,7 +364806,7 @@ msgstr ""
 "\n"
 "소켓 2개 필요. WX-78이 부패물 등 썩은 음식을 섭취하여 영양 블록을 생산할 수 있게 된다.\n"
 "\n"
-"감마 회로 제조 I: WX-78이 썩기 직전의 음식을 섭취해도 영양 블록을 생산할 수 있게 된다."
+"감마 회로 제조 I의 효과로 WX-78이 썩기 직전의 음식을 섭취해도 영양 블록을 생산할 수 있게 된다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_HEAT
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_HEAT"
@@ -364820,7 +364821,7 @@ msgstr ""
 "\n"
 "소켓 3개 필요. 체온이 20도 높아지고 인벤토리 내 아이템의 부패 속도가 25%, 생물이 죽는 속도가 10% 증가한다. 주변 생존자의 체온도 높여준다.\n"
 "\n"
-"베타 회로 제조 I: 빙결 저항 효과를 얻으며, 2개를 장착하면 빙결에 면역이 된다."
+"베타 회로 제조 I의 효과로 빙결 저항 효과를 얻으며, 2개를 장착하면 빙결에 면역이 된다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_LIGHT
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_LIGHT"
@@ -364835,7 +364836,7 @@ msgstr ""
 "\n"
 "소켓 3개 필요. 빛을 발산한다.\n"
 "\n"
-"베타 회로 제조 II: WX-78이 바라보는 방향으로 원뿔 모양의 빛이 비춰진다."
+"베타 회로 제조 II의 효과로 WX-78이 바라보는 방향으로 원뿔 모양의 빛이 비춰진다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_LIGHT2
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_LIGHT2"
@@ -364850,7 +364851,7 @@ msgstr ""
 "\n"
 "소켓 1개 필요. 빛을 발산한다.\n"
 "\n"
-"베타 회로 제조 II: WX-78이 바라보는 방향으로 원뿔 모양의 빛이 비춰진다."
+"베타 회로 제조 II의 효과로 WX-78이 바라보는 방향으로 원뿔 모양의 빛이 비춰진다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXHEALTH
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXHEALTH"
@@ -364865,7 +364866,7 @@ msgstr ""
 "\n"
 "소켓 1개 필요. 최대 체력이 40 증가한다.\n"
 "\n"
-"알파 회로 제조 II: 방어력이 2.5% 증가한다."
+"알파 회로 제조 II의 효과로 방어력이 2.5% 증가한다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXHEALTH2
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXHEALTH2"
@@ -364880,7 +364881,7 @@ msgstr ""
 "\n"
 "소켓 2개 필요. 최대 체력이 100 증가한다.\n"
 "\n"
-"알파 회로 제조 II: 방어력이 5% 증가한다."
+"알파 회로 제조 II의 효과로 방어력이 5% 증가한다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXHUNGER
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXHUNGER"
@@ -364897,9 +364898,9 @@ msgstr ""
 "\n"
 "소켓 2개 필요. 최대 허기가 100 증가하고 허기 소모가 20% 감소한다.\n"
 "\n"
-"알파 회로 제조 I: 허기 소모 감소가 25%로 증가한다.\n"
+"알파 회로 제조 I의 효과로 허기 소모 감소가 25%로 증가한다.\n"
 "\n"
-"알파 회로 제조 II: 허기 소모 감소가 30%로 증가한다."
+"알파 회로 제조 II의 효과로 허기 소모 감소가 30%로 증가한다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXHUNGER1
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXHUNGER1"
@@ -364916,9 +364917,9 @@ msgstr ""
 "\n"
 "소켓 1개 필요. 최대 허기가 40 증가한다.\n"
 "\n"
-"알파 회로 제조 I: 허기 소모가 5% 감소한다.\n"
+"알파 회로 제조 I의 효과로 허기 소모가 5% 감소한다.\n"
 "\n"
-"알파 회로 제조 II: 허기 소모 감소가 10%로 증가한다."
+"알파 회로 제조 II의 효과로 허기 소모 감소가 10%로 증가한다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXSANITY
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXSANITY"
@@ -364935,9 +364936,9 @@ msgstr ""
 "\n"
 "소켓 2개 필요. 최대 정신력이 100 증가한다.\n"
 "\n"
-"알파 회로 제조 I: 정신력 감소 오라의 영향이 50% 감소한다.\n"
+"알파 회로 제조 I의 효과로 정신력 감소 오라의 영향이 50% 감소한다.\n"
 "\n"
-"알파 회로 제조 II: 의복에 의한 정신력 회복이 30% 증가한다."
+"알파 회로 제조 II의 효과로 의복에 의한 정신력 회복이 30% 증가한다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXSANITY1
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MAXSANITY1"
@@ -364954,9 +364955,9 @@ msgstr ""
 "\n"
 "소켓 1개 필요. 최대 정신력이 40 증가한다.\n"
 "\n"
-"알파 회로 제조 I: 정신력 감소 오라의 영향이 20% 감소한다.\n"
+"알파 회로 제조 I의 효과로 정신력 감소 오라의 영향이 20% 감소한다.\n"
 "\n"
-"알파 회로 제조 II: 의복에 의한 정신력 회복이 10% 증가한다."
+"알파 회로 제조 II의 효과로 의복에 의한 정신력 회복이 10% 증가한다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MOVESPEED
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MOVESPEED"
@@ -364971,7 +364972,7 @@ msgstr ""
 "\n"
 "소켓 6개 필요. 이동 속도가 25% 증가한다.\n"
 "\n"
-"베타 회로 제조 II: 둔화 효과를 25% 적게 받는다."
+"베타 회로 제조 II의 효과로 둔화 효과를 25% 적게 받는다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MOVESPEED2
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MOVESPEED2"
@@ -364993,7 +364994,7 @@ msgstr ""
 "2개 장착 시 이동속도 40% 증가.\n"
 "3개 장착 시 이동속도 50% 증가.\n"
 "\n"
-"베타 회로 제조 II: 둔화 효과를 25% 적게 받는다."
+"베타 회로 제조 II의 효과로 둔화 효과를 25% 적게 받는다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MUSIC
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_MUSIC"
@@ -365008,7 +365009,7 @@ msgstr ""
 "\n"
 "소켓 3개 필요. 주변 생존자의 정신력을 분당 5 회복하고, 음악을 들은 텃밭 작물의 행복도를 높인다.\n"
 "\n"
-"베타 회로 제조 I: 노래를 듣는 돼지와 토끼인간을 따라다니게 한다."
+"베타 회로 제조 I의 효과로 노래를 듣는 돼지와 토끼인간을 따라다니게 한다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_NIGHTVISION
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_NIGHTVISION"
@@ -365023,7 +365024,7 @@ msgstr ""
 "\n"
 "소켓 4개 필요. 어둠 속에서도 주변이 보인다. 밤 시간 혹은 동굴 내부에 있을 때 작동한다.\n"
 "\n"
-"베타 회로 제조 I: 두더지 시야 효과가 사라진다."
+"베타 회로 제조 I의 효과로 두더지 시야 효과가 사라진다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_RADAR
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_RADAR"
@@ -365038,7 +365039,7 @@ msgstr ""
 "\n"
 "소켓 1개 필요. WX-78의 시야가 넓어진다.\n"
 "\n"
-"베타 회로 제조 I: 회전익 탐사기, 찌릿콥터, 생체 스캔 분석기 스캔, 와.비.스. 목표 고정 등의 범위가 증가한다."
+"베타 회로 제조 I의 효과로 회전익 탐사기, 찌릿콥터, 생체 스캔 분석기 스캔, 와.비.스. 목표 고정 등의 범위가 증가한다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_SCREECH
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_SCREECH"
@@ -365053,7 +365054,7 @@ msgstr ""
 "\n"
 "소켓 3개 필요. WX-78이 주변 생물들을 혼란에 빠트리는 음파 공격을 할 수 있다. 20초의 쿨다운이 있다.\n"
 "\n"
-"감마 회로 제조 I: WX-78이 음파 공격을 계속 유지할 수 있다."
+"감마 회로 제조 I의 효과로 WX-78이 음파 공격을 계속 유지할 수 있다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_SHIELDING
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_SHIELDING"
@@ -365068,7 +365069,7 @@ msgstr ""
 "\n"
 "소켓 4개 필요. WX-78이 막기 자세를 취하여 방어력을 80% 얻을 수 있다. 20초의 쿨다운이 있다.\n"
 "\n"
-"감마 회로 제조 II: WX-78이 막기 도중 넉백에 면역이 된다."
+"감마 회로 제조 II의 효과로 WX-78이 막기 도중 넉백에 면역이 된다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_SPIN
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_SPIN"
@@ -365083,7 +365084,7 @@ msgstr ""
 "\n"
 "소켓 3개 필요. WX-78이 도끼나 곡괭이 종류의 장비를 사용하여 작업 혹은 공격을 할 때 회전할 수 있다.\n"
 "\n"
-"감마 회로 제조 II: 회전 속도가 빨라진다."
+"감마 회로 제조 II의 효과로 회전 속도가 빨라진다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_STACKSIZE
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78MODULE_STACKSIZE"
@@ -365113,7 +365114,7 @@ msgstr ""
 "\n"
 "또한 WX-78이 감전에 면역이 된다.\n"
 "\n"
-"베타 회로 제조 II: WX-78이 일정 횟수 이상 공격받으면 과충전되어 주변에 50의 전기 피해를 광역으로 입히는 전기 폭발을 일으킨다."
+"베타 회로 제조 II의 효과로 WX-78이 일정 횟수 이상 공격받으면 과충전되어 주변에 50의 전기 피해를 광역으로 입히는 전기 폭발을 일으킨다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WX78SCANNER
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WX78SCANNER"
@@ -373572,21 +373573,6 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_minigolf_redtie"
 msgid "Be dashingly dressed while you putter around."
 msgstr "근사하게 차려입고 퍼팅하세요."
 
-#. STRINGS.SKIN_DESCRIPTIONS.body_onepiece2_beach
-msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_onepiece2_beach"
-msgid "Spring into some beach day action!"
-msgstr "해변에서 즐겁게 놀아봅시다!"
-
-#. STRINGS.SKIN_DESCRIPTIONS.body_onepiece3_beach
-msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_onepiece3_beach"
-msgid "Spring into some beach day action!"
-msgstr "해변에서 즐겁게 놀아봅시다!"
-
-#. STRINGS.SKIN_DESCRIPTIONS.body_onepiece_beach
-msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_onepiece_beach"
-msgid "Spring into some beach day action!"
-msgstr "해변에서 즐겁게 놀아봅시다!"
-
 #. STRINGS.SKIN_DESCRIPTIONS.body_oni_001
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_oni_001"
 msgid "Made from a fabric so fine, you'll swear it's from the future!"
@@ -373767,21 +373753,6 @@ msgid ""
 "appearance."
 msgstr "기준 간의 균열을 뛰어넘어, 옷차림의 조화를 가져다 줍니다."
 
-#. STRINGS.SKIN_DESCRIPTIONS.body_sailor2_beach
-msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_sailor2_beach"
-msgid "It's your solemn duty to have some seaside fun!"
-msgstr "지금 당신의 의무는 해변에서 즐거운 시간을 보내는 것!"
-
-#. STRINGS.SKIN_DESCRIPTIONS.body_sailor3_beach
-msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_sailor3_beach"
-msgid "It's your solemn duty to have some seaside fun!"
-msgstr "지금 당신의 의무는 해변에서 즐거운 시간을 보내는 것!"
-
-#. STRINGS.SKIN_DESCRIPTIONS.body_sailor_beach
-msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_sailor_beach"
-msgid "It's your solemn duty to have some seaside fun!"
-msgstr "지금 당신의 의무는 해변에서 즐거운 시간을 보내는 것!"
-
 #. STRINGS.SKIN_DESCRIPTIONS.body_silk_eveningrobe_blue_frost
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_silk_eveningrobe_blue_frost"
 msgid ""
@@ -373840,27 +373811,6 @@ msgstr "그믐달 아래 목욕하는 안락과 사치를 '대리석 백색' 색
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_silkbrocade_coat_green_laurel"
 msgid "A silken brocade coat in a lovely 'willful green' shade."
 msgstr "사랑스러운 '제멋대로 녹색' 문직 비단옷."
-
-#. STRINGS.SKIN_DESCRIPTIONS.body_skirt2_beach
-msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_skirt2_beach"
-msgid ""
-"I fear you'll never find a finer frock for festive fun and frivolous "
-"frolicking."
-msgstr "죄송하지만 즐겁게 노는 데에 이것보다 좋은 드레스는 없을 것 같네요."
-
-#. STRINGS.SKIN_DESCRIPTIONS.body_skirt3_beach
-msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_skirt3_beach"
-msgid ""
-"I fear you'll never find a finer frock for festive fun and frivolous "
-"frolicking."
-msgstr "죄송하지만 즐겁게 노는 데에 이것보다 좋은 드레스는 없을 것 같네요."
-
-#. STRINGS.SKIN_DESCRIPTIONS.body_skirt_beach
-msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_skirt_beach"
-msgid ""
-"I fear you'll never find a finer frock for festive fun and frivolous "
-"frolicking."
-msgstr "죄송하지만 즐겁게 노는 데에 이것보다 좋은 드레스는 없을 것 같네요."
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_sleepgown_blue_ice
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_sleepgown_blue_ice"
@@ -383548,11 +383498,6 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.mysterybox_balatro"
 msgid "This chest contains a gift to make a fool out of you!"
 msgstr "이 상자에는 사람을 광대로 만드는 선물이 들어있습니다!"
 
-#. STRINGS.SKIN_DESCRIPTIONS.mysterybox_beach
-msgctxt "STRINGS.SKIN_DESCRIPTIONS.mysterybox_beach"
-msgid "This chest contains a bounty of beachwear."
-msgstr "여러 종류의 비치웨어가 들어있습니다."
-
 #. STRINGS.SKIN_DESCRIPTIONS.mysterybox_beards
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mysterybox_beards"
 msgid "This chest contains something magnificent."
@@ -384012,9 +383957,18 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.pack_cawnival_items2
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_cawnival_items2"
 msgid ""
-"This Cawnival Mini-Golf Chest contains a set of mini-golf themed clothing "
-"and item skins."
-msgstr "이 까악제 미니골프 상자에는 여러 미니골프 테마의 의상과 아이템 스킨 모음이 들어있습니다."
+"This Cawnival Mini-Golf Chest contains the following skin items: Cawnival "
+"Putter's Pack, Tee Time Sweater Vest, Par None Sweater Vest, Fairway Sweater"
+" Vest, Mulligan Sweater Vest, Chipper Sweater Vest, Lucky Stroke Sweater "
+"Vest, Black Birdie Pants, Plum Birdie Pants, Red Birdie Pants, Black Mini-"
+"Golf Skirt, Green Mini-Golf Skirt, Red Mini-Golf Skirt, Egg Caddy Cap, Bow "
+"Caddy Cap, Flag Caddy Cap, Cawnival Torch, Cawnival Plaque, and Cawnival Egg"
+" Lamp."
+msgstr ""
+"이 까악제 미니골프 상자에는 까악제 골프 가방, 티타임 스웨터 조끼, 일파만파 스웨터 조끼, 페어웨이 스웨터 조끼, 멀리건 스웨터 조끼,"
+" 뱀샷 스웨터 조끼, 오잘공 스웨터 조끼, 검은색 버디 바지, 자두색 버디 바지, 빨간색 검은 바지, 검은색 미니골프 스커트, 초록색 "
+"미니골프 스커트, 빨간색 미니골프 스커트, 달걀 골프모자, 리본 골프모자, 깃발 골프모자, 까악제 횃불, 까악제 명판, 까악제 달걀등이 "
+"들어있습니다."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_character_wanda
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_character_wanda"
@@ -387145,11 +387099,6 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.panflute_swamp"
 msgid "Play a timeless tune."
 msgstr "영원의 곡조를 연주해 보세요."
 
-#. STRINGS.SKIN_DESCRIPTIONS.parasol_polkadot
-msgctxt "STRINGS.SKIN_DESCRIPTIONS.parasol_polkadot"
-msgid "Pretty moderate protection."
-msgstr "멋도 보호력도 적당합니다."
-
 #. STRINGS.SKIN_DESCRIPTIONS.parasol_spring
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.parasol_spring"
 msgid "\"April showers bring May flowers.\""
@@ -387281,11 +387230,6 @@ msgstr "수 년을 버려져 있었음에도 위엄 넘치는 분위기는 그�
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pighouse_logcabin"
 msgid "Perfect for weathering those cold winters up North."
 msgstr "북쪽의 추운 겨울을 나기에 완벽합니다."
-
-#. STRINGS.SKIN_DESCRIPTIONS.pitchfork_fork
-msgctxt "STRINGS.SKIN_DESCRIPTIONS.pitchfork_fork"
-msgid "When did Bearger start using utensils?"
-msgstr "곰소리가 식기도 쓸 줄 알았나요?"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pitchfork_invisible
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pitchfork_invisible"
@@ -388129,11 +388073,6 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_wardrobeyule
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_wardrobeyule"
-msgid "Equip this item to change your character's background portrait."
-msgstr "이 아이템을 착용하여 캐릭터 배경화를 바꿀 수 있습니다."
-
-#. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_waterballoon_insect
-msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_waterballoon_insect"
 msgid "Equip this item to change your character's background portrait."
 msgstr "이 아이템을 착용하여 캐릭터 배경화를 바꿀 수 있습니다."
 
@@ -389725,11 +389664,6 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_wardrobe_yule"
 msgid "Set your profile icon to match your cozy winter wardrobe."
 msgstr "프로필 아이콘을 아늑한 겨울 옷장으로 지정합니다."
 
-#. STRINGS.SKIN_DESCRIPTIONS.profileflair_waterballoon_insect
-msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_waterballoon_insect"
-msgid "Set your profile icon to a Bugburst Waterballoon."
-msgstr "프로필 아이콘을 벌레잡이 물풍선으로 지정합니다."
-
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_watermelonhat_pumpkin
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_watermelonhat_pumpkin"
 msgid "Set your profile icon to a fashionable way to wander this world."
@@ -390563,11 +390497,6 @@ msgstr "투박하지만 견고한 삽."
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.shovel_rose"
 msgid "For those tough rose to hoe."
 msgstr "괭이론 해결 안 되는 장미 덩굴에 딱."
-
-#. STRINGS.SKIN_DESCRIPTIONS.shovel_spoon
-msgctxt "STRINGS.SKIN_DESCRIPTIONS.shovel_spoon"
-msgid "Must be for a big bowl of soup."
-msgstr "크고 아름다운 수프를 먹을 수 있겠네요."
 
 #. STRINGS.SKIN_DESCRIPTIONS.shovel_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.shovel_victorian"
@@ -391817,21 +391746,6 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.walrushat_ceremonial"
 msgid "The height of Highland sophistication."
 msgstr "고지대풍 세련미의 최고봉."
 
-#. STRINGS.SKIN_DESCRIPTIONS.walrushat_minigolf_green
-msgctxt "STRINGS.SKIN_DESCRIPTIONS.walrushat_minigolf_green"
-msgid "Let everyone know your head's in the game."
-msgstr "경기에 집중하는 중이라고 알리세요."
-
-#. STRINGS.SKIN_DESCRIPTIONS.walrushat_minigolf_purple
-msgctxt "STRINGS.SKIN_DESCRIPTIONS.walrushat_minigolf_purple"
-msgid "Let everyone know your head's in the game."
-msgstr "경기에 집중하는 중이라고 알리세요."
-
-#. STRINGS.SKIN_DESCRIPTIONS.walrushat_minigolf_red
-msgctxt "STRINGS.SKIN_DESCRIPTIONS.walrushat_minigolf_red"
-msgid "Let everyone know your head's in the game."
-msgstr "경기에 집중하는 중이라고 알리세요."
-
 #. STRINGS.SKIN_DESCRIPTIONS.walrushat_party
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.walrushat_party"
 msgid "Stays on tight for battle or jigs."
@@ -392237,11 +392151,6 @@ msgstr "모험에 맛들린 왈리가 이젠 바다로 향합니다."
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.warly_yule"
 msgid "Warly's Winter Feast ensemble is never half-baked."
 msgstr "왈리의 겨울 축제 의상은 설익은 적이 없습니다."
-
-#. STRINGS.SKIN_DESCRIPTIONS.waterballoon_insect
-msgctxt "STRINGS.SKIN_DESCRIPTIONS.waterballoon_insect"
-msgid "Put out fires with a splashy splat."
-msgstr "파리채로 벌레 잡듯 불길을 잡으세요."
 
 #. STRINGS.SKIN_DESCRIPTIONS.wateringcan_cactus
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wateringcan_cactus"
@@ -396563,21 +396472,6 @@ msgctxt "STRINGS.SKIN_NAMES.body_minigolf_redtie"
 msgid "Lucky Stroke Sweater Vest"
 msgstr "오잘공 스웨터 조끼"
 
-#. STRINGS.SKIN_NAMES.body_onepiece2_beach
-msgctxt "STRINGS.SKIN_NAMES.body_onepiece2_beach"
-msgid "Blue-Striped Swimsie"
-msgstr "파랑 줄무늬 수영복"
-
-#. STRINGS.SKIN_NAMES.body_onepiece3_beach
-msgctxt "STRINGS.SKIN_NAMES.body_onepiece3_beach"
-msgid "Green-Striped Swimsie"
-msgstr "초록 줄무늬 수영복"
-
-#. STRINGS.SKIN_NAMES.body_onepiece_beach
-msgctxt "STRINGS.SKIN_NAMES.body_onepiece_beach"
-msgid "Red-Striped Swimsie"
-msgstr "빨강 줄무늬 수영복"
-
 #. STRINGS.SKIN_NAMES.body_oni_001
 msgctxt "STRINGS.SKIN_NAMES.body_oni_001"
 msgid "Red Space-age Sweater"
@@ -396718,21 +396612,6 @@ msgctxt "STRINGS.SKIN_NAMES.body_redjacket"
 msgid "Harmonic Riftwear"
 msgstr "조화로운 리프트웨어"
 
-#. STRINGS.SKIN_NAMES.body_sailor2_beach
-msgctxt "STRINGS.SKIN_NAMES.body_sailor2_beach"
-msgid "Charcoal Sailor Suit"
-msgstr "회색 세일러복"
-
-#. STRINGS.SKIN_NAMES.body_sailor3_beach
-msgctxt "STRINGS.SKIN_NAMES.body_sailor3_beach"
-msgid "Classic Combo Sailor Suit"
-msgstr "클래식 조합 세일러복"
-
-#. STRINGS.SKIN_NAMES.body_sailor_beach
-msgctxt "STRINGS.SKIN_NAMES.body_sailor_beach"
-msgid "Navy Blue Sailor Suit"
-msgstr "네이비색 세일러복"
-
 #. STRINGS.SKIN_NAMES.body_silk_eveningrobe_blue_frost
 msgctxt "STRINGS.SKIN_NAMES.body_silk_eveningrobe_blue_frost"
 msgid "Silk Robe"
@@ -396777,21 +396656,6 @@ msgstr "실크 라운지웨어"
 msgctxt "STRINGS.SKIN_NAMES.body_silkbrocade_coat_green_laurel"
 msgid "Silk Brocade Coat"
 msgstr "문직 비단옷"
-
-#. STRINGS.SKIN_NAMES.body_skirt2_beach
-msgctxt "STRINGS.SKIN_NAMES.body_skirt2_beach"
-msgid "Blue Swimming Frock"
-msgstr "파랑 드레스 수영복"
-
-#. STRINGS.SKIN_NAMES.body_skirt3_beach
-msgctxt "STRINGS.SKIN_NAMES.body_skirt3_beach"
-msgid "Green Swimming Frock"
-msgstr "초록 드레스 수영복"
-
-#. STRINGS.SKIN_NAMES.body_skirt_beach
-msgctxt "STRINGS.SKIN_NAMES.body_skirt_beach"
-msgid "Red Swimming Frock"
-msgstr "빨강 드레스 수영복"
 
 #. STRINGS.SKIN_NAMES.body_sleepgown_blue_ice
 msgctxt "STRINGS.SKIN_NAMES.body_sleepgown_blue_ice"
@@ -405383,11 +405247,6 @@ msgctxt "STRINGS.SKIN_NAMES.mysterybox_balatro"
 msgid "Jovial Chest"
 msgstr "익살 상자"
 
-#. STRINGS.SKIN_NAMES.mysterybox_beach
-msgctxt "STRINGS.SKIN_NAMES.mysterybox_beach"
-msgid "Beach Day Chest"
-msgstr "해수욕 상자"
-
 #. STRINGS.SKIN_NAMES.mysterybox_beards
 msgctxt "STRINGS.SKIN_NAMES.mysterybox_beards"
 msgid "Magnificent Chest"
@@ -408098,11 +407957,6 @@ msgctxt "STRINGS.SKIN_NAMES.panflute_swamp"
 msgid "Primal Panflute"
 msgstr "원시의 팬플룻"
 
-#. STRINGS.SKIN_NAMES.parasol_polkadot
-msgctxt "STRINGS.SKIN_NAMES.parasol_polkadot"
-msgid "Polka Dot Parasol"
-msgstr "땡땡이 파라솔"
-
 #. STRINGS.SKIN_NAMES.parasol_spring
 msgctxt "STRINGS.SKIN_NAMES.parasol_spring"
 msgid "Rosy Posy Parasol"
@@ -408227,11 +408081,6 @@ msgstr "버려진 저택"
 msgctxt "STRINGS.SKIN_NAMES.pighouse_logcabin"
 msgid "Rustic Cabin"
 msgstr "소박한 통나무집"
-
-#. STRINGS.SKIN_NAMES.pitchfork_fork
-msgctxt "STRINGS.SKIN_NAMES.pitchfork_fork"
-msgid "Giant's Fork"
-msgstr "거인의 포크"
 
 #. STRINGS.SKIN_NAMES.pitchfork_invisible
 msgctxt "STRINGS.SKIN_NAMES.pitchfork_invisible"
@@ -408872,11 +408721,6 @@ msgstr "수정 결정체 배경화"
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_wardrobeyule"
 msgid "Winter Wardrobe Portrait"
 msgstr "겨울 옷장 배경화"
-
-#. STRINGS.SKIN_NAMES.playerportrait_bg_waterballoon_insect
-msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_waterballoon_insect"
-msgid "Bugburst Waterballoon Portrait"
-msgstr "벌레잡이 물풍선 배경화"
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_winter
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_winter"
@@ -410198,11 +410042,6 @@ msgctxt "STRINGS.SKIN_NAMES.profileflair_wardrobe_yule"
 msgid "Winter Wardrobe"
 msgstr "겨울 옷장"
 
-#. STRINGS.SKIN_NAMES.profileflair_waterballoon_insect
-msgctxt "STRINGS.SKIN_NAMES.profileflair_waterballoon_insect"
-msgid "Bugburst Waterballoon"
-msgstr "벌레잡이 물풍선"
-
 #. STRINGS.SKIN_NAMES.profileflair_watermelonhat_pumpkin
 msgctxt "STRINGS.SKIN_NAMES.profileflair_watermelonhat_pumpkin"
 msgid "Fashionable Pumpkin Hat"
@@ -410963,11 +410802,6 @@ msgctxt "STRINGS.SKIN_NAMES.shovel_rose"
 msgid "Blooming Shovel"
 msgstr "꽃피는 삽"
 
-#. STRINGS.SKIN_NAMES.shovel_spoon
-msgctxt "STRINGS.SKIN_NAMES.shovel_spoon"
-msgid "Giant's Spoon"
-msgstr "거인의 수저"
-
 #. STRINGS.SKIN_NAMES.shovel_victorian
 msgctxt "STRINGS.SKIN_NAMES.shovel_victorian"
 msgid "Fanciful Shovel"
@@ -411300,13 +411134,13 @@ msgstr "날쌘징어 키"
 
 #. STRINGS.SKIN_NAMES.steeringwheel_tesla
 msgctxt "STRINGS.SKIN_NAMES.steeringwheel_tesla"
-msgid "Arc Welded Helm"
-msgstr "아크 용접 타륜"
+msgid "Tesla Coil Helm"
+msgstr "테슬라 코일 조타륜"
 
 #. STRINGS.SKIN_NAMES.steeringwheel_tesla_item
 msgctxt "STRINGS.SKIN_NAMES.steeringwheel_tesla_item"
-msgid "Arc Welded Helm"
-msgstr "아크 용접 타륜"
+msgid "Tesla Coil Helm"
+msgstr "테슬라 코일 조타륜"
 
 #. STRINGS.SKIN_NAMES.steeringwheel_wagstaff
 msgctxt "STRINGS.SKIN_NAMES.steeringwheel_wagstaff"
@@ -412163,21 +411997,6 @@ msgctxt "STRINGS.SKIN_NAMES.walrushat_ceremonial"
 msgid "Dapper Tammie"
 msgstr "멋쟁이 태머섄터"
 
-#. STRINGS.SKIN_NAMES.walrushat_minigolf_green
-msgctxt "STRINGS.SKIN_NAMES.walrushat_minigolf_green"
-msgid "Egg Caddy Cap"
-msgstr "달걀 골프모자"
-
-#. STRINGS.SKIN_NAMES.walrushat_minigolf_purple
-msgctxt "STRINGS.SKIN_NAMES.walrushat_minigolf_purple"
-msgid "Bow Caddy Cap"
-msgstr "리본 골프모자"
-
-#. STRINGS.SKIN_NAMES.walrushat_minigolf_red
-msgctxt "STRINGS.SKIN_NAMES.walrushat_minigolf_red"
-msgid "Flag Caddy Cap"
-msgstr "깃발 골프모자"
-
 #. STRINGS.SKIN_NAMES.walrushat_party
 msgctxt "STRINGS.SKIN_NAMES.walrushat_party"
 msgid "Ceilidh Tammie"
@@ -412547,11 +412366,6 @@ msgstr "빅토리아인"
 msgctxt "STRINGS.SKIN_NAMES.warly_yule"
 msgid "The Merrymaker"
 msgstr "겨울의 행복"
-
-#. STRINGS.SKIN_NAMES.waterballoon_insect
-msgctxt "STRINGS.SKIN_NAMES.waterballoon_insect"
-msgid "Bugburst Waterballoon"
-msgstr "벌레잡이 물풍선"
 
 #. STRINGS.SKIN_NAMES.wateringcan_cactus
 msgctxt "STRINGS.SKIN_NAMES.wateringcan_cactus"
@@ -418910,11 +418724,6 @@ msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WARDROBE"
 msgid "Wardrobe"
 msgstr "옷장"
 
-#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.WATERBALLOON
-msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WATERBALLOON"
-msgid "Waterballoon"
-msgstr "물풍선"
-
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.WATERINGCAN
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WATERINGCAN"
 msgid "Watering Can"
@@ -422707,7 +422516,7 @@ msgstr "...ㅇ-ㅓㅓ..."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.1.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.1.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.1.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.1.line"
@@ -422717,7 +422526,7 @@ msgstr "늪 괴물에 대해 들어본 적 있어?"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.10.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.10.duration"
 msgid "3.5"
-msgstr "3.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.10.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.10.line"
@@ -422727,7 +422536,7 @@ msgstr "녀석이 가끔 본모습을 드러내는데,"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.11.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.11.duration"
 msgid "3"
-msgstr "3"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.11.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.11.line"
@@ -422737,7 +422546,7 @@ msgstr "그러면 녀석의 미소를 볼 수 있대..."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.12.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.12.duration"
 msgid "3"
-msgstr "3"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.12.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.12.line"
@@ -422747,7 +422556,7 @@ msgstr "날카로운 이빨이 가득한 입 여섯 개가 웃는 광경을!"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.2.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.2.duration"
 msgid "3.5"
-msgstr "3.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.2.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.2.line"
@@ -422757,7 +422566,7 @@ msgstr "그 진짜 모습을 아는 사람이 없대..."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.3.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.3.duration"
 msgid "3.5"
-msgstr "3.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.3.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.3.line"
@@ -422767,7 +422576,7 @@ msgstr "가까이서 마주치고 살아 돌아온 사람이 없거든."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.4.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.4.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.4.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.4.line"
@@ -422777,7 +422586,7 @@ msgstr "녀석은 모습을 숨길 줄 알아서,"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.5.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.5.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.5.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.5.line"
@@ -422787,7 +422596,7 @@ msgstr "이끼 낀 바위 흉내를 내거나,"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.6.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.6.duration"
 msgid "2"
-msgstr "2"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.6.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.6.line"
@@ -422797,7 +422606,7 @@ msgstr "오래된 그루터기,"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.7.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.7.duration"
 msgid "3"
-msgstr "3"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.7.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.7.line"
@@ -422807,7 +422616,7 @@ msgstr "심지어 발 밑의 진흙바닥도 흉내낸대."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.8.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.8.duration"
 msgid "3"
-msgstr "3"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.8.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.8.line"
@@ -422817,7 +422626,7 @@ msgstr "녀석이 있는지 알 수 있는 방법은 딱 하나,"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.9.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.9.duration"
 msgid "3.5"
-msgstr "3.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.9.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.BOG_MONSTER.lines.9.line"
@@ -422827,7 +422636,7 @@ msgstr "살며시 곁눈질을 하다 보면..."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.1.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.1.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.1.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.1.line"
@@ -422837,7 +422646,7 @@ msgstr "좋아, 한 남자가 있었어..."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.10.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.10.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.10.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.10.line"
@@ -422847,7 +422656,7 @@ msgstr "그 사람이 만든 시계는"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.11.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.11.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.11.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.11.line"
@@ -422857,7 +422666,7 @@ msgstr "죽인 사람 수대로 만들어서..."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.12.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.12.duration"
 msgid "3.5"
-msgstr "3.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.12.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.12.line"
@@ -422867,7 +422676,7 @@ msgstr "희생양이 숨을 거둔 시각을 정확히 가리켰다고 해."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.13.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.13.duration"
 msgid "3"
-msgstr "3"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.13.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.13.line"
@@ -422877,7 +422686,7 @@ msgstr "이런 소리가 들린다면 그 남자가 온다는 소리야."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.14.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.14.duration"
 msgid "2"
-msgstr "2"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.14.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.14.line"
@@ -422887,7 +422696,7 @@ msgstr "달칵... 달칵... 달칵..."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.15.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.15.duration"
 msgid "3"
-msgstr "3"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.15.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.15.line"
@@ -422897,7 +422706,7 @@ msgstr "갈고리 손이 회중시계를 만지는 소리..."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.16.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.16.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.16.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.16.line"
@@ -422907,7 +422716,7 @@ msgstr "네 목숨이 다했다는 그 소리!"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.17.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.17.duration"
 msgid "3.5"
-msgstr "3.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.17.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.17.line"
@@ -422917,7 +422726,7 @@ msgstr "...걱정 마, 갈고리 손이 여기까지 잡으러 오지는 않아!
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.18.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.18.duration"
 msgid "3"
-msgstr "3"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.18.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.18.line"
@@ -422927,7 +422736,7 @@ msgstr "이 숲에 있는 건 곰소리와 큰사슴거위와"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.19.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.19.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.19.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.19.line"
@@ -422937,7 +422746,7 @@ msgstr "사냥개와 용파리와 트리가드 뿐이니까..."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.2.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.2.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.2.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.2.line"
@@ -422947,7 +422756,7 @@ msgstr "손에는 갈고리가 달려 있었지!"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.3.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.3.duration"
 msgid "1"
-msgstr "1"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.3.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.3.line"
@@ -422957,7 +422766,7 @@ msgstr "아니,"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.4.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.4.duration"
 msgid "1"
-msgstr "1"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.4.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.4.line"
@@ -422967,7 +422776,7 @@ msgstr "이런..."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.5.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.5.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.5.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.5.line"
@@ -422977,7 +422786,7 @@ msgstr "너무 일찍 말해줬는데..."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.6.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.6.duration"
 msgid "2"
-msgstr "2"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.6.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.6.line"
@@ -422987,7 +422796,7 @@ msgstr "처음부터 다시."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.7.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.7.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.7.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.7.line"
@@ -422997,7 +422806,7 @@ msgstr "한 남자가 있었어."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.8.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.8.duration"
 msgid "3.5"
-msgstr "3.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.8.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.8.line"
@@ -423007,7 +422816,7 @@ msgstr "그는 깊은 숲 속 골짜기에 살면서,"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.9.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.9.duration"
 msgid "2"
-msgstr "2"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.9.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CLOCKS.lines.9.line"
@@ -423017,7 +422826,7 @@ msgstr "시계를 만들었대."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.1.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.1.duration"
 msgid "3"
-msgstr "3"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.1.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.1.line"
@@ -423027,7 +422836,7 @@ msgstr "내가 기어다니는 액체괴물에 대한 얘기 했었나?"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.10.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.10.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.10.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.10.line"
@@ -423037,27 +422846,27 @@ msgstr "그러고는 콧구멍 속으로 기어들어가서,"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.11.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.11.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.11.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.11.line"
 msgid "seeping into the brain."
-msgstr "뇌 속까지 파고든다는 거야."
+msgstr "뇌 속으로 들어간다는 거야."
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.12.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.12.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.12.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.12.line"
 msgid "From there, the ooze takes over,"
-msgstr "그렇게 액체괴물은 몸을 빼앗고,"
+msgstr "그렇게 액체괴물이 뇌를 차지하면,"
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.13.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.13.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.13.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.13.line"
@@ -423067,7 +422876,7 @@ msgstr "아무도 못 알아차리는 거지."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.14.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.14.duration"
 msgid "2"
-msgstr "2"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.14.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.14.line"
@@ -423077,7 +422886,7 @@ msgstr "어..."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.15.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.15.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.15.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.15.line"
@@ -423087,17 +422896,17 @@ msgstr "생각해 보니..."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.16.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.16.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.16.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.16.line"
 msgid "that Pioneer did seem kinda off."
-msgstr "걔 좀 이상했었는데."
+msgstr "걔가 뭔가 좀 이상했던 것 같은데."
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.17.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.17.duration"
 msgid "2"
-msgstr "2"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.17.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.17.line"
@@ -423107,7 +422916,7 @@ msgstr "..."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.18.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.18.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.18.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.18.line"
@@ -423117,7 +422926,7 @@ msgstr "설마 아니겠지...?"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.2.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.2.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.2.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.2.line"
@@ -423127,27 +422936,27 @@ msgstr "많은 사람들이 잘 모르더라."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.3.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.3.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.3.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.3.line"
 msgid "Another Pinetree Pioneer told me she saw it once,"
-msgstr "소나무 개척단의 한 여자애가 알려줬는데,"
+msgstr "소나무 개척단의 여자애가 말해줬는데,"
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.4.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.4.duration"
 msgid "2"
-msgstr "2"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.4.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.4.line"
 msgid "with her own two eyes."
-msgstr "자기가 직접 봤대."
+msgstr "자기가 본 건 이렇대."
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.5.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.5.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.5.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.5.line"
@@ -423157,7 +422966,7 @@ msgstr "속 빈 그루터기 속에 숨어서,"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.6.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.6.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.6.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.6.line"
@@ -423167,7 +422976,7 @@ msgstr "호기심 많은 누군가가 지나가다가 살짝 들여다보면,"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.7.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.7.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.7.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.7.line"
@@ -423177,7 +422986,7 @@ msgstr "그 순간..."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.8.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.8.duration"
 msgid "1.5"
-msgstr "1.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.8.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.8.line"
@@ -423187,7 +422996,7 @@ msgstr "팍!"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.9.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.9.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.9.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.CREEPING_OOZE.lines.9.line"
@@ -423197,7 +423006,7 @@ msgstr "튀어나와서 얼굴에 들러붙는대!"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.1.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.1.duration"
 msgid "3"
-msgstr "3"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.1.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.1.line"
@@ -423207,7 +423016,7 @@ msgstr "내가 그 이야기 헀었나? ...호박의 왕에 대해 말야."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.2.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.2.duration"
 msgid "3"
-msgstr "3"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.2.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.2.line"
@@ -423217,7 +423026,7 @@ msgstr "신비의 밤이 찾아오면 이 땅에 호박의 왕이 내려와서,"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.3.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.3.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.3.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.3.line"
@@ -423227,7 +423036,7 @@ msgstr "가장 잘 깎은 호박을 찾는대."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.4.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.4.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.4.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.4.line"
@@ -423237,7 +423046,7 @@ msgstr "없어진 원래 머리를 대신하려는 거지."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.5.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.5.duration"
 msgid "2"
-msgstr "2"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.5.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.5.line"
@@ -423247,7 +423056,7 @@ msgstr "그가 고른 호박의 주인은,"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.6.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.6.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.6.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.6.line"
@@ -423257,7 +423066,7 @@ msgstr "상상도 못할 만큼의 부귀영화를 누리는 보답을 받게 �
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.7.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.7.duration"
 msgid "2"
-msgstr "2"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.7.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.7.line"
@@ -423267,7 +423076,7 @@ msgstr "하지만 말야..."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.8.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.8.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.8.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.8.line"
@@ -423277,7 +423086,7 @@ msgstr "만약 만족할 만한 호박을 찾지 못하면..."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.9.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.9.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.9.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.GOURDS.lines.9.line"
@@ -423287,7 +423096,7 @@ msgstr "호박의 왕이 네 머리를 가져갈 거야!"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.1.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.1.duration"
 msgid "3"
-msgstr "3"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.1.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.1.line"
@@ -423297,7 +423106,7 @@ msgstr "좋아, 진~짜로 무서운 얘기 한 번 들어볼래?"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.10.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.10.duration"
 msgid "2"
-msgstr "2"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.10.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.10.line"
@@ -423307,7 +423116,7 @@ msgstr "이미 그 때는..."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.11.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.11.duration"
 msgid "2"
-msgstr "2"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.11.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.11.line"
@@ -423317,7 +423126,7 @@ msgstr "너무..."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.12.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.12.duration"
 msgid "2"
-msgstr "2"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.12.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.12.line"
@@ -423327,7 +423136,7 @@ msgstr "늦었거든!"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.13.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.13.duration"
 msgid "1"
-msgstr "1"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.13.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.13.line"
@@ -423337,7 +423146,7 @@ msgstr "..."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.14.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.14.duration"
 msgid "2"
-msgstr "2"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.14.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.14.line"
@@ -423347,7 +423156,7 @@ msgstr "어잇... 늦었거든!"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.15.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.15.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.15.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.15.line"
@@ -423357,7 +423166,7 @@ msgstr "워비! 네가 튀어나와서 놀래키기로 했잖아!"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.16.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.16.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.16.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.16.line"
@@ -423367,7 +423176,7 @@ msgstr "뭐, 연습하면 늘겠지."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.2.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.2.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.2.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.2.line"
@@ -423377,7 +423186,7 @@ msgstr "오늘 같은 어느 밤이었어."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.3.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.3.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.3.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.3.line"
@@ -423387,7 +423196,7 @@ msgstr "한 친구들이 숲속에 모여 캠핑을 하고 있었지."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.4.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.4.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.4.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.4.line"
@@ -423397,7 +423206,7 @@ msgstr "그런데 어디선가 소리가 들리더라는 거야."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.5.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.5.duration"
 msgid "2"
-msgstr "2"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.5.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.5.line"
@@ -423407,7 +423216,7 @@ msgstr "깊은 숲속으로부터,"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.6.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.6.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.6.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.6.line"
@@ -423417,7 +423226,7 @@ msgstr "울음소리와 무언가 긁는 소리가 들려오자,"
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.7.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.7.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.7.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.7.line"
@@ -423427,7 +423236,7 @@ msgstr "친구들은 모닥불 주위로 가까이 모여들었어."
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.8.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.8.duration"
 msgid "3"
-msgstr "3"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.8.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.8.line"
@@ -423437,7 +423246,7 @@ msgstr "모닥불의 불빛이 저 너머의 무언가를 막아주기만을 빌
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.9.duration
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.9.duration"
 msgid "2"
-msgstr "2"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.9.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.LURKER.lines.9.line"
@@ -423448,7 +423257,7 @@ msgstr "하지만 친구들은 몰랐었지..."
 msgctxt ""
 "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.1.duration"
 msgid "3"
-msgstr "3"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.1.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.1.line"
@@ -423459,7 +423268,7 @@ msgstr "비버인간에 대한 얘기는 내가 안 했던가?"
 msgctxt ""
 "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.10.duration"
 msgid "3"
-msgstr "3"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.10.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.10.line"
@@ -423470,7 +423279,7 @@ msgstr "그렇게 모든 걸 잃고는 숲 속 깊은 곳에 오두막을 짓고
 msgctxt ""
 "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.11.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.11.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.11.line"
@@ -423481,7 +423290,7 @@ msgstr "거기 틀어박혀서 숨어 살았다고 하더라."
 msgctxt ""
 "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.12.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.12.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.12.line"
@@ -423492,7 +423301,7 @@ msgstr "하지만 그 정도로는 저주를 풀 수 없었대."
 msgctxt ""
 "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.13.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.13.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.13.line"
@@ -423503,7 +423312,7 @@ msgstr "소문에 따르면 여전히 거기 살면서 자연 속을 거닐며,"
 msgctxt ""
 "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.14.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.14.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.14.line"
@@ -423514,7 +423323,7 @@ msgstr "그 길고 무시무시한 이빨을 갈고 있대!"
 msgctxt ""
 "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.15.duration"
 msgid "1.5"
-msgstr "1.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.15.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.15.line"
@@ -423525,7 +423334,7 @@ msgstr "..."
 msgctxt ""
 "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.16.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.16.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.16.line"
@@ -423536,7 +423345,7 @@ msgstr "뭐, 여기까지가 내가 들은 이야기야."
 msgctxt ""
 "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.17.duration"
 msgid "3"
-msgstr "3"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.17.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.17.line"
@@ -423547,7 +423356,7 @@ msgstr "진실은 우디 아저씨만 알겠지만..."
 msgctxt ""
 "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.2.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.2.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.2.line"
@@ -423558,7 +423367,7 @@ msgstr "내가 원래 비버인간을 찾으러 다녔었잖아."
 msgctxt ""
 "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.3.duration"
 msgid "3"
-msgstr "3"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.3.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.3.line"
@@ -423569,7 +423378,7 @@ msgstr "듣기로는 원래는 큰 목재회사를 가진 사람이었다는데,
 msgctxt ""
 "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.4.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.4.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.4.line"
@@ -423580,7 +423389,7 @@ msgstr "어느 날 어느 숲을 전부 밀어버리도록 했었대."
 msgctxt ""
 "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.5.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.5.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.5.line"
@@ -423591,7 +423400,7 @@ msgstr "그곳에 사는 사람들이 반대하는 것도 무시하고 말이야
 msgctxt ""
 "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.6.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.6.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.6.line"
@@ -423602,7 +423411,7 @@ msgstr "그 일 이후로 저주를 받아서..."
 msgctxt ""
 "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.7.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.7.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.7.line"
@@ -423613,7 +423422,7 @@ msgstr "본인 혹은 본인의 회사가 나무를 너무 많이 베면,"
 msgctxt ""
 "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.8.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.8.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.8.line"
@@ -423624,7 +423433,7 @@ msgstr "도끼처럼 날카로운 이빨을 가진,"
 msgctxt ""
 "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.9.duration"
 msgid "2.5"
-msgstr "2.5"
+msgstr ""
 
 #. STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.9.line
 msgctxt "STRINGS.STORYTELLER.WALTER.CAMPFIRE.WEREBEAVER_STORY.lines.9.line"
@@ -433526,10 +433335,8 @@ msgstr "거절"
 
 #. STRINGS.UI.EULADIALOG.DECLINE_CONFIRMATION_BODY
 msgctxt "STRINGS.UI.EULADIALOG.DECLINE_CONFIRMATION_BODY"
-msgid ""
-"You will not be able to log into a Klei account or play online. Are you "
-"sure?"
-msgstr "Klei 계정에 로그인하거나 온라인으로 플레이하실 수 없습니다. 그래도 진행하시겠습니까?"
+msgid "You will not be able to play online. Are you sure?"
+msgstr "온라인으로 플레이하실 수 없습니다. 그래도 진행하시겠습니까?"
 
 #. STRINGS.UI.EULADIALOG.DECLINE_CONFIRMATION_TITLE
 msgctxt "STRINGS.UI.EULADIALOG.DECLINE_CONFIRMATION_TITLE"
@@ -436815,15 +436622,6 @@ msgstr ""
 msgctxt "STRINGS.UI.MAINSCREEN.STORE_DISABLE"
 msgid "You must be logged in to use the Klei Store."
 msgstr "Klei Store를 이용하려면 로그인해야 합니다."
-
-#. STRINGS.UI.MAINSCREEN.STORE_DISABLE_CONSOLE
-msgctxt "STRINGS.UI.MAINSCREEN.STORE_DISABLE_CONSOLE"
-msgid ""
-"You must be logged in to use the Klei Store.\n"
-"Do you want to log in now?"
-msgstr ""
-"Klei Store를 이용하려면 로그인해야 합니다.\n"
-"로그인하시겠습니까?"
 
 #. STRINGS.UI.MAINSCREEN.SURE
 msgctxt "STRINGS.UI.MAINSCREEN.SURE"
@@ -441413,48 +441211,6 @@ msgctxt "STRINGS.UI.PORTRAIT.ITEMS"
 msgid "Items"
 msgstr "아이템"
 
-#. STRINGS.UI.PREMIUM_ONLINE.NINTENDO_ONLINE
-msgctxt "STRINGS.UI.PREMIUM_ONLINE.NINTENDO_ONLINE"
-msgid "Nintendo Switch Online"
-msgstr "Nintendo Switch Online"
-
-#. STRINGS.UI.PREMIUM_ONLINE.NO
-msgctxt "STRINGS.UI.PREMIUM_ONLINE.NO"
-msgid "Cancel"
-msgstr "취소"
-
-#. STRINGS.UI.PREMIUM_ONLINE.NOT_REQUIRED_TEXT
-msgctxt "STRINGS.UI.PREMIUM_ONLINE.NOT_REQUIRED_TEXT"
-msgid ""
-"Skins and the Klei Shop are now available to everyone without a %s membership.\n"
-"\n"
-" You must be logged in to a Klei Account to use these features."
-msgstr ""
-"이제 %s 멤버십이 없어도 스킨과 Klei Shop을 이용하실 수 있습니다.\n"
-"\n"
-"Klei 계정에 로그인해야 해당 기능을 사용할 수 있습니다."
-
-#. STRINGS.UI.PREMIUM_ONLINE.PLAYSTATION_PLUS
-msgctxt "STRINGS.UI.PREMIUM_ONLINE.PLAYSTATION_PLUS"
-msgid "PlayStation®Plus"
-msgstr "PlayStation®Plus"
-
-#. STRINGS.UI.PREMIUM_ONLINE.UPSELL_TEXT
-msgctxt "STRINGS.UI.PREMIUM_ONLINE.UPSELL_TEXT"
-msgid ""
-"Online play requires an active\n"
-"%s membership\n"
-" Do you want to become a member?"
-msgstr ""
-"온라인 플레이를 위해서는\n"
-"%s 멤버십이 필요합니다.\n"
-"멤버십을 구독하시겠습니까?"
-
-#. STRINGS.UI.PREMIUM_ONLINE.YES
-msgctxt "STRINGS.UI.PREMIUM_ONLINE.YES"
-msgid "Subscribe"
-msgstr "구독"
-
 #. STRINGS.UI.PRESENCE.INVITATION
 msgctxt "STRINGS.UI.PRESENCE.INVITATION"
 msgid "Let's play Don't Starve Together.... together!"
@@ -443410,20 +443166,6 @@ msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.CONVERT_LOCAL"
 msgid "local"
 msgstr "로컬"
 
-#. STRINGS.UI.SERVERCREATIONSCREEN.CONVERT_OFFLINE_TO_ONLINE
-msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.CONVERT_OFFLINE_TO_ONLINE"
-msgid ""
-"This world was last saved as offline. Are you sure you want to play online?"
-msgstr "이 세계는 기존에 오프라인으로 저장되었습니다. 온라인으로 플레이하시겠습니까?"
-
-#. STRINGS.UI.SERVERCREATIONSCREEN.CONVERT_ONLINE_TO_OFFLINE
-msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.CONVERT_ONLINE_TO_OFFLINE"
-msgid ""
-"This world was last saved as online. Are you sure you want to play offline? "
-"Only users on your Local Area Network will be able to join."
-msgstr ""
-"이 세계는 기존에 온라인으로 저장되었습니다. 오프라인으로 플레이하시겠습니까? 로컬 네트워크에 접속된 사용자만 참가할 수 있습니다."
-
 #. STRINGS.UI.SERVERCREATIONSCREEN.COPY_OF_SLOT_NAME
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.COPY_OF_SLOT_NAME"
 msgid "Copy of {worldname}"
@@ -443790,13 +443532,6 @@ msgid ""
 "Klei. Please log in and try again."
 msgstr "Steam과 Klei에 연결되어 있는 경우에만 온라인 세계를 다시 시작할 수 있습니다. 로그인 후 다시 시도해 주세요."
 
-#. STRINGS.UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_PROMPT
-msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_PROMPT"
-msgid ""
-"You are currently in offline mode and cannot resume an online world. Do you "
-"want to continue in offline mode?"
-msgstr "현재 오프라인 모드이므로 온라인 세계를 이용할 수 없습니다. 오프라인 모드로 진행하시겠습니까?"
-
 #. STRINGS.UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_PS4
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_PS4"
 msgid ""
@@ -443810,6 +443545,13 @@ msgid ""
 "You can only resume an online world when you have a connection to the game "
 "servers. Please log in and try again."
 msgstr "서버와 연결이 되어야만 온라인 세계를 다시 시작 할 수 있습니다. 로그인 후 다시 시도 바랍니다."
+
+#. STRINGS.UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_SPLITSCREEN
+msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.ONLINEONLYBODY_SPLITSCREEN"
+msgid ""
+"You are currently in offline mode and cannot resume an online world. Please "
+"log in and try again."
+msgstr "현재 오프라인 모드 이용 중이므로 온라인 세계를 이용할 수 없습니다. 로그인 후 다시 시도해 주세요."
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.ONLINEONYTITLE
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.ONLINEONYTITLE"
@@ -443825,11 +443567,6 @@ msgstr "서버 모드:"
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.OPENSAVEFOLDER"
 msgid "Open World Folder"
 msgstr "세계 폴더 열기"
-
-#. STRINGS.UI.SERVERCREATIONSCREEN.PLAYONLINE
-msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.PLAYONLINE"
-msgid "Play Online"
-msgstr "오프라인 플레이"
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.PLAYSTYLE_TITLE
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.PLAYSTYLE_TITLE"
@@ -444583,15 +444320,6 @@ msgid ""
 msgstr ""
 "로그인하지 않아 온라인 게임에 참여할 수 없습니다.\n"
 " LAN 멀티플레이를 이용하시거나 게임을 재시작해 로그인 하세요."
-
-#. STRINGS.UI.SERVERLISTINGSCREEN.OFFLINE_MODE_BODY_PROMPT
-msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.OFFLINE_MODE_BODY_PROMPT"
-msgid ""
-"You must be logged in to play online.\n"
-"Do you want to log in now?"
-msgstr ""
-"온라인으로 플레이하려면 로그인해야 합니다.\n"
-"지금 로그인하시겠습니까?"
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.OFFLINE_MODE_BODY_PS4
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.OFFLINE_MODE_BODY_PS4"
@@ -447908,7 +447636,7 @@ msgstr "일일 승리 보너스"
 #. STRINGS.UI.WXP_DETAILS.DURATION
 msgctxt "STRINGS.UI.WXP_DETAILS.DURATION"
 msgid "Time"
-msgstr "시간"
+msgstr ""
 
 #. STRINGS.UI.WXP_DETAILS.FRIENDS_BONUS
 msgctxt "STRINGS.UI.WXP_DETAILS.FRIENDS_BONUS"
@@ -447923,7 +447651,7 @@ msgstr "연속 경기 보너스"
 #. STRINGS.UI.WXP_DETAILS.LAB_DURATION
 msgctxt "STRINGS.UI.WXP_DETAILS.LAB_DURATION"
 msgid "Time"
-msgstr "시간"
+msgstr ""
 
 #. STRINGS.UI.WXP_DETAILS.LAB_FRIENDS_BONUS
 msgctxt "STRINGS.UI.WXP_DETAILS.LAB_FRIENDS_BONUS"

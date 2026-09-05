@@ -426241,7 +426241,7 @@ msgstr "비밀리에 지어졌군..."
 #. STRINGS.STALKER_NPC_SEE_BIOMES.VAULT.3
 msgctxt "STRINGS.STALKER_NPC_SEE_BIOMES.VAULT.3"
 msgid "They trusted no one... especially me."
-msgstr ""
+msgstr "그 누구도 믿지 못했기에... 그 중 나를 더욱."
 
 #. STRINGS.STALKER_NPC_SPAWN.1
 msgctxt "STRINGS.STALKER_NPC_SPAWN.1"

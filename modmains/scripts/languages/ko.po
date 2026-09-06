@@ -342634,7 +342634,7 @@ msgstr "장막 두른 여왕"
 #. STRINGS.NAMES.CHARLIE_BOSS_RUNNER
 msgctxt "STRINGS.NAMES.CHARLIE_BOSS_RUNNER"
 msgid "Grim Harrier"
-msgstr ""
+msgstr "어둠의 약탈자"
 
 #. STRINGS.NAMES.CHARLIE_HAND
 msgctxt "STRINGS.NAMES.CHARLIE_HAND"

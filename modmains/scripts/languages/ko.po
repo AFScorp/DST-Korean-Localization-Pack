@@ -425777,7 +425777,7 @@ msgstr "아아, 선지자여..."
 #. STRINGS.STALKER_NPC_INSPECT.MASK_ANCIENT_ARCHITECTHAT.4
 msgctxt "STRINGS.STALKER_NPC_INSPECT.MASK_ANCIENT_ARCHITECTHAT.4"
 msgid "My heart aches at the fate of your glorious design."
-msgstr "그대의 위대한 설계가 어찌 되었는지를 생각하니 가슴이 아프다네."
+msgstr "그대의 위대한 설계가 맞이한 운명에 가슴이 아프구려."
 
 #. STRINGS.STALKER_NPC_INSPECT.MASK_ANCIENT_ARCHITECTHAT.5
 msgctxt "STRINGS.STALKER_NPC_INSPECT.MASK_ANCIENT_ARCHITECTHAT.5"

@@ -425705,7 +425705,7 @@ msgstr "나는 모두를... 파멸로 이끈 것이야."
 #. STRINGS.STALKER_NPC_INSPECT.ATRIUM_OVERGROWTH.4
 msgctxt "STRINGS.STALKER_NPC_INSPECT.ATRIUM_OVERGROWTH.4"
 msgid "Curse the name... Shrouden."
-msgstr "그 이름... ｢슈라우든｣에게 저주를."
+msgstr "그 이름... ｢슈라우든｣에 저주를."
 
 #. STRINGS.STALKER_NPC_INSPECT.ATRIUM_RUBBLE.1
 msgctxt "STRINGS.STALKER_NPC_INSPECT.ATRIUM_RUBBLE.1"

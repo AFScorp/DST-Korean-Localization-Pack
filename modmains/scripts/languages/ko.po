@@ -426166,7 +426166,7 @@ msgstr "나는 어리석기 짝이 없었다."
 #. STRINGS.STALKER_NPC_SEE_BIOMES.LUNAR_GROTTO.1
 msgctxt "STRINGS.STALKER_NPC_SEE_BIOMES.LUNAR_GROTTO.1"
 msgid "Alter... I feel your presence."
-msgstr "알터여... 당신의 존재가 느껴지나이다."
+msgstr "알터시여... 당신의 존재가 느껴지나이다."
 
 #. STRINGS.STALKER_NPC_SEE_BIOMES.LUNAR_GROTTO.2
 msgctxt "STRINGS.STALKER_NPC_SEE_BIOMES.LUNAR_GROTTO.2"

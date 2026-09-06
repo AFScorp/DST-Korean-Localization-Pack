@@ -425732,7 +425732,7 @@ msgstr "우리는 길을 잃었었고,"
 #. STRINGS.STALKER_NPC_INSPECT.ATRIUM_RUBBLE.5
 msgctxt "STRINGS.STALKER_NPC_INSPECT.ATRIUM_RUBBLE.5"
 msgid "It seemed the beginning of a new age..."
-msgstr "그것이 새로운 시대의 시작인 줄 알았을 뿐..."
+msgstr "그것이 새로운 시대의 시작인 줄만 알았을 뿐..."
 
 #. STRINGS.STALKER_NPC_INSPECT.DAYWALKER.1
 msgctxt "STRINGS.STALKER_NPC_INSPECT.DAYWALKER.1"

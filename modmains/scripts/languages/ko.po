@@ -425710,7 +425710,7 @@ msgstr "그 이름... ｢슈라우든｣에게 저주를."
 #. STRINGS.STALKER_NPC_INSPECT.ATRIUM_RUBBLE.1
 msgctxt "STRINGS.STALKER_NPC_INSPECT.ATRIUM_RUBBLE.1"
 msgid "You were deaf to our suffering, Alter."
-msgstr "그대는 우리의 고통에 귀 기울이지 않았나이다, 알터시여."
+msgstr "당신은 우리의 고통에 귀 기울이지 않았나이다, 알터시여."
 
 #. STRINGS.STALKER_NPC_INSPECT.ATRIUM_RUBBLE.2
 msgctxt "STRINGS.STALKER_NPC_INSPECT.ATRIUM_RUBBLE.2"
@@ -425722,7 +425722,7 @@ msgctxt "STRINGS.STALKER_NPC_INSPECT.ATRIUM_RUBBLE.3"
 msgid ""
 "The Other gave us what you wouldn't. Am I to blame for accepting the cursed "
 "fuel?"
-msgstr "｢또다른 자｣는 당신이 주지 않았던 것을 주었나이다. 그 저주받을 연료를 받아들인 것이 어찌 나의 탓이나이까?"
+msgstr "｢또다른 자｣는 당신이 주지 않았던 것을 주었나이다. 그 저주받을 연료를 받아들인 것이 어찌 저의 탓이나이까?"
 
 #. STRINGS.STALKER_NPC_INSPECT.ATRIUM_RUBBLE.4
 msgctxt "STRINGS.STALKER_NPC_INSPECT.ATRIUM_RUBBLE.4"

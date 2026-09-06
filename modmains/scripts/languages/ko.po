@@ -425700,7 +425700,7 @@ msgstr "｢또다른 자｣에게 머리를 조아렸지."
 #. STRINGS.STALKER_NPC_INSPECT.ATRIUM_OVERGROWTH.3
 msgctxt "STRINGS.STALKER_NPC_INSPECT.ATRIUM_OVERGROWTH.3"
 msgid "They followed me... into damnation."
-msgstr "모두가 나를 따라... 지옥으로 향한 것이야."
+msgstr "모두가 나를 따라... 파멸로 향한 것이야."
 
 #. STRINGS.STALKER_NPC_INSPECT.ATRIUM_OVERGROWTH.4
 msgctxt "STRINGS.STALKER_NPC_INSPECT.ATRIUM_OVERGROWTH.4"

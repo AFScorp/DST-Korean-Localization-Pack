@@ -425597,7 +425597,7 @@ msgstr "이것이 내 친우의 비참한 최후로구나."
 #. STRINGS.STALKER_NPC_INSPECT.ANCIENT_HUSK_MASON.2
 msgctxt "STRINGS.STALKER_NPC_INSPECT.ANCIENT_HUSK_MASON.2"
 msgid "What tragedy left your carapace so grievously pierced?"
-msgstr "대체 어떤 비극이 있었기에 그대의 갑각은 그리도 깊이 찔렸는가?"
+msgstr "대체 어떤 비극이 있었기에 그대의 갑각을 꿰뚫려야 했는가?"
 
 #. STRINGS.STALKER_NPC_INSPECT.ANCIENT_HUSK_MASON.3
 msgctxt "STRINGS.STALKER_NPC_INSPECT.ANCIENT_HUSK_MASON.3"

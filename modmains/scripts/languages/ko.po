@@ -425941,7 +425941,7 @@ msgstr "모든 것이 허사가 되었구나."
 #. STRINGS.STALKER_NPC_INSPECT.VAULT_RUNE_LOBBY.1
 msgctxt "STRINGS.STALKER_NPC_INSPECT.VAULT_RUNE_LOBBY.1"
 msgid "Yet you escaped... damning yourself."
-msgstr ""
+msgstr "결국엔 빠져나왔구나... 스스로를 파멸시키면서."
 
 #. STRINGS.STALKER_NPC_INSPECT.VAULT_RUNE_LORE1.1
 msgctxt "STRINGS.STALKER_NPC_INSPECT.VAULT_RUNE_LORE1.1"

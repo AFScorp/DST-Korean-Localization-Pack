@@ -342629,7 +342629,7 @@ msgstr "연약한 장미"
 #. STRINGS.NAMES.CHARLIE_BOSS
 msgctxt "STRINGS.NAMES.CHARLIE_BOSS"
 msgid "Shrouded Queen"
-msgstr "장막 두른 여왕"
+msgstr "장막의 여왕"
 
 #. STRINGS.NAMES.CHARLIE_BOSS_RUNNER
 msgctxt "STRINGS.NAMES.CHARLIE_BOSS_RUNNER"

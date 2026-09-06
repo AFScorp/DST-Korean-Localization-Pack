@@ -202670,7 +202670,7 @@ msgstr "어딜 가든 있어."
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHARLIERESIDUE
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHARLIERESIDUE"
 msgid "I must've just missed her... but she left somethin' behind."
-msgstr "잊어야 하는 거 나도 아는데... 찰리가 뭔가를 남겼어."
+msgstr "아슬아슬하게 놓쳤네... 그래도 찰리가 뭔가를 남겼어."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHARLIEROSE
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHARLIEROSE"

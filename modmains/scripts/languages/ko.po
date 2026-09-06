@@ -425540,7 +425540,7 @@ msgstr "독이라니, 그대는 그것을 알았는가?"
 #. STRINGS.STALKER_NPC_INSPECT.ANCIENT_HUSK_ARCHITECT.3
 msgctxt "STRINGS.STALKER_NPC_INSPECT.ANCIENT_HUSK_ARCHITECT.3"
 msgid "Did you choose it? Or was it served to you in a toast to your work?"
-msgstr "그대가 선택한 것인가? 그저 과업에 대해 축배를 들던 중이었는가?"
+msgstr "그대가 선택한 것인가? 아니면 단지 과업에 대해 축배를 들던 중이었는가?"
 
 #. STRINGS.STALKER_NPC_INSPECT.ANCIENT_HUSK_ARCHITECT.4
 msgctxt "STRINGS.STALKER_NPC_INSPECT.ANCIENT_HUSK_ARCHITECT.4"

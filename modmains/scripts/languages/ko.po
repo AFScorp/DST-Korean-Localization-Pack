@@ -2641,7 +2641,7 @@ msgctxt "STRINGS.ATRIUM_OVERGROWTH.LINE_5"
 msgid ""
 "\"To us, Thou art Shrouden. Many and one. Beyond all time. Beyond all "
 "realms.\""
-msgstr "\"우리가 부르는 이름은 ｢장막 두른 자｣. 여럿이자 하나. 시간을 뛰어넘은 자. 세상을 뛰어넘은 자.\""
+msgstr "\"우리가 부르는 이름은 ｢슈라우든｣. 여럿이자 하나. 시간을 뛰어넘은 자. 세상을 뛰어넘은 자.\""
 
 #. STRINGS.BALATRO.BUTTON_CHOOSE
 msgctxt "STRINGS.BALATRO.BUTTON_CHOOSE"
@@ -332688,7 +332688,7 @@ msgstr "해냈군."
 #. STRINGS.CHARLIE_NPC_RITUAL_BEGUN.2
 msgctxt "STRINGS.CHARLIE_NPC_RITUAL_BEGUN.2"
 msgid "They whom we call Shrouden accept our sacrifices."
-msgstr "｢장막 두른 자｣라 불리는 존재가 우리의 제물을 받아줄 것이야."
+msgstr "｢슈라우든｣이라 불리는 존재가 우리의 제물을 받아줄 것이야."
 
 #. STRINGS.CHARLIE_NPC_RITUAL_BEGUN.3
 msgctxt "STRINGS.CHARLIE_NPC_RITUAL_BEGUN.3"
@@ -425705,7 +425705,7 @@ msgstr "모두가 나를 따라... 지옥으로 향한 것이야."
 #. STRINGS.STALKER_NPC_INSPECT.ATRIUM_OVERGROWTH.4
 msgctxt "STRINGS.STALKER_NPC_INSPECT.ATRIUM_OVERGROWTH.4"
 msgid "Curse the name... Shrouden."
-msgstr "그 이름... ｢장막 두른 자｣에게 저주를."
+msgstr "그 이름... ｢슈라우든｣에게 저주를."
 
 #. STRINGS.STALKER_NPC_INSPECT.ATRIUM_RUBBLE.1
 msgctxt "STRINGS.STALKER_NPC_INSPECT.ATRIUM_RUBBLE.1"

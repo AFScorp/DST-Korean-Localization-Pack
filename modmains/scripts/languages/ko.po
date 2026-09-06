@@ -425602,7 +425602,7 @@ msgstr "대체 어떤 비극이 있었기에 그대의 갑각을 꿰뚫려야 �
 #. STRINGS.STALKER_NPC_INSPECT.ANCIENT_HUSK_MASON.3
 msgctxt "STRINGS.STALKER_NPC_INSPECT.ANCIENT_HUSK_MASON.3"
 msgid "I recognize the mark of your tarsi in all that was wrought here."
-msgstr "이곳의 모든 것에 남겨진 그대의 부절흔을 알아볼 수가 있구나."
+msgstr "이곳에 이룩된 모든 것에 남겨진 그대의 손길이 느껴지네."
 
 #. STRINGS.STALKER_NPC_INSPECT.ANCIENT_HUSK_MASON.4
 msgctxt "STRINGS.STALKER_NPC_INSPECT.ANCIENT_HUSK_MASON.4"

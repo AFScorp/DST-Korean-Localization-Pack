@@ -425742,12 +425742,12 @@ msgstr "타락한 저돈이여..."
 #. STRINGS.STALKER_NPC_INSPECT.DAYWALKER.2
 msgctxt "STRINGS.STALKER_NPC_INSPECT.DAYWALKER.2"
 msgid "You know not the forces with which you meddle."
-msgstr "너는 네가 손댄 그 힘에 대해 아무것도 모르는구나."
+msgstr "너는 네가 다루려는 그 힘에 대해 아무것도 모르는구나."
 
 #. STRINGS.STALKER_NPC_INSPECT.DAYWALKER.3
 msgctxt "STRINGS.STALKER_NPC_INSPECT.DAYWALKER.3"
 msgid "At least I sought to save our world."
-msgstr "적어도 나는 세상을 구원하고자 함이었거늘."
+msgstr "적어도 나는 세상을 구원하고자 다룬 것이었거늘."
 
 #. STRINGS.STALKER_NPC_INSPECT.DAYWALKER.4
 msgctxt "STRINGS.STALKER_NPC_INSPECT.DAYWALKER.4"

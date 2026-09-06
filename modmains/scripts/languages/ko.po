@@ -425484,7 +425484,7 @@ msgstr "그녀를 보았는가?"
 #. STRINGS.STALKER_NPC_GREETING.3
 msgctxt "STRINGS.STALKER_NPC_GREETING.3"
 msgid "Why do you torment me?"
-msgstr "왜 나를 고통스럽게 하는가?"
+msgstr "왜 나를 고통스럽게 하느냐?"
 
 #. STRINGS.STALKER_NPC_GREETING.4
 msgctxt "STRINGS.STALKER_NPC_GREETING.4"

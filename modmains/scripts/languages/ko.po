@@ -425916,7 +425916,7 @@ msgstr "｢또다른 자｣의 저주받은 세계로부터 그림자가 흘러�
 #. STRINGS.STALKER_NPC_INSPECT.SHADOWRIFT_PORTAL.3
 msgctxt "STRINGS.STALKER_NPC_INSPECT.SHADOWRIFT_PORTAL.3"
 msgid "Your world is infected."
-msgstr "너희의 세상은 감염되었다."
+msgstr "너희의 세상은 오염되었다."
 
 #. STRINGS.STALKER_NPC_INSPECT.VAULT_KEY.1
 msgctxt "STRINGS.STALKER_NPC_INSPECT.VAULT_KEY.1"

@@ -439024,8 +439024,8 @@ msgid ""
 "can't help but feel that one day she'll be able to reach out into the "
 "darkness and pull Charlie back."
 msgstr ""
-"나이가 들어서도 위노나는 언제나 동생을 먼저 생각했습니다. 지금도 위노나는 언젠가 어둠 속에 손을 뻗어 찰리를 끌어낼 수 있을 것이라는 "
-"느낌을 버릴 수가 없습니다."
+"나이가 들어서도 위노나는 언제나 동생을 먼저 생각했습니다. 지금도 위노나는 언젠가 저 어둠 속에서 찰리를 구해낼 수 있지 않을까 하는 "
+"희망을 버리지 못합니다."
 
 #. STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_WOODIE
 msgctxt "STRINGS.UI.LOADING_SCREEN_LORE_TIPS.TIP_WOODIE"

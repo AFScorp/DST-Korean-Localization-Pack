@@ -425841,7 +425841,7 @@ msgstr "그대는 진실을 굽히지도, 상처 입은 마음을 애써 드러�
 #. STRINGS.STALKER_NPC_INSPECT.NIGHTMAREGROWTH.1
 msgctxt "STRINGS.STALKER_NPC_INSPECT.NIGHTMAREGROWTH.1"
 msgid "You left us little choice."
-msgstr "당신으로 인해 우리에게는 선택이 없었나이다."
+msgstr "당신은 우리를 궁지로 내몰았나이다."
 
 #. STRINGS.STALKER_NPC_INSPECT.NIGHTMAREGROWTH.2
 msgctxt "STRINGS.STALKER_NPC_INSPECT.NIGHTMAREGROWTH.2"

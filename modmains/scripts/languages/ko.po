@@ -426176,12 +426176,12 @@ msgstr "돌아오신 것이나이까?"
 #. STRINGS.STALKER_NPC_SEE_BIOMES.LUNAR_GROTTO.3
 msgctxt "STRINGS.STALKER_NPC_SEE_BIOMES.LUNAR_GROTTO.3"
 msgid "Alas... not soon enough."
-msgstr "아아... 아직은 때가 아닌가."
+msgstr "아아... 너무도 늦게 오셨나이다."
 
 #. STRINGS.STALKER_NPC_SEE_BIOMES.RUINS_LABYRINTH.1
 msgctxt "STRINGS.STALKER_NPC_SEE_BIOMES.RUINS_LABYRINTH.1"
 msgid "Better to be lost here."
-msgstr "이곳에선 길을 잃는 편이 다행이라."
+msgstr "이곳에선 길을 잃는 편이 다행이리라."
 
 #. STRINGS.STALKER_NPC_SEE_BIOMES.RUINS_LABYRINTH.2
 msgctxt "STRINGS.STALKER_NPC_SEE_BIOMES.RUINS_LABYRINTH.2"

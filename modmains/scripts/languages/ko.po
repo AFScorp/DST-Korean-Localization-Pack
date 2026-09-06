@@ -425454,7 +425454,7 @@ msgstr "방황하는 것이냐? 나 또한 그렇다."
 #. STRINGS.STALKER_NPC_FOLLOW_THURIBLE.1
 msgctxt "STRINGS.STALKER_NPC_FOLLOW_THURIBLE.1"
 msgid "Will you not let this old king rest his weary bones?"
-msgstr "이 노왕의 지친 몸을 쉬게 해줄 수는 없겠는가?"
+msgstr "이 노왕의 지친 몸을 쉬게 해줄 수는 없겠느냐?"
 
 #. STRINGS.STALKER_NPC_FOLLOW_THURIBLE.2
 msgctxt "STRINGS.STALKER_NPC_FOLLOW_THURIBLE.2"
@@ -425464,7 +425464,7 @@ msgstr "군왕을 노예처럼 끌고 다니려는 것이느냐?"
 #. STRINGS.STALKER_NPC_FOLLOW_THURIBLE.3
 msgctxt "STRINGS.STALKER_NPC_FOLLOW_THURIBLE.3"
 msgid "I shall follow... with every step steeped in shame."
-msgstr "내 따르리라... 회한에 젖은 걸음을 내딛으리."
+msgstr "내 따르마... 회한에 젖은 걸음을 내딛으리."
 
 #. STRINGS.STALKER_NPC_FOLLOW_THURIBLE.4
 msgctxt "STRINGS.STALKER_NPC_FOLLOW_THURIBLE.4"

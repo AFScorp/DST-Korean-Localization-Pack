@@ -425876,7 +425876,7 @@ msgstr "그러나 그 빛을 쬐인 이들은..."
 #. STRINGS.STALKER_NPC_INSPECT.NIGHTMARELIGHT.4
 msgctxt "STRINGS.STALKER_NPC_INSPECT.NIGHTMARELIGHT.4"
 msgid "lost themselves to madness."
-msgstr "광기에 사로잡혀 버리고 말았지."
+msgstr "광기에 사로잡혀 버리고 말았노라."
 
 #. STRINGS.STALKER_NPC_INSPECT.RUINS_SHADELING.1
 msgctxt "STRINGS.STALKER_NPC_INSPECT.RUINS_SHADELING.1"

@@ -332688,7 +332688,7 @@ msgstr "해냈군."
 #. STRINGS.CHARLIE_NPC_RITUAL_BEGUN.2
 msgctxt "STRINGS.CHARLIE_NPC_RITUAL_BEGUN.2"
 msgid "They whom we call Shrouden accept our sacrifices."
-msgstr "｢슈라우든｣이라 불리는 존재가 우리의 제물을 받아줄 것이야."
+msgstr "｢슈라우든｣이라 불리는 존재가 우리의 제물을 받아줄 거야."
 
 #. STRINGS.CHARLIE_NPC_RITUAL_BEGUN.3
 msgctxt "STRINGS.CHARLIE_NPC_RITUAL_BEGUN.3"

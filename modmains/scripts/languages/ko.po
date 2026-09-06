@@ -425802,7 +425802,7 @@ msgstr "엘리트라! 내 사랑 메테우스의 방패지기여!"
 #. STRINGS.STALKER_NPC_INSPECT.MASK_ANCIENT_HANDMAIDHAT.4
 msgctxt "STRINGS.STALKER_NPC_INSPECT.MASK_ANCIENT_HANDMAIDHAT.4"
 msgid "What words did she impart to you in those darkest of days?"
-msgstr "가장 어둡던 그 때에 그대는 나의 반려에게 무슨 언령을 받았는가?"
+msgstr "칠흑 같던 날들에 그대는 나의 반려에게 무슨 언령을 받았는가?"
 
 #. STRINGS.STALKER_NPC_INSPECT.MASK_ANCIENT_HANDMAIDHAT.5
 msgctxt "STRINGS.STALKER_NPC_INSPECT.MASK_ANCIENT_HANDMAIDHAT.5"

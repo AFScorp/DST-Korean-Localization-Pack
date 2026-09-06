@@ -425757,7 +425757,7 @@ msgstr "허나 너는... 힘에 대한 탐욕에 잡아먹혔구나."
 #. STRINGS.STALKER_NPC_INSPECT.DAYWALKER.5
 msgctxt "STRINGS.STALKER_NPC_INSPECT.DAYWALKER.5"
 msgid "May you never escape your bondage."
-msgstr "너는 그 구속으로부터 다시는 벗어나지 못하기를."
+msgstr "그 구속으로부터 다시는 벗어나지 말거라."
 
 #. STRINGS.STALKER_NPC_INSPECT.MASK_ANCIENT_ARCHITECTHAT.1
 msgctxt "STRINGS.STALKER_NPC_INSPECT.MASK_ANCIENT_ARCHITECTHAT.1"

@@ -23028,7 +23028,7 @@ msgstr "역시 과학이 마법보다 낫다니까."
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_BATTERY_HIGH.OVERLOADED"
 msgid "It's about to explode! ...Sorry, old habit from my lab days."
-msgstr "폭발한다! ...이런, 연구실 때 버릇이 그만."
+msgstr "폭발한다! ...이런, 연구실 시절 버릇이 그만."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_BATTERY_LOW.BURNING
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_BATTERY_LOW.BURNING"

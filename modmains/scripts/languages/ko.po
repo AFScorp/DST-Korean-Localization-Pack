@@ -22988,7 +22988,7 @@ msgstr "좋은 하루 보내, %s!"
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA.GHOST
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA.GHOST"
 msgid "Looks like someone threw a wrench into your plans."
-msgstr "이거 기획을 대차게 말아먹었던 모양이네."
+msgstr "뭔가 설계를 대차게 말아먹었던 모양이네."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA.MURDERER
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA.MURDERER"

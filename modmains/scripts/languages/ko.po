@@ -85239,7 +85239,7 @@ msgstr "우리는 읽을 수 없는 신들의 문자로군."
 msgctxt ""
 "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ATRIUM_RITUAL_ORGAN_BAT.GENERIC"
 msgid "The very voice of that winged monstrosity."
-msgstr "날개 달린 괴물의 목소리의 근원이로군."
+msgstr "그 날개 달린 괴물의 목소리의 근원이로군."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ATRIUM_RITUAL_ORGAN_BAT.IN_RITUAL
 msgctxt ""
@@ -85444,7 +85444,7 @@ msgstr "날개 달린 창이로구나!"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BATBOSSCAVE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BATBOSSCAVE.GENERIC"
 msgid "Come forth, craven beast, and face me!"
-msgstr "오너라, 비겁한 짐승아! 맞서 보아라!"
+msgstr "오너라, 비겁한 짐승아, 맞서 보아라!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BATBOSSCAVE.VACANT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BATBOSSCAVE.VACANT"

@@ -338862,7 +338862,7 @@ msgstr "뭐야? 아직도 있는 겐가?"
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_3.TWO
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_3.TWO"
 msgid "Impressive. But you should probably stop while you're ahead."
-msgstr "인상적이군. 하지만 더 가기 전에 멈추는 게 좋을 거야."
+msgstr "인상적이군. 그래도 이기고 있을 때 그만두는 게 좋을 걸세."
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_4.ONE
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_4.ONE"
@@ -338882,7 +338882,7 @@ msgstr "자네 운을 너무 과신하고 있군."
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_5.ONE
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_5.ONE"
 msgid "You insolent, pitiful, insignificant ant!"
-msgstr "이 건방지고, 연약하고, 하찮은 벌레 녀석이!"
+msgstr "이 건방지고, 연약하고, 하찮은 벌레 녀석!"
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_5.THREE
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_5.THREE"

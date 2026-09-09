@@ -208865,7 +208865,7 @@ msgstr "참나. 내가 자다가 뱉는 가래침도 이것보다는 크겠다."
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.PHONOGRAPH
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.PHONOGRAPH"
 msgid "Nothin' like some music to get through the workday faster."
-msgstr "일하는 시간을 보낼 땐 음악만한 게 없지."
+msgstr "음악 틀고 일하면 작업 시간이 금방 지나가지."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.PICKAXE
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.PICKAXE"

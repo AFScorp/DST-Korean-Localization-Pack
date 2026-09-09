@@ -361855,7 +361855,7 @@ msgstr "나무로 만든 벽."
 #. STRINGS.RECIPE_DESC.WALTERHAT
 msgctxt "STRINGS.RECIPE_DESC.WALTERHAT"
 msgid "Form and function over fashion."
-msgstr "멋 이전에 격식과 기능이 우선."
+msgstr "멋보다는 격식과 기능이 우선."
 
 #. STRINGS.RECIPE_DESC.WANDERINGTRADERSHOP_LIVINGLOG
 msgctxt "STRINGS.RECIPE_DESC.WANDERINGTRADERSHOP_LIVINGLOG"

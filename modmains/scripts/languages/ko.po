@@ -384642,7 +384642,7 @@ msgstr "워워! 그 다리 좀 조심해서 가누라고요!"
 #. STRINGS.SKIN_DESCRIPTIONS.legs_wortox_dragon
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wortox_dragon"
 msgid "Another creature who thinks pants are overrated."
-msgstr "바지가 과대평가됐다고 생각하는 또다른 생명체."
+msgstr "바지가 과대평가됐다고 생각하는 존재가 또 있군요."
 
 #. STRINGS.SKIN_DESCRIPTIONS.legs_wortox_formal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_wortox_formal"

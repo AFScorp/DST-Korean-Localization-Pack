@@ -318441,7 +318441,7 @@ msgstr "예술성 훼손됨"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.DECOR_PICTUREFRAME.UNDRAWN
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.DECOR_PICTUREFRAME.UNDRAWN"
 msgid "IT'S SIMPLE. ELEGANT. I THINK I UNDERSTAND ART"
-msgstr "간단함. 우아함. 예술을 이해할 수 있을 것 같음"
+msgstr "이 간단함. 우아함. 예술을 이해할 수 있을 것 같다"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.DECOR_PORTRAITFRAME
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.DECOR_PORTRAITFRAME"
@@ -379359,7 +379359,7 @@ msgstr "빛의 주문을 외워 보세요."
 #. STRINGS.SKIN_DESCRIPTIONS.decor_lamp_hallowed
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_lamp_hallowed"
 msgid "Be a-fur-aid, be very a-fur-raid."
-msgstr "두려움에 털어보세요. 많이많이 털어보세요."
+msgstr "두려움에 털으세요. 많이많이 털으세요."
 
 #. STRINGS.SKIN_DESCRIPTIONS.decor_lamp_handmade
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_lamp_handmade"

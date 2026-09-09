@@ -203607,7 +203607,7 @@ msgstr "있던 거는 갖다 버려야 할 것 같아."
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.DECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.DECOR_LAMP"
 msgid "A good lamp will keep ya workin' through the night!"
-msgstr "좋은 램프가 있으면 밤새 작업하는 것도 된다구!"
+msgstr "좋은 램프가 있으면 밤새 작업하기도 좋지!"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.DECOR_PICTUREFRAME.GENERIC
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.DECOR_PICTUREFRAME.GENERIC"
@@ -222719,7 +222719,7 @@ msgstr "카드 뭉치 반으로 찢어버리는 묘기는 볼프강의 특기다
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECOR_CENTERPIECE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECOR_CENTERPIECE"
 msgid "Tiny thing has no purpose. Is what makes it fancy."
-msgstr "작고 쓸모 없다. 그래서 멋진 거지."
+msgstr "이 작은 물건은 쓸모가 없다. 그래서 멋진 거지."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECOR_FLOWERVASE.EMPTY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECOR_FLOWERVASE.EMPTY"

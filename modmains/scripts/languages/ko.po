@@ -402188,7 +402188,7 @@ msgstr "진주 귀걸이를 한 어인"
 #. STRINGS.SKIN_NAMES.decor_portraitframe_rose
 msgctxt "STRINGS.SKIN_NAMES.decor_portraitframe_rose"
 msgid "The Wain"
-msgstr "꽃수레"
+msgstr "꽃을 보는 캣쿤"
 
 #. STRINGS.SKIN_NAMES.decor_portraitframe_western
 msgctxt "STRINGS.SKIN_NAMES.decor_portraitframe_western"

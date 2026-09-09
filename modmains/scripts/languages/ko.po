@@ -361736,7 +361736,7 @@ msgstr "오염이 아니라 고색이라구요."
 msgctxt "STRINGS.RECIPE_DESC.VAULTRELIC_PLANTER"
 msgid "Too brittle to plant anything in, but a great conversation piece."
 msgstr ""
-"식물을 심기는 너무 잘 깨지지만\n"
+"식물을 심기엔 너무 약해도\n"
 "이야깃거리로는 훌륭합니다."
 
 #. STRINGS.RECIPE_DESC.VAULTRELIC_VASE

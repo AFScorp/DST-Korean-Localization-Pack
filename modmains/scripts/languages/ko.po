@@ -338842,7 +338842,7 @@ msgstr "흠. 어디 혼 좀 더 나 보는 건 어떻겠나?"
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_1.TWO
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_1.TWO"
 msgid "You'd think you would have learned your lesson by now."
-msgstr "이걸로 혼쭐이 났다고 생각할 테지."
+msgstr "이 정도면 혼날 만큼 혼났다고 생각하겠지."
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_2.ONE
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_2.ONE"

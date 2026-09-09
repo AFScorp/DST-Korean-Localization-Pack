@@ -338922,7 +338922,7 @@ msgstr "지금까지 많은 걸 배웠고, 수없이 많은 걸 만들었지."
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.12
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.12"
 msgid "But even a King is bound to the board."
-msgstr "하지만 왕마저도 놀이판에 묶인 신세라네."
+msgstr "하지만 놀이판 위에서는 왕조차 한낱 말이라네."
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.13
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.13"

@@ -385416,7 +385416,7 @@ msgstr "모닥불 이야기란 자고로 달이 뜬, 으스스한 밤에 친구�
 #. STRINGS.SKIN_DESCRIPTIONS.loading_werepig3
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_werepig3"
 msgid "The werepig will gladly have you over for dinner."
-msgstr "늑대 돼지는 기꺼이 당신을 저녁에 초대할 것입니다."
+msgstr "늑대돼지는 기꺼이 당신을 저녁에 초대할 것입니다."
 
 #. STRINGS.SKIN_DESCRIPTIONS.loading_werepig4
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.loading_werepig4"
@@ -424025,7 +424025,7 @@ msgstr "이제 차갑게 식은 채 누운 나의 동지들 곁에서,"
 #. STRINGS.STAGEACTOR.THEVAULT.LINE59_ELYTRA
 msgctxt "STRINGS.STAGEACTOR.THEVAULT.LINE59_ELYTRA"
 msgid "I shall keep vigil over our work"
-msgstr "나는 우리의 작품을 계속 감시해야겠구나."
+msgstr "나는 우리의 과업을 계속 감시해야겠구나."
 
 #. STRINGS.STAGEACTOR.THEVAULT.LINE5_VISIONIST
 msgctxt "STRINGS.STAGEACTOR.THEVAULT.LINE5_VISIONIST"

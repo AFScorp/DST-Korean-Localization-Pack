@@ -426418,7 +426418,7 @@ msgstr "두 인연이 모두 너를 사랑해주기를."
 #. STRINGS.STALKER_NPC_INSPECT.WX78.1
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WX78.1"
 msgid "Construct..."
-msgstr ""
+msgstr "만들어진 존재여..."
 
 #. STRINGS.STALKER_NPC_INSPECT.WX78.2
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WX78.2"

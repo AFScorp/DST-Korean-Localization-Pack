@@ -426133,12 +426133,12 @@ msgstr "헌데 새 틀에 부어지기 전의 철은 어떤 모습이었는가?"
 #. STRINGS.STALKER_NPC_INSPECT.WATHGRITHR.4
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WATHGRITHR.4"
 msgid "And who remains when armor falls away?"
-msgstr "그 갑옷을 벗겨내고 나면 무엇이 남느냐?"
+msgstr "그 갑옷을 벗겨내고 나면 무엇이 남겠느냐?"
 
 #. STRINGS.STALKER_NPC_INSPECT.WAXWELL.1
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WAXWELL.1"
 msgid "Maxwell... the king deposed."
-msgstr "맥스웰... 폐위된 왕이여."
+msgstr "맥스웰... 폐위된 왕이어."
 
 #. STRINGS.STALKER_NPC_INSPECT.WAXWELL.2
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WAXWELL.2"

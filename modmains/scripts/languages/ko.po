@@ -426178,7 +426178,7 @@ msgstr "그 안에는 여전히 가족을 그리워하는 아이가 있구나."
 #. STRINGS.STALKER_NPC_INSPECT.WEBBER.4
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WEBBER.4"
 msgid "A longing not even kings are spared."
-msgstr "왕조차도 그리움을 피할 수는 없지."
+msgstr "왕조차도 피할 수 없는 것이 그리움이니라."
 
 #. STRINGS.STALKER_NPC_INSPECT.WENDY.1
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WENDY.1"

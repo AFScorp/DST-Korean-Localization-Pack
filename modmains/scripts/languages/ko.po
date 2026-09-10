@@ -426088,7 +426088,7 @@ msgstr "그대에게는 참으로 낯설겠구나..."
 #. STRINGS.STALKER_NPC_INSPECT.WANDA.3
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WANDA.3"
 msgid "To watch me fall from such heights..."
-msgstr "그리도 높은 권좌에 있던 자가..."
+msgstr "나와 같이 그리도 높은 권좌에 있던 자가..."
 
 #. STRINGS.STALKER_NPC_INSPECT.WANDA.4
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WANDA.4"

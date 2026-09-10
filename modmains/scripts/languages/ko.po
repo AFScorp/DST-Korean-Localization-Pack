@@ -426318,12 +426318,12 @@ msgstr "메테우스가 내게서 그랬듯..."
 #. STRINGS.STALKER_NPC_INSPECT.WINONA.4
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WINONA.4"
 msgid "Abandon hope..."
-msgstr "희망을 버리거나..."
+msgstr "희망을 버려라..."
 
 #. STRINGS.STALKER_NPC_INSPECT.WINONA.5
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WINONA.5"
 msgid "Or join her..."
-msgstr "차라리 그녀와 함께하여..."
+msgstr "아니면 그녀와 함께하여..."
 
 #. STRINGS.STALKER_NPC_INSPECT.WINONA.6
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WINONA.6"
@@ -426333,7 +426333,7 @@ msgstr "영원히 방황하도록..."
 #. STRINGS.STALKER_NPC_INSPECT.WINONA.7
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WINONA.7"
 msgid "Forever."
-msgstr "저주받거나구나."
+msgstr "저주받거나."
 
 #. STRINGS.STALKER_NPC_INSPECT.WOLFGANG.1
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WOLFGANG.1"

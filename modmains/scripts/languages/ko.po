@@ -363951,7 +363951,7 @@ msgstr "이 분기공에서 뿜어져 나오는 것이 항상 열만 있는 것�
 #. STRINGS.SCRAPBOOK.SPECIALINFO.CHARLIE_BOSS_RUNNER
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.CHARLIE_BOSS_RUNNER"
 msgid "Echoes of lost souls. Don't get too close."
-msgstr "길 잃은 영혼들의 메아리. 가까이 다가가지 말자."
+msgstr "길 잃은 영혼들의 메아리. 너무 가까이 다가가지 말자."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.CHARLIE_STAGE_POST
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.CHARLIE_STAGE_POST"

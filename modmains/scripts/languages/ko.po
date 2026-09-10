@@ -426113,7 +426113,7 @@ msgstr "네가 마음 깊이 섬기는 그녀는..."
 #. STRINGS.STALKER_NPC_INSPECT.WARLY.4
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WARLY.4"
 msgid "Beyond this world and hers, rests well."
-msgstr "이 세상과 그녀의 세상 너머에서 편히 쉬기를."
+msgstr "이 세상과 그녀의 세상 너머에서 평온하기를."
 
 #. STRINGS.STALKER_NPC_INSPECT.WATHGRITHR.1
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WATHGRITHR.1"

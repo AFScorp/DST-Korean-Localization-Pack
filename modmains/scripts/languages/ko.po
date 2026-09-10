@@ -426068,7 +426068,7 @@ msgstr "내 이야기를 퍼트려, 이 신의 잃은 노왕과 같이 되는 �
 #. STRINGS.STALKER_NPC_INSPECT.WALTER.3
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WALTER.3"
 msgid "And lifetimes from now, I hope they tell yours..."
-msgstr "그리고 먼 훗날, 사람들이 너의 이야기를 하매..."
+msgstr "그리고 먼 훗날, 사람들이 너의 이야기를 퍼트리매..."
 
 #. STRINGS.STALKER_NPC_INSPECT.WALTER.4
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WALTER.4"

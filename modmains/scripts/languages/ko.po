@@ -176977,7 +176977,7 @@ msgstr "내가 불장난하면 된다고 했어, 안 된다고 했어? 안 된�
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WURT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WURT.GENERIC"
 msgid "Hello dear %s, are you ready for more lessons?"
-msgstr "얘, 반갑구나 %s아. 더 많은 걸 배울 준비가 됐니?"
+msgstr "아, 반갑구나 %s아. 더 많은 걸 배울 준비가 됐니?"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WURT.GHOST
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WURT.GHOST"

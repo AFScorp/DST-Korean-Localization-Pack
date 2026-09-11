@@ -114261,7 +114261,7 @@ msgstr "비가 제 때에 오지 않았어."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.RAINOMETER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.RAINOMETER.GENERIC"
 msgid "I could just look up and learn the same thing."
-msgstr "그냥 보고 똑같은 걸 배우면 되는데."
+msgstr "나도 찾아서 배우면 저 정도는 할 수 있다고."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.RATATOUILLE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.RATATOUILLE"

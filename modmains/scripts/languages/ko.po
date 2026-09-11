@@ -46411,7 +46411,7 @@ msgstr "자라서 뭐가 될까? 시간을 좀 건너뛰어서 한 번 볼까...
 #. STRINGS.CHARACTERS.WANDA.ANNOUNCE_PLANT_RESEARCHED.1
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_PLANT_RESEARCHED.1"
 msgid "I learned something new! Or at least remembered something I forgot..."
-msgstr "새로운 걸 배웠어! 못해도 까먹은 걸 기억해낸 걸 테고..."
+msgstr "뭔가 새로운 걸 배웠어! 못해도 까먹은 걸 기억해낸 걸 테고..."
 
 #. STRINGS.CHARACTERS.WANDA.ANNOUNCE_POCKETWATCH_MARK
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_POCKETWATCH_MARK"

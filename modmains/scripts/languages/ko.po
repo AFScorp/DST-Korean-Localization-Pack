@@ -169465,7 +169465,7 @@ msgstr "이걸 동물계로 분류해야 하나, 균계로 분류해야 하나?"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUSHROOMBOMB
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUSHROOMBOMB"
 msgid "Everyone, give the volatile Agaricus wide berth!"
-msgstr "모두들, 저 불안정한 주름버섯에서 멀리 떨어져!"
+msgstr "모두들, 저 폭발성 주름버섯에서 멀리 떨어져!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUSHROOMHAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUSHROOMHAT"

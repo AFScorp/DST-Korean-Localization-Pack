@@ -1,5 +1,3 @@
-# "Application: Dont' Starve\n"
-# "POT Version: 2.0\n"
 # Translators:
 # Snow ball, 2025
 # Transifex Bot <>, 2026
@@ -9,7 +7,9 @@ msgid ""
 msgstr ""
 "Last-Translator: AFS Co. Ltd., 2026\n"
 "Language-Team: Korean (https://app.transifex.com/DSTKoreanTeam/teams/115873/ko/)\n"
+"Application: Dont' Starve\n"
 "Language: ko\n"
+"POT Version: 2.0\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. STRINGS.ACTIONS.ABANDON
@@ -173511,7 +173511,7 @@ msgstr "연료직공의 뒤틀린 피조물이야."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.STALKER_NPC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.STALKER_NPC"
 msgid "Have you nothing to say for yourself?"
-msgstr "할 말이 없는 게야?"
+msgstr "어디 변명할 것이라도 있는지?"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.STASH_MAP
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.STASH_MAP"

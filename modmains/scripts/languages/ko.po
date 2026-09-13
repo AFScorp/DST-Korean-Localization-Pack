@@ -163912,7 +163912,7 @@ msgstr "적절한 연구와 계획과 관리의 결과물이란다."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARROT_PLANTED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARROT_PLANTED"
 msgid "Daucus carota is a root vegetable."
-msgstr "당근은 뿌리 채소란다."
+msgstr "Daucus carota는 뿌리 채소지."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARROT_SEEDS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARROT_SEEDS"
@@ -171102,7 +171102,7 @@ msgstr "그릇은 쓸 곳이 아주 많단다."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_CARROT_SEEDS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_CARROT_SEEDS"
 msgid "Mutated seed of Daucus carota."
-msgstr "당근의 변종 씨앗이구나."
+msgstr "Daucus carota의 변종 씨앗이구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_CASSEROLEDISH
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_CASSEROLEDISH"
@@ -177541,7 +177541,7 @@ msgstr "생물의 방향 감각을 시험할 거란다."
 msgctxt ""
 "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTC_CARRAT_GYM_DIRECTION.RAT"
 msgid "Who's a clever little Daucus carota rattus?"
-msgstr "누가 영리한 집쥐당근일까?"
+msgstr "누가 영리한 Daucus carota rattus일까?"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTC_CARRAT_GYM_DIRECTION_ITEM
 msgctxt ""
@@ -177661,7 +177661,7 @@ msgstr "이 작은 실험의 종료점이란다."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTC_CARRAT_RACE_START
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTC_CARRAT_RACE_START"
 msgid "This will be a unique opportunity to observe the Daucus carota rattus."
-msgstr "집쥐당근을 관찰할 특별한 기회가 되겠구나."
+msgstr "Daucus carota rattus를 관찰할 특별한 기회가 되겠구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTC_CARRAT_RACE_START_ITEM
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTC_CARRAT_RACE_START_ITEM"

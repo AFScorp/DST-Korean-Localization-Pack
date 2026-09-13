@@ -163897,12 +163897,12 @@ msgstr "대단히 흥미로워! 새로운 속인 걸까?"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARROT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARROT"
 msgid "Daucus carota. Edible, and delicious."
-msgstr "당근이란다. 먹을 수 있고, 맛있지."
+msgstr "Daucus carota란다. 먹을 수 있고, 맛있지."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARROT_COOKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARROT_COOKED"
 msgid "Daucus carota, roasted to perfection."
-msgstr "잘 구워진 당근이구나."
+msgstr "잘 구워진 Daucus carota구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARROT_OVERSIZED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARROT_OVERSIZED"
@@ -164211,7 +164211,7 @@ msgstr "달 나방을 따라서 조각되었어."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_CARRAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_CARRAT"
 msgid "A delightfully rendered likeness of the Daucus carota rattus."
-msgstr "참 멋있게도 집쥐당근을 닮았구나."
+msgstr "참 멋있게도 Daucus carota rattus를 닮았구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_CATCOON
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_CATCOON"

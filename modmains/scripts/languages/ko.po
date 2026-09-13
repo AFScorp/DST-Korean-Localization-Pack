@@ -158587,7 +158587,7 @@ msgstr "뜨거워!"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CARVEPUMPKIN.INUSE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CARVEPUMPKIN.INUSE"
 msgid "It's obviously being carved by someone else."
-msgstr "보이듯이 다른 사람이 조각 중이구나."
+msgstr "보다시피 다른 사람이 조각 중이구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CASTAOE.CANT_SPELL_MOUNTED
 msgctxt ""

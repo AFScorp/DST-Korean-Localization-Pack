@@ -52299,7 +52299,7 @@ msgstr "출처는 생각하고 싶지 않아!"
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.GLOWBERRYMOUSSE
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GLOWBERRYMOUSSE"
 msgid "What a delightfully useful dessert!"
-msgstr "정말 좋은 의미로 쓸모 있는 디저트네!"
+msgstr "정말 맛있고 쓸모 있는 디저트야!"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.GNARWAIL.BROKENHORN
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GNARWAIL.BROKENHORN"
@@ -52894,7 +52894,7 @@ msgstr "노력은... 해 볼게."
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.HIVEHAT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HIVEHAT"
 msgid "How delightfully strange!"
-msgstr "참 좋은 의미로 우스꽝스럽네!"
+msgstr "이거 정말 기묘하네!"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.HOME
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HOME"

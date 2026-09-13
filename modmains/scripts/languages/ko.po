@@ -105137,7 +105137,7 @@ msgstr "조금이나마 더 품격있군."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BERRIES_JUICY
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BERRIES_JUICY"
 msgid "Delightfully sweet with a subtle hint of tartness."
-msgstr "즐거운 단맛 뒤에 시큼하고 옅은 뒷맛이 있지."
+msgstr "즐거운 단맛 뒤에 옅은 시큼한 뒷맛이 있지."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BERRIES_JUICY_COOKED
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BERRIES_JUICY_COOKED"

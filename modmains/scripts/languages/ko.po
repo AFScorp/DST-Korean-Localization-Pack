@@ -391994,7 +391994,7 @@ msgstr "프로필 아이콘을 밝게 빛나는 붉은 등불로 지정합니다
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_researchlab2_crystal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_researchlab2_crystal"
 msgid "Set your profile icon to the Arcane Crystalarium."
-msgstr "프로필 아이콘을 비전 결정 생성기로 지정합니다."
+msgstr "프로필 아이콘을 신비로운 결정생성기로 지정합니다."
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_researchlab3_crystal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_researchlab3_crystal"

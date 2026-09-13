@@ -47349,7 +47349,7 @@ msgstr "꽤나 아리송한 물건이네 그래."
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.ARCHIVE_LOCKBOX_DISPENCER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.ARCHIVE_LOCKBOX_DISPENCER.GENERIC"
 msgid "How delightfully odd!"
-msgstr "참 재밌게도 우스꽝스럽네!"
+msgstr "참 좋은 의미로 우스꽝스럽네!"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.ARCHIVE_LOCKBOX_DISPENCER.POWEROFF
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.ARCHIVE_LOCKBOX_DISPENCER.POWEROFF"
@@ -49584,7 +49584,7 @@ msgstr "주머니에 넣어 다니기 좋은 간식이야."
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVAL_VEST_A
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVAL_VEST_A"
 msgid "Wearing a scarf to fend off the heat? How delightfully paradoxical!"
-msgstr "스카프를 둘러서 열기를 막는다고? 참 역설적이네!"
+msgstr "스카프를 둘러서 열기를 막는다고? 참 좋은 의미로 역설적이네!"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVAL_VEST_B
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVAL_VEST_B"
@@ -52299,7 +52299,7 @@ msgstr "출처는 생각하고 싶지 않아!"
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.GLOWBERRYMOUSSE
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GLOWBERRYMOUSSE"
 msgid "What a delightfully useful dessert!"
-msgstr "정말 맛있고 쓸모 있는 디저트야!"
+msgstr "정말 좋은 의미로 쓸모 있는 디저트네!"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.GNARWAIL.BROKENHORN
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GNARWAIL.BROKENHORN"
@@ -52894,7 +52894,7 @@ msgstr "노력은... 해 볼게."
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.HIVEHAT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HIVEHAT"
 msgid "How delightfully strange!"
-msgstr "참 재밌게도 우스꽝스럽네!"
+msgstr "참 좋은 의미로 우스꽝스럽네!"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.HOME
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HOME"
@@ -53987,7 +53987,7 @@ msgstr "조경 한 번 잘 깎아놨네."
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.MARBLETREE
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.MARBLETREE"
 msgid "What a delightfully odd tree."
-msgstr "참 재밌게도 이상한 나무네."
+msgstr "참 좋은 의미로 이상한 나무네."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.MARSH_BUSH.BURNING
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.MARSH_BUSH.BURNING"

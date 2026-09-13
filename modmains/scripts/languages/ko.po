@@ -163533,7 +163533,7 @@ msgctxt ""
 msgid ""
 "One may use this to create a custom, and hopefully delightful, mini-golf "
 "course."
-msgstr "이거면 자신만의 미니골프 코스를 만들 수 있을 게야. 잘만 하면 재미도 있을 게고 말이다."
+msgstr "이거면 자신만의 미니골프 코스를 만들 수 있을 게야. 잘만 하면 재미도 있을 테고."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY
 msgctxt ""

@@ -426088,7 +426088,7 @@ msgstr "여행자여..."
 #. STRINGS.STALKER_NPC_INSPECT.WANDA.2
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WANDA.2"
 msgid "Have you seen what becomes?"
-msgstr ""
+msgstr "그대는 미래를 보았는가?"
 
 #. STRINGS.STALKER_NPC_INSPECT.WANDA.3
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WANDA.3"

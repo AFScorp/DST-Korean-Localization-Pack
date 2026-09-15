@@ -333701,6 +333701,11 @@ msgctxt "STRINGS.CHARACTER_TITLES.wx78"
 msgid "The Soulless Automaton"
 msgstr "The Soulless Automaton"
 
+#. STRINGS.CHARLIE_NPC_GIVE_SHADOWHEART_INFUSED.1
+msgctxt "STRINGS.CHARLIE_NPC_GIVE_SHADOWHEART_INFUSED.1"
+msgid "You'll need to call upon an old friend."
+msgstr "You'll need to call upon an old friend."
+
 #. STRINGS.CHARLIE_NPC_RITUAL_BEGUN.1
 msgctxt "STRINGS.CHARLIE_NPC_RITUAL_BEGUN.1"
 msgid "We've done it."
@@ -333723,8 +333728,8 @@ msgstr "The ritual demands sacrifices."
 
 #. STRINGS.CHARLIE_NPC_SACRIFICE_REQUEST.2
 msgctxt "STRINGS.CHARLIE_NPC_SACRIFICE_REQUEST.2"
-msgid "There are species of creature that produce extraordinary specimens."
-msgstr "There are species of creature that produce extraordinary specimens."
+msgid "Only the most extraordinary specimens are worthy."
+msgstr "Only the most extraordinary specimens are worthy."
 
 #. STRINGS.CHARLIE_NPC_SACRIFICE_REQUEST.3
 msgctxt "STRINGS.CHARLIE_NPC_SACRIFICE_REQUEST.3"
@@ -429221,18 +429226,18 @@ msgstr "Traveller..."
 
 #. STRINGS.STALKER_NPC_INSPECT.WANDA.2
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WANDA.2"
-msgid "How strange it must be for you..."
-msgstr "How strange it must be for you..."
+msgid "Have you seen what becomes?"
+msgstr "Have you seen what becomes?"
 
 #. STRINGS.STALKER_NPC_INSPECT.WANDA.3
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WANDA.3"
-msgid "To watch me fall from such heights..."
-msgstr "To watch me fall from such heights..."
+msgid "Will I rest?"
+msgstr "Will I rest?"
 
 #. STRINGS.STALKER_NPC_INSPECT.WANDA.4
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WANDA.4"
-msgid "To this... in but a moment."
-msgstr "To this... in but a moment."
+msgid "Or am I cursed to awaken to this nightmare evermore?"
+msgstr "Or am I cursed to awaken to this nightmare evermore?"
 
 #. STRINGS.STALKER_NPC_INSPECT.WARLY.1
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WARLY.1"

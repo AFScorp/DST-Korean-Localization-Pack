@@ -332708,17 +332708,17 @@ msgstr "의식에 쓸 제물을 구하는 것."
 #. STRINGS.CHARLIE_NPC_SACRIFICE_REQUEST.2
 msgctxt "STRINGS.CHARLIE_NPC_SACRIFICE_REQUEST.2"
 msgid "Only the most extraordinary specimens are worthy."
-msgstr "가장 뛰어난 것들만을 제물로 바칠 수 있어."
+msgstr "오직 가장 뛰어난 것들만이 제물의 자격이 있어."
 
 #. STRINGS.CHARLIE_NPC_SACRIFICE_REQUEST.3
 msgctxt "STRINGS.CHARLIE_NPC_SACRIFICE_REQUEST.3"
 msgid "Seek them out. Allow them to be touched by Shadow..."
-msgstr "그 개체를 찾아내서, 그림자의 손길을 받게 하고..."
+msgstr "그것들을 찾아내서, 그림자의 손길을 받게 하고..."
 
 #. STRINGS.CHARLIE_NPC_SACRIFICE_REQUEST.4
 msgctxt "STRINGS.CHARLIE_NPC_SACRIFICE_REQUEST.4"
 msgid "Slaughter them. Bring me their essence."
-msgstr "숨통을 끊어, 그 정수를 내게 가져와."
+msgstr "숨통을 끊어. 그 정수를 내게 가져와."
 
 #. STRINGS.CHARLIE_NPC_SACRIFICE_REQUEST.5
 msgctxt "STRINGS.CHARLIE_NPC_SACRIFICE_REQUEST.5"

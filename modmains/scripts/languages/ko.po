@@ -1,3 +1,5 @@
+# "Application: Dont' Starve\n"
+# "POT Version: 2.0\n"
 # Translators:
 # Snow ball, 2025
 # Transifex Bot <>, 2026
@@ -7,9 +9,7 @@ msgid ""
 msgstr ""
 "Last-Translator: AFS Co. Ltd., 2026\n"
 "Language-Team: Korean (https://app.transifex.com/DSTKoreanTeam/teams/115873/ko/)\n"
-"Application: Dont' Starve\n"
 "Language: ko\n"
-"POT Version: 2.0\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. STRINGS.ACTIONS.ABANDON
@@ -332680,6 +332680,11 @@ msgctxt "STRINGS.CHARACTER_TITLES.wx78"
 msgid "The Soulless Automaton"
 msgstr "영혼 없는 기계"
 
+#. STRINGS.CHARLIE_NPC_GIVE_SHADOWHEART_INFUSED.1
+msgctxt "STRINGS.CHARLIE_NPC_GIVE_SHADOWHEART_INFUSED.1"
+msgid "You'll need to call upon an old friend."
+msgstr ""
+
 #. STRINGS.CHARLIE_NPC_RITUAL_BEGUN.1
 msgctxt "STRINGS.CHARLIE_NPC_RITUAL_BEGUN.1"
 msgid "We've done it."
@@ -332702,8 +332707,8 @@ msgstr "의식에 쓸 제물을 구하는 것."
 
 #. STRINGS.CHARLIE_NPC_SACRIFICE_REQUEST.2
 msgctxt "STRINGS.CHARLIE_NPC_SACRIFICE_REQUEST.2"
-msgid "There are species of creature that produce extraordinary specimens."
-msgstr "비범한 개체를 만들어내는 생물들이 있지."
+msgid "Only the most extraordinary specimens are worthy."
+msgstr ""
 
 #. STRINGS.CHARLIE_NPC_SACRIFICE_REQUEST.3
 msgctxt "STRINGS.CHARLIE_NPC_SACRIFICE_REQUEST.3"
@@ -363307,7 +363312,7 @@ msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.ARMOR_ROCKY"
 msgid ""
 "This armor is incredibly durable, granting 95% protection to its wearer, "
 "along with knockback immunity."
-msgstr "놀라울 정도로 튼튼한 갑옷으로, 착용 시 95%의 방어력과 넉백 저항을 얻는다."
+msgstr "놀라울 정도로 튼튼한 갑옷. 착용 시 95%의 방어력과 넉백 저항을 얻는다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.ATRIUMGATE
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.ATRIUMGATE"
@@ -426082,18 +426087,18 @@ msgstr "여행자여..."
 
 #. STRINGS.STALKER_NPC_INSPECT.WANDA.2
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WANDA.2"
-msgid "How strange it must be for you..."
-msgstr "그대에게는 참으로 낯설겠구나..."
+msgid "Have you seen what becomes?"
+msgstr ""
 
 #. STRINGS.STALKER_NPC_INSPECT.WANDA.3
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WANDA.3"
-msgid "To watch me fall from such heights..."
-msgstr "나와 같이 그리도 높은 권좌에 있던 자가..."
+msgid "Will I rest?"
+msgstr ""
 
 #. STRINGS.STALKER_NPC_INSPECT.WANDA.4
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WANDA.4"
-msgid "To this... in but a moment."
-msgstr "한순간에... 이리도 영락함이 말이다."
+msgid "Or am I cursed to awaken to this nightmare evermore?"
+msgstr ""
 
 #. STRINGS.STALKER_NPC_INSPECT.WARLY.1
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WARLY.1"

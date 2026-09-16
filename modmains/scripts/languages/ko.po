@@ -162352,7 +162352,7 @@ msgstr "나를 따라다니는 것 같구나."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALO.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALO.GENERIC"
 msgid "It looks almost like a Bos Taurus."
-msgstr "집소와 거의 비슷해 보이는구나."
+msgstr "Bos taurus와 거의 비슷해 보이는구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALO.MYPARTNER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALO.MYPARTNER"
@@ -162402,7 +162402,7 @@ msgstr "누구나 가끔은 간식이 필요한 법이지."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALOWOOL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALOWOOL"
 msgid "Long follicles harvested from the beefalo."
-msgstr "비팔로에게서 채취한 긴 모직이란다."
+msgstr "비팔로에게서 채취한 긴 모발이란다."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALO_GROOMER.BURNT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALO_GROOMER.BURNT"
@@ -162462,17 +162462,17 @@ msgstr "일벌들이 사납게 여왕벌을 지키고 있어."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEQUEENHIVE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEQUEENHIVE.GENERIC"
 msgid "Thick Apis mellifera honeycomb."
-msgstr "두꺼운 양봉꿀벌의 벌집이야."
+msgstr "두꺼운 Apis mellifera의 벌집이야."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEQUEENHIVE.GROWING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEQUEENHIVE.GROWING"
 msgid "The Apis mellifera are constructing a new hive."
-msgstr "양봉꿀벌들이 새 벌집을 짓고 있구나."
+msgstr "Apis mellifera들이 새 벌집을 짓고 있구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEQUEENHIVEGROWN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEQUEENHIVEGROWN"
 msgid "An Apis mellifera nest of unusual size."
-msgstr "흔치 않은 크기의 양봉꿀벌 둥지야."
+msgstr "흔치 않은 크기의 Apis mellifera 둥지야."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEESWAX
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEESWAX"

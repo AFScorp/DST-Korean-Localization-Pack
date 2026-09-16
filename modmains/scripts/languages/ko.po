@@ -168232,17 +168232,17 @@ msgstr "Mandragora officinarum이란다. 죽었지."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MANDRAKESOUP
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MANDRAKESOUP"
 msgid "Mandragora officinarum, prepared as a soup in the name of discovery."
-msgstr "맨드레이크란다. 탐구의 명목으로 수프로 조리되었지."
+msgstr "Mandragora officinarum이란다. 탐구의 명목으로 수프로 조리되었지."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MANDRAKE_ACTIVE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MANDRAKE_ACTIVE"
 msgid "Mandragora officinarum. But with a face."
-msgstr "맨드레이크란다. 다만 얼굴이 있을 뿐."
+msgstr "Mandragora officinaru이구나. 다만 얼굴이 있을 뿐."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MANDRAKE_COOKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MANDRAKE_COOKED"
 msgid "Mandragora officinarum, cooked in the name of discovery."
-msgstr "맨드레이크란다. 탐구의 명목으로 조리되었지."
+msgstr "Mandragora officinaru이란다. 탐구의 명목으로 조리되었지."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MANDRAKE_PLANTED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MANDRAKE_PLANTED"

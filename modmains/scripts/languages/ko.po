@@ -164216,12 +164216,12 @@ msgstr "참 멋있게도 Daucus carota rattus를 닮았구나."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_CATCOON
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_CATCOON"
 msgid "The resemblance to the Felis lybica is incredible."
-msgstr "놀라울 정도로 아프리카들고양이를 닮았구나."
+msgstr "놀라울 정도로 Felis lybica를 닮았구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_CLAYHOUND
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_CLAYHOUND"
 msgid "A replica of Canis lupis."
-msgstr "회색늑대의 복제품이구나."
+msgstr "Canis lupis의 복제품이구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_CLAYWARG
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_CLAYWARG"

@@ -176494,7 +176494,7 @@ msgstr "라즈베리 필링을 정말 훌륭하게 만들었구나!"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINTER_FOOD6
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINTER_FOOD6"
 msgid "\"Plum\" is a 17th century term for \"fruit\", dear."
-msgstr "\"Plum\"이란 단어는 17세기에는 \"과일\"이란 뜻이었단다."
+msgstr "자두를 뜻하는 \"Plum\"이라는 단어는 17세기에는 \"과일\"이란 뜻이었단다."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINTER_FOOD7
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINTER_FOOD7"
@@ -176745,7 +176745,7 @@ msgstr "조바심 내지 마려무나, 심장을 가지고 돌아올 테니."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WOODIE.MURDERER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WOODIE.MURDERER"
 msgid "I will defend myself from you, foul cad!"
-msgstr "너로부터 내 스스로를 지켜야겠다, 이 비열한 악당 녀석!"
+msgstr "이제부터는 정당방위다, 이 비열한 악당 녀석!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WOODIE.REVIVER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WOODIE.REVIVER"

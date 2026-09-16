@@ -177002,7 +177002,7 @@ msgstr "그 힘이 머리에 영향을 끼치지 않게 조심하려무나."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WURT_SWAMPITEM_SHADOW
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WURT_SWAMPITEM_SHADOW"
 msgid "Oh my. That looks like rather advanced magic for her reading level."
-msgstr "세상에나. 이건 워트의 독해능력에 비해 훨씬 고등한 마법 같은데."
+msgstr "세상에나. 이건 그 아이 독해능력에 비해 훨씬 고등한 마법 같은데."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78.ATTACKER"

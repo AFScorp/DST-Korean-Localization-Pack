@@ -163217,7 +163217,7 @@ msgstr "Nereocystis luetkeana야."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BULLKELP_PLANT.PICKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BULLKELP_PLANT.PICKED"
 msgid "Nereocystis luetkeana needs time to regrow."
-msgstr "황소다시마가 다시 크는데에 시간이 필요해."
+msgstr "Nereocystis luetkeana가 다시 크는데에 시간이 필요해."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BULLKELP_ROOT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BULLKELP_ROOT"

@@ -172449,7 +172449,7 @@ msgstr "널 보니 자신감이 별로 안 생기는구나, 얘야."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SCRAPBOOK_PAGE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SCRAPBOOK_PAGE"
 msgid "What a hideous sight! A page torn from its book!"
-msgstr "이런 흉측한 광경이! 책장을 낱개로 뜯어놓다니!"
+msgstr "망측해라! 책장을 낱개로 뜯어놓다니!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SCRAPHAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SCRAPHAT"

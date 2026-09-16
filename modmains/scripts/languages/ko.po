@@ -172158,7 +172158,7 @@ msgstr "겉은 광물이여도, 안쪽은 유기물이란다."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ROCK_AVOCADO_FRUIT_RIPE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ROCK_AVOCADO_FRUIT_RIPE"
 msgid "I miss a nice fresh avocado."
-msgstr "질 좋고 신선한 아보카도가 그리워."
+msgstr "맛있고 신선한 아보카도가 그립구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ROCK_AVOCADO_FRUIT_RIPE_COOKED
 msgctxt ""

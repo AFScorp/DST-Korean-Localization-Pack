@@ -169465,7 +169465,7 @@ msgstr "이걸 동물계로 분류해야 하나, 균계로 분류해야 하나?"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUSHROOMBOMB
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUSHROOMBOMB"
 msgid "Everyone, give the volatile Agaricus wide berth!"
-msgstr "모두들, 저 폭발성 주름버섯에서 멀리 떨어져!"
+msgstr "모두들, 저 폭발성 Agaricus에서 멀리 떨어져!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUSHROOMHAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUSHROOMHAT"
@@ -169475,12 +169475,12 @@ msgstr "오오. 저 예쁘게 주름진 것 좀 보렴."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUSHROOMSPROUT.BURNT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUSHROOMSPROUT.BURNT"
 msgid "A towering, burnt Agaricus."
-msgstr "우뚝 솟은 주름버섯의 불탄 잔재야."
+msgstr "우뚝 솟은 Agaricus의 불탄 잔재야."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUSHROOMSPROUT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUSHROOMSPROUT.GENERIC"
 msgid "We must destroy that towering Agaricus."
-msgstr "저 우뚝 솟은 주름버섯을 제거해야 해."
+msgstr "저 우뚝 솟은 Agaricus를 제거해야 해."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUSHROOM_FARM.BURNT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUSHROOM_FARM.BURNT"

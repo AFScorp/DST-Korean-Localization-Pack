@@ -426208,7 +426208,7 @@ msgstr "차라리 두 소녀의 넋이 함께하는 것이..."
 #. STRINGS.STALKER_NPC_INSPECT.WENDY.5
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WENDY.5"
 msgid "One on either side of the grave."
-msgstr "무덤 양옆에 하나씩 자리잡고서 말이지."
+msgstr "무덤 곁에 나란히 함께 있는 것이 나을지도."
 
 #. STRINGS.STALKER_NPC_INSPECT.WES.1
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WES.1"

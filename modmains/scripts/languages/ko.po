@@ -165393,7 +165393,7 @@ msgstr "성장을 위해 토양을 필요로 하는구나."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUG_MONKEYTAIL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUG_MONKEYTAIL"
 msgid "A variation of the common Typha latifolia, perhaps?"
-msgstr "혹시 큰부들의 변종 같은 걸까?"
+msgstr "혹시 Typha latifolia의 변종 같은 걸까?"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUG_SAPLING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUG_SAPLING"
@@ -165443,7 +165443,7 @@ msgstr "조심하렴, 그거 불이 이상하게 잘 붙을 것 같구나."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DURIAN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DURIAN"
 msgid "Aha, the Durio zibethinus. It really does reek."
-msgstr "아하, 두리안이로군. 냄새가 참 지독하구나."
+msgstr "아하, Durio zibethinus로군. 냄새가 참 지독하구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DURIAN_COOKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DURIAN_COOKED"
@@ -165495,7 +165495,7 @@ msgstr "장어 익힌 것이란다."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EGGPLANT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EGGPLANT"
 msgid "A nightshade. Solanum melongena, specifically."
-msgstr "가지과 식물, 그 중에서도 가지속의 가지야."
+msgstr "가지과 식물, 그 중에서도 Solanum melongena야."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EGGPLANT_COOKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EGGPLANT_COOKED"

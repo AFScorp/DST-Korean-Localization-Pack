@@ -171644,7 +171644,7 @@ msgstr "가만히 두는 건 말도 안 되지."
 msgctxt ""
 "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_SUGARWOODTREE.WOUNDED"
 msgid "Its internal structure has been damaged, but it can still recover."
-msgstr "내부 구조가 손상되기는 했지만 회복할 수는 있단다."
+msgstr "내부 구조가 손상되기는 했지만 회복할 수는 있겠구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_SWAMPIG
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_SWAMPIG"
@@ -171655,7 +171655,7 @@ msgstr "참으로 훌륭한 아종이구나!"
 msgctxt ""
 "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_SWAMPIGELDER.GENERIC"
 msgid "Their society has stark social class roles."
-msgstr "저들의 사회는 엄격한 계급 역할을 가지고 있단다."
+msgstr "저들의 사회는 엄격한 계급 역할을 가지고 있구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_SWAMPIGELDER.SLEEPING
 msgctxt ""
@@ -171682,7 +171682,7 @@ msgstr "감미료구나."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_TOMATO
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_TOMATO"
 msgid "Fruit of Solanum lycopersicum."
-msgstr "토마토의 열매란다."
+msgstr "Solanum lycopersicum의 열매구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_TOMATO_COOKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_TOMATO_COOKED"

@@ -347129,7 +347129,7 @@ msgstr "이동 포탈"
 #. STRINGS.NAMES.MILKYWHITES
 msgctxt "STRINGS.NAMES.MILKYWHITES"
 msgid "Milky Whites"
-msgstr "흰자위"
+msgstr "우유빛 흰자위"
 
 #. STRINGS.NAMES.MINERHAT
 msgctxt "STRINGS.NAMES.MINERHAT"

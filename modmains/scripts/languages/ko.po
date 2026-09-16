@@ -174114,12 +174114,12 @@ msgstr "생장물이 지면으로 뚫고 나오게 하려면 촉매가 필요해
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TOMATO
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TOMATO"
 msgid "Fruit of Solanum lycopersicum."
-msgstr "토마토의 열매란다."
+msgstr "Solanum lycopersicum의 열매구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TOMATO_COOKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TOMATO_COOKED"
 msgid "Roasted Solanum lycopersicum."
-msgstr "구운 토마토란다."
+msgstr "구운 Solanum lycopersicum이구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TOMATO_OVERSIZED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TOMATO_OVERSIZED"

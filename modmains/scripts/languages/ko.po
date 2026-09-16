@@ -425744,7 +425744,7 @@ msgctxt "STRINGS.STALKER_NPC_INSPECT.ATRIUM_RUBBLE.3"
 msgid ""
 "The Other gave us what you wouldn't. Am I to blame for accepting the cursed "
 "fuel?"
-msgstr "｢또다른 자｣가 당신께서 주지 않았던 것을 주었거늘, 그 저주받은 연료를 받아들인 것이 어찌 저의 잘못이옵나이까?"
+msgstr "｢또다른 자｣가 당신께서 주시지 않은 것을 주었거늘, 그 저주받은 연료를 받아들인 것이 어찌 저의 잘못이나이까?"
 
 #. STRINGS.STALKER_NPC_INSPECT.ATRIUM_RUBBLE.4
 msgctxt "STRINGS.STALKER_NPC_INSPECT.ATRIUM_RUBBLE.4"

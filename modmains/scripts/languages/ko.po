@@ -170306,7 +170306,7 @@ msgstr "새가 운명을 달리했구나... 아주 끔찍한 운명으로 말이
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PEPPER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PEPPER"
 msgid "Of the genus Capsicum, if I'm not mistaken."
-msgstr "내가 틀린 게 아니라면, 고추속 식물이 맞단다."
+msgstr "내가 틀린 게 아니라면, 고추속 식물이겠구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PEPPERPOPPER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PEPPERPOPPER"

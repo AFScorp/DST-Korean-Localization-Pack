@@ -168267,7 +168267,7 @@ msgstr "윤곽이 고른 바위야."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARBLEBEAN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARBLEBEAN"
 msgid "Marble growth is arboriculturally impossible."
-msgstr "대리석이 성장하는 것은 원예적으로 불가능해."
+msgstr "대리석이 성장하는 것은 수목재배학적으로 불가능해."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARBLEBEAN_SAPLING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARBLEBEAN_SAPLING"
@@ -168277,7 +168277,7 @@ msgstr "내 생각에 저건 다년생인 것 같구나."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARBLEPILLAR
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARBLEPILLAR"
 msgid "It shows the touch of a Roman artisan. How amazing."
-msgstr "로마 장인의 손길이 느껴지는데. 놀라워라."
+msgstr "로마 장인의 손길이 느껴지는구나. 정말 대단해."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARBLESHRUB
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARBLESHRUB"

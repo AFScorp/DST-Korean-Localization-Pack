@@ -169060,7 +169060,7 @@ msgstr "이 구조물의 마법이 예측 가능한 주기의 쇠퇴기에 있�
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONBASE.MOONSTAFF
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONBASE.MOONSTAFF"
 msgid "The magic of the stone appears to be inexhaustible."
-msgstr "돌에 담긴 마력은 무궁무진한 모양이구나."
+msgstr "저 돌에 담긴 마력이 무궁무진한 모양이구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONBASE.STAFFED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONBASE.STAFFED"

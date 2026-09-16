@@ -166427,7 +166427,7 @@ msgstr "불미스럽게도 소생하고 있구나."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GESTALT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GESTALT"
 msgid "They are the projections of something stronger."
-msgstr "그들은 뭔가 강력한 존재의 투영체야."
+msgstr "저들은 어떤 상위 존재의 투영체야."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GESTALT_CAGE.FILLED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GESTALT_CAGE.FILLED"

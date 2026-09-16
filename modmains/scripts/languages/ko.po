@@ -176109,7 +176109,7 @@ msgstr "아, 반갑구나 %s아!"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WILLOW.GHOST
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WILLOW.GHOST"
 msgid "If you cross your ghosteyes they'll get stuck like that, dear."
-msgstr "그렇게 째려보다가는 얼굴이 그대로 굳는 수가 있단다, 아가."
+msgstr "그렇게 째려보다가는 잘못하면 얼굴이 그대로 굳을지 모른단다."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WILLOW.MURDERER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WILLOW.MURDERER"

@@ -173441,7 +173441,7 @@ msgstr "나는 유전 정보 전달자의 전달자인 셈이야."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SQUID
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SQUID"
 msgid "Luminesca Cephalopoda! What beautiful bioluminescence!"
-msgstr "발광오징어구나! 정말 아름다운 생체발광이야!"
+msgstr "발광성 두족류구나! 정말 아름다운 생체발광이야!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.STAFFCOLDLIGHT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.STAFFCOLDLIGHT"

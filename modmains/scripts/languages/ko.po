@@ -174426,7 +174426,7 @@ msgstr "나이트는 판 중앙에서 활약할 때 훌륭한 말이란다."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRINKET_31
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRINKET_31"
 msgid "In German it is referred to as the \"springer\"."
-msgstr "독일어로는 \"스프링어\"라고 부른단다."
+msgstr "독일에서는 \"스프링거\"라고 부른단다."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRINKET_32
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRINKET_32"

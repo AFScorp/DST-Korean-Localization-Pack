@@ -426193,17 +426193,17 @@ msgstr "비탄의 소녀여..."
 #. STRINGS.STALKER_NPC_INSPECT.WENDY.2
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WENDY.2"
 msgid "I would bid you live for your other half..."
-msgstr "그대의 자매를 위해서라도 살아가라 말하고프나..."
+msgstr "그대의 자매를 위해서라도 살아가라고 권하마..."
 
 #. STRINGS.STALKER_NPC_INSPECT.WENDY.3
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WENDY.3"
 msgid "But I failed to do so for mine."
-msgstr "정작 나는 그리하지 못했구나."
+msgstr "정작 나는 나의 반려를 위하지 못했지만."
 
 #. STRINGS.STALKER_NPC_INSPECT.WENDY.4
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WENDY.4"
 msgid "Perhaps two little ghosts makes better company..."
-msgstr "차라리 두 소녀의 넋이 함께하는 것이..."
+msgstr "혹은 어쩌면 두 소녀의 넋이 함께하는 것이..."
 
 #. STRINGS.STALKER_NPC_INSPECT.WENDY.5
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WENDY.5"

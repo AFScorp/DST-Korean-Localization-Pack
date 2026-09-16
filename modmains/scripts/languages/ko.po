@@ -169525,7 +169525,7 @@ msgstr "진균-짜 비논리적이구나. 호호!"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUSHROOM_LIGHT.OFF
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUSHROOM_LIGHT.OFF"
 msgid "A bioluminescent fungus. Neither Agaricales nor Xylariales."
-msgstr "발광 균류란다. 주름버섯목도 콩꼬투리버섯목도 아니구나."
+msgstr "발광 균류란다. 주름버섯목도 자일라리아목도 아니구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUSHROOM_LIGHT.ON
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUSHROOM_LIGHT.ON"

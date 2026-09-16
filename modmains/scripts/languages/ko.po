@@ -177002,7 +177002,7 @@ msgstr "그 힘이 머리에 영향을 끼치지 않게 조심하려무나."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WURT_SWAMPITEM_SHADOW
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WURT_SWAMPITEM_SHADOW"
 msgid "Oh my. That looks like rather advanced magic for her reading level."
-msgstr "세상에나. 이건 그 아이 독해능력에 비해 훨씬 고등한 마법 같은데."
+msgstr "세상에나. 이건 그 아이 독해능력에 비하면 훨씬 고등한 마법 같은데."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78.ATTACKER"
@@ -177022,7 +177022,7 @@ msgstr "아, 자동기계로군. 반갑구나 %s아!"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78.GHOST
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78.GHOST"
 msgid "Fascinating. %s indeed has a specter, and it lingers still."
-msgstr "대단히 흥미롭구나. %s에게도 유령이 있는데다, 사라지지 않고 머물고 있어."
+msgstr "대단히 흥미롭구나. %s에게도 유령이 있는데다, 계속 유지되고 있어."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78.MURDERER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78.MURDERER"
@@ -177203,7 +177203,7 @@ msgstr "WX의 예비 동체구나."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_DRONE_DELIVERY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_DRONE_DELIVERY"
 msgid "The automaton demonstrates an unusual attachment to their belongings."
-msgstr "자동기계는 자기 소유물에 특이한 애착을 보이는구나."
+msgstr "저 자동기계는 자기 소유물에 특이한 애착을 보이는구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_DRONE_SCOUT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78_DRONE_SCOUT"

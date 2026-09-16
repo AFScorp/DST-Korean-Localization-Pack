@@ -163084,7 +163084,7 @@ msgstr "요즘 양봉이 나름 재밌더구나."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BOOK_BIRDS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BOOK_BIRDS"
 msgid "The expurgated version, but it has my favorite: Megascops kennicottii."
-msgstr "삭제판이지만, 내가 가장 좋아하는 가면올빼미에 대한 내용이 수록되어 있단다."
+msgstr "삭제판이지만, 내가 가장 좋아하는 Megascops kennicottii에 대한 내용이 수록되어 있단다."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BOOK_BRIMSTONE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BOOK_BRIMSTONE"
@@ -163212,7 +163212,7 @@ msgstr "곤충학자의 도구란다."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BULLKELP_PLANT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BULLKELP_PLANT.GENERIC"
 msgid "Nereocystis luetkeana."
-msgstr "Nereocystis속의 황소다시마야."
+msgstr "Nereocystis luetkeana야."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BULLKELP_PLANT.PICKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BULLKELP_PLANT.PICKED"

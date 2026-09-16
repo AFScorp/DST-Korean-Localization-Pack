@@ -172637,7 +172637,7 @@ msgstr "작은 손상을 수리하는 데에 유용한 고품질 접착제란다
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHADOWDANCER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHADOWDANCER"
 msgid "...Has anyone checked in on him recently?"
-msgstr "...저 양반 상태 괜찮은 거겠지?"
+msgstr "...혹시 저 양반 상태 괜찮은지 확인해본 사람?"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHADOWDIGGER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHADOWDIGGER"

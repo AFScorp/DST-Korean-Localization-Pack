@@ -162921,7 +162921,7 @@ msgstr "배에 보호벽을 두르는 건 현명한 선택일 게야."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BOAT_BUMPER_KELP
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BOAT_BUMPER_KELP"
 msgid "A thick barrier of Nereocystis luetkeana."
-msgstr "황소다시마를 두껍게 둘러놓았어."
+msgstr "Nereocystis luetkeana를 두껍게 둘러놓았어."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BOAT_BUMPER_KELP_KIT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BOAT_BUMPER_KELP_KIT"

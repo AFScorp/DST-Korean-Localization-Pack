@@ -161927,7 +161927,7 @@ msgstr "검은 그림자, 혹은 어떤 물질이 문명을 집어삼키고 있�
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_RUBBLE.LINE_4
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_RUBBLE.LINE_4"
 msgid "The citizens molt from their exoskeletons in this panel."
-msgstr "이 판엔 시민들이 외골격으로부터 탈피하는 모습이 묘사되어 있구나."
+msgstr "이 판에서는 시민들이 외골격으로부터 탈피하고 있구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_RUBBLE.LINE_5
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_RUBBLE.LINE_5"

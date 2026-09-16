@@ -177850,7 +177850,7 @@ msgstr "디저트에 당근을 넣는다고 건강에 좋은 건 아니란다."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FOOD2
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FOOD2"
 msgid "\"Blue\" is an odd adjective for a flavor, but I can't disagree."
-msgstr "\"파란색\" 맛이라는 표현이 이상하긴 하다만, 틀린 묘사라고는 못 하겠어."
+msgstr "\"파란색\" 맛이라는 표현이 이상하긴 하다만, 틀린 묘사라고는 못 하겠네."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FOOD3
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTR_FOOD3"

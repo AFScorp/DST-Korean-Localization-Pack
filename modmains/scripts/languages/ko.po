@@ -166443,7 +166443,7 @@ msgstr "텅 비었구나."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GESTALT_GUARD"
 msgid ""
 "They possess higher defensive capabilities than their smaller counterparts."
-msgstr "작은 개체보다 더 강한 방어 능력을 가지고 있단다."
+msgstr "작은 개체보다 더 강한 방어 능력을 가지고 있구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GESTALT_GUARD_EVOLVED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GESTALT_GUARD_EVOLVED"
@@ -166533,7 +166533,7 @@ msgstr "저 녀석이 가만히 있기만 한다면 분류를 할 수 있겠지.
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GINGERBREADWARG
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GINGERBREADWARG"
 msgid "Canis Festivus."
-msgstr "개과 개속 생강바그란다."
+msgstr "Canis festivus구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GLASSBLOCK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GLASSBLOCK"

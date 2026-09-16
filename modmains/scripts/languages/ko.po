@@ -164628,7 +164628,7 @@ msgstr "요리 정보 모음집이란다."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COOKEDMANDRAKE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COOKEDMANDRAKE"
 msgid "Mandragora officinarum, cooked in the name of discovery."
-msgstr "맨드레이크란다. 탐구의 명목으로 조리되었지."
+msgstr "Mandrogora officinarum이란다. 탐구의 명목으로 조리되었지."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COOKEDMEAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COOKEDMEAT"
@@ -164643,7 +164643,7 @@ msgstr "여전히 약간의 독이 남았구나."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COOKEDSMALLMEAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COOKEDSMALLMEAT"
 msgid "It is slightly more appetizing when cooked."
-msgstr "조리되었을 때가 약간 더 구미를 당기는구나."
+msgstr "조리를 하니 조금 더 먹을만하구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COOKIECUTTER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COOKIECUTTER"

@@ -159585,13 +159585,13 @@ msgstr "이제는 좀 순해진 것 같아 보여."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_ANTLION_TRIBUTE.3
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_ANTLION_TRIBUTE.3"
 msgid "The great Panthera auropunctata is tamed."
-msgstr "노랑점박이개미사자가 온순해졌어."
+msgstr "Panthera auropunctata가 온순해졌어."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_ARCHIVE_NEW_KNOWLEDGE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_ARCHIVE_NEW_KNOWLEDGE"
 msgid ""
 "What a peculiar sensation, it's transmitting a blueprint telepathically!"
-msgstr "느낌 참 이상하네, 설계도를 직접 염사로 전송하고 있잖아!"
+msgstr "참 이상한 느낌이야, 설계도를 직접 염사로 전송하고 있어!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_ARCHIVE_NO_POWER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_ARCHIVE_NO_POWER"

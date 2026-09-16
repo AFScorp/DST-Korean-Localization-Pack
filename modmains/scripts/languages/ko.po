@@ -175415,7 +175415,7 @@ msgstr "이런, 이게 저 양반이 요청한 도구가 맞으려나..."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAGSTAFF_TOOL_2"
 msgid ""
 "Perhaps this is the tool he requires? I should suggest a cataloging system."
-msgstr "이 도구가 필요하다고 했었던가? 분류 체계라도 좀 만들어 두라고 해야겠어."
+msgstr "이 도구가 필요하다고 했었던가? 분류 체계라도 좀 마련해 두라고 해야겠어."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAGSTAFF_TOOL_3
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAGSTAFF_TOOL_3"
@@ -175439,17 +175439,17 @@ msgstr "안타깝게도 표지는 없구나... 이걸 찾는 게 맞다고 믿�
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALKINGPLANK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALKINGPLANK"
 msgid "A dangerous escape route for one stranded at sea."
-msgstr "해상에서 조난당한 사람을 위한 위험한 탈출구란다."
+msgstr "위험하지만 해상에서 조난당했을 때는 탈출구가 되겠구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALKINGPLANK_ANCIENT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALKINGPLANK_ANCIENT"
 msgid "A dangerous escape route for one stranded at sea."
-msgstr "해상에서 조난당한 사람을 위한 위험한 탈출구란다."
+msgstr "위험하지만 해상에서 조난당했을 때는 탈출구가 되겠구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALKINGPLANK_GRASS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALKINGPLANK_GRASS"
 msgid "A dangerous escape route for one stranded at sea."
-msgstr "해상에서 조난당한 사람을 위한 위험한 탈출구란다."
+msgstr "위험하지만 해상에서 조난당했을 때는 탈출구가 되겠구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALKINGPLANK_YOTD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALKINGPLANK_YOTD"

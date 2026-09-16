@@ -168825,12 +168825,12 @@ msgstr "조잡하긴 하지만, 녀석들의 원래 방법에 비하면 훨씬 �
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERM_TOOLSHED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERM_TOOLSHED"
 msgid "A place for everything, and everything in its place."
-msgstr "모든 것을 위한 자리가 생겼으니, 그 자리에 모든 것을 채워넣자구나."
+msgstr "모든 것을 위한 자리가 생겼으니, 그 자리에 모든 것을 채워넣자꾸나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERM_TOOLSHED_UPGRADED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERM_TOOLSHED_UPGRADED"
 msgid "A place for everything, and everything in its place."
-msgstr "모든 것을 위한 자리가 생겼으니, 그 자리에 모든 것을 채워넣자구나."
+msgstr "모든 것을 위한 자리가 생겼으니, 그 자리에 모든 것을 채워넣자꾸나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERM_TOOL_UPGRADED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERM_TOOL_UPGRADED"

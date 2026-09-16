@@ -426263,7 +426263,7 @@ msgstr "불의 여인이어..."
 #. STRINGS.STALKER_NPC_INSPECT.WILLOW.2
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WILLOW.2"
 msgid "You feed the flames, but the void within you hungers still."
-msgstr "그대가 불을 지펴도, 그대 안의 공허는 여전히 굶주리는구나."
+msgstr "그대가 아무리 불을 지펴도, 그대 안의 공허는 여전히 굶주리는구나."
 
 #. STRINGS.STALKER_NPC_INSPECT.WILLOW.3
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WILLOW.3"

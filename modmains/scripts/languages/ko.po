@@ -176639,7 +176639,7 @@ msgstr "얘, 반갑구나 %s아!"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WOLFGANG.GHOST
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WOLFGANG.GHOST"
 msgid "%s acts tough, but he needs my help. A heart should do it."
-msgstr "%s는 거칠게 행동하지만, 내 도움이 필요해. 심장이면 될 거야."
+msgstr "%s는 강한 척하긴 해도, 내 도움이 필요해. 심장이면 될 거야."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WOLFGANG.MURDERER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WOLFGANG.MURDERER"

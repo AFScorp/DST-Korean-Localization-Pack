@@ -171727,17 +171727,17 @@ msgstr "신선한 Triticum aestivum이구나."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_WHEAT_SEEDS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_WHEAT_SEEDS"
 msgid "Mutated grain of Triticum aestivum."
-msgstr "빵밀의 변종 씨앗이구나."
+msgstr "Triticum aestivum의 변종 씨앗이구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RABBIT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RABBIT.GENERIC"
 msgid "It's some kind of Lagomorph. With horns."
-msgstr "토끼목의 종이란다. 뿔이 달렸지만."
+msgstr "토끼목의 일종이구나. 뿔이 달렸지만."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RABBIT.HELD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RABBIT.HELD"
 msgid "It is a cute widdle horned Lagomorph."
-msgstr "귀여운 뿔 달린 토끼란다."
+msgstr "귀여운 뿔 달린 토끼구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RABBITHAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RABBITHAT"

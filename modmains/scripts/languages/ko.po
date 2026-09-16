@@ -166333,19 +166333,19 @@ msgstr "달빛이 피부에 이상한 반응을 촉진한단다."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GARLIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GARLIC"
 msgid "Allium sativum, a close relative of Allium cepa."
-msgstr "마늘이란다. 양파와는 근연종 관계지."
+msgstr "Allium sativum이란다. Allium cepa와는 근연종 관계지."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GARLIC_COOKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GARLIC_COOKED"
 msgid "Roast Allium sativum."
-msgstr "구운 마늘이란다."
+msgstr "구운 Allium sativum이구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GARLIC_OVERSIZED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GARLIC_OVERSIZED"
 msgid ""
 "How fascinating, it seems to have grown into a braided configuration all on "
 "its own!"
-msgstr "놀라워라, 스스로 땋인 형태를 갖추며 자란 모양이구나!"
+msgstr "정말 흥미로워, 스스로 땋인 형태를 갖추며 자란 모양이구나!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GARLIC_SEEDS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GARLIC_SEEDS"

@@ -172848,7 +172848,7 @@ msgstr "꽃이 정신 안정에 영향을 끼치는구나."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SISTURN.SOME_FLOWERS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SISTURN.SOME_FLOWERS"
 msgid "I believe flowers are a traditional offering to the deceased."
-msgstr "꽃은 전통적으로 고인에게 바치는 헌납품이었단다."
+msgstr "전통적으로 고인에게 헌화하는 건 드물지 않은 일이었겠지."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SKELETON
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SKELETON"

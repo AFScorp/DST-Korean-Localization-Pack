@@ -171838,22 +171838,22 @@ msgstr "곡의 진행이 좀 반복적이구나."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RECORD_BALATRO
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RECORD_BALATRO"
 msgid "The music was better back in my day... but let's hear it again."
-msgstr "나 때 음악이 훨씬 듣기 좋았... 긴 하지만 이건 또 듣고프구나."
+msgstr "나 때 음악이 훨씬 듣기 좋았... 긴 하지만 이건 또 듣고싶구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RECORD_CREEPYFOREST
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RECORD_CREEPYFOREST"
 msgid "I can't imagine where one would find a record press out here."
-msgstr "도무지 이런 곳에 레코드 프레스가 있을 거라고는 상상 못 하겠는데."
+msgstr "이런 곳에 레코드 프레스가 있을 거라고는 도무지 상상할 수가 없구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RECORD_DANGER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RECORD_DANGER"
 msgid "I can't imagine where one would find a record press out here."
-msgstr "도무지 이런 곳에 레코드 프레스가 있을 거라고는 상상 못 하겠는데."
+msgstr "이런 곳에 레코드 프레스가 있을 거라고는 도무지 상상할 수가 없구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RECORD_DAWN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RECORD_DAWN"
 msgid "I can't imagine where one would find a record press out here."
-msgstr "도무지 이런 곳에 레코드 프레스가 있을 거라고는 상상 못 하겠는데."
+msgstr "이런 곳에 레코드 프레스가 있을 거라고는 도무지 상상할 수가 없구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RECORD_DRSTYLE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RECORD_DRSTYLE"

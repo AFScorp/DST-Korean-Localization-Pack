@@ -171118,17 +171118,17 @@ msgstr "하나면 충분하단다."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_COIN1
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_COIN1"
 msgid "Worth a paltry sum to the locals."
-msgstr "얼마 안 되지만 지역 주민들에겐 가치 있는 돈이야."
+msgstr "현지인들에겐 보잘것없는 액면가로 취급되는구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_COIN2
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_COIN2"
 msgid "A coin of some denomination."
-msgstr "어느 정도의 액면가를 지닌 동전이야."
+msgstr "상당한 액면가의 주화구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_COIN3
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_COIN3"
 msgid "A coin of some value."
-msgstr "어느 정도의 가치를 지닌 동전이야."
+msgstr "어느 정도의 가치를 지닌 주화구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_COIN4
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_COIN4"

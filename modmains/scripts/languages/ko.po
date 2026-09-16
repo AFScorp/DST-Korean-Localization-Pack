@@ -166015,7 +166015,7 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FLOATINGLANTERN.GENERIC"
 msgid ""
 "Nothing magical here. It's flotation is merely due to hot air being less "
 "dense than the surrounding atmosphere."
-msgstr "마법 같은 건 없단다. 이게 뜨는 것은 그저 뜨거운 공기가 주변 공기보다 가벼워서일 뿐이지."
+msgstr "이건 마법이 아니란다. 그저 뜨거운 공기가 주변 공기보다 가벼워서 뜨는 원리인 게지."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FLOATINGLANTERN.HELD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FLOATINGLANTERN.HELD"

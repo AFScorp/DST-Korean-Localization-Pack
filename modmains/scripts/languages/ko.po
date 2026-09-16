@@ -176129,7 +176129,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WILSON.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WILSON.ATTACKER"
 msgid "I'll pull you back to base by the ear if I have to, %s."
-msgstr "계속 그러면 귀댕이 잡혀서 기지까지 갈 줄 알렴, %s."
+msgstr "계속 그러면 귀댕이 잡혀서 기지까지 갈 줄 아렴, %s."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WILSON.FIRESTARTER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WILSON.FIRESTARTER"
@@ -176139,7 +176139,7 @@ msgstr "%s에게 단호하게 한 마디 해야겠구나."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WILSON.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WILSON.GENERIC"
 msgid "Greetings, dear %s! How are your theorems coming?"
-msgstr "얘, 반갑구나, %s! 요즘 네 이론은 잘 돼가니?"
+msgstr "반갑구나, %s! 요즘 네 이론은 잘 돼가니?"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WILSON.GHOST
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WILSON.GHOST"

@@ -171883,12 +171883,12 @@ msgstr "쯧. 이 음악은 온갖 장난칠 생각을 들게 하는구나."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RECORD_MAIN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RECORD_MAIN"
 msgid "I can't imagine where one would find a record press out here."
-msgstr "이런 곳에 레코드 프레스가 있을 거라고는 도무지 상상할 수 없구나."
+msgstr "이런 곳에 레코드 프레스가 있을 거라고는 도무지 상상할 수가 없구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RECORD_WORKTOBEDONE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RECORD_WORKTOBEDONE"
 msgid "I can't imagine where one would find a record press out here."
-msgstr "이런 곳에 레코드 프레스가 있을 거라고는 도무지 상상할 수 없구나."
+msgstr "이런 곳에 레코드 프레스가 있을 거라고는 도무지 상상할 수가 없구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.REDGEM
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.REDGEM"

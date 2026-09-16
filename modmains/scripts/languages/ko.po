@@ -170276,7 +170276,7 @@ msgstr "셀룰로오스와 리그닌으로 구성된 얇은 종이야."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PAVLOVA
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PAVLOVA"
 msgid "It takes its name from the Russian ballerina Anna Pavlova."
-msgstr "이 음식의 이름은 러시아 발레리나 안나 파블로바에게서 따 온 거란다."
+msgstr "이 음식의 이름은 러시아의 발레리나 안나 파블로바에게서 따 온 거란다."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PEGHOOK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PEGHOOK"

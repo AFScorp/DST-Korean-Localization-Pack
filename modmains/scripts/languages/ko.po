@@ -426293,7 +426293,7 @@ msgstr "나는 지식을 추구하고, 지혜를 키웠으나..."
 #. STRINGS.STALKER_NPC_INSPECT.WILSON.3
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WILSON.3"
 msgid "Yet learned nothing."
-msgstr "아무것도 배우지 못했다."
+msgstr "그 무엇도 깨닫지 못했다."
 
 #. STRINGS.STALKER_NPC_INSPECT.WILSON.4
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WILSON.4"

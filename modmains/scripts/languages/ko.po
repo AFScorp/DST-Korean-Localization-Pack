@@ -172444,7 +172444,7 @@ msgstr "아, 훌륭하구나. 더는 남는 옷을 나무에 걸어놓느라 구
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SCORCHED_SKELETON
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SCORCHED_SKELETON"
 msgid "You don't inspire a great deal of confidence, dear."
-msgstr "널 보니 자신감이 별로 안 생기는구나, 얘야."
+msgstr "널 보니 자신감이 별로 안 생기는구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SCRAPBOOK_PAGE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SCRAPBOOK_PAGE"

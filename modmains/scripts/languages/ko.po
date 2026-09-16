@@ -167658,12 +167658,12 @@ msgstr "이 생물은 죽었구나."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.KOALEFANT_SUMMER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.KOALEFANT_SUMMER"
 msgid "Koalefanta Proboscidea."
-msgstr "코알라판트속의 코알라판트란다."
+msgstr "Koalefanta proboscidea구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.KOALEFANT_WINTER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.KOALEFANT_WINTER"
 msgid "Koalefanta Proboscidea in thick winter pelage."
-msgstr "코알라판트속의 코알라판트란다."
+msgstr "두꺼운 겨울 털이 난 Koalefanta proboscidea구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.KOALEFIG_TRUNK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.KOALEFIG_TRUNK"
@@ -167810,7 +167810,7 @@ msgstr "정말 범상찮은 도끼야."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_PORTAL.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_PORTAL.GENERIC"
 msgid "It is linked to our Gateway, but inactive on this side."
-msgstr "우리의 관문과 연결되었지만, 이쪽은 비활성화 상태란다."
+msgstr "우리의 관문과 연결되었지만, 이쪽은 비활성화 상태구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_PORTAL.ON
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_PORTAL.ON"

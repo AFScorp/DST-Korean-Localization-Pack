@@ -170032,7 +170032,7 @@ msgstr "익숙한 속의 물고기는 아닌 것 같구나..."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.OCEANFISH_SMALL_6
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.OCEANFISH_SMALL_6"
 msgid "Curious, it seems to be camouflaged for the wrong environment."
-msgstr "흥미로워, 엉뚱한 환경에 맞게 위장했군."
+msgstr "흥미롭구나, 엉뚱한 환경에 맞게 위장했어."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.OCEANFISH_SMALL_7
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.OCEANFISH_SMALL_7"
@@ -170052,7 +170052,7 @@ msgstr "평범한 물총고기와 전혀 다를 게 없구나. 흔치 않은 체
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.OCEANTREE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.OCEANTREE"
 msgid "It seems to be a hybrid between the genera Rhizophora and Salix."
-msgstr "리조포라속과 버드나무속 간의 교잡종 같구나."
+msgstr "리조포라속과 버드나무속의 교잡종 같구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.OCEANTREENUT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.OCEANTREENUT"

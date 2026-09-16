@@ -162522,12 +162522,12 @@ msgstr "Ardisisa crenata 열매 같구나."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BERRIES_COOKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BERRIES_COOKED"
 msgid "Roasted Ardisia crenata, just in case."
-msgstr "백량금 열매란다. 혹시 몰라서 구웠어."
+msgstr "Ardisia crenata 열매란다. 혹시 몰라서 구웠어."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BERRIES_JUICY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BERRIES_JUICY"
 msgid "A variant of Ardisia crenata berries. Good hydration."
-msgstr "백량금 변종의 열매란다. 수분 보충에 유용하지."
+msgstr "Ardisia crenata 변종의 열매란다. 수분 보충에 유용하지."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BERRIES_JUICY_COOKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BERRIES_JUICY_COOKED"
@@ -162557,7 +162557,7 @@ msgstr "흠... 잎의 가장자리가 말려들고 있구나."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BERRYBUSH.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BERRYBUSH.GENERIC"
 msgid "It's an Ardisia crenata bush."
-msgstr "백량금 덤불이야."
+msgstr "Ardisia crenata 덤불이야."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BERRYBUSH.PICKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BERRYBUSH.PICKED"

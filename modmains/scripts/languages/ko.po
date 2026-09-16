@@ -425081,7 +425081,7 @@ msgstr "또 다시금 이런 일이..."
 #. STRINGS.STALKER_ATRIUM_BATTLECRY_ATRIUM_REPAIRED.3
 msgctxt "STRINGS.STALKER_ATRIUM_BATTLECRY_ATRIUM_REPAIRED.3"
 msgid "I tried to stop it... it seems I learned nothing..."
-msgstr "나는 막으려 했건만... 결국 나는 여전히 그대로인가..."
+msgstr "나는 막으려 했건만... 결국 나는 그 무엇도 깨닫지 못했는가..."
 
 #. STRINGS.STALKER_ATRIUM_DEATHCRY.1
 msgctxt "STRINGS.STALKER_ATRIUM_DEATHCRY.1"

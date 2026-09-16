@@ -172324,7 +172324,7 @@ msgstr "전투에 쓰이는 짐승은 모름지기 중무장해야 하는 법이
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SALSA
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SALSA"
 msgid "My goodness, that has some zest to it!"
-msgstr "세상에나, 이건 좀 재미있구나!"
+msgstr "세상에나, 제스트가 들어있네!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SALTBOX
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SALTBOX"

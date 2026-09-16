@@ -165278,7 +165278,7 @@ msgstr "현재 반절 정도의 화력을 내고 있구나."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DRAGONFRUIT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DRAGONFRUIT"
 msgid "Hylocereus undatus, or pitahaya blanca."
-msgstr "붉은 용과란다. 백육종이구나."
+msgstr "Hylocerus undatus란다. Pitahaya blanca라고도 하지."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DRAGONFRUIT_COOKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DRAGONFRUIT_COOKED"

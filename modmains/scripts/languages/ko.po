@@ -174009,7 +174009,7 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.THULECITE"
 msgid ""
 "This seems to be an interesting, ectoplasmic residue-bearing variety of "
 "zoisite."
-msgstr "흥미로워. 심령질 잔류물을 포함한 회렴석 변종이라."
+msgstr "흥미로워. 심령질 잔류물을 포함한 회렴석 변종인가 본데."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.THULECITEBUGNET
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.THULECITEBUGNET"

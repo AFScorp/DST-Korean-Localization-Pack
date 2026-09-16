@@ -164705,7 +164705,7 @@ msgstr "몸통에 붙어있던 유연한 부속지란다."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CORN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CORN"
 msgid "Zea mays, a great staple food."
-msgstr "옥수수속의 옥수수, 훌륭한 주식이지."
+msgstr "Zea mays란다. 훌륭한 주식이지."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CORN_COOKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CORN_COOKED"

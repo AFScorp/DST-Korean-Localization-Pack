@@ -169146,7 +169146,7 @@ msgstr "에너지가 불안정해 보이는구나. 빨리 써 버려야 할 것 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONGLASS_ROCK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONGLASS_ROCK"
 msgid "It appears to be mineral, but may actually be organic in nature."
-msgstr "광물로 보이지만, 실제 성질은 유기물일 수도 있겠구나."
+msgstr "광물로 보이지만, 본질적으로는 유기물일 수도 있겠구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONGLASS_WOBSTER_DEN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONGLASS_WOBSTER_DEN"

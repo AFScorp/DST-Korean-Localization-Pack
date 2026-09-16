@@ -426368,7 +426368,7 @@ msgstr "그대 안의 짐승의 근원을 그리도 궁금해했는가."
 #. STRINGS.STALKER_NPC_INSPECT.WOODIE.3
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WOODIE.3"
 msgid "Perhaps you should ask what it came for."
-msgstr "그것이 도래한 까닭을 물어야 마땅할 것이리라."
+msgstr "그것이 도래한 까닭부터 물어야 마땅할 것이리라."
 
 #. STRINGS.STALKER_NPC_INSPECT.WORMWOOD.1
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WORMWOOD.1"

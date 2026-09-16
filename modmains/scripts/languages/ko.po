@@ -171843,17 +171843,17 @@ msgstr "나 때 음악이 훨씬 듣기 좋았... 긴 하지만 이건 또 듣�
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RECORD_CREEPYFOREST
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RECORD_CREEPYFOREST"
 msgid "I can't imagine where one would find a record press out here."
-msgstr "도무지 이런 곳에서 레코드 프레스가 있을 거라고는 상상 못 하겠는데."
+msgstr "도무지 이런 곳에 레코드 프레스가 있을 거라고는 상상 못 하겠는데."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RECORD_DANGER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RECORD_DANGER"
 msgid "I can't imagine where one would find a record press out here."
-msgstr "도무지 이런 곳에서 레코드 프레스가 있을 거라고는 상상 못 하겠는데."
+msgstr "도무지 이런 곳에 레코드 프레스가 있을 거라고는 상상 못 하겠는데."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RECORD_DAWN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RECORD_DAWN"
 msgid "I can't imagine where one would find a record press out here."
-msgstr "도무지 이런 곳에서 레코드 프레스가 있을 거라고는 상상 못 하겠는데."
+msgstr "도무지 이런 곳에 레코드 프레스가 있을 거라고는 상상 못 하겠는데."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RECORD_DRSTYLE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RECORD_DRSTYLE"

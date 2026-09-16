@@ -426203,7 +426203,7 @@ msgstr "정작 나는 그리하지 못했구나."
 #. STRINGS.STALKER_NPC_INSPECT.WENDY.4
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WENDY.4"
 msgid "Perhaps two little ghosts makes better company..."
-msgstr "차라리 두 소녀의 혼이 함께하는 것이 나을지도..."
+msgstr "차라리 두 소녀의 넋이 함께하는 것이..."
 
 #. STRINGS.STALKER_NPC_INSPECT.WENDY.5
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WENDY.5"

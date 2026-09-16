@@ -165838,7 +165838,7 @@ msgstr "상상도 못한 조합이긴 하지만 나쁘지는 않구나."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIGKABAB
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIGKABAB"
 msgid "I suppose this is the next logical step after meat on a stick."
-msgstr "논리적으로는 고기 꼬치의 다음 단계가 맞겠구나."
+msgstr "논리적으로는 고기 꼬치가 발전하면 이렇게 되는 것이겠지."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIG_COOKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIG_COOKED"

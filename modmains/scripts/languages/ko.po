@@ -161551,7 +161551,7 @@ msgstr "외부 전원이 있어야 작동하는 것 같구나."
 msgctxt ""
 "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARCHIVE_LOCKBOX_DISPENCER.GENERIC"
 msgid "Somehow, the ancients devised a way to store knowledge in liquid form."
-msgstr "고대인들이 지식을 액상형으로 저장하는 모종의 방법을 깨우친 모양이구나."
+msgstr "고대인들은 어째서인지 지식을 액상형으로 저장하는 방법을 고안했구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARCHIVE_LOCKBOX_DISPENCER.POWEROFF
 msgctxt ""
@@ -161851,7 +161851,7 @@ msgctxt ""
 msgid ""
 "And there it is. The eye that watches and waits from beyond the realm. "
 "Though it seems its long wait has finally come to an end."
-msgstr "나타났군. 세상 너머에서 지켜보며 기다리는 그 눈. 그리고 그 기다림이 마침내 끝난 것 같구나."
+msgstr "나타났군. 세상 저 너머에서 지켜보며 기다리는 그 눈. 그리고 그 기다림이 마침내 끝난 것 같구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_KEY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_KEY"

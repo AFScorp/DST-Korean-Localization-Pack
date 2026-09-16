@@ -173693,7 +173693,7 @@ msgstr "지각변동을 영원히 버티지는 못할 것 같구나."
 msgctxt ""
 "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SUPPORT_PILLAR_DREADSTONE_BROKEN"
 msgid "Broken? Perhaps this material is not as indestructible as I surmised."
-msgstr "부서졌잖아? 어쩌면 저 물질이 내 추측처럼 파괴 불가능한 건 아니었나 보구나."
+msgstr "부서졌잖아? 어쩌면 저 물질이 내 추측만큼 파괴 불가능한 건 아니었나 보구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SUPPORT_PILLAR_DREADSTONE_COMPLETE
 msgctxt ""
@@ -173735,7 +173735,7 @@ msgstr "모든 근심 걱정이 싹 사라지는 기분이야."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SWORD_LUNARPLANT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SWORD_LUNARPLANT"
 msgid "The energy has been stabilized enough to form a functional blade."
-msgstr "에너지가 진검으로 제작할 수 있을 만큼 안정화되었어."
+msgstr "에너지가 검날 형태로 기능할 수 있을 만큼 안정화되었어."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TABLE_WINTERS_FEAST.BURNT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TABLE_WINTERS_FEAST.BURNT"
@@ -173745,7 +173745,7 @@ msgstr "세상에, 저 상태에서는 아무 쓸모가 없겠구나."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TABLE_WINTERS_FEAST.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TABLE_WINTERS_FEAST.GENERIC"
 msgid "Big enough for company."
-msgstr "둘러앉기 충분한 크기란다."
+msgstr "둘러앉기 충분한 크기구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TABLE_WINTERS_FEAST.HAS_FOOD
 msgctxt ""

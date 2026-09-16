@@ -176004,7 +176004,7 @@ msgstr "비버인간 상태를 유도하는 모양이구나."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WEREITEM_GOOSE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WEREITEM_GOOSE"
 msgid "An... artistic representation of the Branta canadensis."
-msgstr "어... 캐나다기러기의 예술적 표현이구나."
+msgstr "어... Branta candensis의 예술적 표현이구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WEREITEM_MOOSE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WEREITEM_MOOSE"
@@ -176064,7 +176064,7 @@ msgstr "고통으로써 규율을 확립하는 도구란다."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WICKERBOTTOM.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WICKERBOTTOM.ATTACKER"
 msgid "%s's immorality is putting holes in my multiverse speculations."
-msgstr "%s의 비도덕성이 내 다중우주 추측에 허점을 내고 있구나."
+msgstr "%s의 부도덕함이 내 다중우주 추측에 허점을 내고 있구나."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WICKERBOTTOM.FIRESTARTER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WICKERBOTTOM.FIRESTARTER"

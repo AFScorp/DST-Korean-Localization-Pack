@@ -378433,7 +378433,7 @@ msgstr "양철 모자는 별매품."
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_woodie_pirate"
 msgid ""
 "Much rests on a shipwright's shoulders. They might as well be fashionable."
-msgstr "조선공의 어깨가 무겁군요. 물론 어깨가 멋지기도 한 것 같네요."
+msgstr "조선공의 어깨가 무겁군요. 어깨에서 멋도 나고요."
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_woodie_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_woodie_rose"

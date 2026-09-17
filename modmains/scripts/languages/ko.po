@@ -426398,7 +426398,7 @@ msgstr "나를 비웃지 말아라, 말썽꾼이어."
 #. STRINGS.STALKER_NPC_INSPECT.WORTOX.3
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WORTOX.3"
 msgid "Soon enough, your glee shall turn to tears."
-msgstr "머지않아 그 미소가 눈물로 변하리라."
+msgstr "머지않아 그 기쁨이 눈물로 변하리라."
 
 #. STRINGS.STALKER_NPC_INSPECT.WURT.1
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WURT.1"

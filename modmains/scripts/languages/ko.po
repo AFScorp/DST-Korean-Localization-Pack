@@ -426313,7 +426313,7 @@ msgstr "손윗누이여..."
 #. STRINGS.STALKER_NPC_INSPECT.WINONA.2
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WINONA.2"
 msgid "She is lost to you..."
-msgstr "그대의 누이는 떠나버렸다..."
+msgstr "그대의 누이와 멀어졌구나..."
 
 #. STRINGS.STALKER_NPC_INSPECT.WINONA.3
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WINONA.3"

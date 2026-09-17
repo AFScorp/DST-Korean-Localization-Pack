@@ -200906,7 +200906,7 @@ msgstr "저기에도 조립 공정이 있나 봐. 분주한데!"
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.BEEBOX.NOHONEY
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BEEBOX.NOHONEY"
 msgid "Where's that stellar work ethic, bees?!"
-msgstr "그 뛰어난 근무철학은 또 어쨌냐, 벌들아?!"
+msgstr "너네 직업정신 좋았잖아, 벌들아?!"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.BEEBOX.READY
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BEEBOX.READY"
@@ -200936,7 +200936,7 @@ msgstr "호오, 흥미로운 구성이야."
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.BEEBOX_HERMIT.NOHONEY
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BEEBOX_HERMIT.NOHONEY"
 msgid "Where's that stellar work ethic, bees?!"
-msgstr "그 뛰어난 근무철학은 또 어쨌냐, 벌들아?!"
+msgstr "너네 직업정신 좋았잖아, 벌들아?!"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.BEEBOX_HERMIT.READY
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.BEEBOX_HERMIT.READY"
@@ -208670,7 +208670,7 @@ msgstr "갑자기 추워졌나?"
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.ORANGEAMULET
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ORANGEAMULET"
 msgid "For those with a lackluster work ethic."
-msgstr "직업의식 개판인 놈이나 쓸 물건이네."
+msgstr "직업정신 개판인 놈이나 쓸 물건이네."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.ORANGEGEM
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ORANGEGEM"

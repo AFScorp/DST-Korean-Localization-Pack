@@ -426173,7 +426173,7 @@ msgstr "뒤얽힌 존재여..."
 #. STRINGS.STALKER_NPC_INSPECT.WEBBER.2
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WEBBER.2"
 msgid "Though some may recoil at the sight of you..."
-msgstr "혹자는 그대의 겉모습에 질색할지 모르나..."
+msgstr "혹자는 그대의 겉모습에 뒷걸음질 칠지라도..."
 
 #. STRINGS.STALKER_NPC_INSPECT.WEBBER.3
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WEBBER.3"

@@ -426393,7 +426393,7 @@ msgstr "임프여..."
 #. STRINGS.STALKER_NPC_INSPECT.WORTOX.2
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WORTOX.2"
 msgid "Mock me not, mischief-maker."
-msgstr "나를 비웃지 말아라, 이간자여."
+msgstr "나를 비웃지 말아라, 말썽꾼이어."
 
 #. STRINGS.STALKER_NPC_INSPECT.WORTOX.3
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WORTOX.3"

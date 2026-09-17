@@ -426418,7 +426418,7 @@ msgstr "사랑으로 이어진 것이 가족이다."
 #. STRINGS.STALKER_NPC_INSPECT.WURT.4
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WURT.4"
 msgid "May both hold you dear, little one."
-msgstr "두 인연이 모두 너를 사랑해주기를."
+msgstr "두 인연이 모두 그대를 사랑해주기를."
 
 #. STRINGS.STALKER_NPC_INSPECT.WX78.1
 msgctxt "STRINGS.STALKER_NPC_INSPECT.WX78.1"

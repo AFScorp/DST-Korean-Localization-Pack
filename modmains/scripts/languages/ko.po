@@ -208670,7 +208670,7 @@ msgstr "갑자기 추워졌나?"
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.ORANGEAMULET
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ORANGEAMULET"
 msgid "For those with a lackluster work ethic."
-msgstr "대충대충 일하는 사람이나 쓸 물건이네."
+msgstr "직업의식 개판인 놈이나 쓸 물건이네."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.ORANGEGEM
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.ORANGEGEM"

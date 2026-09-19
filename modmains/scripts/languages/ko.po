@@ -71751,7 +71751,7 @@ msgstr "약간의 버터와 소금이 있었으면 좋겠어."
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.HALLOWEENCANDY_4
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HALLOWEENCANDY_4"
 msgid "Licorice is only for the most refined palates."
-msgstr "감초는 오직 가장 세련된 미각을 위한 거지."
+msgstr "감초를 좋아해야 비로소 가장 미각이 세련된 사람이지."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.HALLOWEENCANDY_5
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HALLOWEENCANDY_5"

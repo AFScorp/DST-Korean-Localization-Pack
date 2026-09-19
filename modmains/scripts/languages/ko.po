@@ -175584,12 +175584,12 @@ msgstr "얘, 너 나랑 이야기 좀 하자꾸나."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALTER.FIRESTARTER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALTER.FIRESTARTER"
 msgid "Not everything is a campfire, dear."
-msgstr "얘, 아무데나 모닥불을 지피면 안 된단다."
+msgstr "모닥불은 아무데서나 지피면 안 된단다."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALTER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALTER.GENERIC"
 msgid "Ah, greetings dear %s!"
-msgstr "얘, 반갑구나 %s아!"
+msgstr "아, 반갑구나 %s아!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALTER.GHOST
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALTER.GHOST"
@@ -175609,12 +175609,12 @@ msgstr "이런, %s는 참 친절한 아이로구나."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALTERHAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALTERHAT"
 msgid "I suppose one must try to stay young at heart."
-msgstr "사람은 마음 속에 젊음을 품고 살아야 하는 법이겠지."
+msgstr "사람이 마음만이라도 젊게 살아야 하지 않겠니."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WANDA.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WANDA.ATTACKER"
 msgid "Really %s, you need to set a better example for the children."
-msgstr "%s, 진지하게 말해서 아이들에게 모범이 되어야 할 거 아니니."
+msgstr "정말이지 %s, 아이들에게 모범이 되어야 할 거 아니니."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WANDA.FIRESTARTER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WANDA.FIRESTARTER"

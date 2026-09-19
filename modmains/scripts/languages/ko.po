@@ -172324,7 +172324,7 @@ msgstr "전투에 쓰이는 짐승은 모름지기 중무장해야 하는 법이
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SALSA
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SALSA"
 msgid "My goodness, that has some zest to it!"
-msgstr "세상에나, 꽤나 강렬한 맛이구나!"
+msgstr "이런, 꽤나 강렬한 맛이구나!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SALTBOX
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SALTBOX"
@@ -210776,7 +210776,7 @@ msgstr "절제된 외형을 좋아하나 보구만."
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SALSA
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SALSA"
 msgid "Wish I had some chips to go with this."
-msgstr "곁들여 먹을 감자칩이 있었으면."
+msgstr "곁들여 먹을 감자칩이 있었으면 좋겠는데."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SALTBOX
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SALTBOX"
@@ -248955,7 +248955,7 @@ msgstr "무슨 커다란 새 날개 같잖아. 윽."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SALSA
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SALSA"
 msgid "Lucy'll give ya a hand chopping veggies next time, eh bud?"
-msgstr "다음 번엔 루시가 야채 써는 거 도와주겠지. 그치?"
+msgstr "다음 번엔 루시가 야채 써는 거 도와준댔어. 그치?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SALTBOX
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SALTBOX"

@@ -114766,7 +114766,7 @@ msgstr "짐승에게도 보호구가 있는 것이 좋겠지."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SALSA
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SALSA"
 msgid "A bit spicy for my delicate palate."
-msgstr "내 연약한 입천장에게는 너무 짜군."
+msgstr "조금 매운 것이 내 섬세한 입맛에는 맞지 않군."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SALTBOX
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SALTBOX"

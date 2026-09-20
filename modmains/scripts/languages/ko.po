@@ -156335,7 +156335,7 @@ msgstr "자연이 날 거부하네..."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WATERPLANT_PLANTER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WATERPLANT_PLANTER"
 msgid "Even if I plant it, the fickle thing may turn against me."
-msgstr "아무리 심는다 하더라도, 이 변덕꾼들은 금방 내게 등을 돌리겠지."
+msgstr "아무리 심는다 하더라도, 이 변덕쟁이들은 금방 내게 등을 돌리겠지."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WATERPUMP
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WATERPUMP"

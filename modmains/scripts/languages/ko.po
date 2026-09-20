@@ -154139,7 +154139,7 @@ msgstr "차갑고, 딱딱한 돌..."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.STATUE_MARBLE.TYPE1
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.STATUE_MARBLE.TYPE1"
 msgid "Each of us wear many masks..."
-msgstr "모든 이들은 수많은 가면 아래 살아가는 법..."
+msgstr "누구나 수많은 가면 아래 살아가는 법..."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.STATUE_MARBLE.TYPE2
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.STATUE_MARBLE.TYPE2"
@@ -155795,7 +155795,7 @@ msgstr "불길한 예감이 들어."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WAGBOSS_ROBOT_CONSTRUCTIONSITE
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WAGBOSS_ROBOT_CONSTRUCTIONSITE"
 msgid "It destroys, is destroyed and rises anew. The cycle endures."
-msgstr "파괴하다가, 파괴되었고, 다시 태어났어. 그리고 다시 순환이야."
+msgstr "파괴하다가, 파괴되었고, 다시 태어났어. 순환이 계속되는구나."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WAGBOSS_ROBOT_CONSTRUCTIONSITE_KIT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WAGBOSS_ROBOT_CONSTRUCTIONSITE_KIT"

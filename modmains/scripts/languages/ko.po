@@ -156680,7 +156680,7 @@ msgstr "결국 정신이 나갔군요, 과학자 씨."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WILSON.REVIVER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WILSON.REVIVER"
 msgid "Abigail likes you, %s."
-msgstr "아비게일이 아저씨를 좋아하네요, %s."
+msgstr "아비게일이 %s 아저씨를 좋아하네요."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WINCH.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WINCH.GENERIC"
@@ -156725,7 +156725,7 @@ msgstr "아비게일과 제가 맘껏 놀아드리죠!"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA.REVIVER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA.REVIVER"
 msgid "Hi %s. Abigail says \"thank-you\"."
-msgstr "안녕하세요, %s. 아비게일이 \"고맙습니다\" 래요."
+msgstr "안녕하세요, %s 씨. 아비게일이 \"고맙습니다\" 래요."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_BATTERY_HIGH.BURNING
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_BATTERY_HIGH.BURNING"

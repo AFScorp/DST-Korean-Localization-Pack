@@ -156310,7 +156310,7 @@ msgstr "이제 대부분 따뜻한 물이야."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WATERMELON_OVERSIZED
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WATERMELON_OVERSIZED"
 msgid "One could drown in so much watermelon..."
-msgstr "엄청난 양의 수박에 빠져 죽을 수도 있을 것 같아..."
+msgstr "저 정도 수박이면 빠져 죽을 수도 있을 것 같아..."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WATERMELON_SEEDS
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WATERMELON_SEEDS"

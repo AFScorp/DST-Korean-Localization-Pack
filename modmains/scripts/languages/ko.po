@@ -52184,47 +52184,47 @@ msgstr "꽃놀이 할 시간이 어디 있다고 그래?"
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.GHOSTLYELIXIR_ATTACK
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GHOSTLYELIXIR_ATTACK"
 msgid "A little bit of metaphysical meddling never hurt anyone."
-msgstr "형이상학에 손 좀 댄다고 위험할 거 하나도 없어."
+msgstr "초자연적인 거에 손 좀 댄다고 위험할 거 하나도 없어."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.GHOSTLYELIXIR_FASTREGEN
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GHOSTLYELIXIR_FASTREGEN"
 msgid "A little bit of metaphysical meddling never hurt anyone."
-msgstr "형이상학에 손 좀 댄다고 위험할 거 하나도 없어."
+msgstr "초자연적인 거에 손 좀 댄다고 위험할 거 하나도 없어."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.GHOSTLYELIXIR_LUNAR
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GHOSTLYELIXIR_LUNAR"
 msgid "A little bit of metaphysical meddling never hurt anyone."
-msgstr "형이상학에 손 좀 댄다고 위험할 거 하나도 없어."
+msgstr "초자연적인 거에 손 좀 댄다고 위험할 거 하나도 없어."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.GHOSTLYELIXIR_RETALIATION
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GHOSTLYELIXIR_RETALIATION"
 msgid "A little bit of metaphysical meddling never hurt anyone."
-msgstr "형이상학에 손 좀 댄다고 위험할 거 하나도 없어."
+msgstr "초자연적인 거에 손 좀 댄다고 위험할 거 하나도 없어."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.GHOSTLYELIXIR_REVIVE
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GHOSTLYELIXIR_REVIVE"
 msgid "A little bit of metaphysical meddling never hurt anyone."
-msgstr "형이상학에 손 좀 댄다고 위험할 거 하나도 없어."
+msgstr "초자연적인 거에 손 좀 댄다고 위험할 거 하나도 없어."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.GHOSTLYELIXIR_SHADOW
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GHOSTLYELIXIR_SHADOW"
 msgid "A little bit of metaphysical meddling never hurt anyone."
-msgstr "형이상학에 손 좀 댄다고 위험할 거 하나도 없어."
+msgstr "초자연적인 거에 손 좀 댄다고 위험할 거 하나도 없어."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.GHOSTLYELIXIR_SHIELD
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GHOSTLYELIXIR_SHIELD"
 msgid "A little bit of metaphysical meddling never hurt anyone."
-msgstr "형이상학에 손 좀 댄다고 위험할 거 하나도 없어."
+msgstr "초자연적인 거에 손 좀 댄다고 위험할 거 하나도 없어."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GHOSTLYELIXIR_SLOWREGEN"
 msgid "A little bit of metaphysical meddling never hurt anyone."
-msgstr "형이상학에 손 좀 댄다고 위험할 거 하나도 없어."
+msgstr "초자연적인 거에 손 좀 댄다고 위험할 거 하나도 없어."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.GHOSTLYELIXIR_SPEED
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GHOSTLYELIXIR_SPEED"
 msgid "A little bit of metaphysical meddling never hurt anyone."
-msgstr "형이상학에 손 좀 댄다고 위험할 거 하나도 없어."
+msgstr "초자연적인 거에 손 좀 댄다고 위험할 거 하나도 없어."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.GIFT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.GIFT"
@@ -80936,7 +80936,7 @@ msgstr "내놓을 만한 게 못 돼. 털이 들어가 있잖아!"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WORTOX_SOULJAR
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WORTOX_SOULJAR"
 msgid "Metaphysical snack jar."
-msgstr "형이상학적인 간식 통이야."
+msgstr "초자연적인 간식 통이야."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WURT.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WURT.ATTACKER"
@@ -161738,7 +161738,7 @@ msgstr "공격을 다른 차원으로 흘려보내는 보호용 장막이란다.
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMOR_VOIDCLOTH
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMOR_VOIDCLOTH"
 msgid "Armor against metaphysical damage."
-msgstr "형이상학적 피해를 막아주는 갑옷이란다."
+msgstr "초자연적 피해를 막아주는 갑옷이란다."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMOR_YOTH_KNIGHT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMOR_YOTH_KNIGHT"

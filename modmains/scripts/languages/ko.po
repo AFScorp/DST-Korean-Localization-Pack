@@ -157541,7 +157541,7 @@ msgstr "죽음을 뛰어넘을 수는 없어, %s!"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78.REVIVER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78.REVIVER"
 msgid "Abigail likes you, %s."
-msgstr "아비게일이 널 좋아하는걸, %s."
+msgstr "아비게일이 너 마음에 든대, %s."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_BEE
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78MODULE_BEE"

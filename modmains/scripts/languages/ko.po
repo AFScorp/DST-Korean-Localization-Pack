@@ -156370,7 +156370,7 @@ msgstr "잘 지내시나요, %s?"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WATHGRITHR.GHOST
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WATHGRITHR.GHOST"
 msgid "Come back, %s... Take my heart..."
-msgstr "돌아와요, %s... 내 심장을 가져가요..."
+msgstr "돌아와요, %s... 내가 심장 줄 테니까..."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WATHGRITHR.MURDERER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WATHGRITHR.MURDERER"

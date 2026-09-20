@@ -157166,7 +157166,7 @@ msgstr "절 못 잡는데 힘이 무슨 소용이신지..."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WOLFGANG.REVIVER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WOLFGANG.REVIVER"
 msgid "Don't be scared, %s. Abigail just wants to be friends."
-msgstr "겁 먹지 마세요, %s. 아비게일은 친구가 되고 싶을 뿐이에요."
+msgstr "겁 먹지 마세요, %s 씨. 아비게일은 친구가 되고 싶을 뿐이에요."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WOLFGANG_WHISTLE
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WOLFGANG_WHISTLE"
@@ -157211,7 +157211,7 @@ msgstr "오늘은 소나무 모자지만... 내일은 소나무 관이 될지도
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.ATTACKER"
 msgid "%s is plotting something dastardly with that axe."
-msgstr "%s가 저 도끼로 뭔가 위험한 짓을 꾸미는것 같아."
+msgstr "%s 아저씨가 저 도끼로 뭔가 위험한 짓을 꾸미는것 같아."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.BEAVER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.BEAVER"

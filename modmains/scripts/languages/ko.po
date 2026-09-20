@@ -157141,7 +157141,7 @@ msgstr "워비가 좋아해."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WOLFGANG.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WOLFGANG.ATTACKER"
 msgid "I don't trust %s. Fear makes people dangerous."
-msgstr "난 %s를 믿지 않아. 공포는 사람을 위험하게 만들지."
+msgstr "난 %s를 믿지 않아. 공포는 사람을 위험하게 만들거든."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WOLFGANG.FIRESTARTER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WOLFGANG.FIRESTARTER"

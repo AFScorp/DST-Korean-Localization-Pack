@@ -156470,7 +156470,7 @@ msgstr "걱정 마, %s. 별로 안 아플 거야."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WEBBER.REVIVER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WEBBER.REVIVER"
 msgid "You could never be a monster, %s."
-msgstr "넌 괴물일 리가 없겠구나, %s."
+msgstr "넌 역시 괴물일 수가 없구나, %s."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WEBBERSKULL
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WEBBERSKULL"

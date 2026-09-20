@@ -156255,7 +156255,7 @@ msgstr "애도를 표할게요, %s."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WARLY.MURDERER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WARLY.MURDERER"
 msgid "Your treachery ends here, %s."
-msgstr "당신 배반도 여기서 끝이에요, %s."
+msgstr "당신의 배신도 여기서 끝이에요, %s."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WARLY.REVIVER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WARLY.REVIVER"

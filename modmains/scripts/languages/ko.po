@@ -157531,7 +157531,7 @@ msgstr "잘 지내니, %s?"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78.GHOST
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78.GHOST"
 msgid "Say \"Pretty Please\" and I might get you a heart, %s."
-msgstr "\"부탁해요\"라고 빌면 생각해 볼게, %s."
+msgstr "\"부탁합니다\" 라고 빌면 생각해 볼게, %s."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78.MURDERER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78.MURDERER"

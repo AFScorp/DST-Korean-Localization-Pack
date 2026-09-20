@@ -156420,12 +156420,12 @@ msgstr "악명에 불을 붙이고 싶으신가 보네요?"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WAXWELL.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WAXWELL.GENERIC"
 msgid "How are you coping, %s?"
-msgstr "그간 무고하셨나요, %s?"
+msgstr "잘 지내고는 계시나요, %s?"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WAXWELL.GHOST
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WAXWELL.GHOST"
 msgid "Should I revive you, %s? Hmm..."
-msgstr "내가 당신을 부활시켜야 할까요, %s? 흐음..."
+msgstr "당신을 살려야 하는 걸까요, %s? 흐음..."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WAXWELL.MURDERER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WAXWELL.MURDERER"

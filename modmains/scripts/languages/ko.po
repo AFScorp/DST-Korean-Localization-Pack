@@ -156105,7 +156105,7 @@ msgstr "네 이를 갈아버리겠어."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WALTER.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WALTER.ATTACKER"
 msgid "I'll get you back for that, %s!"
-msgstr "받은 건 돌려주겠어, %s!"
+msgstr "당한 만큼 나도 돌려줄 거야, %s!"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WALTER.FIRESTARTER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WALTER.FIRESTARTER"
@@ -156125,7 +156125,7 @@ msgstr "아비게일이 너 만나고 싶어 죽겠다더라, %s."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WALTER.MURDERER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WALTER.MURDERER"
 msgid "It seems the killer was among us all along."
-msgstr "살인자는 내내 우리 중에 있었던 거구나."
+msgstr "살인자는 쭉 우리 중에 있었던 거구나."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WALTER.REVIVER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WALTER.REVIVER"

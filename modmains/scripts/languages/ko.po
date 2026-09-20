@@ -157521,7 +157521,7 @@ msgstr "양심은 있니, %s?"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78.FIRESTARTER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78.FIRESTARTER"
 msgid "I'd begun to think you were all talk, %s."
-msgstr "네가 전부 말해줬다고 생각했었는데, %s."
+msgstr "네가 점점 허풍쟁이로만 보이는구나, %s."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78.GENERIC"

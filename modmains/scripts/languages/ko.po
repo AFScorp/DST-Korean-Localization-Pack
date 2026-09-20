@@ -157236,12 +157236,12 @@ msgstr "잘 지내시나요, %s?"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.GHOST
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.GHOST"
 msgid "We'll get a heart, but are you sure you want to come back?"
-msgstr "심장을 가져다 드릴게요. 혹시 물어보는데, 정말 다시 돌아오시고 싶으신 거죠?"
+msgstr "심장 가져다 드릴게요. 혹시 물어보는데, 정말 원하시는 거 맞죠?"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.GOOSE
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.GOOSE"
 msgid "Hah... you look so silly I almost... well, never mind."
-msgstr "힛... 아저씨가 너무 우스꽝스러워서 그만... 아니다, 신경 쓰지 마세요."
+msgstr "힛... 아저씨가 너무 우스꽝스러워서 그만... 아, 아무 것도 아니에요."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.GOOSEGHOST
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.GOOSEGHOST"

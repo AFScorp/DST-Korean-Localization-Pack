@@ -157251,7 +157251,7 @@ msgstr "이 곳을 떠날 수 있는데 왜 머무르시는 건가요?"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.MOOSE
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.MOOSE"
 msgid "It looks like your condition has worsened, %s."
-msgstr "아저씨 상태가 악화된 모양이군요, %s."
+msgstr "상태가 악화되신 모양이군요, %s 아저씨."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.MOOSEGHOST
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.MOOSEGHOST"
@@ -157266,7 +157266,7 @@ msgstr "여기보다 나은 곳으로 보내드릴게요, %s."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.REVIVER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.REVIVER"
 msgid "Abigail likes you, %s. But she likes Lucy more."
-msgstr "아비게일이 아저씨를 좋아해요, %s. 근데 루시가 더 좋다네요."
+msgstr "아비게일이 %s 아저씨가 좋대요. 근데 루시가 더 좋다네요."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WOOD_CHAIR.BURNT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WOOD_CHAIR.BURNT"
@@ -157346,7 +157346,7 @@ msgstr "뭔가 어색한걸."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WORMWOOD.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WORMWOOD.ATTACKER"
 msgid "%s has developed a taste for blood."
-msgstr "%s는 피의 맛을 알게 되었어."
+msgstr "%s가 피의 맛을 알아버렸어."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WORMWOOD.FIRESTARTER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WORMWOOD.FIRESTARTER"

@@ -155880,7 +155880,7 @@ msgstr "나도 감정 없는 기계가 된다면 얼마나 좋을까."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WAGPUNK_BITS
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WAGPUNK_BITS"
 msgid "Only parts of a greater whole. Just like me."
-msgstr "그저 더 큰 무언가의 일부일 뿐이야. 나와 같은 처지."
+msgstr "그저 더 큰 무언가의 일부일 뿐이야. 비슷한 처지네."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WAGPUNK_CAGEWALL
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WAGPUNK_CAGEWALL"

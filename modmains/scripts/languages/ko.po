@@ -157151,12 +157151,12 @@ msgstr "불로는 몸을 지킬 수 없을 거에요, %s."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WOLFGANG.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WOLFGANG.GENERIC"
 msgid "Hi %s. Why are you shaking?"
-msgstr "안녕하신가요 %s. 왜 떨고 계세요?"
+msgstr "안녕하신가요 %s 아저씨. 왜 떨고 계세요?"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WOLFGANG.GHOST
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WOLFGANG.GHOST"
 msgid "%s... Everyone leaves..."
-msgstr "%s 씨... 모두들 날 떠나고 있어..."
+msgstr "%s 아저씨... 모두들 날 떠나고 있어..."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WOLFGANG.MURDERER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WOLFGANG.MURDERER"

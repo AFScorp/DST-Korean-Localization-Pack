@@ -156040,12 +156040,12 @@ msgstr "돌 자체에 귀신이 들린 건가?"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WALL_SCRAP
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WALL_SCRAP"
 msgid "If junk can find new purpose, maybe... nah."
-msgstr "쓰레기도 새 목적을 찾을 수 있다면, 어쩌면... 됐다."
+msgstr "쓰레기도 새 용도를 찾을 수 있다니, 어쩌면... 됐다."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WALL_SCRAP_ITEM
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WALL_SCRAP_ITEM"
 msgid "If junk can find new purpose, maybe... nah."
-msgstr "쓰레기도 새 목적을 찾을 수 있다면, 어쩌면... 됐다."
+msgstr "쓰레기도 새 용도를 찾을 수 있다니, 어쩌면... 됐다."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WALL_STONE
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WALL_STONE"
@@ -156060,7 +156060,7 @@ msgstr "안에 있는 것은 무엇으로 막아야 할까?"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WALL_STONE_ITEM
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WALL_STONE_ITEM"
 msgid "These won't protect from the demons within."
-msgstr "이걸론 내면 안의 악마들로부터 안전할 수 없어."
+msgstr "이걸론 내면의 악마들로부터 안전할 수 없어."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WALL_WOOD.BURNT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WALL_WOOD.BURNT"

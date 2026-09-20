@@ -156490,7 +156490,7 @@ msgstr "장미의 가시를 지녔으나 그 멋은 어디도 없었구나."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WENDY.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WENDY.ATTACKER"
 msgid "%s... she's no sister of mine."
-msgstr "%s... 그녀는 내 자매가 아니야."
+msgstr "%s... 그 아이는 내 자매가 아니야."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WENDY.FIRESTARTER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WENDY.FIRESTARTER"
@@ -156505,7 +156505,7 @@ msgstr "무척 슬퍼 보여..."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WENDY.GHOST
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WENDY.GHOST"
 msgid "At least a heart could return one sister to this world..."
-msgstr "심장이 적어도 둘 둥 한 쪽이나마 되살려줄 테니..."
+msgstr "적어도 둘 중 한 쪽이나마 심장이 되살려줄 수 있겠지..."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WENDY.MURDERER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WENDY.MURDERER"

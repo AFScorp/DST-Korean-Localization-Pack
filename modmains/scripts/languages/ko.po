@@ -156991,7 +156991,7 @@ msgstr "널 먹어버리겠어."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WINTER_FOOD2
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WINTER_FOOD2"
 msgid "Not nearly sweet enough to balance out this bitter world."
-msgstr "이 쓰디쓴 세상에 균형을 맞춰줄 정도로 달콤하진 않아."
+msgstr "이 쓰디쓴 세상을 상쇄하기에는 턱없이 부족한 달콤함이야."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WINTER_FOOD3
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WINTER_FOOD3"

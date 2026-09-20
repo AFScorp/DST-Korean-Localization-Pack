@@ -156570,7 +156570,7 @@ msgstr "아비게일은 당신을 이해할 수 있대요, %s."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WETGOOP
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WETGOOP"
 msgid "A miserable mess, just like life."
-msgstr "삶이 그렇듯이, 끔찍하게 엉망이야."
+msgstr "끔찍하게 엉망인 것이 삶과 똑같아."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WETPAPER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WETPAPER"
@@ -156585,7 +156585,7 @@ msgstr "밑바닥으로부터 왔어."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WHIP
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WHIP"
 msgid "It only provides the illusion of control."
-msgstr "제어할 수 있다는 환상만을 심어줄 뿐이야."
+msgstr "통제할 수 있다는 환상만을 심어줄 뿐이야."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WICKERBOTTOM.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WICKERBOTTOM.ATTACKER"

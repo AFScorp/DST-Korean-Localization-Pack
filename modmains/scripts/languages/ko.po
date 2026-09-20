@@ -156645,7 +156645,7 @@ msgstr "큰 실수 하신 거에요, %s."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WILLOW.REVIVER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WILLOW.REVIVER"
 msgid "Abigail likes you, %s. Do you like her?"
-msgstr "아비게일이 %s 언니를 좋아하네요. 언니도 아비게일이 좋아요?"
+msgstr "아비게일이 좋아하네요, %s. 언니도 아비게일이 좋아요?"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WILLOW_EMBER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WILLOW_EMBER"

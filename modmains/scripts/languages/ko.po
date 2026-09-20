@@ -156590,7 +156590,7 @@ msgstr "통제할 수 있다는 환상만을 심어줄 뿐이야."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WICKERBOTTOM.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WICKERBOTTOM.ATTACKER"
 msgid "Ms. %s... do you turn your wits against us?"
-msgstr "%s 씨... 당신의 지혜로 우리에게 맞서는 건가요?"
+msgstr "%s 씨... 지금 당신의 지혜를 저희에게 겨누시는 건가요?"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WICKERBOTTOM.FIRESTARTER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WICKERBOTTOM.FIRESTARTER"
@@ -156605,7 +156605,7 @@ msgstr "잘 지내시나요, %s 씨?"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WICKERBOTTOM.GHOST
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WICKERBOTTOM.GHOST"
 msgid "Everyone that leaves takes a piece of my heart..."
-msgstr "떠나는 이들마다 내 마음을 떼어가네..."
+msgstr "떠나는 이들마다 내 마음을 조각내는구나..."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WICKERBOTTOM.MURDERER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WICKERBOTTOM.MURDERER"

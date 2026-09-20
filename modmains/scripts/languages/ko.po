@@ -157351,7 +157351,7 @@ msgstr "%s가 피의 맛을 알아버렸어."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WORMWOOD.FIRESTARTER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WORMWOOD.FIRESTARTER"
 msgid "If you play with fire, you're liable to get burned..."
-msgstr "네가 불장난을 한다면 쉽게 탈 텐데..."
+msgstr "너 불장난 하다가는 몸에 불 붙을 텐데..."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WORMWOOD.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WORMWOOD.GENERIC"
@@ -157506,12 +157506,12 @@ msgstr "너 정말 친절하구나, %s."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WURT_SWAMPITEM_LUNAR
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WURT_SWAMPITEM_LUNAR"
 msgid "Sigh. Isn't the regular swamp bad enough?"
-msgstr "에휴. 평범한 늪은 충분히 나쁘지 않았던 거야?"
+msgstr "에휴. 그냥 늪만으로도 끔찍하지 않았니?"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WURT_SWAMPITEM_SHADOW
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WURT_SWAMPITEM_SHADOW"
 msgid "Sigh. Isn't the regular swamp bad enough?"
-msgstr "에휴. 평범한 늪은 충분히 나쁘지 않았던 거야?"
+msgstr "에휴. 그냥 늪만으로도 끔찍하지 않았니?"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78.ATTACKER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78.ATTACKER"

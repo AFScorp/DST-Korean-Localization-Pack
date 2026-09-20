@@ -156260,7 +156260,7 @@ msgstr "당신의 배신도 여기서 끝이에요, %s."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WARLY.REVIVER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WARLY.REVIVER"
 msgid "Sometimes he shows he cares without cooking."
-msgstr "가끔은 요리가 아니어도 잘 챙겨준다는 걸 보여주신다니까."
+msgstr "가끔은 요리 외의 방법으로도 아끼는 마음을 표현하시는구나."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WAR_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WAR_BLUEPRINT"
@@ -156275,7 +156275,7 @@ msgstr "증오의 요새 속에 숨어 있구나."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WATERBALLOON
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WATERBALLOON"
 msgid "At any moment it could pop and spill its guts."
-msgstr "언제라도 터져서 내장을 흩뿌릴 수 있어."
+msgstr "언제라도 터져서 내장을 흩뿌릴지 몰라."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WATERINGCAN.EMPTY
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WATERINGCAN.EMPTY"

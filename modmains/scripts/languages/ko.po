@@ -374378,7 +374378,7 @@ msgctxt "STRINGS.SKILLTREE.WX78.WX78_ALPHA_CIRCUIT_BUFFS_1_DESC"
 msgid ""
 "Processing Circuits gain a new effect in addition to their original effect. "
 "Gastrogain Circuits are boosted."
-msgstr "연산 회로에 새로운 기능이 추가됩니다. 소화기 확장 회로의 성능이 강화됩니다."
+msgstr "(초)연산 회로에 새로운 기능이 추가됩니다. 소화기 (초)확장 회로의 성능이 강화됩니다."
 
 #. STRINGS.SKILLTREE.WX78.WX78_ALPHA_CIRCUIT_BUFFS_1_TITLE
 msgctxt "STRINGS.SKILLTREE.WX78.WX78_ALPHA_CIRCUIT_BUFFS_1_TITLE"
@@ -374391,7 +374391,7 @@ msgid ""
 "Hardy Circuits, Processing Circuits, and Beanbooster Circuit gain a new "
 "effect in addition to their original effect. Gastrogain Circuits are "
 "boosted."
-msgstr "체력 증진 회로, 연산 회로, 빈부스터 회로에 새로운 기능이 추가됩니다. 소화기 확장 회로의 성능이 강화됩니다."
+msgstr "체력 (초)증진 회로, (초)연산 회로, 빈부스터 회로에 새로운 기능이 추가됩니다. 소화기 확장 회로의 성능이 강화됩니다."
 
 #. STRINGS.SKILLTREE.WX78.WX78_ALPHA_CIRCUIT_BUFFS_2_TITLE
 msgctxt "STRINGS.SKILLTREE.WX78.WX78_ALPHA_CIRCUIT_BUFFS_2_TITLE"

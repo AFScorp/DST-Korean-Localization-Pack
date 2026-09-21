@@ -362412,7 +362412,7 @@ msgstr "배송비 전액 무료."
 msgctxt "STRINGS.RECIPE_DESC.WX78_DRONE_SCOUT"
 msgid "Explore uncharted lands with this brave little robo-scout."
 msgstr ""
-"꼬마 로봇 정찰병과 함께\n"
+"용감한 꼬마 로봇 정찰병과\n"
 "미지의 땅을 탐험하세요"
 
 #. STRINGS.RECIPE_DESC.WX78_DRONE_ZAP_REMOTE
@@ -374602,7 +374602,7 @@ msgstr ""
 #. STRINGS.SKILLTREE.WX78.WX78_REMOTEBODYSWAP_DESC
 msgctxt "STRINGS.SKILLTREE.WX78.WX78_REMOTEBODYSWAP_DESC"
 msgid "Remotely Transfer Consciousness to any Backup Chassis on the map."
-msgstr "지도상에서 예비 동체에 원격으로 의식을 이전할 수 있습니다."
+msgstr "지도를 통해 예비 동체에 원격으로 의식을 이전할 수 있습니다."
 
 #. STRINGS.SKILLTREE.WX78.WX78_REMOTEBODYSWAP_TITLE
 msgctxt "STRINGS.SKILLTREE.WX78.WX78_REMOTEBODYSWAP_TITLE"

@@ -171649,7 +171649,7 @@ msgstr "내부 구조가 손상되기는 했지만 회복할 수는 있겠구나
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_SWAMPIG
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_SWAMPIG"
 msgid "What a magnificent subspecies!"
-msgstr "참으로 훌륭한 아종이구나!"
+msgstr "참 멋진 아종이구나!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_SWAMPIGELDER.GENERIC
 msgctxt ""
@@ -375637,7 +375637,7 @@ msgstr "가장 우직한 전사들에게만 자격이 주어집니다."
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_horn_beast
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_horn_beast"
 msgid "Magnificent horns of shining gold."
-msgstr "반짝이는 금으로 된 멋진 뿔."
+msgstr "반짝이는 금으로 된 근사한 뿔."
 
 #. STRINGS.SKIN_DESCRIPTIONS.beefalo_horn_doll
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beefalo_horn_doll"

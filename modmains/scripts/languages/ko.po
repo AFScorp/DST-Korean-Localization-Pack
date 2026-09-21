@@ -452926,7 +452926,7 @@ msgstr "아주 좋아! 내 작품에는 적합한 에너지원이 필요해!"
 msgctxt "STRINGS.WAGSTAFF_WAGPUNK_ARENA_CONSTRUCT.3"
 msgid ""
 "Good. Use a Phasmo-Encapsulator to capture an entity to power my creation!"
-msgstr "좋아. 독립체 포획기로 내 작품의 동력원이 될 독립체를 잡아와 주게!"
+msgstr "좋아. 심령체 포획기로 내 작품의 동력원이 될 독립체를 잡아와 주게!"
 
 #. STRINGS.WAGSTAFF_WAGPUNK_ARENA_CONSTRUCT_BIGONE.1
 msgctxt "STRINGS.WAGSTAFF_WAGPUNK_ARENA_CONSTRUCT_BIGONE.1"

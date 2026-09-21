@@ -110136,7 +110136,7 @@ msgstr "불쌍하기도 한 녀석, 참 천박한 옷을 입고 있군."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.KLAUS
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.KLAUS"
 msgid "My, what a magnificently horrific creature."
-msgstr "맙소사, 정말 장대하게도 끔찍한 생물이군."
+msgstr "맙소사, 정말 놀라울 정도로 끔찍한 생물이군."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.KLAUSSACKKEY
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.KLAUSSACKKEY"

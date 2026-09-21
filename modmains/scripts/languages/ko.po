@@ -374440,7 +374440,7 @@ msgctxt "STRINGS.SKILLTREE.WX78.WX78_BETTER_UNPLUG_DESC"
 msgid ""
 "Gain the ability to unplug any circuit in the bar stack, and circuits will "
 "lose half the usual amount of durability when unplugged."
-msgstr "회로를 자유롭게 탈거할 수 있습니다. 또한 회로 제거 시의 내구도 소모가 원래의 절반으로 줄어듭니다."
+msgstr "회로를 자유롭게 탈거할 수 있습니다. 또한 회로 제거 시의 내구도 소모량이 절반으로 줄어듭니다."
 
 #. STRINGS.SKILLTREE.WX78.WX78_BETTER_UNPLUG_TITLE
 msgctxt "STRINGS.SKILLTREE.WX78.WX78_BETTER_UNPLUG_TITLE"

@@ -374450,7 +374450,7 @@ msgstr "개조할 권리"
 #. STRINGS.SKILLTREE.WX78.WX78_BODYCIRCUITS_DESC
 msgctxt "STRINGS.SKILLTREE.WX78.WX78_BODYCIRCUITS_DESC"
 msgid "Backup Chassis keep their Beta Circuits active even when powered down."
-msgstr "예비 동체 전원이 꺼져 있어도 베타 회로가 작동합니다."
+msgstr "예비 동체가 전원이 꺼진 상태에서도 베타 회로의 효과를 유지합니다."
 
 #. STRINGS.SKILLTREE.WX78.WX78_BODYCIRCUITS_TITLE
 msgctxt "STRINGS.SKILLTREE.WX78.WX78_BODYCIRCUITS_TITLE"
@@ -374559,7 +374559,7 @@ msgctxt "STRINGS.SKILLTREE.WX78.WX78_GHOSTREVIVE_1_DESC"
 msgid ""
 "Haunting a Backup Chassis transfers your consciousness into it, consuming "
 "all of the chassis' charge units."
-msgstr "예비 동체에 빙의하면 해당 예비 동체로 의식을 이전하고 해당 동체의 전력을 모두 소모합니다."
+msgstr "예비 동체에 빙의하면 해당 예비 동체로 의식을 이전하고 저장된 전력을 모두 소모합니다."
 
 #. STRINGS.SKILLTREE.WX78.WX78_GHOSTREVIVE_1_TITLE
 msgctxt "STRINGS.SKILLTREE.WX78.WX78_GHOSTREVIVE_1_TITLE"

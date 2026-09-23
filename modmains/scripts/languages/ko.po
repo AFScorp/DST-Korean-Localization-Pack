@@ -423737,7 +423737,7 @@ msgstr "네 말이 맞았어, 대장장이야."
 #. STRINGS.STAGEACTOR.SAGE_SOLILOQUY.1
 msgctxt "STRINGS.STAGEACTOR.SAGE_SOLILOQUY.1"
 msgid "Ye haven't a clue what's coming"
-msgstr "무엇이 오고 있는지 모르겠는가."
+msgstr "무엇이 오고 있는지 알고 있는가?"
 
 #. STRINGS.STAGEACTOR.SAGE_SOLILOQUY.2
 msgctxt "STRINGS.STAGEACTOR.SAGE_SOLILOQUY.2"

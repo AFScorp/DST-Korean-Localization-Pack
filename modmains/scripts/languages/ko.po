@@ -359785,7 +359785,7 @@ msgstr "깃펜으로 그리세요."
 #. STRINGS.RECIPE_DESC.MOLEHAT
 msgctxt "STRINGS.RECIPE_DESC.MOLEHAT"
 msgid "Grants the wearer Smell-E-Vision."
-msgstr "착용자에게 냄새비전을 제공."
+msgstr "착용자에게 냄새비전을 제공합니다."
 
 #. STRINGS.RECIPE_DESC.MOONBUTTERFLY
 msgctxt "STRINGS.RECIPE_DESC.MOONBUTTERFLY"
@@ -365149,7 +365149,7 @@ msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.MOLEHAT"
 msgid ""
 "Allows wearer to view the world in a night vision mode that can see in the "
 "dark."
-msgstr "착용 시 어둠 속에서도 볼 수 있는 나이트 비전으로 세상을 보게 된다."
+msgstr "착용 시 야간 투시 능력을 얻어 어둠 속에서도 세상을 볼 수 있다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.MONKEYISLANDPORTAL
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.MONKEYISLANDPORTAL"

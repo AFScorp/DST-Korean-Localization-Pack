@@ -95457,7 +95457,7 @@ msgstr "비프로스트는 아닐지라도 쓸모는 있을 터."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ROSEGLASSESHAT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ROSEGLASSESHAT.GENERIC"
 msgid "They reveal visions to my ally. I just hope she remains wary."
-msgstr "내 전우에게 환상을 보여주는군. 경계심만은 가졌기를 바랄 수밖에."
+msgstr "내 전우에게 환상을 보여주는군. 경계심만은 가지기를 바랄 수밖에."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ROSEGLASSESHAT.MISSINGSKILL
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ROSEGLASSESHAT.MISSINGSKILL"

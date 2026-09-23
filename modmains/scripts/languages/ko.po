@@ -85218,7 +85218,7 @@ msgstr "저주받은 눈이여! 내 무기로 내 너를 꿰뚫어주마!"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ATRIUM_KEY
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ATRIUM_KEY"
 msgid "Heimdallr's key to the Bifrost."
-msgstr "비프로스트를 여는 헤임달의 열쇠."
+msgstr "비프로스트를 여는 헤임달의 열쇠로군."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ATRIUM_LIGHT.OFF
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ATRIUM_LIGHT.OFF"

@@ -424217,7 +424217,7 @@ msgstr "자유다 자유우우!"
 #. STRINGS.STAGEACTOR.THEVEIL.LINE2_SAGE
 msgctxt "STRINGS.STAGEACTOR.THEVEIL.LINE2_SAGE"
 msgid "We three be heralds of our tenebrous provider."
-msgstr "우리는 우리를 굽어살피시는 어둠의 그분의 전령이라네."
+msgstr "우리는 어둠 속에서 우리를 굽어살피시는 분의 전령이라네."
 
 #. STRINGS.STAGEACTOR.THEVEIL.LINE30_SAGE
 msgctxt "STRINGS.STAGEACTOR.THEVEIL.LINE30_SAGE"
@@ -424272,7 +424272,7 @@ msgstr "눈 깜빡이는 건 괜찮아."
 #. STRINGS.STAGEACTOR.THEVEIL.LINE3_TOADY
 msgctxt "STRINGS.STAGEACTOR.THEVEIL.LINE3_TOADY"
 msgid "Ooooh... tenebrous!"
-msgstr "오오오... 어둠이시여!"
+msgstr "오오오... 어둠이시어!"
 
 #. STRINGS.STAGEACTOR.THEVEIL.LINE40_HALFWIT
 msgctxt "STRINGS.STAGEACTOR.THEVEIL.LINE40_HALFWIT"

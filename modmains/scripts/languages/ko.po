@@ -423532,7 +423532,7 @@ msgstr "저게 누구지?"
 #. STRINGS.STAGEACTOR.PRINCESS_SOLILOQUY.BIRD1_3
 msgctxt "STRINGS.STAGEACTOR.PRINCESS_SOLILOQUY.BIRD1_3"
 msgid "A queen? More like a spoiled princess!"
-msgstr "여왕? 그보다는 철없는 공주 같은데!"
+msgstr "무슨 말이야? 철없는 공주 같은데!"
 
 #. STRINGS.STAGEACTOR.PRINCESS_SOLILOQUY.BIRD1_5
 msgctxt "STRINGS.STAGEACTOR.PRINCESS_SOLILOQUY.BIRD1_5"
@@ -423542,7 +423542,7 @@ msgstr "진정하셔요, 공주님. 금방 올 텐데 뭐."
 #. STRINGS.STAGEACTOR.PRINCESS_SOLILOQUY.BIRD2_2
 msgctxt "STRINGS.STAGEACTOR.PRINCESS_SOLILOQUY.BIRD2_2"
 msgid "She looks... equine."
-msgstr "여, 왕 말인가 본데."
+msgstr "아마... 여왕 말인가?"
 
 #. STRINGS.STAGEACTOR.PRINCESS_SOLILOQUY.BIRD2_6
 msgctxt "STRINGS.STAGEACTOR.PRINCESS_SOLILOQUY.BIRD2_6"

@@ -17464,7 +17464,7 @@ msgstr "저자: \"E.\"?"
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.PLAYBILL_THE_VEIL
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.PLAYBILL_THE_VEIL"
 msgid "\"Brought to you by the Heralds of Tenebrau.\""
-msgstr "\"어둠의 전령들이 여러분께 전해드립니다.\""
+msgstr "\"테네브로의 전령들이 여러분께 전해드립니다.\""
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.PLAYER.ATTACKER
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.PLAYER.ATTACKER"
@@ -350923,7 +350923,7 @@ msgstr "공허의 가면"
 #. STRINGS.NAMES.SHADOWTHRALL_PARASITE_ALLEGIANCE
 msgctxt "STRINGS.NAMES.SHADOWTHRALL_PARASITE_ALLEGIANCE"
 msgid "Herald of Tenebrau"
-msgstr "어둠의 전령"
+msgstr "테네브로의 전령"
 
 #. STRINGS.NAMES.SHADOWTHRALL_WINGS
 msgctxt "STRINGS.NAMES.SHADOWTHRALL_WINGS"
@@ -366163,7 +366163,7 @@ msgstr "그림자가 스며나오는 일방통행 포탈. 점점 성장했다가
 #. STRINGS.SCRAPBOOK.SPECIALINFO.SHADOWTHRALL_CENTIPEDE_HEAD
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.SHADOWTHRALL_CENTIPEDE_HEAD"
 msgid "Dense and unyielding, it will take great effort to crack its shell."
-msgstr "외피는 고밀도의 완강한 재질로 되어 있어 부수려면 매우 많은 노력이 필요하다."
+msgstr "외피가 고밀도의 단단한 물질로 구성되어, 부수려면 매우 많은 노력이 필요하다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.SHADOWTHRALL_MOUTH
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.SHADOWTHRALL_MOUTH"
@@ -368257,7 +368257,7 @@ msgstr "꾸벅꾸벅 잠옷 앙상블"
 #. STRINGS.SHADOWTHRALL_PARASITE_CHANT.1
 msgctxt "STRINGS.SHADOWTHRALL_PARASITE_CHANT.1"
 msgid "Tenebrau"
-msgstr "테네브로"
+msgstr "테네브로``"
 
 #. STRINGS.SHADOWTHRALL_PARASITE_CHANT.10
 msgctxt "STRINGS.SHADOWTHRALL_PARASITE_CHANT.10"

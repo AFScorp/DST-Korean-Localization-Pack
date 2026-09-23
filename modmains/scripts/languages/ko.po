@@ -423297,7 +423297,7 @@ msgstr "주신 사명 마치지 못함에 가슴이 찢어지옵나이다."
 #. STRINGS.STAGEACTOR.ELYTRA_SOLILOQUY.12
 msgctxt "STRINGS.STAGEACTOR.ELYTRA_SOLILOQUY.12"
 msgid "Cast Thy curse upon me,"
-msgstr "소신을 저주하여 주시옵소서."
+msgstr "소신을 원망하여 주시옵소서."
 
 #. STRINGS.STAGEACTOR.ELYTRA_SOLILOQUY.13
 msgctxt "STRINGS.STAGEACTOR.ELYTRA_SOLILOQUY.13"

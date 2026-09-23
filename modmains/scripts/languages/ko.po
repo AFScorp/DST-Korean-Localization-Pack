@@ -423837,7 +423837,7 @@ msgstr "그 동안 그대를 섬길 수 있어 영광이었네."
 #. STRINGS.STAGEACTOR.THEVAULT.LINE17_ARTIFICER
 msgctxt "STRINGS.STAGEACTOR.THEVAULT.LINE17_ARTIFICER"
 msgid "How many molts have passed in this service?"
-msgstr "그동안 얼마나 많이도 탈피를 했었던가?"
+msgstr "그동안 얼마나 많이도 허물을 벗었던가?"
 
 #. STRINGS.STAGEACTOR.THEVAULT.LINE18_ELYTRA
 msgctxt "STRINGS.STAGEACTOR.THEVAULT.LINE18_ELYTRA"

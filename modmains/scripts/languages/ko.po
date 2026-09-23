@@ -4594,7 +4594,7 @@ msgstr "나무"
 #. STRINGS.CAST.VISIONIST
 msgctxt "STRINGS.CAST.VISIONIST"
 msgid "The Visionist"
-msgstr "선지자"
+msgstr "선견자"
 
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.CARNIVAL_HOST_HERE
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ACTIVATE.CARNIVAL_HOST_HERE"
@@ -346769,7 +346769,7 @@ msgstr "부드러운 감자 퓌레"
 #. STRINGS.NAMES.MASK_ANCIENT_ARCHITECTHAT
 msgctxt "STRINGS.NAMES.MASK_ANCIENT_ARCHITECTHAT"
 msgid "Visionist's Mask"
-msgstr "선지자의 가면"
+msgstr "선견자의 가면"
 
 #. STRINGS.NAMES.MASK_ANCIENT_HANDMAIDHAT
 msgctxt "STRINGS.NAMES.MASK_ANCIENT_HANDMAIDHAT"
@@ -423972,7 +423972,7 @@ msgstr "속이 뜨거워..."
 #. STRINGS.STAGEACTOR.THEVAULT.LINE41_ARTIFICER
 msgctxt "STRINGS.STAGEACTOR.THEVAULT.LINE41_ARTIFICER"
 msgid "Visionist!"
-msgstr "선지자여!"
+msgstr "선견자여!"
 
 #. STRINGS.STAGEACTOR.THEVAULT.LINE42_VISIONIST
 msgctxt "STRINGS.STAGEACTOR.THEVAULT.LINE42_VISIONIST"
@@ -424027,7 +424027,7 @@ msgstr "기술자여, 내게 무슨 짓이냐고 물었는가."
 #. STRINGS.STAGEACTOR.THEVAULT.LINE55_ELYTRA
 msgctxt "STRINGS.STAGEACTOR.THEVAULT.LINE55_ELYTRA"
 msgid "Unlike our beloved Visionist,"
-msgstr "우리의 친애하는 선지자와는 달리,"
+msgstr "우리의 친애하는 선견자와는 달리,"
 
 #. STRINGS.STAGEACTOR.THEVAULT.LINE56_ELYTRA
 msgctxt "STRINGS.STAGEACTOR.THEVAULT.LINE56_ELYTRA"
@@ -424102,7 +424102,7 @@ msgstr "이 방들 속에 담긴 그대의 선견지명 또한,"
 #. STRINGS.STAGEACTOR.THEVAULT.LINE9_ELYTRA
 msgctxt "STRINGS.STAGEACTOR.THEVAULT.LINE9_ELYTRA"
 msgid "than yours within these chambers, dear Visionist."
-msgstr "그 이상으로 뛰어날 수가 없다네, 선지자여."
+msgstr "그 이상으로 뛰어날 수가 없다네, 선견자여."
 
 #. STRINGS.STAGEACTOR.THEVEIL.BIRD1_1
 msgctxt "STRINGS.STAGEACTOR.THEVEIL.BIRD1_1"
@@ -424382,7 +424382,7 @@ msgstr "브라보! 정말 훌륭해!"
 #. STRINGS.STAGEACTOR.VISIONIST_SOLILOQUY.1
 msgctxt "STRINGS.STAGEACTOR.VISIONIST_SOLILOQUY.1"
 msgid "And now, the Visionist..."
-msgstr "자, 이번엔 선지자 등장..."
+msgstr "자, 이번엔 선견자 등장..."
 
 #. STRINGS.STAGEACTOR.VISIONIST_SOLILOQUY.10
 msgctxt "STRINGS.STAGEACTOR.VISIONIST_SOLILOQUY.10"
@@ -424422,7 +424422,7 @@ msgstr "하 하 하 하 하!"
 #. STRINGS.STAGEACTOR.VISIONIST_SOLILOQUY.2
 msgctxt "STRINGS.STAGEACTOR.VISIONIST_SOLILOQUY.2"
 msgid "Visionist? Can he see that we're bored?"
-msgstr "선지자? 우리가 지루해할 것도 선지했을까?"
+msgstr "선견자? 우리가 지루해할 것도 선견했을까?"
 
 #. STRINGS.STAGEACTOR.VISIONIST_SOLILOQUY.3
 msgctxt "STRINGS.STAGEACTOR.VISIONIST_SOLILOQUY.3"
@@ -425552,7 +425552,7 @@ msgstr "우리는 오만의 대가를 치러야 했다."
 msgctxt "STRINGS.STALKER_NPC_INSPECT.ANCIENT_HUSK_ARCHITECT.1"
 msgid ""
 "Visionist! What filled this chalice from which you took your final sip?"
-msgstr "선지자여! 그대의 마지막 주배에 채워진 것은 무엇이었는가?"
+msgstr "선견자여! 그대의 마지막 주배에 채워진 것은 무엇이었는가?"
 
 #. STRINGS.STALKER_NPC_INSPECT.ANCIENT_HUSK_ARCHITECT.2
 msgctxt "STRINGS.STALKER_NPC_INSPECT.ANCIENT_HUSK_ARCHITECT.2"
@@ -425794,7 +425794,7 @@ msgstr "어디서 얻은 것인가?"
 #. STRINGS.STALKER_NPC_INSPECT.MASK_ANCIENT_ARCHITECTHAT.3
 msgctxt "STRINGS.STALKER_NPC_INSPECT.MASK_ANCIENT_ARCHITECTHAT.3"
 msgid "Dear Visionist..."
-msgstr "아아, 선지자여..."
+msgstr "아아, 선견자여..."
 
 #. STRINGS.STALKER_NPC_INSPECT.MASK_ANCIENT_ARCHITECTHAT.4
 msgctxt "STRINGS.STALKER_NPC_INSPECT.MASK_ANCIENT_ARCHITECTHAT.4"

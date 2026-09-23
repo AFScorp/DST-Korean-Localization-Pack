@@ -423757,7 +423757,7 @@ msgstr "그럴 순 없지!"
 #. STRINGS.STAGEACTOR.SAGE_SOLILOQUY.5
 msgctxt "STRINGS.STAGEACTOR.SAGE_SOLILOQUY.5"
 msgid "Ye'll have to wait 'til we're complete!"
-msgstr "우리가 전부 끝마칠 때까지 기다리시게!"
+msgstr "우리가 전부 모일 때까지 기다리시게!"
 
 #. STRINGS.STAGEACTOR.SAGE_SOLILOQUY.6
 msgctxt "STRINGS.STAGEACTOR.SAGE_SOLILOQUY.6"

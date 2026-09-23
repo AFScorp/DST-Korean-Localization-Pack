@@ -366170,7 +366170,7 @@ msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.SHADOWTHRALL_MOUTH"
 msgid ""
 "It lurks in the shadows... You'll need to find a way to expose it before you"
 " can attack it."
-msgstr "어둠 속에 숨어 다니는 녀석들... 공격하려면 녀석들의 실체를 드러나게 할 방법부터 찾아야 한다."
+msgstr "어둠 속에 숨어 다닌다... 공격하려면 녀석들의 실체를 드러나게 할 방법부터 찾아야 한다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.SHADOW_BATTLEAXE
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.SHADOW_BATTLEAXE"
@@ -368257,7 +368257,7 @@ msgstr "꾸벅꾸벅 잠옷 앙상블"
 #. STRINGS.SHADOWTHRALL_PARASITE_CHANT.1
 msgctxt "STRINGS.SHADOWTHRALL_PARASITE_CHANT.1"
 msgid "Tenebrau"
-msgstr "어둠의 그분"
+msgstr "테네브로"
 
 #. STRINGS.SHADOWTHRALL_PARASITE_CHANT.10
 msgctxt "STRINGS.SHADOWTHRALL_PARASITE_CHANT.10"

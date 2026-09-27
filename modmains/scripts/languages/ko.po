@@ -334380,6 +334380,8 @@ msgid ""
 "It appears Don't Starve Together has crashed.\n"
 "Please visit our support page for fixes to common problems: <a>https://support.klei.com</a>"
 msgstr ""
+"Don't Starve Together가 충돌이 일어난 것 같습니다.\n"
+"자주 일어나는 문제에 대해서는 고객지원 페이지를 방문하여 해결하세요:<a>https://support.klei.com</a>"
 
 #. STRINGS.EXTERNAL.CRASHREPORTER.IDS_ERROR
 msgctxt "STRINGS.EXTERNAL.CRASHREPORTER.IDS_ERROR"

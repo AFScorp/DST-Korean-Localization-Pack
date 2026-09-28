@@ -362861,7 +362861,9 @@ msgctxt "STRINGS.RECIPE_DESC.WURT_SWAMPITEM_SHADOW"
 msgid ""
 "Bring home turf advantage to any fight, along with some writhing "
 "reinforcements."
-msgstr "홈그라운드의 이점을 어디서나, 지원군은 덤."
+msgstr ""
+"홈그라운드의 이점을 어디서나,\n"
+"꿈틀거리는 지원군과 함께."
 
 #. STRINGS.RECIPE_DESC.WX78MODULE_BEE
 msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_BEE"

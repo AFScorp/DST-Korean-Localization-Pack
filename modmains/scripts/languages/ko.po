@@ -362854,7 +362854,7 @@ msgctxt "STRINGS.RECIPE_DESC.WURT_SWAMPITEM_LUNAR"
 msgid ""
 "Transform the battlefield and your fearless followers with a mind-altering, "
 "mutating bang!"
-msgstr "정신을 뒤흔드는 변이의 한 방을 전장과 동료들에게!"
+msgstr "정신을 뒤흔드는 변이의 폭발을 전장과 동료들에게!"
 
 #. STRINGS.RECIPE_DESC.WURT_SWAMPITEM_SHADOW
 msgctxt "STRINGS.RECIPE_DESC.WURT_SWAMPITEM_SHADOW"

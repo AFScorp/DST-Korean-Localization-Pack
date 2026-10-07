@@ -6397,6 +6397,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_DISCHARGE"
 msgid "only_used_by_wx78"
 msgstr "only_used_by_wx78"
 
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING"
+msgid "It's about to blow, my mind!"
+msgstr "It's about to blow, my mind!"
+
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_DUSK"
 msgid "It's getting late. It will be dark soon."
@@ -7713,6 +7718,11 @@ msgstr "only_used_by_wortox"
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_SPOOKED"
 msgid "Ah!"
 msgstr "Ah!"
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_STOMP_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_STOMP_SHROUDEN"
+msgid "And now you shall suffer de-feet!"
+msgstr "And now you shall suffer de-feet!"
 
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_STORYTELLING_ABORT_FIREWENTOUT.1
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_STORYTELLING_ABORT_FIREWENTOUT.1"
@@ -11061,8 +11071,8 @@ msgstr "What a fascinating if not terrifying rock formation."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHARLIEARENA_TELEPORTER
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHARLIEARENA_TELEPORTER"
-msgid "TODO"
-msgstr "TODO"
+msgid "I'd better take everything with me."
+msgstr "I'd better take everything with me."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHARLIERESIDUE
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHARLIERESIDUE"
@@ -19693,10 +19703,15 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SHROOM_SKIN"
 msgid "Warts and all!"
 msgstr "Warts and all!"
 
-#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SHROUDEN
-msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SHROUDEN"
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SHROUDEN.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SHROUDEN.GENERIC"
 msgid "There is no scientific explanation for that."
 msgstr "There is no scientific explanation for that."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SHROUDEN.PUDDLE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SHROUDEN.PUDDLE"
+msgid "I suppose I should... go for the eye!"
+msgstr "I suppose I should... go for the eye!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SIESTAHUT.BURNT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SIESTAHUT.BURNT"
@@ -26230,6 +26245,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_DIG_DISEASE_WARNING"
 msgid "That should help... I think."
 msgstr "That should help... I think."
 
+#. STRINGS.CHARACTERS.WALTER.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING
+msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING"
+msgid "These rocks don't like it when we're enlightened, Woby!"
+msgstr "These rocks don't like it when we're enlightened, Woby!"
+
 #. STRINGS.CHARACTERS.WALTER.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_DUSK"
 msgid "It's getting late, better set up camp soon."
@@ -27145,6 +27165,11 @@ msgstr "I'm going to get all pruney!"
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_SPOOKED"
 msgid "Yikes! That gave me quite the start!"
 msgstr "Yikes! That gave me quite the start!"
+
+#. STRINGS.CHARACTERS.WALTER.ANNOUNCE_STOMP_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_STOMP_SHROUDEN"
+msgid "This is so gross! I love it!"
+msgstr "This is so gross! I love it!"
 
 #. STRINGS.CHARACTERS.WALTER.ANNOUNCE_STORYTELLING_ABORT_FIREWENTOUT.1
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_STORYTELLING_ABORT_FIREWENTOUT.1"
@@ -30669,8 +30694,8 @@ msgstr "They grow up so fast! Eh, Woby?"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CHARLIEARENA_TELEPORTER
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHARLIEARENA_TELEPORTER"
-msgid "TODO"
-msgstr "TODO"
+msgid "We better not leave anything behind, Woby!"
+msgstr "We better not leave anything behind, Woby!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CHARLIERESIDUE
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHARLIERESIDUE"
@@ -39297,10 +39322,15 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SHROOM_SKIN"
 msgid "It's so weird! Can I keep it?"
 msgstr "It's so weird! Can I keep it?"
 
-#. STRINGS.CHARACTERS.WALTER.DESCRIBE.SHROUDEN
-msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SHROUDEN"
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.SHROUDEN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SHROUDEN.GENERIC"
 msgid "I can't stop staring at it!"
 msgstr "I can't stop staring at it!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.SHROUDEN.PUDDLE
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SHROUDEN.PUDDLE"
+msgid "Let's smush that crazy eye, Woby!"
+msgstr "Let's smush that crazy eye, Woby!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.SIESTAHUT.BURNT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.SIESTAHUT.BURNT"
@@ -45855,6 +45885,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_DISCHARGE"
 msgid "only_used_by_wx78"
 msgstr "only_used_by_wx78"
 
+#. STRINGS.CHARACTERS.WANDA.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING
+msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING"
+msgid "Almost forgot they react to my enlightenment."
+msgstr "Almost forgot they react to my enlightenment."
+
 #. STRINGS.CHARACTERS.WANDA.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_DUSK"
 msgid "I need to hurry, I'm losing daylight."
@@ -46840,6 +46875,11 @@ msgstr "I'm going to catch my death if I don't dry off soon!"
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_SPOOKED"
 msgid "Ack! I don't need this in my life!!"
 msgstr "Ack! I don't need this in my life!!"
+
+#. STRINGS.CHARACTERS.WANDA.ANNOUNCE_STOMP_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_STOMP_SHROUDEN"
+msgid "This is disgusting, yet satisfying."
+msgstr "This is disgusting, yet satisfying."
 
 #. STRINGS.CHARACTERS.WANDA.ANNOUNCE_TALK_TO_PLANTS.1
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_TALK_TO_PLANTS.1"
@@ -50109,8 +50149,8 @@ msgstr "A terrible obstacle!"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.CHARLIEARENA_TELEPORTER
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHARLIEARENA_TELEPORTER"
-msgid "TODO"
-msgstr "TODO"
+msgid "I'll not leave anything behind this time."
+msgstr "I'll not leave anything behind this time."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.CHARLIERESIDUE
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHARLIERESIDUE"
@@ -50124,8 +50164,8 @@ msgstr "only_used_by_winona"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.CHARLIE_BOSS
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHARLIE_BOSS"
-msgid "She gets worse everytime."
-msgstr "She gets worse everytime."
+msgid "She gets worse every time."
+msgstr "She gets worse every time."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.CHARLIE_HAND
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHARLIE_HAND"
@@ -58776,10 +58816,15 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SHROOM_SKIN"
 msgid "That creature must've been half decayed. How horrible!"
 msgstr "That creature must've been half decayed. How horrible!"
 
-#. STRINGS.CHARACTERS.WANDA.DESCRIBE.SHROUDEN
-msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SHROUDEN"
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.SHROUDEN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SHROUDEN.GENERIC"
 msgid "Let this be the last time."
 msgstr "Let this be the last time."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.SHROUDEN.PUDDLE
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SHROUDEN.PUDDLE"
+msgid "Something tells me I should crush that lousy eye underfoot."
+msgstr "Something tells me I should crush that lousy eye underfoot."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.SIESTAHUT.BURNT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.SIESTAHUT.BURNT"
@@ -65261,6 +65306,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_DIG_DISEASE_WARNING"
 msgid "I hope that helps."
 msgstr "I hope that helps."
 
+#. STRINGS.CHARACTERS.WARLY.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING
+msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING"
+msgid "It seems the rocks are allergic to the enlightened!"
+msgstr "It seems the rocks are allergic to the enlightened!"
+
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_DUSK"
 msgid "The dinner hour approaches."
@@ -66225,6 +66275,11 @@ msgstr "I'm wetter than a dish rag!"
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_SPOOKED"
 msgid "Eee!"
 msgstr "Eee!"
+
+#. STRINGS.CHARACTERS.WARLY.ANNOUNCE_STOMP_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_STOMP_SHROUDEN"
+msgid "Like crushing the grapes... or a giant grape!"
+msgstr "Like crushing the grapes... or a giant grape!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_TALK_TO_PLANTS.1
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_TALK_TO_PLANTS.1"
@@ -69417,8 +69472,8 @@ msgstr "So menacing!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHARLIEARENA_TELEPORTER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHARLIEARENA_TELEPORTER"
-msgid "TODO"
-msgstr "TODO"
+msgid "Oh! I must remember to take all my things!"
+msgstr "Oh! I must remember to take all my things!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHARLIERESIDUE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHARLIERESIDUE"
@@ -77224,10 +77279,15 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SHROOM_SKIN"
 msgid "Oh dear. I'm not sure I like that."
 msgstr "Oh dear. I'm not sure I like that."
 
-#. STRINGS.CHARACTERS.WARLY.DESCRIBE.SHROUDEN
-msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SHROUDEN"
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.SHROUDEN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SHROUDEN.GENERIC"
 msgid "I would like to wake up from this nightmare."
 msgstr "I would like to wake up from this nightmare."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.SHROUDEN.PUDDLE
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SHROUDEN.PUDDLE"
+msgid "Perhaps I should crush that terrible eye!"
+msgstr "Perhaps I should crush that terrible eye!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.SIESTAHUT.BURNT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SIESTAHUT.BURNT"
@@ -83683,6 +83743,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_DIG_DISEASE_WARNING"
 msgid "Be banished, beastly blight!"
 msgstr "Be banished, beastly blight!"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING"
+msgid "A warrior's enlightenment shall shatter these rocks!"
+msgstr "A warrior's enlightenment shall shatter these rocks!"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_DUSK"
 msgid "The sun is setting, darkness waits nearby."
@@ -84601,6 +84666,11 @@ msgstr "I'm nearly drowned!"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_SPOOKED"
 msgid "What foul fiends be these?!"
 msgstr "What foul fiends be these?!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_STOMP_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_STOMP_SHROUDEN"
+msgid "Mine enemy is trampled into utter disgrace!"
+msgstr "Mine enemy is trampled into utter disgrace!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TALK_TO_PLANTS.1
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TALK_TO_PLANTS.1"
@@ -87819,8 +87889,8 @@ msgstr "'Tis surely a sign of Ragnarok!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHARLIEARENA_TELEPORTER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHARLIEARENA_TELEPORTER"
-msgid "TODO"
-msgstr "TODO"
+msgid "No plunder shall be left behind!"
+msgstr "No plunder shall be left behind!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHARLIERESIDUE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHARLIERESIDUE"
@@ -96409,10 +96479,19 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SHROOM_SKIN"
 msgid "A trophy of our battles!"
 msgstr "A trophy of our battles!"
 
-#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SHROUDEN
-msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SHROUDEN"
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SHROUDEN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SHROUDEN.GENERIC"
 msgid "At last we meet, accursed one! My destiny awaits!"
 msgstr "At last we meet, accursed one! My destiny awaits!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SHROUDEN.PUDDLE
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SHROUDEN.PUDDLE"
+msgid ""
+"To heap further insult upon mine sworn enemy, I shall crush thee beneath "
+"mine feet!"
+msgstr ""
+"To heap further insult upon mine sworn enemy, I shall crush thee beneath "
+"mine feet!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SIESTAHUT.BURNT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SIESTAHUT.BURNT"
@@ -102983,6 +103062,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_DIG_DISEASE_WARNING"
 msgid "That takes care of that."
 msgstr "That takes care of that."
 
+#. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING"
+msgid "Of course they explode near an enlightened mind."
+msgstr "Of course they explode near an enlightened mind."
+
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_DUSK"
 msgid "It'll be dark soon. Charlie will be waking up."
@@ -103929,6 +104013,11 @@ msgstr "Wetter than water itself."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_SPOOKED"
 msgid "Disgusting!"
 msgstr "Disgusting!"
+
+#. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_STOMP_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_STOMP_SHROUDEN"
+msgid "How are you still alive? Must I crush you with my heel?"
+msgstr "How are you still alive? Must I crush you with my heel?"
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TALK_TO_PLANTS.1
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TALK_TO_PLANTS.1"
@@ -107134,13 +107223,13 @@ msgstr "Nothing will steal my carbon!"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHARLIEARENA_SPIKE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHARLIEARENA_SPIKE"
-msgid "Absolutely dreadful."
-msgstr "Absolutely dreadful."
+msgid "Someone could run into that!"
+msgstr "Someone could run into that!"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHARLIEARENA_TELEPORTER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHARLIEARENA_TELEPORTER"
-msgid "TODO"
-msgstr "TODO"
+msgid "I better not leave anything behind."
+msgstr "I better not leave anything behind."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHARLIERESIDUE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHARLIERESIDUE"
@@ -115731,14 +115820,19 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SHROOM_SKIN"
 msgid "I hope the warts are not contagious."
 msgstr "I hope the warts are not contagious."
 
-#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SHROUDEN
-msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SHROUDEN"
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SHROUDEN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SHROUDEN.GENERIC"
 msgid ""
 "H-hey there, pal... Maxwell here. Big fan of, uh... whatever it is you're "
 "doing."
 msgstr ""
 "H-hey there, pal... Maxwell here. Big fan of, uh... whatever it is you're "
 "doing."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SHROUDEN.PUDDLE
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SHROUDEN.PUDDLE"
+msgid "This must be terribly undignified for you."
+msgstr "This must be terribly undignified for you."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SIESTAHUT.BURNT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SIESTAHUT.BURNT"
@@ -122210,6 +122304,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_DIG_DISEASE_WARNING"
 msgid "Doesn't that feel better!"
 msgstr "Doesn't that feel better!"
 
+#. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING
+msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING"
+msgid "The rocks don't like us because of our bright brains!"
+msgstr "The rocks don't like us because of our bright brains!"
+
 #. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_DUSK"
 msgid "Almost time for bed."
@@ -123112,6 +123211,11 @@ msgstr "We're drenched!"
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_SPOOKED"
 msgid "Hey, that's not nice!"
 msgstr "Hey, that's not nice!"
+
+#. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_STOMP_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_STOMP_SHROUDEN"
+msgid "So fun! Yay!"
+msgstr "So fun! Yay!"
 
 #. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_TALK_TO_PLANTS.1
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_TALK_TO_PLANTS.1"
@@ -126311,8 +126415,8 @@ msgstr "No more scary rocks!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHARLIEARENA_TELEPORTER
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHARLIEARENA_TELEPORTER"
-msgid "TODO"
-msgstr "TODO"
+msgid "We can't leave anything behind!"
+msgstr "We can't leave anything behind!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHARLIERESIDUE
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHARLIERESIDUE"
@@ -134871,10 +134975,15 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHROOM_SKIN"
 msgid "Haha! Yuck!"
 msgstr "Haha! Yuck!"
 
-#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHROUDEN
-msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHROUDEN"
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHROUDEN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHROUDEN.GENERIC"
 msgid "We're not afraid of you, bully!"
 msgstr "We're not afraid of you, bully!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHROUDEN.PUDDLE
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHROUDEN.PUDDLE"
+msgid "We wanna squish it with our feet!"
+msgstr "We wanna squish it with our feet!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SIESTAHUT.BURNT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SIESTAHUT.BURNT"
@@ -141322,6 +141431,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_DIG_DISEASE_WARNING"
 msgid "Your death has been delayed another day."
 msgstr "Your death has been delayed another day."
 
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING"
+msgid "What do they have against the enlightened?"
+msgstr "What do they have against the enlightened?"
+
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_DUSK"
 msgid "The sickly sweet scent of roses fills the air..."
@@ -142269,6 +142383,11 @@ msgstr "A veritable apocalypse of water."
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_SPOOKED"
 msgid "Yuck!"
 msgstr "Yuck!"
+
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_STOMP_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_STOMP_SHROUDEN"
+msgid "A fitting end for you."
+msgstr "A fitting end for you."
 
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_TALK_TO_PLANTS.1
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_TALK_TO_PLANTS.1"
@@ -145455,13 +145574,13 @@ msgstr "Cold, dead and black, just like my heart."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHARLIEARENA_SPIKE
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHARLIEARENA_SPIKE"
-msgid "What makes it pierce the very ground?"
-msgstr "What makes it pierce the very ground?"
+msgid "It pierces through the very ground."
+msgstr "It pierces through the very ground."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHARLIEARENA_TELEPORTER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHARLIEARENA_TELEPORTER"
-msgid "TODO"
-msgstr "TODO"
+msgid "I'd better take everything before I jump."
+msgstr "I'd better take everything before I jump."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHARLIERESIDUE
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHARLIERESIDUE"
@@ -154038,10 +154157,15 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SHROOM_SKIN"
 msgid "A reminder of the death we wrought."
 msgstr "A reminder of the death we wrought."
 
-#. STRINGS.CHARACTERS.WENDY.DESCRIBE.SHROUDEN
-msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SHROUDEN"
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.SHROUDEN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SHROUDEN.GENERIC"
 msgid "The abyss gazes back.... and walks among us."
 msgstr "The abyss gazes back.... and walks among us."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.SHROUDEN.PUDDLE
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SHROUDEN.PUDDLE"
+msgid "I agree, Abi. I should crush that cursed eye."
+msgstr "I agree, Abi. I should crush that cursed eye."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SIESTAHUT.BURNT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SIESTAHUT.BURNT"
@@ -160579,6 +160703,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_DIG_DISEASE_WARNING"
 msgid "Caught it just in time. The roots were nearly rotten."
 msgstr "Caught it just in time. The roots were nearly rotten."
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING"
+msgid "The formation is reacting to my mental state."
+msgstr "The formation is reacting to my mental state."
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_DUSK"
 msgid "Night will be here soon."
@@ -161516,6 +161645,11 @@ msgstr "Positively soaked."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_SPOOKED"
 msgid "Goodness gracious!"
 msgstr "Goodness gracious!"
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_STOMP_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_STOMP_SHROUDEN"
+msgid "What a truly horrid sound."
+msgstr "What a truly horrid sound."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_TALK_TO_PLANTS.1
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_TALK_TO_PLANTS.1"
@@ -164848,13 +164982,13 @@ msgstr "It's mostly carbon and ash."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHARLIEARENA_SPIKE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHARLIEARENA_SPIKE"
-msgid "The formation is almost thorn-like."
-msgstr "The formation is almost thorn-like."
+msgid "These formations are rather thorn-like."
+msgstr "These formations are rather thorn-like."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHARLIEARENA_TELEPORTER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHARLIEARENA_TELEPORTER"
-msgid "TODO"
-msgstr "TODO"
+msgid "It would be prudent to collect everything before entering."
+msgstr "It would be prudent to collect everything before entering."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHARLIERESIDUE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHARLIERESIDUE"
@@ -173663,10 +173797,19 @@ msgid ""
 msgstr ""
 "Frog skin must remain damp, or they will suffocate. Not that this one minds."
 
-#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHROUDEN
-msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHROUDEN"
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHROUDEN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHROUDEN.GENERIC"
 msgid "They are known by many names."
 msgstr "They are known by many names."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHROUDEN.PUDDLE
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHROUDEN.PUDDLE"
+msgid ""
+"The time has come to dispatch this malevolent entity by crushing it "
+"underfoot."
+msgstr ""
+"The time has come to dispatch this malevolent entity by crushing it "
+"underfoot."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SIESTAHUT.BURNT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SIESTAHUT.BURNT"
@@ -180425,6 +180568,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_DIG_DISEASE_WARNING"
 msgid "Pfft. Fire would've worked just as well."
 msgstr "Pfft. Fire would've worked just as well."
 
+#. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING
+msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING"
+msgid "I'd explode too being near someone so enlightened!"
+msgstr "I'd explode too being near someone so enlightened!"
+
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_DUSK"
 msgid "Night is coming. I need fire!"
@@ -181373,6 +181521,11 @@ msgstr "Ugh, this is the WORST!"
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_SPOOKED"
 msgid "Aww, gross!"
 msgstr "Aww, gross!"
+
+#. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_STOMP_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_STOMP_SHROUDEN"
+msgid "Oh yeah, that's the stuff!"
+msgstr "Oh yeah, that's the stuff!"
 
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_TALK_TO_PLANTS.1
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_TALK_TO_PLANTS.1"
@@ -184586,8 +184739,8 @@ msgstr "Get outta my way stupid evil rock."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHARLIEARENA_TELEPORTER
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHARLIEARENA_TELEPORTER"
-msgid "TODO"
-msgstr "TODO"
+msgid "Can't leave anything behind."
+msgstr "Can't leave anything behind."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHARLIERESIDUE
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHARLIERESIDUE"
@@ -193152,10 +193305,15 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SHROOM_SKIN"
 msgid "Ew! Burn that!"
 msgstr "Ew! Burn that!"
 
-#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SHROUDEN
-msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SHROUDEN"
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SHROUDEN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SHROUDEN.GENERIC"
 msgid "Am I supposed to be scared or something?"
 msgstr "Am I supposed to be scared or something?"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SHROUDEN.PUDDLE
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SHROUDEN.PUDDLE"
+msgid "Look what we got here... a big ugly eye ripe for the crushing."
+msgstr "Look what we got here... a big ugly eye ripe for the crushing."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SIESTAHUT.BURNT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SIESTAHUT.BURNT"
@@ -199639,6 +199797,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_DIG_DISEASE_WARNING"
 msgid "That helped a bit."
 msgstr "That helped a bit."
 
+#. STRINGS.CHARACTERS.WINONA.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING
+msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING"
+msgid "Don't think these evil rocks agree with my state of mind!"
+msgstr "Don't think these evil rocks agree with my state of mind!"
+
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_DUSK"
 msgid "There's the quittin' bell."
@@ -200599,6 +200762,11 @@ msgstr "I'm DRENCHED!"
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_SPOOKED"
 msgid "Oof! Gross!"
 msgstr "Oof! Gross!"
+
+#. STRINGS.CHARACTERS.WINONA.ANNOUNCE_STOMP_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_STOMP_SHROUDEN"
+msgid "I call this lil' number the Evil Eye Stompin' Jig!"
+msgstr "I call this lil' number the Evil Eye Stompin' Jig!"
 
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_TALK_TO_PLANTS.1
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_TALK_TO_PLANTS.1"
@@ -203791,13 +203959,13 @@ msgstr "It gets everywhere."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHARLIEARENA_SPIKE
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHARLIEARENA_SPIKE"
-msgid "Who's got time to mine that now?"
-msgstr "Who's got time to mine that now?"
+msgid "Where the heck did that come from?"
+msgstr "Where the heck did that come from?"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHARLIEARENA_TELEPORTER
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHARLIEARENA_TELEPORTER"
-msgid "TODO"
-msgstr "TODO"
+msgid "Better not leave nothin' behind."
+msgstr "Better not leave nothin' behind."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHARLIERESIDUE
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHARLIERESIDUE"
@@ -212379,10 +212547,15 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SHROOM_SKIN"
 msgid "A weird and not too welcome texture."
 msgstr "A weird and not too welcome texture."
 
-#. STRINGS.CHARACTERS.WINONA.DESCRIBE.SHROUDEN
-msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SHROUDEN"
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.SHROUDEN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SHROUDEN.GENERIC"
 msgid "I'm gonna give you a whuppin' for what you done to Charlie!"
 msgstr "I'm gonna give you a whuppin' for what you done to Charlie!"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.SHROUDEN.PUDDLE
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SHROUDEN.PUDDLE"
+msgid "Keep starin' and I'll stomp on ya!"
+msgstr "Keep starin' and I'll stomp on ya!"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.SIESTAHUT.BURNT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.SIESTAHUT.BURNT"
@@ -218852,6 +219025,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_DIG_DISEASE_WARNING"
 msgid "Ha! Dirt spoon fix it!"
 msgstr "Ha! Dirt spoon fix it!"
 
+#. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING"
+msgid "Going to explode because Wolfgang too enlightened."
+msgstr "Going to explode because Wolfgang too enlightened."
+
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_DUSK"
 msgid "The scary time is coming soon."
@@ -219796,6 +219974,11 @@ msgstr "Wolfgang is maybe now made of water."
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_SPOOKED"
 msgid "Is bad surprise!"
 msgstr "Is bad surprise!"
+
+#. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_STOMP_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_STOMP_SHROUDEN"
+msgid "Big red eye is so squishy!"
+msgstr "Big red eye is so squishy!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TALK_TO_PLANTS.1
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TALK_TO_PLANTS.1"
@@ -222999,8 +223182,8 @@ msgstr "Just what Wolfgang need... more scary spiky rock!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHARLIEARENA_TELEPORTER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHARLIEARENA_TELEPORTER"
-msgid "TODO"
-msgstr "TODO"
+msgid "Remember to bring all Wolfgang things."
+msgstr "Remember to bring all Wolfgang things."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHARLIERESIDUE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHARLIERESIDUE"
@@ -231546,10 +231729,15 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SHROOM_SKIN"
 msgid "Is squishy yucky frogman skin!"
 msgstr "Is squishy yucky frogman skin!"
 
-#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SHROUDEN
-msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SHROUDEN"
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SHROUDEN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SHROUDEN.GENERIC"
 msgid "Finally... a match for Mighty Wolfgang."
 msgstr "Finally... a match for Mighty Wolfgang."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SHROUDEN.PUDDLE
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SHROUDEN.PUDDLE"
+msgid "Now is time for Wolfgang squish big red eye!"
+msgstr "Now is time for Wolfgang squish big red eye!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SIESTAHUT.BURNT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SIESTAHUT.BURNT"
@@ -237985,6 +238173,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_DIG_DISEASE_WARNING"
 msgid "Fixed'r right up."
 msgstr "Fixed'r right up."
 
+#. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING
+msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING"
+msgid "Look out, Luce! They don't like my disposition!"
+msgstr "Look out, Luce! They don't like my disposition!"
+
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_DUSK"
 msgid "It's almost my bedtime."
@@ -238892,6 +239085,11 @@ msgstr "Better hold on tight, Lucy."
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_SPOOKED"
 msgid "Oh geez!"
 msgstr "Oh geez!"
+
+#. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_STOMP_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_STOMP_SHROUDEN"
+msgid "It's like stepping in thick lumpy oatmeal."
+msgstr "It's like stepping in thick lumpy oatmeal."
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_TALK_TO_PLANTS.1
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_TALK_TO_PLANTS.1"
@@ -242090,8 +242288,8 @@ msgstr "I miss trees."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHARLIEARENA_TELEPORTER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHARLIEARENA_TELEPORTER"
-msgid "TODO"
-msgstr "TODO"
+msgid "We better pack up before we jump in there, Lucy."
+msgstr "We better pack up before we jump in there, Lucy."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHARLIERESIDUE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHARLIERESIDUE"
@@ -250670,10 +250868,15 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SHROOM_SKIN"
 msgid "That's gross."
 msgstr "That's gross."
 
-#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SHROUDEN
-msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SHROUDEN"
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SHROUDEN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SHROUDEN.GENERIC"
 msgid "This might be a rough one, Luce. Love ya."
 msgstr "This might be a rough one, Luce. Love ya."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SHROUDEN.PUDDLE
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SHROUDEN.PUDDLE"
+msgid "What say we stomp on that nasty ol' eye, Luce?"
+msgstr "What say we stomp on that nasty ol' eye, Luce?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SIESTAHUT.BURNT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SIESTAHUT.BURNT"
@@ -257112,6 +257315,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_DIG_DISEASE_WARNING"
 msgid "Poor sick friend"
 msgstr "Poor sick friend"
 
+#. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING"
+msgid "Moon head make pointy rock BOOM!"
+msgstr "Moon head make pointy rock BOOM!"
+
 #. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_DUSK"
 msgid "Light ball is sleepy"
@@ -258047,6 +258255,11 @@ msgstr "Big drink!"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_SPOOKED"
 msgid "Scary!"
 msgstr "Scary!"
+
+#. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_STOMP_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_STOMP_SHROUDEN"
+msgid "Squish never friend"
+msgstr "Squish never friend"
 
 #. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_TALK_TO_PLANTS.1
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_TALK_TO_PLANTS.1"
@@ -261241,8 +261454,8 @@ msgstr "Pretty pointy rock"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHARLIEARENA_TELEPORTER
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHARLIEARENA_TELEPORTER"
-msgid "TODO"
-msgstr "TODO"
+msgid "Take all things"
+msgstr "Take all things"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHARLIERESIDUE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHARLIERESIDUE"
@@ -269809,10 +270022,15 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SHROOM_SKIN"
 msgid "Oh. Friends missing clothes"
 msgstr "Oh. Friends missing clothes"
 
-#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SHROUDEN
-msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SHROUDEN"
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SHROUDEN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SHROUDEN.GENERIC"
 msgid "Never friend"
 msgstr "Never friend"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SHROUDEN.PUDDLE
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SHROUDEN.PUDDLE"
+msgid "Bye bye never friend!"
+msgstr "Bye bye never friend!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SIESTAHUT.BURNT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SIESTAHUT.BURNT"
@@ -276236,6 +276454,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DIG_DISEASE_WARNING"
 msgid "I've helped it!"
 msgstr "I've helped it!"
 
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING"
+msgid "My enlightenment causes much excitement!"
+msgstr "My enlightenment causes much excitement!"
+
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DUSK"
 msgid "The night soon approaches. Hyuyu!"
@@ -277311,6 +277534,11 @@ msgstr "The burden of souls is certain to pop!"
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_SPOOKED"
 msgid "What a s-silly prank!"
 msgstr "What a s-silly prank!"
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_STOMP_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_STOMP_SHROUDEN"
+msgid "Such pep in my steps!"
+msgstr "Such pep in my steps!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_TALK_TO_PLANTS.1
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_TALK_TO_PLANTS.1"
@@ -280506,8 +280734,8 @@ msgstr "They grow from the ground all around!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHARLIEARENA_TELEPORTER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHARLIEARENA_TELEPORTER"
-msgid "TODO"
-msgstr "TODO"
+msgid "Pack it all before the fall!"
+msgstr "Pack it all before the fall!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHARLIERESIDUE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHARLIERESIDUE"
@@ -289063,10 +289291,15 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHROOM_SKIN"
 msgid "Spotty and stinky!"
 msgstr "Spotty and stinky!"
 
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHROUDEN
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHROUDEN"
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHROUDEN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHROUDEN.GENERIC"
 msgid "Mr. Doom 'n' Gloom is in the room!"
 msgstr "Mr. Doom 'n' Gloom is in the room!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHROUDEN.PUDDLE
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHROUDEN.PUDDLE"
+msgid "Ooooh, I wish to squish that eye!"
+msgstr "Ooooh, I wish to squish that eye!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SIESTAHUT.BURNT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SIESTAHUT.BURNT"
@@ -295508,6 +295741,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_DIG_DISEASE_WARNING"
 msgid "Look better?"
 msgstr "Look better?"
 
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING"
+msgid "Sharp rocks hate moon brain!"
+msgstr "Sharp rocks hate moon brain!"
+
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_DUSK"
 msgid "Sun going to sleep soon."
@@ -296509,6 +296747,11 @@ msgstr "Aaah, splish-splash!"
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_SPOOKED"
 msgid "G-glurp... no thank you!"
 msgstr "G-glurp... no thank you!"
+
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_STOMP_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_STOMP_SHROUDEN"
+msgid "Squish, squish, squish, florp!"
+msgstr "Squish, squish, squish, florp!"
 
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_TALK_TO_PLANTS.1
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_TALK_TO_PLANTS.1"
@@ -299688,8 +299931,8 @@ msgstr "Sharp, sharp!"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CHARLIEARENA_TELEPORTER
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHARLIEARENA_TELEPORTER"
-msgid "TODO"
-msgstr "TODO"
+msgid "Remember take all my stuff. Florp."
+msgstr "Remember take all my stuff. Florp."
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CHARLIERESIDUE
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHARLIERESIDUE"
@@ -308248,10 +308491,15 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SHROOM_SKIN"
 msgid "Oooh, had such nice skin!"
 msgstr "Oooh, had such nice skin!"
 
-#. STRINGS.CHARACTERS.WURT.DESCRIBE.SHROUDEN
-msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SHROUDEN"
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.SHROUDEN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SHROUDEN.GENERIC"
 msgid "Florpt, maybe little bit scared."
 msgstr "Florpt, maybe little bit scared."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.SHROUDEN.PUDDLE
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SHROUDEN.PUDDLE"
+msgid "Ha! Me want step on scary eye!"
+msgstr "Ha! Me want step on scary eye!"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.SIESTAHUT.BURNT
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.SIESTAHUT.BURNT"
@@ -314746,6 +314994,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_DISCHARGE"
 msgid "SYSTEMS NOMINAL"
 msgstr "SYSTEMS NOMINAL"
 
+#. STRINGS.CHARACTERS.WX78.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING
+msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING"
+msgid "FORMATIONS DESTABILIZED BY ENLIGHTENMENT PROXIMITY"
+msgstr "FORMATIONS DESTABILIZED BY ENLIGHTENMENT PROXIMITY"
+
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_DUSK"
 msgid "WARNING: NIGHT APPROACHING"
@@ -315671,6 +315924,11 @@ msgstr "ERROR ERRORERROR: WWATEER LVVVVLS CATTSTROPHICC"
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_SPOOKED"
 msgid "FILTHY ORGANICS!"
 msgstr "FILTHY ORGANICS!"
+
+#. STRINGS.CHARACTERS.WX78.ANNOUNCE_STOMP_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_STOMP_SHROUDEN"
+msgid "YOU HAD YOUR CHANCE TO SUBMIT TO ME"
+msgstr "YOU HAD YOUR CHANCE TO SUBMIT TO ME"
 
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_TALK_TO_PLANTS.1
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_TALK_TO_PLANTS.1"
@@ -318893,13 +319151,13 @@ msgstr "COMPRESSED DEAD MATTER. WHAT IS NOT TO LIKE?"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CHARLIEARENA_SPIKE
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHARLIEARENA_SPIKE"
-msgid "NICE"
-msgstr "NICE"
+msgid "OBSTACLES"
+msgstr "OBSTACLES"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CHARLIEARENA_TELEPORTER
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHARLIEARENA_TELEPORTER"
-msgid "TODO"
-msgstr "TODO"
+msgid "LEAVE NO ITEMS BEHIND"
+msgstr "LEAVE NO ITEMS BEHIND"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CHARLIERESIDUE
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHARLIERESIDUE"
@@ -327457,10 +327715,15 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SHROOM_SKIN"
 msgid "FLIMSY OUTER FROG LAYER"
 msgstr "FLIMSY OUTER FROG LAYER"
 
-#. STRINGS.CHARACTERS.WX78.DESCRIBE.SHROUDEN
-msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SHROUDEN"
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.SHROUDEN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SHROUDEN.GENERIC"
 msgid "KNEEL BEFORE ME. I MAY PERMIT YOUR ESCAPE"
 msgstr "KNEEL BEFORE ME. I MAY PERMIT YOUR ESCAPE"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.SHROUDEN.PUDDLE
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SHROUDEN.PUDDLE"
+msgid "PREPARE TO BE STEPPED ON, STUPID EYE"
+msgstr "PREPARE TO BE STEPPED ON, STUPID EYE"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SIESTAHUT.BURNT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SIESTAHUT.BURNT"
@@ -342269,6 +342532,11 @@ msgctxt "STRINGS.NAMES.ARCHIVE_SWITCH"
 msgid "Ornate Pedestal"
 msgstr "Ornate Pedestal"
 
+#. STRINGS.NAMES.ARCHIVE_SWITCH_BASE
+msgctxt "STRINGS.NAMES.ARCHIVE_SWITCH_BASE"
+msgid "Ornate Pedestal"
+msgstr "Ornate Pedestal"
+
 #. STRINGS.NAMES.ARMORDRAGONFLY
 msgctxt "STRINGS.NAMES.ARMORDRAGONFLY"
 msgid "Scalemail"
@@ -344291,8 +344559,8 @@ msgstr "Dreadstone Outcrop"
 
 #. STRINGS.NAMES.CHARLIEARENA_TELEPORTER
 msgctxt "STRINGS.NAMES.CHARLIEARENA_TELEPORTER"
-msgid "Exit?"
-msgstr "Exit?"
+msgid "Chasm"
+msgstr "Chasm"
 
 #. STRINGS.NAMES.CHARLIERESIDUE
 msgctxt "STRINGS.NAMES.CHARLIERESIDUE"
@@ -352757,6 +353025,16 @@ msgstr "Shroom Skin"
 msgctxt "STRINGS.NAMES.SHROUDEN"
 msgid "Umbral Abomination"
 msgstr "Umbral Abomination"
+
+#. STRINGS.NAMES.SHROUDEN_OTHER
+msgctxt "STRINGS.NAMES.SHROUDEN_OTHER"
+msgid "The Other"
+msgstr "The Other"
+
+#. STRINGS.NAMES.SHROUDEN_VOIDMASQUE
+msgctxt "STRINGS.NAMES.SHROUDEN_VOIDMASQUE"
+msgid "Tenebrau"
+msgstr "Tenebrau"
 
 #. STRINGS.NAMES.SIESTAHUT
 msgctxt "STRINGS.NAMES.SIESTAHUT"
@@ -365406,8 +365684,8 @@ msgstr "What have we done?"
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.CHARLIE_BOSS_PROJECTILE
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.CHARLIE_BOSS_PROJECTILE"
-msgid "Chases onto those who dare still bask in the light."
-msgstr "Chases onto those who dare still bask in the light."
+msgid "Chases those who dare still bask in the light."
+msgstr "Chases those who dare still bask in the light."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.CHARLIE_BOSS_RUNNER
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.CHARLIE_BOSS_RUNNER"
@@ -397838,6 +398116,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.wagdrone_rolling_fancy"
 msgid "It's almost too fancy for its task."
 msgstr "It's almost too fancy for its task."
 
+#. STRINGS.SKIN_DESCRIPTIONS.wagdrone_rolling_fire
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wagdrone_rolling_fire"
+msgid "It's the hottest new Terramite!"
+msgstr "It's the hottest new Terramite!"
+
 #. STRINGS.SKIN_DESCRIPTIONS.wagdrone_rolling_spikey
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wagdrone_rolling_spikey"
 msgid "It's covered in spikes, and full of spikes!"
@@ -418383,6 +418666,11 @@ msgctxt "STRINGS.SKIN_NAMES.wagdrone_rolling_fancy"
 msgid "Gilded Terramite"
 msgstr "Gilded Terramite"
 
+#. STRINGS.SKIN_NAMES.wagdrone_rolling_fire
+msgctxt "STRINGS.SKIN_NAMES.wagdrone_rolling_fire"
+msgid "Alit Terramite"
+msgstr "Alit Terramite"
+
 #. STRINGS.SKIN_NAMES.wagdrone_rolling_spikey
 msgctxt "STRINGS.SKIN_NAMES.wagdrone_rolling_spikey"
 msgid "Spikeful Terramite"
@@ -429550,6 +429838,25 @@ msgctxt "STRINGS.STALKER_NPC_INSPECT.DAYWALKER.5"
 msgid "May you never escape your bondage."
 msgstr "May you never escape your bondage."
 
+#. STRINGS.STALKER_NPC_INSPECT.KING_CANE.1
+msgctxt "STRINGS.STALKER_NPC_INSPECT.KING_CANE.1"
+msgid "The staff..."
+msgstr "The staff..."
+
+#. STRINGS.STALKER_NPC_INSPECT.KING_CANE.2
+msgctxt "STRINGS.STALKER_NPC_INSPECT.KING_CANE.2"
+msgid "Of a fool king who believed he could command the accursed fuel."
+msgstr "Of a fool king who believed he could command the accursed fuel."
+
+#. STRINGS.STALKER_NPC_INSPECT.KING_CANE.3
+msgctxt "STRINGS.STALKER_NPC_INSPECT.KING_CANE.3"
+msgid ""
+"I look upon it now and see only the rod that led those who trusted me to "
+"ruin."
+msgstr ""
+"I look upon it now and see only the rod that led those who trusted me to "
+"ruin."
+
 #. STRINGS.STALKER_NPC_INSPECT.MASK_ANCIENT_ARCHITECTHAT.1
 msgctxt "STRINGS.STALKER_NPC_INSPECT.MASK_ANCIENT_ARCHITECTHAT.1"
 msgid "That visage... I've not... It cannot be..."
@@ -429672,6 +429979,20 @@ msgstr "But all who bathed in the glow..."
 msgctxt "STRINGS.STALKER_NPC_INSPECT.NIGHTMARELIGHT.4"
 msgid "lost themselves to madness."
 msgstr "lost themselves to madness."
+
+#. STRINGS.STALKER_NPC_INSPECT.QUEEN_TORCH.1
+msgctxt "STRINGS.STALKER_NPC_INSPECT.QUEEN_TORCH.1"
+msgid "The torch of my beloved..."
+msgstr "The torch of my beloved..."
+
+#. STRINGS.STALKER_NPC_INSPECT.QUEEN_TORCH.2
+msgctxt "STRINGS.STALKER_NPC_INSPECT.QUEEN_TORCH.2"
+msgid ""
+"How bravely you stood against the darkness while I was blinded by it, lost "
+"to it."
+msgstr ""
+"How bravely you stood against the darkness while I was blinded by it, lost "
+"to it."
 
 #. STRINGS.STALKER_NPC_INSPECT.RUINS_SHADELING.1
 msgctxt "STRINGS.STALKER_NPC_INSPECT.RUINS_SHADELING.1"

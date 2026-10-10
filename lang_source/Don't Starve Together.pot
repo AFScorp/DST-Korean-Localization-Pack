@@ -256886,8 +256886,8 @@ msgstr "Not working"
 
 #. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.USEITEMON.CANNOT_FIX_DRONE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.USEITEMON.CANNOT_FIX_DRONE"
-msgid "Bye robot friend"
-msgstr "Bye robot friend"
+msgid "Bye robot buddy"
+msgstr "Bye robot buddy"
 
 #. STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.USEITEMON.NOT_MINE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.USEITEMON.NOT_MINE"
@@ -258677,13 +258677,13 @@ msgstr "Ready!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABYSSPILLAR_MINION.ACTIVATED
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABYSSPILLAR_MINION.ACTIVATED"
-msgid "Where friend going?"
-msgstr "Where friend going?"
+msgid "Where going?"
+msgstr "Where going?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABYSSPILLAR_MINION.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABYSSPILLAR_MINION.GENERIC"
-msgid "Friend sleeping"
-msgstr "Friend sleeping"
+msgid "Sleeping"
+msgstr "Sleeping"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABYSSPILLAR_TRIAL
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABYSSPILLAR_TRIAL"
@@ -258879,8 +258879,8 @@ msgstr "Broken. Needs old stones"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ANCIENT_HUSK
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ANCIENT_HUSK"
-msgid "Why, friends? Why?"
-msgstr "Why, friends? Why?"
+msgid "Why, bug people? Why?"
+msgstr "Why, bug people? Why?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ANCIENT_STATUE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ANCIENT_STATUE"
@@ -260290,8 +260290,8 @@ msgstr "Need to plant it on the water"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BOAT_ANCIENT_CONTAINER
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BOAT_ANCIENT_CONTAINER"
-msgid "Put stuff in Floaty's belly"
-msgstr "Put stuff in Floaty's belly"
+msgid "Put stuff in floaty's belly"
+msgstr "Put stuff in floaty's belly"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BOAT_ANCIENT_ITEM
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BOAT_ANCIENT_ITEM"
@@ -260330,13 +260330,13 @@ msgstr "Will help protect Floaty"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BOAT_BUMPER_YOTD
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BOAT_BUMPER_YOTD"
-msgid "Thank you for keeping Floaty safe!"
-msgstr "Thank you for keeping Floaty safe!"
+msgid "Thank you for keeping floaty safe!"
+msgstr "Thank you for keeping floaty safe!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BOAT_BUMPER_YOTD_KIT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BOAT_BUMPER_YOTD_KIT"
-msgid "Will help protect Floaty"
-msgstr "Will help protect Floaty"
+msgid "Will help protect floaty"
+msgstr "Will help protect floaty"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BOAT_CANNON.AMMOLOADED
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BOAT_CANNON.AMMOLOADED"
@@ -260899,80 +260899,80 @@ msgstr "Tweeters hungry"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFBALL
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFBALL"
-msgid "Sorry, ball friend"
-msgstr "Sorry, ball friend"
+msgid "Sorry, ball"
+msgstr "Sorry, ball"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFCLUB
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFCLUB"
-msgid "Gentle hit ball friend"
-msgstr "Gentle hit ball friend"
+msgid "To hit ball"
+msgstr "To hit ball"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY"
-msgid "Make special friend!"
-msgstr "Make special friend!"
+msgid "Make special game!"
+msgstr "Make special game!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY"
-msgid "Fun friend"
-msgstr "Fun friend"
+msgid "Fun game"
+msgstr "Fun game"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD"
-msgid "Tricky friend"
-msgstr "Tricky friend"
+msgid "Tricky game"
+msgstr "Tricky game"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM
 msgctxt ""
 "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM"
-msgid "Middle friend"
-msgstr "Middle friend"
+msgid "Middle game"
+msgstr "Middle game"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT"
-msgid "Fake friend?"
-msgstr "Fake friend?"
+msgid "Flat"
+msgstr "Flat"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_FAN"
-msgid "Windy friend"
-msgstr "Windy friend"
+msgid "Spinny winder"
+msgstr "Spinny winder"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_FENCE"
-msgid "Keep friend inside"
-msgstr "Keep friend inside"
+msgid "Keep ball inside"
+msgstr "Keep ball inside"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL
 msgctxt ""
 "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_MOVINGWALL"
-msgid "Up friend, down friend"
-msgstr "Up friend, down friend"
+msgid "Up-down wall"
+msgstr "Up-down wall"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_SPINNER"
-msgid "Dizzy friend"
-msgstr "Dizzy friend"
+msgid "Make ball dizzy"
+msgstr "Make ball dizzy"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_SPRING"
-msgid "Bye ball friend!"
-msgstr "Bye ball friend!"
+msgid "Bye ball!"
+msgstr "Bye ball!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLFPROP_WORMHOLE"
-msgid "Eat ball friend?"
-msgstr "Eat ball friend?"
+msgid "Eat ball?"
+msgstr "Eat ball?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLF_HOLE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLF_HOLE"
-msgid "Ball friend go here"
-msgstr "Ball friend go here"
+msgid "Ball go here"
+msgstr "Ball go here"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLF_HOLE_KIT"
-msgid "Where end friend?"
-msgstr "Where end friend?"
+msgid "Where end?"
+msgstr "Where end?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLF_TEE.GENERIC"
@@ -260981,8 +260981,8 @@ msgstr "Need shiny?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLF_TEE.INACTIVE"
-msgid "Friend not finished"
-msgstr "Friend not finished"
+msgid "Not finished"
+msgstr "Not finished"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLF_TEE.PLAYING"
@@ -260991,8 +260991,8 @@ msgstr "Already has shiny"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_GOLF_TEE_KIT"
-msgid "Where start friend?"
-msgstr "Where start friend?"
+msgid "Where start?"
+msgstr "Where start?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_HERDING_CHICK
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALGAME_HERDING_CHICK"
@@ -261394,23 +261394,23 @@ msgstr "Dead"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_VENT_MITE.DEAD
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_VENT_MITE.DEAD"
-msgid "Gassy friend not sleeping"
-msgstr "Gassy friend not sleeping"
+msgid "Gassy bug not sleeping"
+msgstr "Gassy bug not sleeping"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_VENT_MITE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_VENT_MITE.GENERIC"
-msgid "Hello gassy friend"
-msgstr "Hello gassy friend"
+msgid "Hello gassy bug"
+msgstr "Hello gassy bug"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_VENT_MITE.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_VENT_MITE.SLEEPING"
-msgid "Dream rock friends or bug friends?"
-msgstr "Dream rock friends or bug friends?"
+msgid "Dream rock or bug?"
+msgstr "Dream rock or bug?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_VENT_MITE.VENTING
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_VENT_MITE.VENTING"
-msgid "Gassy friend gassing!"
-msgstr "Gassy friend gassing!"
+msgid "Gassy bug gassing!"
+msgstr "Gassy bug gassing!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_VENT_ROCK.GAS
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_VENT_ROCK.GAS"
@@ -261434,8 +261434,8 @@ msgstr "Danger stinky!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CEILING_ROPE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CEILING_ROPE"
-msgid "Helpful friend"
-msgstr "Helpful friend"
+msgid "Helpful string"
+msgstr "Helpful string"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CEVICHE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CEVICHE"
@@ -261734,8 +261734,8 @@ msgstr "Can't see now"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_VAULT_PILLAR_GUARD
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_VAULT_PILLAR_GUARD"
-msgid "Little tall rock friend"
-msgstr "Little tall rock friend"
+msgid "Little tall rock thing"
+msgstr "Little tall rock thing"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_WAGBOSS_LUNAR
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_WAGBOSS_LUNAR"
@@ -261744,8 +261744,8 @@ msgstr "Friend no hurt more"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_WAGBOSS_ROBOT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_WAGBOSS_ROBOT"
-msgid "Stone robot friend"
-msgstr "Stone robot friend"
+msgid "Small stone big robot friend"
+msgstr "Small stone big robot friend"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_WARG_MUTATED
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_WARG_MUTATED"
@@ -262044,8 +262044,8 @@ msgstr "Nothing there"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COOLANT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COOLANT"
-msgid "Bubble friend"
-msgstr "Bubble friend"
+msgid "Bubbles"
+msgstr "Bubbles"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COONTAIL
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COONTAIL"
@@ -262571,13 +262571,13 @@ msgstr "Aww"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DRAGONBOAT_KIT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DRAGONBOAT_KIT"
-msgid "Fancy Floaty!"
-msgstr "Fancy Floaty!"
+msgid "Fancy floaty!"
+msgstr "Fancy floaty!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DRAGONBOAT_PACK
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DRAGONBOAT_PACK"
-msgid "All the fancy Floaty bits!"
-msgstr "All the fancy Floaty bits!"
+msgid "All the fancy floaty bits!"
+msgstr "All the fancy floaty bits!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DRAGONBODYHAT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DRAGONBODYHAT"
@@ -263112,18 +263112,18 @@ msgstr "Made of friends"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FENCE_ELECTRIC.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FENCE_ELECTRIC.GENERIC"
-msgid "No friend for zap friend"
-msgstr "No friend for zap friend"
+msgid "No zaps"
+msgstr "No zaps"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FENCE_ELECTRIC.LINKED
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FENCE_ELECTRIC.LINKED"
-msgid "Zap friends!"
-msgstr "Zap friends!"
+msgid "Zap!"
+msgstr "Zap!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FENCE_ELECTRIC_ITEM
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FENCE_ELECTRIC_ITEM"
-msgid "Help zap friend?"
-msgstr "Help zap friend?"
+msgid "Where put zap stick?"
+msgstr "Where put zap stick?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FENCE_GATE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FENCE_GATE"
@@ -264412,18 +264412,18 @@ msgstr "Where put pretty bright?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HERMITCRAB_RELOCATION_KIT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HERMITCRAB_RELOCATION_KIT"
-msgid "Find crabby friend new home"
-msgstr "Find crabby friend new home"
+msgid "Find crabby lady new home"
+msgstr "Find crabby lady new home"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HERMITCRAB_SHELL
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HERMITCRAB_SHELL"
-msgid "To crabby friend!"
-msgstr "To crabby friend!"
+msgid "To crabby lady!"
+msgstr "To crabby lady!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HERMITCRAB_TEASHOP.ACTIVE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HERMITCRAB_TEASHOP.ACTIVE"
-msgid "Like crabby friend tea!"
-msgstr "Like crabby friend tea!"
+msgid "Like crabby lady tea!"
+msgstr "Like crabby lady tea!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HERMITCRAB_TEASHOP.BREWING
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HERMITCRAB_TEASHOP.BREWING"
@@ -264437,8 +264437,8 @@ msgstr "Bad fire!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HERMITCRAB_TEASHOP.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HERMITCRAB_TEASHOP.GENERIC"
-msgid "Where crabby friend?"
-msgstr "Where crabby friend?"
+msgid "Where crabby lady?"
+msgstr "Where crabby lady?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HERMITHOTSPRING.BOMBED
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HERMITHOTSPRING.BOMBED"
@@ -264472,13 +264472,13 @@ msgstr "Sad shell..."
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HERMITHOUSE_LAUNDRY
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HERMITHOUSE_LAUNDRY"
-msgid "Crabby friend things"
-msgstr "Crabby friend things"
+msgid "Crabby lady things"
+msgstr "Crabby lady things"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HERMITHOUSE_ORNAMENT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HERMITHOUSE_ORNAMENT"
-msgid "Pretty stuff for crabby friend house"
-msgstr "Pretty stuff for crabby friend house"
+msgid "Pretty stuff for crabby lady house"
+msgstr "Pretty stuff for crabby lady house"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HERMIT_BUNDLE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HERMIT_BUNDLE"
@@ -265678,13 +265678,13 @@ msgstr "Science man?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MASK_ANCIENT_HANDMAIDHAT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MASK_ANCIENT_HANDMAIDHAT"
-msgid "Friend face hard!"
-msgstr "Friend face hard!"
+msgid "Bug lady face hard!"
+msgstr "Bug lady face hard!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MASK_ANCIENT_MASONHAT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MASK_ANCIENT_MASONHAT"
-msgid "Friend face strong!"
-msgstr "Friend face strong!"
+msgid "Bug man face strong!"
+msgstr "Bug man face strong!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MASK_BLACKSMITHHAT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MASK_BLACKSMITHHAT"
@@ -265798,8 +265798,8 @@ msgstr "Friend is all dressed up"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MAST_YOTD_ITEM
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MAST_YOTD_ITEM"
-msgid "Tall friend for Floater"
-msgstr "Tall friend for Floater"
+msgid "Tall friend for floaty"
+msgstr "Tall friend for floaty"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MAXWELL
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MAXWELL"
@@ -266513,8 +266513,8 @@ msgstr "Little fire?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONSTORM_STATIC_CATCHER
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONSTORM_STATIC_CATCHER"
-msgid "No friend"
-msgstr "No friend"
+msgid "No little fire"
+msgstr "No little fire"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONSTORM_STATIC_ITEM
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONSTORM_STATIC_ITEM"
@@ -266914,8 +266914,8 @@ msgstr "Scary fuzzy big and mean and stinky"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MUTATEDBIRD
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MUTATEDBIRD"
-msgid "Tweeter, friend?"
-msgstr "Tweeter, friend?"
+msgid "Tweeter, what wrong?"
+msgstr "Tweeter, what wrong?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MUTATEDBUZZARD_GESTALT.EATING_CORPSE
 msgctxt ""
@@ -267486,8 +267486,8 @@ msgstr "Poof stick"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.OTTER
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.OTTER"
-msgid "Hi, Stealy Friend"
-msgstr "Hi, Stealy Friend"
+msgid "Hi, Stealy Seal"
+msgstr "Hi, Stealy Seal"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.OTTERDEN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.OTTERDEN.GENERIC"
@@ -267496,8 +267496,8 @@ msgstr "No things"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.OTTERDEN.HAS_LOOT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.OTTERDEN.HAS_LOOT"
-msgid "Steal from Stealy Friend?"
-msgstr "Steal from Stealy Friend?"
+msgid "Steal from Stealy Seal?"
+msgstr "Steal from Stealy Seal?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.OTTERDEN_DEAD
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.OTTERDEN_DEAD"
@@ -269904,8 +269904,8 @@ msgstr "Anyone down there?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SHADOWTHRALL_CENTIPEDE.BODY
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SHADOWTHRALL_CENTIPEDE.BODY"
-msgid "Legs friend many legs"
-msgstr "Legs friend many legs"
+msgid "Many legs"
+msgstr "Many legs"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SHADOWTHRALL_CENTIPEDE.FLIPPED
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SHADOWTHRALL_CENTIPEDE.FLIPPED"
@@ -269914,8 +269914,8 @@ msgstr "Up down, down up"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SHADOWTHRALL_CENTIPEDE.HEAD
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SHADOWTHRALL_CENTIPEDE.HEAD"
-msgid "Hello, legs friend head"
-msgstr "Hello, legs friend head"
+msgid "Hello, many legs head"
+msgstr "Hello, many legs head"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SHADOWTHRALL_HANDS
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SHADOWTHRALL_HANDS"
@@ -270439,8 +270439,8 @@ msgstr "Sharp"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPEAR_WATHGRITHR_LIGHTNING
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPEAR_WATHGRITHR_LIGHTNING"
-msgid "Pokey Stick make zzzzt"
-msgstr "Pokey Stick make zzzzt"
+msgid "Pokey stick make zzzzt"
+msgstr "Pokey stick make zzzzt"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPICEPACK
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPICEPACK"
@@ -270739,8 +270739,8 @@ msgstr "Big Bone Roarer has tiny pals!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STALKER_NPC
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STALKER_NPC"
-msgid "Friend...?"
-msgstr "Friend...?"
+msgid "Big Bone Roarer... friend...?"
+msgstr "Big Bone Roarer... friend...?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STASH_MAP
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STASH_MAP"
@@ -270834,13 +270834,13 @@ msgstr "Table full"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STORAGE_ROBOT.BROKEN
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STORAGE_ROBOT.BROKEN"
-msgid "Help! Grabby Friend is hurt!"
-msgstr "Help! Grabby Friend is hurt!"
+msgid "Help! Grabby Buddy is hurt!"
+msgstr "Help! Grabby Buddy is hurt!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STORAGE_ROBOT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STORAGE_ROBOT.GENERIC"
-msgid "Go, Grabby Friend!"
-msgstr "Go, Grabby Friend!"
+msgid "Go, Grabby Buddy!"
+msgstr "Go, Grabby Buddy!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STRAWHAT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STRAWHAT"
@@ -271232,8 +271232,8 @@ msgstr "Rocks from old times"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.THULECITEBUGNET
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.THULECITEBUGNET"
-msgid "Bug friends, don't be scared!"
-msgstr "Bug friends, don't be scared!"
+msgid "Bugs, don't be scared!"
+msgstr "Bugs, don't be scared!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.THULECITE_PIECES
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.THULECITE_PIECES"
@@ -272253,8 +272253,8 @@ msgstr "Oh? Need something..."
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_KEY_EXIT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_KEY_EXIT"
-msgid "Nowhere tie helpful friend?"
-msgstr "Nowhere tie helpful friend?"
+msgid "Nowhere tie helpful string?"
+msgstr "Nowhere tie helpful string?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_KEY_PEDESTAL.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_KEY_PEDESTAL.GENERIC"
@@ -272273,13 +272273,13 @@ msgstr "Leave friend string for climbing?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_ORB
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_ORB"
-msgid "Who friend lose ball?"
-msgstr "Who friend lose ball?"
+msgid "Who lose ball?"
+msgstr "Who lose ball?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_ORB_REFINED
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_ORB_REFINED"
-msgid "Shiny friend!"
-msgstr "Shiny friend!"
+msgid "Shiny!"
+msgstr "Shiny!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_PILLAR_GUARD
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_PILLAR_GUARD"
@@ -272288,34 +272288,34 @@ msgstr "Mean rock!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_PILLAR_GUARD_CONSTR
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_PILLAR_GUARD_CONSTR"
-msgid "Baby rock friend soon tall rock friend"
-msgstr "Baby rock friend soon tall rock friend"
+msgid "Baby rock thing soon tall rock thing"
+msgstr "Baby rock thing soon tall rock thing"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_PILLAR_GUARD_CONSTR_PLANS
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_PILLAR_GUARD_CONSTR_PLANS"
-msgid "Where put baby rock friend?"
-msgstr "Where put baby rock friend?"
+msgid "Where put baby rock thing?"
+msgstr "Where put baby rock thing?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_PILLAR_GUARD_CRAFTED
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_PILLAR_GUARD_CRAFTED"
-msgid "Tall rock friend nice!"
-msgstr "Tall rock friend nice!"
+msgid "Tall rock thing nice!"
+msgstr "Tall rock thing nice!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_PILLAR_GUARD_DORMANT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_PILLAR_GUARD_DORMANT"
-msgid "Tall rock friend"
-msgstr "Tall rock friend"
+msgid "Tall rock thing"
+msgstr "Tall rock thing"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_PILLAR_GUARD_DORMANT_CRAFTED
 msgctxt ""
 "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_PILLAR_GUARD_DORMANT_CRAFTED"
-msgid "Why friend still sleeping?"
-msgstr "Why friend still sleeping?"
+msgid "Why tall rock thing still sleeping?"
+msgstr "Why tall rock thing still sleeping?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_PILLAR_GUARD_PIECE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_PILLAR_GUARD_PIECE"
-msgid "For tall friend"
-msgstr "For tall friend"
+msgid "For tall rock thing"
+msgstr "For tall rock thing"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_REFINER_PEDESTAL
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_REFINER_PEDESTAL"
@@ -272364,13 +272364,13 @@ msgstr "No spark"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_TORCH.BROKEN
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_TORCH.BROKEN"
-msgid "Torch friend broke?"
-msgstr "Torch friend broke?"
+msgid "Fire cup broke?"
+msgstr "Fire cup broke?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_TORCH.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_TORCH.GENERIC"
-msgid "Torch friend"
-msgstr "Torch friend"
+msgid "Fire cup"
+msgstr "Fire cup"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VEGGIEOMLET
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VEGGIEOMLET"
@@ -272434,8 +272434,8 @@ msgstr "Yum"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGBOSS_ROBOT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGBOSS_ROBOT"
-msgid "Big-big robot friend?"
-msgstr "Big-big robot friend?"
+msgid "Big-big robot... friend?"
+msgstr "Big-big robot... friend?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGBOSS_ROBOT_CONSTRUCTIONSITE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGBOSS_ROBOT_CONSTRUCTIONSITE"
@@ -272470,48 +272470,48 @@ msgstr "What hiding?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGDRONE_BEACON
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGDRONE_BEACON"
-msgid "Friend can't cross"
-msgstr "Friend can't cross"
+msgid "Buddy can't cross"
+msgstr "Buddy can't cross"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGDRONE_FLYING.DAMAGED
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGDRONE_FLYING.DAMAGED"
-msgid "Bye flying robot friend, thank you for parts"
-msgstr "Bye flying robot friend, thank you for parts"
+msgid "Bye flying robot buddy, thank you for parts"
+msgstr "Bye flying robot buddy, thank you for parts"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGDRONE_FLYING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGDRONE_FLYING.GENERIC"
-msgid "Bad flying robot friends!"
-msgstr "Bad flying robot friends!"
+msgid "Bad flying robot buddies!"
+msgstr "Bad flying robot buddies!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGDRONE_FLYING.INACTIVE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGDRONE_FLYING.INACTIVE"
-msgid "Sleeping friend"
-msgstr "Sleeping friend"
+msgid "Sleeping buddy"
+msgstr "Sleeping buddy"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGDRONE_PARTS
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGDRONE_PARTS"
-msgid "Friend parts?"
-msgstr "Friend parts?"
+msgid "Buddy parts?"
+msgstr "Buddy parts?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGDRONE_ROLLING.DAMAGED
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGDRONE_ROLLING.DAMAGED"
-msgid "Fix spinning friend, or take spinning friend parts"
-msgstr "Fix spinning friend, or take spinning friend parts"
+msgid "Fix spinning buddy, or take spinning buddy parts"
+msgstr "Fix spinning buddy, or take spinning buddy parts"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGDRONE_ROLLING.FRIENDLY
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGDRONE_ROLLING.FRIENDLY"
-msgid "Nice spinning friend"
-msgstr "Nice spinning friend"
+msgid "Nice spinning buddy"
+msgstr "Nice spinning buddy"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGDRONE_ROLLING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGDRONE_ROLLING.GENERIC"
-msgid "Why, spinning friends, why?"
-msgstr "Why, spinning friends, why?"
+msgid "Why, spinning buddies, why?"
+msgstr "Why, spinning buddies, why?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGDRONE_ROLLING.INACTIVE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGDRONE_ROLLING.INACTIVE"
-msgid "Sleeping friend"
-msgstr "Sleeping friend"
+msgid "Sleeping buddy"
+msgstr "Sleeping buddy"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGPUNKBITS_KIT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAGPUNKBITS_KIT"
@@ -273703,8 +273703,8 @@ msgstr "Shiny thing..."
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WINTER_ORNAMENTPEARL
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WINTER_ORNAMENTPEARL"
-msgid "From crabby friend"
-msgstr "From crabby friend"
+msgid "From crabby lady"
+msgstr "From crabby lady"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WINTER_TREE.BURNING
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WINTER_TREE.BURNING"
@@ -274070,8 +274070,8 @@ msgstr "Buzzy"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WORM_BOSS
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WORM_BOSS"
-msgid "Hello, big wiggly!"
-msgstr "Hello, big wiggly!"
+msgid "Hello, Big Wiggly!"
+msgstr "Hello, Big Wiggly!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WORM_BOSS_SHADOW
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WORM_BOSS_SHADOW"
@@ -274315,18 +274315,18 @@ msgstr "No friend inside."
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_DRONE_DELIVERY
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_DRONE_DELIVERY"
-msgid "Helpful friend"
-msgstr "Helpful friend"
+msgid "Helpful buddy"
+msgstr "Helpful buddy"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_DRONE_SCOUT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_DRONE_SCOUT"
-msgid "Thanks, brave friend!"
-msgstr "Thanks, brave friend!"
+msgid "Thanks, brave buddy!"
+msgstr "Thanks, brave buddy!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_DRONE_ZAP
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_DRONE_ZAP"
-msgid "Flying zapper friend"
-msgstr "Flying zapper friend"
+msgid "Flying zapper buddy"
+msgstr "Flying zapper buddy"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_DRONE_ZAP_REMOTE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_DRONE_ZAP_REMOTE.GENERIC"
@@ -274395,13 +274395,13 @@ msgstr "Blinky blink"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_SHADOWDRONE_DEBUFFER
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_SHADOWDRONE_DEBUFFER"
-msgid "Tell robot friend how to fight friends"
-msgstr "Tell robot friend how to fight friends"
+msgid "Tell robot friend how to fight"
+msgstr "Tell robot friend how to fight"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_SHADOWDRONE_HARVESTER
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WX78_SHADOWDRONE_HARVESTER"
-msgid "Friend get things"
-msgstr "Friend get things"
+msgid "Buddy get things"
+msgstr "Buddy get things"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.W_RADIO
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.W_RADIO"
@@ -274799,13 +274799,13 @@ msgstr "Shiny wheel"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTD_STEERINGWHEEL_ITEM
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTD_STEERINGWHEEL_ITEM"
-msgid "For pointing Floaty"
-msgstr "For pointing Floaty"
+msgid "For pointing floaty"
+msgstr "For pointing floaty"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTH_CHAIR_ROCKING_ITEM
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTH_CHAIR_ROCKING_ITEM"
-msgid "Rocking friend!"
-msgstr "Rocking friend!"
+msgid "Neigh chair!"
+msgstr "Neigh chair!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTH_KNIGHTHAT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTH_KNIGHTHAT"
@@ -274829,8 +274829,8 @@ msgstr "Neigh machine full"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTH_KNIGHTSTICK
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTH_KNIGHTSTICK"
-msgid "Make faster friend"
-msgstr "Make faster friend"
+msgid "Neigh stick!"
+msgstr "Neigh stick!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTH_LANCE
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTH_LANCE"
@@ -274939,18 +274939,18 @@ msgstr "For hitting? Oh no..."
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTS_LANTERN_POST.BURNT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTS_LANTERN_POST.BURNT"
-msgid "Poor tall friend"
-msgstr "Poor tall friend"
+msgid "Poor tall light"
+msgstr "Poor tall light"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTS_LANTERN_POST.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTS_LANTERN_POST.GENERIC"
-msgid "Pretty tall friend"
-msgstr "Pretty tall friend"
+msgid "Pretty tall light"
+msgstr "Pretty tall light"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTS_LANTERN_POST_ITEM
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTS_LANTERN_POST_ITEM"
-msgid "Make tall friend!"
-msgstr "Make tall friend!"
+msgid "Make tall light!"
+msgstr "Make tall light!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTS_SNAKESHRINE.BURNT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YOTS_SNAKESHRINE.BURNT"
@@ -316832,8 +316832,8 @@ msgstr "DEADLY PLANT ARMOR. I'LL ALLOW IT"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.ARMOR_ROCKY
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ARMOR_ROCKY"
-msgid "NOW I WILL HAVE BONUS DOUBLE ARMOR. WIN"
-msgstr "NOW I WILL HAVE BONUS DOUBLE ARMOR. WIN"
+msgid "MORE ARMOR? YES"
+msgstr "MORE ARMOR? YES"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.ARMOR_SANITY
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ARMOR_SANITY"
@@ -326671,8 +326671,8 @@ msgstr "UNIDENTIFIED LIFEPODS"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.QUEEN_TORCH
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.QUEEN_TORCH"
-msgid "NOT AFRAID OF DARK. MINE ANYWAY"
-msgstr "NOT AFRAID OF DARK. MINE ANYWAY"
+msgid "ONLY FLESHBAGS FEAR DARKNESS. SO IT'S MINE"
+msgstr "ONLY FLESHBAGS FEAR DARKNESS. SO IT'S MINE"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.RABBIT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.RABBIT.GENERIC"
@@ -353026,6 +353026,11 @@ msgctxt "STRINGS.NAMES.SHROUDEN"
 msgid "Umbral Abomination"
 msgstr "Umbral Abomination"
 
+#. STRINGS.NAMES.SHROUDEN_ALLEGIANCE
+msgctxt "STRINGS.NAMES.SHROUDEN_ALLEGIANCE"
+msgid "Shrouden"
+msgstr "Shrouden"
+
 #. STRINGS.NAMES.SHROUDEN_OTHER
 msgctxt "STRINGS.NAMES.SHROUDEN_OTHER"
 msgid "The Other"
@@ -366620,10 +366625,10 @@ msgstr "As a Merm, Wurt reverses the sanity loss into sanity gain."
 #. STRINGS.SCRAPBOOK.SPECIALINFO.KING_CANE
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.KING_CANE"
 msgid ""
-"Socket any gem to use the respective staffs ability.\n"
+"Increases movement speed by 30% when held. Socket any gem to use the respective staffs ability.\n"
 "Be careful to not overuse, or you will fall as they did."
 msgstr ""
-"Socket any gem to use the respective staffs ability.\n"
+"Increases movement speed by 30% when held. Socket any gem to use the respective staffs ability.\n"
 "Be careful to not overuse, or you will fall as they did."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.LANTERN
@@ -368132,6 +368137,11 @@ msgstr "Can be mined for Shell Bells."
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.SHIELDOFTERROR"
 msgid "Can be repaired by feeding it food."
 msgstr "Can be repaired by feeding it food."
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.SHROUDEN
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.SHROUDEN"
+msgid "We just want to go home."
+msgstr "We just want to go home."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.SIESTAHUT
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.SIESTAHUT"

@@ -11149,6 +11149,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_ANTLION"
 msgid "A stagn-antlion."
 msgstr "A stagn-antlion."
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW"
+msgid "That was a draining experience."
+msgstr "That was a draining experience."
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "It was a lot bigger up close."
@@ -11193,6 +11198,11 @@ msgstr "We have a winner!"
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_CATCOON"
 msgid "It would probably make a great scratching post."
 msgstr "It would probably make a great scratching post."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_CHARLIE_BOSS
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_CHARLIE_BOSS"
+msgid "She was definitely up to nothing good."
+msgstr "She was definitely up to nothing good."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_CLAYHOUND
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_CLAYHOUND"
@@ -11319,6 +11329,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_PIPE"
 msgid "That was never really my thing."
 msgstr "That was never really my thing."
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW"
+msgid "That lobster went bad."
+msgstr "That lobster went bad."
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_ROOK.GENERIC
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_ROOK.GENERIC"
 msgid "It's even heavier than it looks."
@@ -11333,6 +11348,11 @@ msgstr "The chess pieces are moving themselves!"
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_SHARKBOI"
 msgid "There's just some-fin about it."
 msgstr "There's just some-fin about it."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_SHROUDEN"
+msgid "I never want to see that again."
+msgstr "I never want to see that again."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_STALKER
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_STALKER"
@@ -11373,6 +11393,11 @@ msgstr "It's just missing that horrible breath."
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_WORMBOSS"
 msgid "It still shakes me up."
 msgstr "It still shakes me up."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW"
+msgid "I'll never worm up to it."
+msgstr "I'll never worm up to it."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_YOTD
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_YOTD"
@@ -15307,6 +15332,11 @@ msgstr "It looks heavier than the others."
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MASK_BLACKSMITHHAT"
 msgid "It's a blacksmith mask."
 msgstr "It's a blacksmith mask."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MASK_CHARLIE_BOSSHAT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MASK_CHARLIE_BOSSHAT"
+msgid "I wonder how old it is."
+msgstr "I wonder how old it is."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MASK_DOLLBROKENHAT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MASK_DOLLBROKENHAT"
@@ -30772,6 +30802,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_ANTLION"
 msgid "She really shook you up, didn't she Woby?"
 msgstr "She really shook you up, didn't she Woby?"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW"
+msgid "What a sucker! Get it, Woby?"
+msgstr "What a sucker! Get it, Woby?"
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "It looks just like him!"
@@ -30816,6 +30851,11 @@ msgstr "I usually prefer badges to trophies, but I might make an exception."
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_CATCOON"
 msgid "It's not quite as exciting as a monster statue, is it?"
 msgstr "It's not quite as exciting as a monster statue, is it?"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_CHARLIE_BOSS
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_CHARLIE_BOSS"
+msgid "She sure had a lot going on!"
+msgstr "She sure had a lot going on!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_CLAYHOUND
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_CLAYHOUND"
@@ -30942,6 +30982,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_PIPE"
 msgid "It looks like one of those joke pipes you can mail in for."
 msgstr "It looks like one of those joke pipes you can mail in for."
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW"
+msgid "It got real rocky with this guy!"
+msgstr "It got real rocky with this guy!"
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_ROOK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_ROOK.GENERIC"
 msgid "It's so lifelike!"
@@ -30956,6 +31001,11 @@ msgstr "Hey, I think it's moving!"
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_SHARKBOI"
 msgid "Your bark was worse than their bite, Woby!"
 msgstr "Your bark was worse than their bite, Woby!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_SHROUDEN"
+msgid "It can't hurt us now, Woby!"
+msgstr "It can't hurt us now, Woby!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_STALKER
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_STALKER"
@@ -30998,6 +31048,11 @@ msgstr "They weren't nearly as nice as you, Woby."
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_WORMBOSS"
 msgid "It was gross inside and out!"
 msgstr "It was gross inside and out!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW"
+msgid "That was a whopper, eh, Woby?"
+msgstr "That was a whopper, eh, Woby?"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_YOTD
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CHESSPIECE_YOTD"
@@ -34954,6 +35009,11 @@ msgstr "I think this one did all the work."
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MASK_BLACKSMITHHAT"
 msgid "Neat! A spooky mask!"
 msgstr "Neat! A spooky mask!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.MASK_CHARLIE_BOSSHAT
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MASK_CHARLIE_BOSSHAT"
+msgid "Ooooh, what's that on the back!"
+msgstr "Ooooh, what's that on the back!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.MASK_DOLLBROKENHAT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MASK_DOLLBROKENHAT"
@@ -50164,8 +50224,8 @@ msgstr "only_used_by_winona"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.CHARLIE_BOSS
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHARLIE_BOSS"
-msgid "She gets worse every time."
-msgstr "She gets worse every time."
+msgid "She gets worse each time."
+msgstr "She gets worse each time."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.CHARLIE_HAND
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHARLIE_HAND"
@@ -50231,6 +50291,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_ANTLION"
 msgid "Right. That time I was almost impaled by spikes."
 msgstr "Right. That time I was almost impaled by spikes."
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW"
+msgid "Dreadful, that maw."
+msgstr "Dreadful, that maw."
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "Not one of my fondest memories."
@@ -50275,6 +50340,11 @@ msgstr "I don't think this really warranted a statue."
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_CATCOON"
 msgid "I guess I did have time to play with you after all."
 msgstr "I guess I did have time to play with you after all."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_CHARLIE_BOSS
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_CHARLIE_BOSS"
+msgid "I couldn't forget her if I tried."
+msgstr "I couldn't forget her if I tried."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_CLAYHOUND
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_CLAYHOUND"
@@ -50401,6 +50471,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_PIPE"
 msgid "A still life. How riveting."
 msgstr "A still life. How riveting."
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW"
+msgid "Too many close calls with this beast."
+msgstr "Too many close calls with this beast."
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_ROOK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_ROOK.GENERIC"
 msgid "Who sculpted these?"
@@ -50415,6 +50490,11 @@ msgstr "What's happening? It can't be!"
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_SHARKBOI"
 msgid "How could I forget this ruffian?"
 msgstr "How could I forget this ruffian?"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_SHROUDEN"
+msgid "The last thing I need is a reminder of that."
+msgstr "The last thing I need is a reminder of that."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_STALKER
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_STALKER"
@@ -50455,6 +50535,11 @@ msgstr "That's one memory I'd be happy not to revisit."
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_WORMBOSS"
 msgid "Rather not relive this one."
 msgstr "Rather not relive this one."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW"
+msgid "I preferred the other one."
+msgstr "I preferred the other one."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_YOTD
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CHESSPIECE_YOTD"
@@ -54406,6 +54491,11 @@ msgstr "A mask like this is earned through years of hard labor."
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.MASK_BLACKSMITHHAT"
 msgid "Something about it makes my skin crawl..."
 msgstr "Something about it makes my skin crawl..."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.MASK_CHARLIE_BOSSHAT
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.MASK_CHARLIE_BOSSHAT"
+msgid "A face I'll not soon forget."
+msgstr "A face I'll not soon forget."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.MASK_DOLLBROKENHAT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.MASK_DOLLBROKENHAT"
@@ -69550,6 +69640,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_ANTLION"
 msgid "I do like her better like this."
 msgstr "I do like her better like this."
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW"
+msgid "Ugh, I can still feel it on my head."
+msgstr "Ugh, I can still feel it on my head."
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "I can't believe we survived that beast!"
@@ -69594,6 +69689,11 @@ msgstr "Looking at it is making me a little hungry..."
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_CATCOON"
 msgid "At least this one won't try to sneak off with my lunch."
 msgstr "At least this one won't try to sneak off with my lunch."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_CHARLIE_BOSS
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_CHARLIE_BOSS"
+msgid "I wonder what happened to her?"
+msgstr "I wonder what happened to her?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_CLAYHOUND
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_CLAYHOUND"
@@ -69720,6 +69820,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_PIPE"
 msgid "I hope it doesn't set a bad example for the little ones."
 msgstr "I hope it doesn't set a bad example for the little ones."
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW"
+msgid "I'll never look at lobster the same way again."
+msgstr "I'll never look at lobster the same way again."
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_ROOK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_ROOK.GENERIC"
 msgid "It looks a bit like a rook."
@@ -69734,6 +69839,11 @@ msgstr "Mon dieu! It's moving!"
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_SHARKBOI"
 msgid "It seemed to think it was top of the food chain."
 msgstr "It seemed to think it was top of the food chain."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_SHROUDEN"
+msgid "I never want to see that thing again!"
+msgstr "I never want to see that thing again!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_STALKER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_STALKER"
@@ -69774,6 +69884,11 @@ msgstr "I'm relieved it's just a statue."
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_WORMBOSS"
 msgid "It sure had an appetite."
 msgstr "It sure had an appetite."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW"
+msgid "It had a hunger that could not be satiated."
+msgstr "It had a hunger that could not be satiated."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_YOTD
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSPIECE_YOTD"
@@ -73614,6 +73729,11 @@ msgstr "This belonged to a hard worker."
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MASK_BLACKSMITHHAT"
 msgid "Is it time for a masquerade?"
 msgstr "Is it time for a masquerade?"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.MASK_CHARLIE_BOSSHAT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MASK_CHARLIE_BOSSHAT"
+msgid "It was just a mask."
+msgstr "It was just a mask."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.MASK_DOLLBROKENHAT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MASK_DOLLBROKENHAT"
@@ -87967,6 +88087,12 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_ANTLION"
 msgid "The artist hath captured her noble mane perfectly."
 msgstr "The artist hath captured her noble mane perfectly."
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW"
+msgid "The winged beast of the night was naught but a nuisance to be swatted!"
+msgstr ""
+"The winged beast of the night was naught but a nuisance to be swatted!"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "'Twas a battle to sing of."
@@ -88011,6 +88137,11 @@ msgstr "I'm not keen on honoring a vegetable so."
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_CATCOON"
 msgid "You have my respect, fellow hunter."
 msgstr "You have my respect, fellow hunter."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_CHARLIE_BOSS
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_CHARLIE_BOSS"
+msgid "Never shall I forget thee, Lady of Shadows."
+msgstr "Never shall I forget thee, Lady of Shadows."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_CLAYHOUND
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_CLAYHOUND"
@@ -88137,6 +88268,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_PIPE"
 msgid "Tis but a jest."
 msgstr "Tis but a jest."
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW"
+msgid "The cursed brute was broken by mine hand and steel!"
+msgstr "The cursed brute was broken by mine hand and steel!"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_ROOK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_ROOK.GENERIC"
 msgid "A castle fit for a queen."
@@ -88151,6 +88287,11 @@ msgstr "Battle is nigh!"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_SHARKBOI"
 msgid "Until we meet again, bait-breathed warrior."
 msgstr "Until we meet again, bait-breathed warrior."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_SHROUDEN"
+msgid "The accursed one deserverth no tribute!"
+msgstr "The accursed one deserverth no tribute!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_STALKER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_STALKER"
@@ -88191,6 +88332,11 @@ msgstr "'Twas no match for my spear."
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_WORMBOSS"
 msgid "I shall never forget this hungry cave serpent."
 msgstr "I shall never forget this hungry cave serpent."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW"
+msgid "I relished slaying this dark behemoth!"
+msgstr "I relished slaying this dark behemoth!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_YOTD
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_YOTD"
@@ -92126,6 +92272,11 @@ msgstr "The bearer of this mask hath endured the ceaseless barrage of toil!"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MASK_BLACKSMITHHAT"
 msgid "'Tis cowardly to hide one's face behind a mask!"
 msgstr "'Tis cowardly to hide one's face behind a mask!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MASK_CHARLIE_BOSSHAT
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MASK_CHARLIE_BOSSHAT"
+msgid "T'was an honor to battle thee, Lady of Shadows."
+msgstr "T'was an honor to battle thee, Lady of Shadows."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MASK_DOLLBROKENHAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MASK_DOLLBROKENHAT"
@@ -104016,8 +104167,8 @@ msgstr "Disgusting!"
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_STOMP_SHROUDEN
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_STOMP_SHROUDEN"
-msgid "How are you still alive? Must I crush you with my heel?"
-msgstr "How are you still alive? Must I crush you with my heel?"
+msgid "This must be terribly undignified for you."
+msgstr "This must be terribly undignified for you."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TALK_TO_PLANTS.1
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TALK_TO_PLANTS.1"
@@ -107306,6 +107457,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_ANTLION"
 msgid "Is there a sinkhole I can bury this in?"
 msgstr "Is there a sinkhole I can bury this in?"
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW"
+msgid "Not too keen on the whole mouth thing."
+msgstr "Not too keen on the whole mouth thing."
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "A brute."
@@ -107350,6 +107506,11 @@ msgstr "If only I had a mantle to set it on."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_CATCOON"
 msgid "This animal commands respect through violence."
 msgstr "This animal commands respect through violence."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_CHARLIE_BOSS
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_CHARLIE_BOSS"
+msgid "Where are you, Charlie?"
+msgstr "Where are you, Charlie?"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_CLAYHOUND
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_CLAYHOUND"
@@ -107476,6 +107637,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_PIPE"
 msgid "Ceci n'est pas une pipe. Pity."
 msgstr "Ceci n'est pas une pipe. Pity."
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW"
+msgid "I sensed a mutual respect between us."
+msgstr "I sensed a mutual respect between us."
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_ROOK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_ROOK.GENERIC"
 msgid "It's nice, but where's the rust? The exhaust pipes?"
@@ -107490,6 +107656,11 @@ msgstr "The pieces are in motion!"
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_SHARKBOI"
 msgid "Bottom feeding lone shark."
 msgstr "Bottom feeding lone shark."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_SHROUDEN"
+msgid "I don't see what all the fuss was about."
+msgstr "I don't see what all the fuss was about."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_STALKER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_STALKER"
@@ -107530,6 +107701,11 @@ msgstr "It was a bad dog."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_WORMBOSS"
 msgid "I can still smell it's breath."
 msgstr "I can still smell it's breath."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW"
+msgid "It was impressive, I'll admit."
+msgstr "It was impressive, I'll admit."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_YOTD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CHESSPIECE_YOTD"
@@ -111474,6 +111650,11 @@ msgstr "The mask of a laborer, no doubt."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MASK_BLACKSMITHHAT"
 msgid "How very dramatic."
 msgstr "How very dramatic."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MASK_CHARLIE_BOSSHAT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MASK_CHARLIE_BOSSHAT"
+msgid "I'm sorry, Charlie."
+msgstr "I'm sorry, Charlie."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MASK_DOLLBROKENHAT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MASK_DOLLBROKENHAT"
@@ -115831,8 +116012,8 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SHROUDEN.PUDDLE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SHROUDEN.PUDDLE"
-msgid "This must be terribly undignified for you."
-msgstr "This must be terribly undignified for you."
+msgid "How are you still alive? Must I crush you with my heel?"
+msgstr "How are you still alive? Must I crush you with my heel?"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SIESTAHUT.BURNT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SIESTAHUT.BURNT"
@@ -126493,6 +126674,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_ANTLION"
 msgid "It's so life-like the mane looks fluffy!"
 msgstr "It's so life-like the mane looks fluffy!"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW"
+msgid "We wish we could fly!"
+msgstr "We wish we could fly!"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "The fur looks so real!"
@@ -126537,6 +126723,11 @@ msgstr "It makes us feel content."
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_CATCOON"
 msgid "We respect the butterfly hunter."
 msgstr "We respect the butterfly hunter."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_CHARLIE_BOSS
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_CHARLIE_BOSS"
+msgid "Aww, poor lady."
+msgstr "Aww, poor lady."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_CLAYHOUND
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_CLAYHOUND"
@@ -126663,6 +126854,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_PIPE"
 msgid "Bubbles!"
 msgstr "Bubbles!"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW"
+msgid "How did it move like that?"
+msgstr "How did it move like that?"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_ROOK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_ROOK.GENERIC"
 msgid "Where's the king of the castle?"
@@ -126677,6 +126873,11 @@ msgstr "It's... alive?!"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_SHARKBOI"
 msgid "They weren't so bad after we got to know them."
 msgstr "They weren't so bad after we got to know them."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_SHROUDEN"
+msgid "We weren't scared one bit!"
+msgstr "We weren't scared one bit!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_STALKER
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_STALKER"
@@ -126717,6 +126918,11 @@ msgstr "We thought only cats had nine lives!"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_WORMBOSS"
 msgid "That big worm had a big mouth."
 msgstr "That big worm had a big mouth."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW"
+msgid "We had fun being chased by the big worm."
+msgstr "We had fun being chased by the big worm."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_YOTD
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_YOTD"
@@ -130637,6 +130843,11 @@ msgstr "It must have been worn by someone big and strong."
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MASK_BLACKSMITHHAT"
 msgid "We can pretend to be somebody else!"
 msgstr "We can pretend to be somebody else!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MASK_CHARLIE_BOSSHAT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MASK_CHARLIE_BOSSHAT"
+msgid "We wanna wear the lady's mask!"
+msgstr "We wanna wear the lady's mask!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MASK_DOLLBROKENHAT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MASK_DOLLBROKENHAT"
@@ -145657,6 +145868,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_ANTLION"
 msgid "Still and lifeless."
 msgstr "Still and lifeless."
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW"
+msgid "It thirsted for life."
+msgstr "It thirsted for life."
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "Ashes to ashes, bust to bust. Oh."
@@ -145701,6 +145917,11 @@ msgstr "If only I could feel so serene."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_CATCOON"
 msgid "A reminder of brighter days."
 msgstr "A reminder of brighter days."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_CHARLIE_BOSS
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_CHARLIE_BOSS"
+msgid "I feel sorry for her."
+msgstr "I feel sorry for her."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_CLAYHOUND
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_CLAYHOUND"
@@ -145827,6 +146048,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_PIPE"
 msgid "A bubble, frozen in time, can never pop."
 msgstr "A bubble, frozen in time, can never pop."
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW"
+msgid "It harbored a dark rage."
+msgstr "It harbored a dark rage."
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_ROOK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_ROOK.GENERIC"
 msgid "A mere minion to something greater."
@@ -145841,6 +146067,11 @@ msgstr "They're here."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_SHARKBOI"
 msgid "Their cold shark heart was just misunderstood."
 msgstr "Their cold shark heart was just misunderstood."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_SHROUDEN"
+msgid "That was the worst."
+msgstr "That was the worst."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_STALKER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_STALKER"
@@ -145881,6 +146112,11 @@ msgstr "Why was it able to come back? It's not fair..."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_WORMBOSS"
 msgid "It consumed to fill its endless void."
 msgstr "It consumed to fill its endless void."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW"
+msgid "It was cursed with an endless hunger."
+msgstr "It was cursed with an endless hunger."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_YOTD
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESSPIECE_YOTD"
@@ -149795,6 +150031,11 @@ msgstr "There is a quiet strength about this one."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MASK_BLACKSMITHHAT"
 msgid "To become someone else, even for a moment..."
 msgstr "To become someone else, even for a moment..."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.MASK_CHARLIE_BOSSHAT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MASK_CHARLIE_BOSSHAT"
+msgid "It was just a mask afterall."
+msgstr "It was just a mask afterall."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MASK_DOLLBROKENHAT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MASK_DOLLBROKENHAT"
@@ -165065,6 +165306,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_ANTLION"
 msgid "A stately statuary of the Panthera auropunctata."
 msgstr "A stately statuary of the Panthera auropunctata."
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW"
+msgid "Its cursed form did not affect its thirst for blood."
+msgstr "Its cursed form did not affect its thirst for blood."
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "Quite expressive!"
@@ -165109,6 +165355,11 @@ msgstr "A delightfully rendered likeness of the Daucus carota rattus."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_CATCOON"
 msgid "The resemblance to the Felis lybica is incredible."
 msgstr "The resemblance to the Felis lybica is incredible."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_CHARLIE_BOSS
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_CHARLIE_BOSS"
+msgid "It seems she got more than she bargained for."
+msgstr "It seems she got more than she bargained for."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_CLAYHOUND
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_CLAYHOUND"
@@ -165236,6 +165487,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_PIPE"
 msgid "I hope this does not have a bad influence on the children."
 msgstr "I hope this does not have a bad influence on the children."
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW"
+msgid "Destructive and deadly in every form."
+msgstr "Destructive and deadly in every form."
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_ROOK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_ROOK.GENERIC"
 msgid "Represents the protective walls of the king's castle."
@@ -165250,6 +165506,11 @@ msgstr "It seems magic is afoot."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_SHARKBOI"
 msgid "The mouthiest of its species."
 msgstr "The mouthiest of its species."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_SHROUDEN"
+msgid "Will it ever be truly destroyed?"
+msgstr "Will it ever be truly destroyed?"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_STALKER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_STALKER"
@@ -165291,6 +165552,11 @@ msgstr "There is much I still don't understand about this beast."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_WORMBOSS"
 msgid "This ancestor of the predatory annelid was far worse."
 msgstr "This ancestor of the predatory annelid was far worse."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW"
+msgid "A creature with a bottomless appetite."
+msgstr "A creature with a bottomless appetite."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_YOTD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_YOTD"
@@ -169316,6 +169582,11 @@ msgstr ""
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MASK_BLACKSMITHHAT"
 msgid "It appears to be a stage mask."
 msgstr "It appears to be a stage mask."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MASK_CHARLIE_BOSSHAT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MASK_CHARLIE_BOSSHAT"
+msgid "A cursed relic of the abhorrent triune."
+msgstr "A cursed relic of the abhorrent triune."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MASK_DOLLBROKENHAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MASK_DOLLBROKENHAT"
@@ -184817,6 +185088,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_ANTLION"
 msgid "Can't shake anything up like that."
 msgstr "Can't shake anything up like that."
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW"
+msgid "Its breath was cursed."
+msgstr "Its breath was cursed."
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "Those are some pointy teeth."
@@ -184861,6 +185137,11 @@ msgstr "Now all I can think of is roasted carrots."
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_CATCOON"
 msgid "Heh. I like this one."
 msgstr "Heh. I like this one."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_CHARLIE_BOSS
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_CHARLIE_BOSS"
+msgid "She had some real issues."
+msgstr "She had some real issues."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_CLAYHOUND
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_CLAYHOUND"
@@ -184987,6 +185268,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_PIPE"
 msgid "I prefer smokey fires."
 msgstr "I prefer smokey fires."
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW"
+msgid "It's Ol' Pinchy."
+msgstr "It's Ol' Pinchy."
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_ROOK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_ROOK.GENERIC"
 msgid "That one looks like it could do some damage."
@@ -185001,6 +185287,11 @@ msgstr "I don't wanna see what comes outta that!"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_SHARKBOI"
 msgid "Reminded me of someone from my old neighborhood."
 msgstr "Reminded me of someone from my old neighborhood."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_SHROUDEN"
+msgid "That guy had a real staring problem."
+msgstr "That guy had a real staring problem."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_STALKER
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_STALKER"
@@ -185041,6 +185332,11 @@ msgstr "I SAID we should've burned it, but nope, nobody listens to me..."
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_WORMBOSS"
 msgid "I hope it gets indigestion."
 msgstr "I hope it gets indigestion."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW"
+msgid "At this size, it just looks silly."
+msgstr "At this size, it just looks silly."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_YOTD
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_YOTD"
@@ -188956,6 +189252,11 @@ msgstr "Hey, tough guy!"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MASK_BLACKSMITHHAT"
 msgid "What a creepy mask."
 msgstr "What a creepy mask."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MASK_CHARLIE_BOSSHAT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MASK_CHARLIE_BOSSHAT"
+msgid "Stupid creepy mask."
+msgstr "Stupid creepy mask."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MASK_DOLLBROKENHAT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MASK_DOLLBROKENHAT"
@@ -204042,6 +204343,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_ANTLION"
 msgid "Looks so real, I can almost feel the earth rumblin'."
 msgstr "Looks so real, I can almost feel the earth rumblin'."
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW"
+msgid "Nasty bloodsucker."
+msgstr "Nasty bloodsucker."
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "Y'got a mean mug there, buddy."
@@ -204086,6 +204392,11 @@ msgstr "Look at it, just lazing around!"
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_CATCOON"
 msgid "Aw, whatcha got there? ...Oh."
 msgstr "Aw, whatcha got there? ...Oh."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_CHARLIE_BOSS
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_CHARLIE_BOSS"
+msgid "Oh, Charlie..."
+msgstr "Oh, Charlie..."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_CLAYHOUND
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_CLAYHOUND"
@@ -204216,6 +204527,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_PIPE"
 msgid "It's got bubbles coming out the top."
 msgstr "It's got bubbles coming out the top."
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW"
+msgid "A tough customer for sure."
+msgstr "A tough customer for sure."
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_ROOK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_ROOK.GENERIC"
 msgid "Looks heavy."
@@ -204230,6 +204546,11 @@ msgstr "That ain't supposed to move."
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_SHARKBOI"
 msgid "That shark was kind of a jerk."
 msgstr "That shark was kind of a jerk."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_SHROUDEN"
+msgid "Good riddance."
+msgstr "Good riddance."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_STALKER
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_STALKER"
@@ -204270,6 +204591,11 @@ msgstr "Now this is a pooch I could play with."
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_WORMBOSS"
 msgid "What a big nasty worm that was. Blegh."
 msgstr "What a big nasty worm that was. Blegh."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW"
+msgid "Like a regular giant worm wasn't bad enough."
+msgstr "Like a regular giant worm wasn't bad enough."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_YOTD
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.CHESSPIECE_YOTD"
@@ -208206,6 +208532,11 @@ msgstr "This one did all the heavy lifting."
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MASK_BLACKSMITHHAT"
 msgid "Why do I feel like it's lookin' at me?"
 msgstr "Why do I feel like it's lookin' at me?"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.MASK_CHARLIE_BOSSHAT
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MASK_CHARLIE_BOSSHAT"
+msgid "It didn't have to be that way, Charlie."
+msgstr "It didn't have to be that way, Charlie."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.MASK_DOLLBROKENHAT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MASK_DOLLBROKENHAT"
@@ -223260,6 +223591,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_ANTLION"
 msgid "Wolfgang will not battle it in staring contest."
 msgstr "Wolfgang will not battle it in staring contest."
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW"
+msgid "Is too small to bite head now."
+msgstr "Is too small to bite head now."
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "Terrifying beast statue!"
@@ -223304,6 +223640,11 @@ msgstr "Wolfgang liked racing leggy carrots."
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_CATCOON"
 msgid "Ha! Is easy to find this one."
 msgstr "Ha! Is easy to find this one."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_CHARLIE_BOSS
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_CHARLIE_BOSS"
+msgid "Is pity what happen to scary night lady."
+msgstr "Is pity what happen to scary night lady."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_CLAYHOUND
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_CLAYHOUND"
@@ -223430,6 +223771,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_PIPE"
 msgid "Might be good for lifting!"
 msgstr "Might be good for lifting!"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW"
+msgid "Look at little shadowy claw! Cute!"
+msgstr "Look at little shadowy claw! Cute!"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_ROOK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_ROOK.GENERIC"
 msgid "Does not look like castle to Wolfgang."
@@ -223444,6 +223790,11 @@ msgstr "Wolfgang does not like moving statues!!"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_SHARKBOI"
 msgid "Wolfgang and talking shark could be buddy in different life."
 msgstr "Wolfgang and talking shark could be buddy in different life."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_SHROUDEN"
+msgid "Aw, little red eye is kind of cute, no?"
+msgstr "Aw, little red eye is kind of cute, no?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_STALKER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_STALKER"
@@ -223484,6 +223835,11 @@ msgstr "Cute doggy, but dead is better."
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_WORMBOSS"
 msgid "Wolfgang prefer not to talk about giant worm experience."
 msgstr "Wolfgang prefer not to talk about giant worm experience."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW"
+msgid "Mama worm took Wolfgang to dark place."
+msgstr "Mama worm took Wolfgang to dark place."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_YOTD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_YOTD"
@@ -227395,6 +227751,11 @@ msgstr "Strong chin! Like Wolfgang!"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MASK_BLACKSMITHHAT"
 msgid "Wolfgang does not like the spooky face."
 msgstr "Wolfgang does not like the spooky face."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MASK_CHARLIE_BOSSHAT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MASK_CHARLIE_BOSSHAT"
+msgid "All that is left of scary night lady. So sad."
+msgstr "All that is left of scary night lady. So sad."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MASK_DOLLBROKENHAT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MASK_DOLLBROKENHAT"
@@ -242366,6 +242727,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_ANTLION"
 msgid "Looks almost real, eh?"
 msgstr "Looks almost real, eh?"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW"
+msgid "Yup, the worst things have wings."
+msgstr "Yup, the worst things have wings."
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "Good use of stone."
@@ -242410,6 +242776,11 @@ msgstr "Looks well made."
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_CATCOON"
 msgid "Real nice detailing on the fur there."
 msgstr "Real nice detailing on the fur there."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_CHARLIE_BOSS
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_CHARLIE_BOSS"
+msgid "She went looking for trouble and she found it."
+msgstr "She went looking for trouble and she found it."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_CLAYHOUND
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_CLAYHOUND"
@@ -242537,6 +242908,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_PIPE"
 msgid "Kitschy. Just how Lucy and I like it."
 msgstr "Kitschy. Just how Lucy and I like it."
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW"
+msgid "That guy was mean."
+msgstr "That guy was mean."
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_ROOK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_ROOK.GENERIC"
 msgid "Pfft, tacky."
@@ -242551,6 +242927,11 @@ msgstr "Get ready, Lucy."
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_SHARKBOI"
 msgid "Hey there, fish breath."
 msgstr "Hey there, fish breath."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_SHROUDEN"
+msgid "I don't wanna remember that thing."
+msgstr "I don't wanna remember that thing."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_STALKER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_STALKER"
@@ -242591,6 +242972,11 @@ msgstr "There's a good dog."
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_WORMBOSS"
 msgid "I still have nightmares about that thing."
 msgstr "I still have nightmares about that thing."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW"
+msgid "The mouth on that one!"
+msgstr "The mouth on that one!"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_YOTD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSPIECE_YOTD"
@@ -246526,6 +246912,11 @@ msgstr "I bet the owner could have carried a few logs."
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MASK_BLACKSMITHHAT"
 msgid "There's somethin' funny aboot that mask."
 msgstr "There's somethin' funny aboot that mask."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MASK_CHARLIE_BOSSHAT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MASK_CHARLIE_BOSSHAT"
+msgid "Think it's bad luck to wear it, Lucy?"
+msgstr "Think it's bad luck to wear it, Lucy?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MASK_DOLLBROKENHAT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MASK_DOLLBROKENHAT"
@@ -261532,6 +261923,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_ANTLION"
 msgid "Not moving"
 msgstr "Not moving"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW"
+msgid "Bad flying mouth"
+msgstr "Bad flying mouth"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "Not so smelly now"
@@ -261576,6 +261972,11 @@ msgstr "Friends!"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_CATCOON"
 msgid "No tail swish swoosh"
 msgstr "No tail swish swoosh"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_CHARLIE_BOSS
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_CHARLIE_BOSS"
+msgid "Sad for lady"
+msgstr "Sad for lady"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_CLAYHOUND
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_CLAYHOUND"
@@ -261702,6 +262103,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_PIPE"
 msgid "Bubbles!"
 msgstr "Bubbles!"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW"
+msgid "Little big pinchy"
+msgstr "Little big pinchy"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_ROOK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_ROOK.GENERIC"
 msgid "Home? Not home"
@@ -261716,6 +262122,11 @@ msgstr "Alive?"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_SHARKBOI"
 msgid "Toothy Fish Friend"
 msgstr "Toothy Fish Friend"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_SHROUDEN"
+msgid "Never ever friend"
+msgstr "Never ever friend"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_STALKER
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_STALKER"
@@ -261756,6 +262167,11 @@ msgstr "Woofer, stay"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_WORMBOSS"
 msgid "Don't eat!"
 msgstr "Don't eat!"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW"
+msgid "Much hungry!"
+msgstr "Much hungry!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_YOTD
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSPIECE_YOTD"
@@ -265690,6 +266106,11 @@ msgstr "Bug man face strong!"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MASK_BLACKSMITHHAT"
 msgid "Hello? Oh! Not friend, just face"
 msgstr "Hello? Oh! Not friend, just face"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MASK_CHARLIE_BOSSHAT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MASK_CHARLIE_BOSSHAT"
+msgid "Lady bad mask"
+msgstr "Lady bad mask"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MASK_DOLLBROKENHAT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MASK_DOLLBROKENHAT"
@@ -280812,6 +281233,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_ANTLION"
 msgid "An anti Ant Lion, formerly furry. Hyuyu!"
 msgstr "An anti Ant Lion, formerly furry. Hyuyu!"
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW"
+msgid "The bat that was an unwanted hat."
+msgstr "The bat that was an unwanted hat."
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "I'll say a prayer for this slain bear."
@@ -280856,6 +281282,11 @@ msgstr "Not so light on its feet now, hyuyu!"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CATCOON"
 msgid "This little guy and I don't see eye to eye, hyuyu."
 msgstr "This little guy and I don't see eye to eye, hyuyu."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CHARLIE_BOSS
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CHARLIE_BOSS"
+msgid "The Shadow Queen has been!"
+msgstr "The Shadow Queen has been!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CLAYHOUND
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CLAYHOUND"
@@ -280987,6 +281418,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_PIPE"
 msgid "Bubble, bubble, no such trouble."
 msgstr "Bubble, bubble, no such trouble."
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW"
+msgid "The nastiest claw I ever did saw!"
+msgstr "The nastiest claw I ever did saw!"
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_ROOK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_ROOK.GENERIC"
 msgid "We carved this from the rock ourselves."
@@ -281001,6 +281437,11 @@ msgstr "Yes, yes, come play!"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_SHARKBOI"
 msgid "We avoided the maw of the rowdy Frostjaw."
 msgstr "We avoided the maw of the rowdy Frostjaw."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_SHROUDEN"
+msgid "Nice try, evil eye."
+msgstr "Nice try, evil eye."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_STALKER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_STALKER"
@@ -281041,6 +281482,11 @@ msgstr "Must we memorialize the mutated mutt?"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_WORMBOSS"
 msgid "Its jaws were near, but I disappeared! Hyuyu!"
 msgstr "Its jaws were near, but I disappeared! Hyuyu!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW"
+msgid "The sight of that worm still makes me squirm."
+msgstr "The sight of that worm still makes me squirm."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_YOTD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_YOTD"
@@ -284959,6 +285405,11 @@ msgstr "I would root for this brute!"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MASK_BLACKSMITHHAT"
 msgid "A mask to place upon my face."
 msgstr "A mask to place upon my face."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MASK_CHARLIE_BOSSHAT
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MASK_CHARLIE_BOSSHAT"
+msgid "A mask for a dark task."
+msgstr "A mask for a dark task."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MASK_DOLLBROKENHAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MASK_DOLLBROKENHAT"
@@ -300009,6 +300460,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_ANTLION"
 msgid "How she stay so still?"
 msgstr "How she stay so still?"
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW"
+msgid "Florp! Flying night puppy!"
+msgstr "Florp! Flying night puppy!"
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "Grrrr!"
@@ -300053,6 +300509,11 @@ msgstr "Veggie rat look happy."
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_CATCOON"
 msgid "It pretty good statue, has dead butterfly!"
 msgstr "It pretty good statue, has dead butterfly!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_CHARLIE_BOSS
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_CHARLIE_BOSS"
+msgid "Is scary night lady little sad?"
+msgstr "Is scary night lady little sad?"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_CLAYHOUND
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_CLAYHOUND"
@@ -300179,6 +300640,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_PIPE"
 msgid "Scale-less are weird, florp."
 msgstr "Scale-less are weird, florp."
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW"
+msgid "Wish me have big claw."
+msgstr "Wish me have big claw."
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_ROOK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_ROOK.GENERIC"
 msgid "This castle too small."
@@ -300193,6 +300659,11 @@ msgstr "It moving!"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_SHARKBOI"
 msgid "Haha! Bad fishie frozen."
 msgstr "Haha! Bad fishie frozen."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_SHROUDEN"
+msgid "Crush you again, wicked eyeball!"
+msgstr "Crush you again, wicked eyeball!"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_STALKER
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_STALKER"
@@ -300233,6 +300704,11 @@ msgstr "Poor doggy. Not so bad."
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_WORMBOSS"
 msgid "Hungriest worm."
 msgstr "Hungriest worm."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW"
+msgid "Night worm never full."
+msgstr "Night worm never full."
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_YOTD
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CHESSPIECE_YOTD"
@@ -304165,6 +304641,11 @@ msgstr "Strong Bugfolk face."
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MASK_BLACKSMITHHAT"
 msgid "Look like scale-less disguise."
 msgstr "Look like scale-less disguise."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.MASK_CHARLIE_BOSSHAT
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MASK_CHARLIE_BOSSHAT"
+msgid "Florp! Me can be scary night lady! Ha!"
+msgstr "Florp! Me can be scary night lady! Ha!"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.MASK_DOLLBROKENHAT
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MASK_DOLLBROKENHAT"
@@ -319238,6 +319719,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_ANTLION"
 msgid "NO LONGER CURSED WITH FLESH"
 msgstr "NO LONGER CURSED WITH FLESH"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW"
+msgid "IT HAD A DISGUSTING HABIT"
+msgstr "IT HAD A DISGUSTING HABIT"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "IT IS MY DECORATION NOW"
@@ -319282,6 +319768,11 @@ msgstr "WHEN WILL ONE OF MY UNDERLINGS CARVE A STATUE OF ME?"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_CATCOON"
 msgid "A CLEAR IMPROVEMENT OVER ITS FLESHY COUNTERPART"
 msgstr "A CLEAR IMPROVEMENT OVER ITS FLESHY COUNTERPART"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_CHARLIE_BOSS
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_CHARLIE_BOSS"
+msgid "BOOHOO, YOU DID IT TO YOURSELF"
+msgstr "BOOHOO, YOU DID IT TO YOURSELF"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_CLAYHOUND
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_CLAYHOUND"
@@ -319408,6 +319899,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_PIPE"
 msgid "IT HAS NO PERCEIVABLE PURPOSE"
 msgstr "IT HAS NO PERCEIVABLE PURPOSE"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_ROCKYBOSS_SHADOW"
+msgid "DID NOT LIVE UP TO POTENTIAL"
+msgstr "DID NOT LIVE UP TO POTENTIAL"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_ROOK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_ROOK.GENERIC"
 msgid "WHY ARE HUMANS SO COMPELLED TO \"DECORATE\"?"
@@ -319422,6 +319918,11 @@ msgstr "FIGURE BOOTING UP"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_SHARKBOI"
 msgid "NO-BLOODED BEATS COLD-BLOODED"
 msgstr "NO-BLOODED BEATS COLD-BLOODED"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_SHROUDEN
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_SHROUDEN"
+msgid "IT THOUGHT IT WAS A GOD. HAHAHA"
+msgstr "IT THOUGHT IT WAS A GOD. HAHAHA"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_STALKER
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_STALKER"
@@ -319462,6 +319963,11 @@ msgstr "EASY VICTORY. FOR ME"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_WORMBOSS"
 msgid "DISGUSTING ORGANIC IN AN ENDLESS CYCLE OF CONSUMPTION"
 msgstr "DISGUSTING ORGANIC IN AN ENDLESS CYCLE OF CONSUMPTION"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_WORMBOSS_SHADOW"
+msgid "IN THE END, IT ATE NOTHING BUT DIRT"
+msgstr "IN THE END, IT ATE NOTHING BUT DIRT"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_YOTD
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CHESSPIECE_YOTD"
@@ -323380,6 +323886,11 @@ msgstr "THE FACE OF A RELIABLE MINION"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MASK_BLACKSMITHHAT"
 msgid "IT HIDES DISGUSTING FLESH FACES. IT'S PERFECT"
 msgstr "IT HIDES DISGUSTING FLESH FACES. IT'S PERFECT"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.MASK_CHARLIE_BOSSHAT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MASK_CHARLIE_BOSSHAT"
+msgid "SPECIMEN DEFEATED. TROPHY ACQUIRED"
+msgstr "SPECIMEN DEFEATED. TROPHY ACQUIRED"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MASK_DOLLBROKENHAT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MASK_DOLLBROKENHAT"
@@ -344657,6 +345168,21 @@ msgctxt "STRINGS.NAMES.CHESSPIECE_ANTLION_BUILDER"
 msgid "Antlion Figure"
 msgstr "Antlion Figure"
 
+#. STRINGS.NAMES.CHESSPIECE_BATBOSS_SHADOW
+msgctxt "STRINGS.NAMES.CHESSPIECE_BATBOSS_SHADOW"
+msgid "Blighted Hound Batilisk Figure"
+msgstr "Blighted Hound Batilisk Figure"
+
+#. STRINGS.NAMES.CHESSPIECE_BATBOSS_SHADOW_BUILDER
+msgctxt "STRINGS.NAMES.CHESSPIECE_BATBOSS_SHADOW_BUILDER"
+msgid "Blighted Hound Batilisk Figure"
+msgstr "Blighted Hound Batilisk Figure"
+
+#. STRINGS.NAMES.CHESSPIECE_BATBOSS_SHADOW_SKETCH
+msgctxt "STRINGS.NAMES.CHESSPIECE_BATBOSS_SHADOW_SKETCH"
+msgid "Blighted Hound Batilisk Figure Sketch"
+msgstr "Blighted Hound Batilisk Figure Sketch"
+
 #. STRINGS.NAMES.CHESSPIECE_BEARGER
 msgctxt "STRINGS.NAMES.CHESSPIECE_BEARGER"
 msgid "Bearger Figure"
@@ -344761,6 +345287,21 @@ msgstr "Catcoon Figure"
 msgctxt "STRINGS.NAMES.CHESSPIECE_CATCOON_SKETCH"
 msgid "Catcoon Figure Sketch"
 msgstr "Catcoon Figure Sketch"
+
+#. STRINGS.NAMES.CHESSPIECE_CHARLIE_BOSS
+msgctxt "STRINGS.NAMES.CHESSPIECE_CHARLIE_BOSS"
+msgid "Shrouded Queen Figure"
+msgstr "Shrouded Queen Figure"
+
+#. STRINGS.NAMES.CHESSPIECE_CHARLIE_BOSS_BUILDER
+msgctxt "STRINGS.NAMES.CHESSPIECE_CHARLIE_BOSS_BUILDER"
+msgid "Shrouded Queen Figure"
+msgstr "Shrouded Queen Figure"
+
+#. STRINGS.NAMES.CHESSPIECE_CHARLIE_BOSS_SKETCH
+msgctxt "STRINGS.NAMES.CHESSPIECE_CHARLIE_BOSS_SKETCH"
+msgid "Shrouded Queen Figure Sketch"
+msgstr "Shrouded Queen Figure Sketch"
 
 #. STRINGS.NAMES.CHESSPIECE_CLAYHOUND
 msgctxt "STRINGS.NAMES.CHESSPIECE_CLAYHOUND"
@@ -345052,6 +345593,21 @@ msgctxt "STRINGS.NAMES.CHESSPIECE_PIPE_BUILDER"
 msgid "Bubble Pipe Carving"
 msgstr "Bubble Pipe Carving"
 
+#. STRINGS.NAMES.CHESSPIECE_ROCKYBOSS_SHADOW
+msgctxt "STRINGS.NAMES.CHESSPIECE_ROCKYBOSS_SHADOW"
+msgid "Blighted Rock Master Figure"
+msgstr "Blighted Rock Master Figure"
+
+#. STRINGS.NAMES.CHESSPIECE_ROCKYBOSS_SHADOW_BUILDER
+msgctxt "STRINGS.NAMES.CHESSPIECE_ROCKYBOSS_SHADOW_BUILDER"
+msgid "Blighted Rock Master Figure"
+msgstr "Blighted Rock Master Figure"
+
+#. STRINGS.NAMES.CHESSPIECE_ROCKYBOSS_SHADOW_SKETCH
+msgctxt "STRINGS.NAMES.CHESSPIECE_ROCKYBOSS_SHADOW_SKETCH"
+msgid "Blighted Rock Master Figure Sketch"
+msgstr "Blighted Rock Master Figure Sketch"
+
 #. STRINGS.NAMES.CHESSPIECE_ROOK
 msgctxt "STRINGS.NAMES.CHESSPIECE_ROOK"
 msgid "Rook Figure"
@@ -345076,6 +345632,21 @@ msgstr "Frostjaw Figure"
 msgctxt "STRINGS.NAMES.CHESSPIECE_SHARKBOI_SKETCH"
 msgid "Frostjaw Figure Sketch"
 msgstr "Frostjaw Figure Sketch"
+
+#. STRINGS.NAMES.CHESSPIECE_SHROUDEN
+msgctxt "STRINGS.NAMES.CHESSPIECE_SHROUDEN"
+msgid "Umbral Abomination Figure"
+msgstr "Umbral Abomination Figure"
+
+#. STRINGS.NAMES.CHESSPIECE_SHROUDEN_BUILDER
+msgctxt "STRINGS.NAMES.CHESSPIECE_SHROUDEN_BUILDER"
+msgid "Umbral Abomination Figure"
+msgstr "Umbral Abomination Figure"
+
+#. STRINGS.NAMES.CHESSPIECE_SHROUDEN_SKETCH
+msgctxt "STRINGS.NAMES.CHESSPIECE_SHROUDEN_SKETCH"
+msgid "Umbral Abomination Figure Sketch"
+msgstr "Umbral Abomination Figure Sketch"
 
 #. STRINGS.NAMES.CHESSPIECE_STALKER
 msgctxt "STRINGS.NAMES.CHESSPIECE_STALKER"
@@ -345176,6 +345747,21 @@ msgstr "Great Depths Worm Figure"
 msgctxt "STRINGS.NAMES.CHESSPIECE_WORMBOSS_BUILDER"
 msgid "Great Depths Worm Figure"
 msgstr "Great Depths Worm Figure"
+
+#. STRINGS.NAMES.CHESSPIECE_WORMBOSS_SHADOW
+msgctxt "STRINGS.NAMES.CHESSPIECE_WORMBOSS_SHADOW"
+msgid "Blighted Great Depths Worm Figure"
+msgstr "Blighted Great Depths Worm Figure"
+
+#. STRINGS.NAMES.CHESSPIECE_WORMBOSS_SHADOW_BUILDER
+msgctxt "STRINGS.NAMES.CHESSPIECE_WORMBOSS_SHADOW_BUILDER"
+msgid "Blighted Great Depths Worm Figure"
+msgstr "Blighted Great Depths Worm Figure"
+
+#. STRINGS.NAMES.CHESSPIECE_WORMBOSS_SHADOW_SKETCH
+msgctxt "STRINGS.NAMES.CHESSPIECE_WORMBOSS_SHADOW_SKETCH"
+msgid "Blighted Great Depths Worm Figure Sketch"
+msgstr "Blighted Great Depths Worm Figure Sketch"
 
 #. STRINGS.NAMES.CHESSPIECE_YOTD
 msgctxt "STRINGS.NAMES.CHESSPIECE_YOTD"
@@ -348741,6 +349327,11 @@ msgstr "Artificer's Mask"
 msgctxt "STRINGS.NAMES.MASK_BLACKSMITHHAT"
 msgid "Blacksmith Mask"
 msgstr "Blacksmith Mask"
+
+#. STRINGS.NAMES.MASK_CHARLIE_BOSSHAT
+msgctxt "STRINGS.NAMES.MASK_CHARLIE_BOSSHAT"
+msgid "Queen's Mask"
+msgstr "Queen's Mask"
 
 #. STRINGS.NAMES.MASK_DOLLBROKENHAT
 msgctxt "STRINGS.NAMES.MASK_DOLLBROKENHAT"
@@ -360297,6 +360888,11 @@ msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_ANTLION_BUILDER"
 msgid "Ain't this Antlion beautiful?"
 msgstr "Ain't this Antlion beautiful?"
 
+#. STRINGS.RECIPE_DESC.CHESSPIECE_BATBOSS_SHADOW_BUILDER
+msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_BATBOSS_SHADOW_BUILDER"
+msgid "Luckily the mouth is too small to fit over your head."
+msgstr "Luckily the mouth is too small to fit over your head."
+
 #. STRINGS.RECIPE_DESC.CHESSPIECE_BEARGER_BUILDER
 msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_BEARGER_BUILDER"
 msgid "A stone reminder of a grizzly autumn."
@@ -360356,6 +360952,11 @@ msgstr "A curious statue for a curious creature."
 msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_CATCOON_SKETCH"
 msgid "A sculpture sketch of a playful catcoon."
 msgstr "A sculpture sketch of a playful catcoon."
+
+#. STRINGS.RECIPE_DESC.CHESSPIECE_CHARLIE_BOSS_BUILDER
+msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_CHARLIE_BOSS_BUILDER"
+msgid "It really captures her essences."
+msgstr "It really captures her essences."
 
 #. STRINGS.RECIPE_DESC.CHESSPIECE_CLAYHOUND_BUILDER
 msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_CLAYHOUND_BUILDER"
@@ -360507,6 +361108,11 @@ msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_PIPE_BUILDER"
 msgid "Stick this on your wheel and sculpt it."
 msgstr "Stick this on your wheel and sculpt it."
 
+#. STRINGS.RECIPE_DESC.CHESSPIECE_ROCKYBOSS_SHADOW_BUILDER
+msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_ROCKYBOSS_SHADOW_BUILDER"
+msgid "At least this one will stay in one place."
+msgstr "At least this one will stay in one place."
+
 #. STRINGS.RECIPE_DESC.CHESSPIECE_ROOK_BUILDER
 msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_ROOK_BUILDER"
 msgid "Next best thing to an actual castle."
@@ -360516,6 +361122,11 @@ msgstr "Next best thing to an actual castle."
 msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_SHARKBOI_BUILDER"
 msgid "An homage to a cold-blooded bully."
 msgstr "An homage to a cold-blooded bully."
+
+#. STRINGS.RECIPE_DESC.CHESSPIECE_SHROUDEN_BUILDER
+msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_SHROUDEN_BUILDER"
+msgid "It's a little evil."
+msgstr "It's a little evil."
 
 #. STRINGS.RECIPE_DESC.CHESSPIECE_STALKER_BUILDER
 msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_STALKER_BUILDER"
@@ -360556,6 +361167,11 @@ msgstr "A rather fetching statue."
 msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_WORMBOSS_BUILDER"
 msgid "Brings back memories of being digested."
 msgstr "Brings back memories of being digested."
+
+#. STRINGS.RECIPE_DESC.CHESSPIECE_WORMBOSS_SHADOW_BUILDER
+msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_WORMBOSS_SHADOW_BUILDER"
+msgid "To commemorate being swallowed by an abyss."
+msgstr "To commemorate being swallowed by an abyss."
 
 #. STRINGS.RECIPE_DESC.CHESSPIECE_YOTD_BUILDER
 msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_YOTD_BUILDER"
@@ -366792,6 +367408,11 @@ msgid ""
 msgstr ""
 "Costume piece used in stage plays.\n"
 "Betrayal begets the darkest of curses."
+
+#. STRINGS.SCRAPBOOK.SPECIALINFO.MASK_CHARLIE_BOSSHAT
+msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.MASK_CHARLIE_BOSSHAT"
+msgid "Once worn by Her Royal Darkness."
+msgstr "Once worn by Her Royal Darkness."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.MAST
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.MAST"
@@ -444146,6 +444767,11 @@ msgctxt "STRINGS.UI.MAINSCREEN.ASKQUITDESC"
 msgid "Charlie will miss you."
 msgstr "Charlie will miss you."
 
+#. STRINGS.UI.MAINSCREEN.ASKQUITDESC_NOCHARLIE
+msgctxt "STRINGS.UI.MAINSCREEN.ASKQUITDESC_NOCHARLIE"
+msgid "Charlie would miss you."
+msgstr "Charlie would miss you."
+
 #. STRINGS.UI.MAINSCREEN.BACK
 msgctxt "STRINGS.UI.MAINSCREEN.BACK"
 msgid "Back"
@@ -444554,6 +445180,11 @@ msgstr "Not Now"
 msgctxt "STRINGS.UI.MAINSCREEN.LOGIN"
 msgid "Login"
 msgstr "Login"
+
+#. STRINGS.UI.MAINSCREEN.LOGIN_REQUIRED_TITLE
+msgctxt "STRINGS.UI.MAINSCREEN.LOGIN_REQUIRED_TITLE"
+msgid "Login Required"
+msgstr "Login Required"
 
 #. STRINGS.UI.MAINSCREEN.LOGOUT
 msgctxt "STRINGS.UI.MAINSCREEN.LOGOUT"
@@ -449869,8 +450500,26 @@ msgctxt "STRINGS.UI.PREMIUM_ONLINE.CANCEL"
 msgid "Cancel"
 msgstr "Cancel"
 
-#. STRINGS.UI.PREMIUM_ONLINE.NINTENDO_ONLINE
-msgctxt "STRINGS.UI.PREMIUM_ONLINE.NINTENDO_ONLINE"
+#. STRINGS.UI.PREMIUM_ONLINE.MEMBERSHIP_REQUIRED_BODY
+msgctxt "STRINGS.UI.PREMIUM_ONLINE.MEMBERSHIP_REQUIRED_BODY"
+msgid ""
+"Online play requires an active\n"
+"%s membership.\n"
+"\n"
+"If you do not wish to play Online, please choose an offline mode from the Connection setting."
+msgstr ""
+"Online play requires an active\n"
+"%s membership.\n"
+"\n"
+"If you do not wish to play Online, please choose an offline mode from the Connection setting."
+
+#. STRINGS.UI.PREMIUM_ONLINE.MEMBERSHIP_REQUIRED_TITLE
+msgctxt "STRINGS.UI.PREMIUM_ONLINE.MEMBERSHIP_REQUIRED_TITLE"
+msgid "Membership Required"
+msgstr "Membership Required"
+
+#. STRINGS.UI.PREMIUM_ONLINE.NINTENDO
+msgctxt "STRINGS.UI.PREMIUM_ONLINE.NINTENDO"
 msgid "Nintendo Switch Online"
 msgstr "Nintendo Switch Online"
 
@@ -449896,8 +450545,8 @@ msgstr ""
 "%s membership\n"
 "Do you want to play offline?"
 
-#. STRINGS.UI.PREMIUM_ONLINE.PLAYSTATION_PLUS
-msgctxt "STRINGS.UI.PREMIUM_ONLINE.PLAYSTATION_PLUS"
+#. STRINGS.UI.PREMIUM_ONLINE.PLAYSTATION
+msgctxt "STRINGS.UI.PREMIUM_ONLINE.PLAYSTATION"
 msgid "PlayStation®Plus"
 msgstr "PlayStation®Plus"
 
@@ -451833,6 +452482,31 @@ msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.CAVEWORLD"
 msgid "Cave World"
 msgstr "Cave World"
 
+#. STRINGS.UI.SERVERCREATIONSCREEN.CHANGE_MODE_TITLE
+msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.CHANGE_MODE_TITLE"
+msgid "Change World Mode"
+msgstr "Change World Mode"
+
+#. STRINGS.UI.SERVERCREATIONSCREEN.CHANGE_MODE_TO_OFFLINE
+msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.CHANGE_MODE_TO_OFFLINE"
+msgid ""
+"This world was last played online. Do you want to change it to an offline "
+"world? Only players on your local network will be able to join. Your skins "
+"and characters still work but gifts will be unavailable."
+msgstr ""
+"This world was last played online. Do you want to change it to an offline "
+"world? Only players on your local network will be able to join. Your skins "
+"and characters still work but gifts will be unavailable."
+
+#. STRINGS.UI.SERVERCREATIONSCREEN.CHANGE_MODE_TO_ONLINE
+msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.CHANGE_MODE_TO_ONLINE"
+msgid ""
+"This world was last played offline. Do you want to change it to an online "
+"world?"
+msgstr ""
+"This world was last played offline. Do you want to change it to an online "
+"world?"
+
 #. STRINGS.UI.SERVERCREATIONSCREEN.CLANADMIN
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.CLANADMIN"
 msgid "Auto Group Admins:"
@@ -451892,22 +452566,6 @@ msgstr "cloud"
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.CONVERT_LOCAL"
 msgid "local"
 msgstr "local"
-
-#. STRINGS.UI.SERVERCREATIONSCREEN.CONVERT_OFFLINE_TO_ONLINE
-msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.CONVERT_OFFLINE_TO_ONLINE"
-msgid ""
-"This world was last saved as offline. Are you sure you want to play online?"
-msgstr ""
-"This world was last saved as offline. Are you sure you want to play online?"
-
-#. STRINGS.UI.SERVERCREATIONSCREEN.CONVERT_ONLINE_TO_OFFLINE
-msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.CONVERT_ONLINE_TO_OFFLINE"
-msgid ""
-"This world was last saved as online. Are you sure you want to play offline? "
-"Only users on your Local Area Network will be able to join."
-msgstr ""
-"This world was last saved as online. Are you sure you want to play offline? "
-"Only users on your Local Area Network will be able to join."
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.COPY_OF_SLOT_NAME
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.COPY_OF_SLOT_NAME"
@@ -452474,6 +453132,20 @@ msgstr "Settings"
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.SERVERSETTINGS_LONG"
 msgid "Server Settings"
 msgstr "Server Settings"
+
+#. STRINGS.UI.SERVERCREATIONSCREEN.SIGNIN_REQUIRED_BODY
+msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.SIGNIN_REQUIRED_BODY"
+msgid ""
+"You must be logged in to play worlds in online mode. Logging in takes you "
+"back to the title screen."
+msgstr ""
+"You must be logged in to play worlds in online mode. Logging in takes you "
+"back to the title screen."
+
+#. STRINGS.UI.SERVERCREATIONSCREEN.SIGNIN_REQUIRED_TITLE
+msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.SIGNIN_REQUIRED_TITLE"
+msgid "Login Required"
+msgstr "Login Required"
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.SLOT
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.SLOT"

@@ -166645,7 +166645,7 @@ msgstr "타르타르 소스만 조금 있다면 참 좋을 텐데."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FISHTACOS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FISHTACOS"
 msgid "Personally I relish a spot of spice on my fish."
-msgstr "생선에 양념을 살짝 친 것이 내 취향이구나."
+msgstr "개인적으로는 생선에 향신료를 조금 더하는 게 취향이란다."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FISH_BOX
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FISH_BOX"

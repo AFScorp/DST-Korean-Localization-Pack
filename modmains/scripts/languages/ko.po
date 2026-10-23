@@ -401989,7 +401989,7 @@ msgstr "땜장이 드레스"
 #. STRINGS.SKIN_NAMES.body_wanda_survivor
 msgctxt "STRINGS.SKIN_NAMES.body_wanda_survivor"
 msgid "Stranded Scraps"
-msgstr ""
+msgstr "꼬은 천조각"
 
 #. STRINGS.SKIN_NAMES.body_wanda_victorian
 msgctxt "STRINGS.SKIN_NAMES.body_wanda_victorian"

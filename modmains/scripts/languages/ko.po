@@ -402004,7 +402004,7 @@ msgstr "편자공 작업복 바지"
 #. STRINGS.SKIN_NAMES.body_wanda_whiterabbit
 msgctxt "STRINGS.SKIN_NAMES.body_wanda_whiterabbit"
 msgid "Tea Time Threads"
-msgstr ""
+msgstr "다과회 의복"
 
 #. STRINGS.SKIN_NAMES.body_wanda_yule
 msgctxt "STRINGS.SKIN_NAMES.body_wanda_yule"
@@ -403439,7 +403439,7 @@ msgstr "나무정령의 줄기"
 #. STRINGS.SKIN_NAMES.body_wormwood_pirate
 msgctxt "STRINGS.SKIN_NAMES.body_wormwood_pirate"
 msgid "Kelp Suit"
-msgstr ""
+msgstr "다시마 옷"
 
 #. STRINGS.SKIN_NAMES.body_wormwood_pumpkin
 msgctxt "STRINGS.SKIN_NAMES.body_wormwood_pumpkin"

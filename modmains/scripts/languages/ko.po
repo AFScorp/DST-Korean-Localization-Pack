@@ -401994,7 +401994,7 @@ msgstr "꼬은 천조각"
 #. STRINGS.SKIN_NAMES.body_wanda_victorian
 msgctxt "STRINGS.SKIN_NAMES.body_wanda_victorian"
 msgid "Coach Dress"
-msgstr ""
+msgstr "역마차 드레스"
 
 #. STRINGS.SKIN_NAMES.body_wanda_western
 msgctxt "STRINGS.SKIN_NAMES.body_wanda_western"

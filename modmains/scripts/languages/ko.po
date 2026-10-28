@@ -368965,7 +368965,7 @@ msgstr ""
 "\n"
 "와.비.스. 헤드기어와 함께 사용하면, 두 장비가 잠깐의 동기화를 거쳐 목표의 정보를 서로 공유한다.\n"
 "\n"
-"와.비.스. 헤드기어를 착용하면 \"극.적 갱.신 판.도\"(극.갱.판.)를 통해 분석 중인 목표와 와.비.스.의 현재 레벨을 확인할 수 있다."
+"와.비.스. 헤드기어를 착용하면 \"갱.신형 판.도계기\"(갱.판.)를 통해 분석 중인 목표와 와.비.스.의 현재 레벨을 확인할 수 있다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WAGSTAFF_CONTAINMENT_NOTE
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WAGSTAFF_CONTAINMENT_NOTE"

@@ -353597,7 +353597,7 @@ msgstr "사각 돌 탁자"
 #. STRINGS.NAMES.STORAGE_ROBOT
 msgctxt "STRINGS.NAMES.STORAGE_ROBOT"
 msgid "W.O.B.O.T."
-msgstr "W.O.B.O.T."
+msgstr "와.보.트."
 
 #. STRINGS.NAMES.STRAWHAT
 msgctxt "STRINGS.NAMES.STRAWHAT"
@@ -410302,7 +410302,7 @@ msgstr "고철장"
 #. STRINGS.SKIN_NAMES.loading_wobot2
 msgctxt "STRINGS.SKIN_NAMES.loading_wobot2"
 msgid "Hello, W.O.B.O.T."
-msgstr "W.O.B.O.T. 탄생"
+msgstr "와.보.트. 탄생"
 
 #. STRINGS.SKIN_NAMES.loading_wobot3
 msgctxt "STRINGS.SKIN_NAMES.loading_wobot3"

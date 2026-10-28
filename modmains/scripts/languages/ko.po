@@ -356257,7 +356257,7 @@ msgstr "자동 회수기"
 #. STRINGS.NAMES.W_RADIO
 msgctxt "STRINGS.NAMES.W_RADIO"
 msgid "B.U.D.D.Y."
-msgstr "B.U.D.D.Y."
+msgstr "수.다.쟁.이."
 
 #. STRINGS.NAMES.YELLOWAMULET
 msgctxt "STRINGS.NAMES.YELLOWAMULET"
@@ -417651,7 +417651,7 @@ msgstr "저주받은 두건"
 #. STRINGS.SKIN_NAMES.w_radio_basic
 msgctxt "STRINGS.SKIN_NAMES.w_radio_basic"
 msgid "B.U.D.D.Y."
-msgstr "B.U.D.D.Y."
+msgstr "수.다.쟁.이."
 
 #. STRINGS.SKIN_NAMES.wagdrone_rolling_fancy
 msgctxt "STRINGS.SKIN_NAMES.wagdrone_rolling_fancy"

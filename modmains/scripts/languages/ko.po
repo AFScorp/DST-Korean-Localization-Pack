@@ -344958,17 +344958,17 @@ msgstr "천상의 대변자 조각상 도면"
 #. STRINGS.NAMES.CHESSPIECE_WAGBOSS_ROBOT
 msgctxt "STRINGS.NAMES.CHESSPIECE_WAGBOSS_ROBOT"
 msgid "W.A.R.B.O.T. Figure"
-msgstr "W.A.R.B.O.T. 조각상"
+msgstr "워.보.트. 조각상"
 
 #. STRINGS.NAMES.CHESSPIECE_WAGBOSS_ROBOT_BUILDER
 msgctxt "STRINGS.NAMES.CHESSPIECE_WAGBOSS_ROBOT_BUILDER"
 msgid "W.A.R.B.O.T. Figure"
-msgstr "W.A.R.B.O.T. 조각상"
+msgstr "워.보.트. 조각상"
 
 #. STRINGS.NAMES.CHESSPIECE_WAGBOSS_ROBOT_SKETCH
 msgctxt "STRINGS.NAMES.CHESSPIECE_WAGBOSS_ROBOT_SKETCH"
 msgid "W.A.R.B.O.T. Figure Sketch"
-msgstr "W.A.R.B.O.T. 조각상 도면"
+msgstr "워.보.트. 조각상 도면"
 
 #. STRINGS.NAMES.CHESSPIECE_WARG_MUTATED
 msgctxt "STRINGS.NAMES.CHESSPIECE_WARG_MUTATED"
@@ -354892,32 +354892,32 @@ msgstr "열추적 미사일"
 #. STRINGS.NAMES.WAGBOSS_ROBOT
 msgctxt "STRINGS.NAMES.WAGBOSS_ROBOT"
 msgid "W.A.R.B.O.T."
-msgstr "W.A.R.B.O.T."
+msgstr "워.보.트."
 
 #. STRINGS.NAMES.WAGBOSS_ROBOT_CONSTRUCTIONSITE
 msgctxt "STRINGS.NAMES.WAGBOSS_ROBOT_CONSTRUCTIONSITE"
 msgid "W.A.R.B.O.T. Base"
-msgstr "W.A.R.B.O.T. 기단부"
+msgstr "워.보.트. 기단부"
 
 #. STRINGS.NAMES.WAGBOSS_ROBOT_CONSTRUCTIONSITE_KIT
 msgctxt "STRINGS.NAMES.WAGBOSS_ROBOT_CONSTRUCTIONSITE_KIT"
 msgid "W.A.R.B.O.T. Base Kit"
-msgstr "W.A.R.B.O.T. 기단부 키트"
+msgstr "워.보.트. 기단부 키트"
 
 #. STRINGS.NAMES.WAGBOSS_ROBOT_CREATION_PARTS
 msgctxt "STRINGS.NAMES.WAGBOSS_ROBOT_CREATION_PARTS"
 msgid "W.A.R.B.O.T. Parts"
-msgstr "W.A.R.B.O.T. 부품"
+msgstr "워.보.트. 부품"
 
 #. STRINGS.NAMES.WAGBOSS_ROBOT_LEG
 msgctxt "STRINGS.NAMES.WAGBOSS_ROBOT_LEG"
 msgid "W.A.R.B.O.T. Leg"
-msgstr "W.A.R.B.O.T.  다리"
+msgstr "워.보.트.  다리"
 
 #. STRINGS.NAMES.WAGBOSS_ROBOT_POSSESSED
 msgctxt "STRINGS.NAMES.WAGBOSS_ROBOT_POSSESSED"
 msgid "Enlightened W.A.R.B.O.T."
-msgstr "계몽된 W.A.R.B.O.T."
+msgstr "계몽된 워.보.트."
 
 #. STRINGS.NAMES.WAGBOSS_ROBOT_SECRET
 msgctxt "STRINGS.NAMES.WAGBOSS_ROBOT_SECRET"
@@ -368921,7 +368921,7 @@ msgstr "이 열추적 미사일은 주변 물체 중 가장 뜨거운 것을 목
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WAGBOSS_ROBOT_CONSTRUCTIONSITE
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WAGBOSS_ROBOT_CONSTRUCTIONSITE"
 msgid "Build the W.A.R.B.O.T. using only the most authentic parts."
-msgstr "진품에 한없이 가까운 부품들을 모아 W.A.R.B.O.T.을 만들어 보자."
+msgstr "진품에 한없이 가까운 부품들을 모아 워.보.트.을 만들어 보자."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WAGBOSS_ROBOT_CONSTRUCTIONSITE_KIT
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WAGBOSS_ROBOT_CONSTRUCTIONSITE_KIT"
@@ -368935,15 +368935,14 @@ msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WAGBOSS_ROBOT_CREATION_PARTS"
 msgid ""
 "Parts cut according to the correct specifications for W.A.R.B.O.T. "
 "construction."
-msgstr "제작 사양에 맞게 정확히 재단한 W.A.R.B.O.T. 부품."
+msgstr "제작 사양에 맞게 정확히 재단한 워.보.트. 부품."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WAGBOSS_ROBOT_LEG
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WAGBOSS_ROBOT_LEG"
 msgid ""
 "Although the W.A.R.B.O.T. material failed to fully contain the Celestial "
 "Scion, it may still prove useful in protecting the survivors."
-msgstr ""
-"W.A.R.B.O.T.의 구성 물질이 천상의 후예를 완전히 격리하는 데에는 실패했지만, 생존자들을 보호하는 데에는 쓸만할 수도 있겠다."
+msgstr "워.보.트.의 구성 물질이 천상의 후예를 완전히 격리하는 데에는 실패했지만, 생존자들을 보호하는 데에는 쓸만할 수도 있겠다."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.WAGPUNKHAT
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.WAGPUNKHAT"
@@ -456253,12 +456252,12 @@ msgstr "섬이 그려진 지도를 가져다 주게. 눈길 끌게 만들 방법
 #. STRINGS.WAGSTAFF_WAGPUNK_ARENA_REVEALBOSS
 msgctxt "STRINGS.WAGSTAFF_WAGPUNK_ARENA_REVEALBOSS"
 msgid "Behold, my preeminent creation - W.A.R.B.O.T.!"
-msgstr "자, 내 역작, W.A.R.B.O.T.이라네!"
+msgstr "자, 내 역작, 워.보.트.이라네!"
 
 #. STRINGS.WAGSTAFF_WAGPUNK_ARENA_ROBOTLOSTCONTROL.1
 msgctxt "STRINGS.WAGSTAFF_WAGPUNK_ARENA_ROBOTLOSTCONTROL.1"
 msgid "The entity has taken control of W.A.R.B.O.T.."
-msgstr "독립체가 W.A.R.B.O.T.의 통제권을 빼앗았군."
+msgstr "독립체가 워.보.트.의 통제권을 빼앗았군."
 
 #. STRINGS.WAGSTAFF_WAGPUNK_ARENA_ROBOTLOSTCONTROL.2
 msgctxt "STRINGS.WAGSTAFF_WAGPUNK_ARENA_ROBOTLOSTCONTROL.2"
@@ -456303,7 +456302,7 @@ msgstr "이제 필요한 게 또..."
 #. STRINGS.WAGSTAFF_WAGPUNK_ARENA_SCIONREVEAL.1
 msgctxt "STRINGS.WAGSTAFF_WAGPUNK_ARENA_SCIONREVEAL.1"
 msgid "What a waste of my W.A.R.B.O.T.,"
-msgstr "내 W.A.R.B.O.T.이 아깝게 되었군."
+msgstr "내 워.보.트.이 아깝게 되었군."
 
 #. STRINGS.WAGSTAFF_WAGPUNK_ARENA_SCIONREVEAL.2
 msgctxt "STRINGS.WAGSTAFF_WAGPUNK_ARENA_SCIONREVEAL.2"

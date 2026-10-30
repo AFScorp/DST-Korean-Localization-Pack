@@ -291835,7 +291835,7 @@ msgstr "아니 대체 이게 뭐지?"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.VAMPIRE_BUNNY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.VAMPIRE_BUNNY"
 msgid "Blood is a trifling thing compared to sucking up souls."
-msgstr "영혼 빠는 건 고작해야 피 빠는 거의 열 배에서 열한 배인데."
+msgstr "영혼 빠는 건 고작해야 피 빠는 거의 11배에서 12배인데."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.VAULT_CHANDELIER_BROKEN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.VAULT_CHANDELIER_BROKEN"

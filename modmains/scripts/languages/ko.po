@@ -291835,7 +291835,7 @@ msgstr "아니 대체 이게 뭐지?"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.VAMPIRE_BUNNY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.VAMPIRE_BUNNY"
 msgid "Blood is a trifling thing compared to sucking up souls."
-msgstr "피 빠는 거에 비하면 영혼은 고작해야 11배에서 12배인데."
+msgstr "영혼 빠는 게 즐겁다고 해 봐야 흡혈의 11배에서 12배인데."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.VAULT_CHANDELIER_BROKEN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.VAULT_CHANDELIER_BROKEN"
@@ -347805,7 +347805,7 @@ msgstr "프랑꾸엑슈타인 장식"
 #. STRINGS.NAMES.HALLOWEEN_ORNAMENT_8
 msgctxt "STRINGS.NAMES.HALLOWEEN_ORNAMENT_8"
 msgid "Mermummy Decoration"
-msgstr "건어인 장식"
+msgstr "건어인 미라 장식"
 
 #. STRINGS.NAMES.HALLOWEEN_ORNAMENT_9
 msgctxt "STRINGS.NAMES.HALLOWEEN_ORNAMENT_9"
@@ -350100,7 +350100,7 @@ msgstr "도깽이"
 #. STRINGS.NAMES.MUMMY_MERM
 msgctxt "STRINGS.NAMES.MUMMY_MERM"
 msgid "Mermummy"
-msgstr "건어인"
+msgstr "건어인 미라"
 
 #. STRINGS.NAMES.MUSHGNOME
 msgctxt "STRINGS.NAMES.MUSHGNOME"

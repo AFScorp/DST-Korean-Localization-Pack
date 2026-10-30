@@ -13102,6 +13102,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.FOSSIL_STALKER.GENERIC"
 msgid "Still missing some pieces."
 msgstr "Still missing some pieces."
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.FRANKEN_PIG
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.FRANKEN_PIG"
+msgid "Has he done something different with his hair?"
+msgstr "Has he done something different with his hair?"
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.FRESHFRUITCREPES
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.FRESHFRUITCREPES"
 msgid "Sugary fruit! Part of a balanced breakfast."
@@ -13872,6 +13877,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "A spectornament I could hang in a tree."
 msgstr "A spectornament I could hang in a tree."
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_10
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_10"
+msgid "The others have been hounding me to put this on the tree."
+msgstr "The others have been hounding me to put this on the tree."
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_2"
 msgid "Completely batty decoration."
@@ -13896,6 +13906,21 @@ msgstr "Eight-armed adornment."
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "Everyone's raven about tree decorations these days."
 msgstr "Everyone's raven about tree decorations these days."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_7
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_7"
+msgid "Frankly, the stitching could use some work."
+msgstr "Frankly, the stitching could use some work."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_8
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_8"
+msgid "I always get so wrapped up in decorating!"
+msgstr "I always get so wrapped up in decorating!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_9
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_9"
+msgid "I count this decoration among my favorites."
+msgstr "I count this decoration among my favorites."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HAMBAT"
@@ -16423,6 +16448,11 @@ msgstr "I'm sure there's some scientific explanation for this."
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MULTITOOL_AXE_PICKAXE"
 msgid "It's brilliant!"
 msgstr "It's brilliant!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MUMMY_MERM
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MUMMY_MERM"
+msgid "Mummy!!"
+msgstr "Mummy!!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MUSHGNOME
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MUSHGNOME"
@@ -21935,6 +21965,11 @@ msgstr "I hope this doesn't make anyone eel!"
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.UNIMPLEMENTED"
 msgid "It doesn't look finished! It could be dangerous."
 msgstr "It doesn't look finished! It could be dangerous."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.VAMPIRE_BUNNY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.VAMPIRE_BUNNY"
+msgid "That bunnyman is looking a little batty."
+msgstr "That bunnyman is looking a little batty."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.VAULT_CHANDELIER_BROKEN
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.VAULT_CHANDELIER_BROKEN"
@@ -32789,6 +32824,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.FOSSIL_STALKER.GENERIC"
 msgid "It's still missing something."
 msgstr "It's still missing something."
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.FRANKEN_PIG
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.FRANKEN_PIG"
+msgid "Actually, he should really be called Frankenswine's monster."
+msgstr "Actually, he should really be called Frankenswine's monster."
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.FRESHFRUITCREPES
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.FRESHFRUITCREPES"
 msgid "With fresh-picked wild fruits."
@@ -33565,6 +33605,11 @@ msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "Spooooky!"
 msgstr "Spooooky!"
 
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.HALLOWEEN_ORNAMENT_10
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HALLOWEEN_ORNAMENT_10"
+msgid "I think it's kinda cute!"
+msgstr "I think it's kinda cute!"
+
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HALLOWEEN_ORNAMENT_2"
 msgid "This is my favourite time of year."
@@ -33589,6 +33634,21 @@ msgstr "Weird how the spiders around here only have six legs."
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "This decoration needs a tree to perch in."
 msgstr "This decoration needs a tree to perch in."
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.HALLOWEEN_ORNAMENT_7
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HALLOWEEN_ORNAMENT_7"
+msgid "It looks just like him!"
+msgstr "It looks just like him!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.HALLOWEEN_ORNAMENT_8
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HALLOWEEN_ORNAMENT_8"
+msgid "It sure looks great on the tree!"
+msgstr "It sure looks great on the tree!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.HALLOWEEN_ORNAMENT_9
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HALLOWEEN_ORNAMENT_9"
+msgid "Should I hang it upside-down?"
+msgstr "Should I hang it upside-down?"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.HAMBAT"
@@ -36121,6 +36181,11 @@ msgstr "This one looks way fancier... but still can't get us home."
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MULTITOOL_AXE_PICKAXE"
 msgid "It's two tools in one!"
 msgstr "It's two tools in one!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.MUMMY_MERM
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MUMMY_MERM"
+msgid "A bog monster AND a mummy?! This is the best day ever!"
+msgstr "A bog monster AND a mummy?! This is the best day ever!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.MUSHGNOME
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.MUSHGNOME"
@@ -41606,6 +41671,11 @@ msgstr "Bite-sized deliciousness."
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.UNIMPLEMENTED"
 msgid "It's so mysterious!"
 msgstr "It's so mysterious!"
+
+#. STRINGS.CHARACTERS.WALTER.DESCRIBE.VAMPIRE_BUNNY
+msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.VAMPIRE_BUNNY"
+msgid "I wonder if they drink blood or carrot juice?"
+msgstr "I wonder if they drink blood or carrot juice?"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.VAULT_CHANDELIER_BROKEN
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.VAULT_CHANDELIER_BROKEN"
@@ -52301,6 +52371,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.FOSSIL_STALKER.GENERIC"
 msgid "It's missing something."
 msgstr "It's missing something."
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.FRANKEN_PIG
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.FRANKEN_PIG"
+msgid "That's one way to defy death, I suppose."
+msgstr "That's one way to defy death, I suppose."
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.FRESHFRUITCREPES
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.FRESHFRUITCREPES"
 msgid "Kids these days, with their fancy syrup-less pancakes..."
@@ -53082,6 +53157,11 @@ msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "What a gloomy way to celebrate."
 msgstr "What a gloomy way to celebrate."
 
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.HALLOWEEN_ORNAMENT_10
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HALLOWEEN_ORNAMENT_10"
+msgid "I'm not sure I want to be reminded of that."
+msgstr "I'm not sure I want to be reminded of that."
+
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HALLOWEEN_ORNAMENT_2"
 msgid "I guess I could spend a little time decorating."
@@ -53106,6 +53186,21 @@ msgstr "It's meant to be displayed on a tree, if I recall."
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "There's so many real ones flying about, it seems a bit redundant."
 msgstr "There's so many real ones flying about, it seems a bit redundant."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.HALLOWEEN_ORNAMENT_7
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HALLOWEEN_ORNAMENT_7"
+msgid "I suppose I can spare a moment to admire the decorations."
+msgstr "I suppose I can spare a moment to admire the decorations."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.HALLOWEEN_ORNAMENT_8
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HALLOWEEN_ORNAMENT_8"
+msgid "It's actually quite charming at this size."
+msgstr "It's actually quite charming at this size."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.HALLOWEEN_ORNAMENT_9
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HALLOWEEN_ORNAMENT_9"
+msgid "I prefer the decoration to the original."
+msgstr "I prefer the decoration to the original."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.HAMBAT"
@@ -55629,6 +55724,11 @@ msgstr "I feel like I'm being watched..."
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.MULTITOOL_AXE_PICKAXE"
 msgid "This will save me precious time!"
 msgstr "This will save me precious time!"
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.MUMMY_MERM
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.MUMMY_MERM"
+msgid "That merm is looking rather worse for wear."
+msgstr "That merm is looking rather worse for wear."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.MUSHGNOME
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.MUSHGNOME"
@@ -61177,6 +61277,11 @@ msgstr "It makes the eel slightly better."
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.UNIMPLEMENTED"
 msgid "A remnant from a collapsed timeline."
 msgstr "A remnant from a collapsed timeline."
+
+#. STRINGS.CHARACTERS.WANDA.DESCRIBE.VAMPIRE_BUNNY
+msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.VAMPIRE_BUNNY"
+msgid "Why do I get the impression it's imagining me as a ripe carrot?"
+msgstr "Why do I get the impression it's imagining me as a ripe carrot?"
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.VAULT_CHANDELIER_BROKEN
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.VAULT_CHANDELIER_BROKEN"
@@ -71652,6 +71757,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FOSSIL_STALKER.GENERIC"
 msgid "There are still a few bits missing."
 msgstr "There are still a few bits missing."
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.FRANKEN_PIG
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FRANKEN_PIG"
+msgid "I thought I smelled spoiled meat..."
+msgstr "I thought I smelled spoiled meat..."
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FRESHFRUITCREPES
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FRESHFRUITCREPES"
 msgid "Is this not a thing of beauty?"
@@ -72422,6 +72532,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "Fear upsets my stomach."
 msgstr "Fear upsets my stomach."
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.HALLOWEEN_ORNAMENT_10
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HALLOWEEN_ORNAMENT_10"
+msgid "Just looking at it gives me the shivers."
+msgstr "Just looking at it gives me the shivers."
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HALLOWEEN_ORNAMENT_2"
 msgid "Its wings are so... leathery."
@@ -72446,6 +72561,21 @@ msgstr "How creepy."
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "I'd rather not eat crow."
 msgstr "I'd rather not eat crow."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.HALLOWEEN_ORNAMENT_7
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HALLOWEEN_ORNAMENT_7"
+msgid "I believe I just lost my appetite."
+msgstr "I believe I just lost my appetite."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.HALLOWEEN_ORNAMENT_8
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HALLOWEEN_ORNAMENT_8"
+msgid "Perhaps it's not the most tasteful decoration."
+msgstr "Perhaps it's not the most tasteful decoration."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.HALLOWEEN_ORNAMENT_9
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HALLOWEEN_ORNAMENT_9"
+msgid "How frightening!"
+msgstr "How frightening!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.HAMBAT"
@@ -74873,6 +75003,11 @@ msgstr "It seems dangerous, but it's oddly calming."
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MULTITOOL_AXE_PICKAXE"
 msgid "Oh, I get it! Kind of like a spork!"
 msgstr "Oh, I get it! Kind of like a spork!"
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.MUMMY_MERM
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MUMMY_MERM"
+msgid "The fishmonger looks unwell."
+msgstr "The fishmonger looks unwell."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.MUSHGNOME
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MUSHGNOME"
@@ -79648,6 +79783,11 @@ msgstr "More like \"umami\"! Ooooh, mommy!"
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.UNIMPLEMENTED"
 msgid "It appears unfinished."
 msgstr "It appears unfinished."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.VAMPIRE_BUNNY
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.VAMPIRE_BUNNY"
+msgid "Does it hunger for my blood?"
+msgstr "Does it hunger for my blood?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.VAULT_CHANDELIER_BROKEN
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.VAULT_CHANDELIER_BROKEN"
@@ -90129,6 +90269,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FOSSIL_STALKER.GENERIC"
 msgid "All that remains of a terrible beast."
 msgstr "All that remains of a terrible beast."
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FRANKEN_PIG
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FRANKEN_PIG"
+msgid "The dead walk among us!"
+msgstr "The dead walk among us!"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FRESHFRUITCREPES
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FRESHFRUITCREPES"
 msgid "So light and airy!"
@@ -90901,6 +91046,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "Meant to hang from Yggdrasil's kin!"
 msgstr "Meant to hang from Yggdrasil's kin!"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_10
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_10"
+msgid "I shall hang it high, for all to see!"
+msgstr "I shall hang it high, for all to see!"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_2"
 msgid "Decoration! Prepare to be hung from something!"
@@ -90925,6 +91075,21 @@ msgstr "It shalt be hung from the highest branch!"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "Huginn? Or Muninn?"
 msgstr "Huginn? Or Muninn?"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_7
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_7"
+msgid "To ward off evil spirits."
+msgstr "To ward off evil spirits."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_8
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_8"
+msgid "I shall affix thee to a sturdy branch."
+msgstr "I shall affix thee to a sturdy branch."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_9
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_9"
+msgid "A fearsome sight!"
+msgstr "A fearsome sight!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HAMBAT"
@@ -93437,6 +93602,11 @@ msgstr "It hath a glow about it."
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MULTITOOL_AXE_PICKAXE"
 msgid "A warrior's tool!"
 msgstr "A warrior's tool!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MUMMY_MERM
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MUMMY_MERM"
+msgid "The fish beast must be grievously injured to be bandaged so!"
+msgstr "The fish beast must be grievously injured to be bandaged so!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MUSHGNOME
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MUSHGNOME"
@@ -98921,6 +99091,11 @@ msgstr "No need for food to be so fancy."
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.UNIMPLEMENTED"
 msgid "A mysterious relic, sure to contain great power."
 msgstr "A mysterious relic, sure to contain great power."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.VAMPIRE_BUNNY
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.VAMPIRE_BUNNY"
+msgid "I can see the bloodlust in thine eyes, fiend! Let us fight!"
+msgstr "I can see the bloodlust in thine eyes, fiend! Let us fight!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.VAULT_CHANDELIER_BROKEN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.VAULT_CHANDELIER_BROKEN"
@@ -109504,6 +109679,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FOSSIL_STALKER.GENERIC"
 msgid "The beginnings of some demonic beast."
 msgstr "The beginnings of some demonic beast."
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FRANKEN_PIG
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FRANKEN_PIG"
+msgid "It looks even less intelligent than usual."
+msgstr "It looks even less intelligent than usual."
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FRESHFRUITCREPES
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FRESHFRUITCREPES"
 msgid "Deserves to be eaten with fine silverware. Sadly, I've just my hands."
@@ -110279,6 +110459,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "Oh joy. Is there really need for decoration?"
 msgstr "Oh joy. Is there really need for decoration?"
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_10
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_10"
+msgid "Must I be reminded of them?"
+msgstr "Must I be reminded of them?"
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_2"
 msgid "Such a burden to carry it. If only there were a place to leave it."
@@ -110303,6 +110488,26 @@ msgstr "Ugh. These guys again."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "Why do I hear \"Nevermore\"?"
 msgstr "Why do I hear \"Nevermore\"?"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_7
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_7"
+msgid "Some subpar workmanship went into this one. Such atrocious stitching!"
+msgstr "Some subpar workmanship went into this one. Such atrocious stitching!"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_8
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_8"
+msgid ""
+"The truly frightening thing is that I'm actually participating in this "
+"frivolity."
+msgstr ""
+"The truly frightening thing is that I'm actually participating in this "
+"frivolity."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_9
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_9"
+msgid "I suppose I should find someplace to hang it. Preferably out of sight."
+msgstr ""
+"I suppose I should find someplace to hang it. Preferably out of sight."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HAMBAT"
@@ -112839,6 +113044,11 @@ msgstr "A bit ominous looking."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MULTITOOL_AXE_PICKAXE"
 msgid "The duality of mine."
 msgstr "The duality of mine."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MUMMY_MERM
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MUMMY_MERM"
+msgid "How quaint. Is this meant to scare me?"
+msgstr "How quaint. Is this meant to scare me?"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MUSHGNOME
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MUSHGNOME"
@@ -118303,6 +118513,11 @@ msgstr "It will have to do."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.UNIMPLEMENTED"
 msgid "Just what are you up to now, Charlie?"
 msgstr "Just what are you up to now, Charlie?"
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.VAMPIRE_BUNNY
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.VAMPIRE_BUNNY"
+msgid "He's not pulling off that cape as well as he thinks."
+msgstr "He's not pulling off that cape as well as he thinks."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.VAULT_CHANDELIER_BROKEN
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.VAULT_CHANDELIER_BROKEN"
@@ -128746,6 +128961,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.FOSSIL_STALKER.GENERIC"
 msgid "Needs more bones!"
 msgstr "Needs more bones!"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.FRANKEN_PIG
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.FRANKEN_PIG"
+msgid "Mismatched parts brought to life with lightning! Hey wait a minute..."
+msgstr "Mismatched parts brought to life with lightning! Hey wait a minute..."
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.FRESHFRUITCREPES
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.FRESHFRUITCREPES"
 msgid "Cripes! We can't wait for these crepes!"
@@ -129516,6 +129736,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "Oooh. Spooky. We should decorate!"
 msgstr "Oooh. Spooky. We should decorate!"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_10
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_10"
+msgid "Better a little one in a tree than a big one on our head."
+msgstr "Better a little one in a tree than a big one on our head."
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_2"
 msgid "Gosh. That almost looks real."
@@ -129540,6 +129765,21 @@ msgstr "We should put this guy in a tree!"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "If we put it in a tree it'd look almost real."
 msgstr "If we put it in a tree it'd look almost real."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_7
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_7"
+msgid "We wanna put it on the tree!"
+msgstr "We wanna put it on the tree!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_8
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_8"
+msgid "It's gonna look real scary on the tree!"
+msgstr "It's gonna look real scary on the tree!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_9
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_9"
+msgid "We're gonna hang it up really high!"
+msgstr "We're gonna hang it up really high!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.HAMBAT"
@@ -132047,6 +132287,11 @@ msgstr "Gosh. It's so sparkly!"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MULTITOOL_AXE_PICKAXE"
 msgid "Double duty."
 msgstr "Double duty."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUMMY_MERM
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUMMY_MERM"
+msgid "They must be covered in booboos!"
+msgstr "They must be covered in booboos!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHGNOME
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHGNOME"
@@ -137496,6 +137741,11 @@ msgstr "It was easy to make with all our arms."
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.UNIMPLEMENTED"
 msgid "What a crummy item."
 msgstr "What a crummy item."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.VAMPIRE_BUNNY
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.VAMPIRE_BUNNY"
+msgid "Y-you wouldn't like our blood!"
+msgstr "Y-you wouldn't like our blood!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.VAULT_CHANDELIER_BROKEN
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.VAULT_CHANDELIER_BROKEN"
@@ -147954,6 +148204,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.FOSSIL_STALKER.GENERIC"
 msgid "We must find more pieces."
 msgstr "We must find more pieces."
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.FRANKEN_PIG
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.FRANKEN_PIG"
+msgid "Who is the true monster, you or your creator?"
+msgstr "Who is the true monster, you or your creator?"
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.FRESHFRUITCREPES
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.FRESHFRUITCREPES"
 msgid "Could I get this a la mode?"
@@ -148724,6 +148979,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "It reminds me of Abigail. I'll hang it somewhere."
 msgstr "It reminds me of Abigail. I'll hang it somewhere."
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_10
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_10"
+msgid "A grim souvenir from the dark tunnels below."
+msgstr "A grim souvenir from the dark tunnels below."
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_2"
 msgid "It longs to be hung somewhere."
@@ -148748,6 +149008,21 @@ msgstr "It descends into darkness."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "Crows in trees mean souls trapped between worlds."
 msgstr "Crows in trees mean souls trapped between worlds."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_7
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_7"
+msgid "I like watching it dangle helplessly."
+msgstr "I like watching it dangle helplessly."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_8
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_8"
+msgid "Hang it from the highest tree."
+msgstr "Hang it from the highest tree."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_9
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_9"
+msgid "I will find a barren branch to leave it on."
+msgstr "I will find a barren branch to leave it on."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HAMBAT"
@@ -151261,6 +151536,11 @@ msgstr "Cold and beautiful like death."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MULTITOOL_AXE_PICKAXE"
 msgid "An item with multiple uses."
 msgstr "An item with multiple uses."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.MUMMY_MERM
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MUMMY_MERM"
+msgid "The undead are cursed to wander for all eternity..."
+msgstr "The undead are cursed to wander for all eternity..."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MUSHGNOME
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MUSHGNOME"
@@ -156733,6 +157013,11 @@ msgstr "It looks more appetizing this way."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.UNIMPLEMENTED"
 msgid "It's not done, like life."
 msgstr "It's not done, like life."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.VAMPIRE_BUNNY
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.VAMPIRE_BUNNY"
+msgid "I'm afraid you would find my blood quite cold and bitter."
+msgstr "I'm afraid you would find my blood quite cold and bitter."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.VAULT_CHANDELIER_BROKEN
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.VAULT_CHANDELIER_BROKEN"
@@ -167471,6 +167756,12 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FOSSIL_STALKER.GENERIC"
 msgid "There are pieces of the skeleton still yet to be assembled."
 msgstr "There are pieces of the skeleton still yet to be assembled."
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FRANKEN_PIG
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FRANKEN_PIG"
+msgid "Clearly the work of a mind that is equal parts brilliant and depraved."
+msgstr ""
+"Clearly the work of a mind that is equal parts brilliant and depraved."
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FRESHFRUITCREPES
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FRESHFRUITCREPES"
 msgid "Sticky fingers will ensue."
@@ -168258,6 +168549,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "An ornamental poltergeist meant to be hung somewhere."
 msgstr "An ornamental poltergeist meant to be hung somewhere."
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_10
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_10"
+msgid "A fine bit of ornamentation for the tree."
+msgstr "A fine bit of ornamentation for the tree."
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_2"
 msgid "A flourish of flying mammal."
@@ -168282,6 +168578,21 @@ msgstr "An ornament such as this should be hung up."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "A corvus such as this would do better in a tree."
 msgstr "A corvus such as this would do better in a tree."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_7
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_7"
+msgid "This porcine ornament should be affixed to a tree."
+msgstr "This porcine ornament should be affixed to a tree."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_8
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_8"
+msgid "Our young merm friend seemed rather keen on hanging this one herself."
+msgstr "Our young merm friend seemed rather keen on hanging this one herself."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_9
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_9"
+msgid "It will go nicely with the seasonal decor."
+msgstr "It will go nicely with the seasonal decor."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HAMBAT"
@@ -170872,6 +171183,11 @@ msgstr "Its design is decidedly otherworldly."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MULTITOOL_AXE_PICKAXE"
 msgid "Quite functional, it operates as both an axe and a pickaxe."
 msgstr "Quite functional, it operates as both an axe and a pickaxe."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUMMY_MERM
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUMMY_MERM"
+msgid "I didn't realize merms practiced mummification rituals."
+msgstr "I didn't realize merms practiced mummification rituals."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUSHGNOME
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUSHGNOME"
@@ -176479,6 +176795,11 @@ msgstr "A common way to prepare eel."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.UNIMPLEMENTED"
 msgid "It's under construction."
 msgstr "It's under construction."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.VAMPIRE_BUNNY
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.VAMPIRE_BUNNY"
+msgid "A hematophagous lagomorph? How odd!"
+msgstr "A hematophagous lagomorph? How odd!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.VAULT_CHANDELIER_BROKEN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.VAULT_CHANDELIER_BROKEN"
@@ -187210,6 +187531,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.FOSSIL_STALKER.GENERIC"
 msgid "Needs more gross old bits."
 msgstr "Needs more gross old bits."
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.FRANKEN_PIG
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.FRANKEN_PIG"
+msgid "Do you and Bernie go to the same seamstress?"
+msgstr "Do you and Bernie go to the same seamstress?"
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.FRESHFRUITCREPES
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.FRESHFRUITCREPES"
 msgid "Ooo la la."
@@ -187980,6 +188306,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "Can I set it on fire?"
 msgstr "Can I set it on fire?"
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_10
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_10"
+msgid "Those guys really sucked."
+msgstr "Those guys really sucked."
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_2"
 msgid "I should decorate for Halloween."
@@ -188004,6 +188335,21 @@ msgstr "I should hang it somewhere and scare people."
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "I'm gonna stick you in a tree."
 msgstr "I'm gonna stick you in a tree."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_7
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_7"
+msgid "It'll look nice and spooky hanging from a tree."
+msgstr "It'll look nice and spooky hanging from a tree."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_8
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_8"
+msgid "It looks alright. It'd look better on fire."
+msgstr "It looks alright. It'd look better on fire."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_9
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_9"
+msgid "Let's get it up on the tree!"
+msgstr "Let's get it up on the tree!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HAMBAT"
@@ -190520,6 +190866,11 @@ msgstr "It's made of some kind of jerk rock I can't burn."
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MULTITOOL_AXE_PICKAXE"
 msgid "It's so useful!"
 msgstr "It's so useful!"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MUMMY_MERM
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MUMMY_MERM"
+msgid "Those soggy bandages really don't help with the swamp stink."
+msgstr "Those soggy bandages really don't help with the swamp stink."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MUSHGNOME
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MUSHGNOME"
@@ -195973,6 +196324,11 @@ msgstr "You can make it fancy but it's still an eel."
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.UNIMPLEMENTED"
 msgid "It's not finished. But I bet it still burns."
 msgstr "It's not finished. But I bet it still burns."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.VAMPIRE_BUNNY
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.VAMPIRE_BUNNY"
+msgid "Keep those teeth where I can see them, bunny!"
+msgstr "Keep those teeth where I can see them, bunny!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.VAULT_CHANDELIER_BROKEN
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.VAULT_CHANDELIER_BROKEN"
@@ -206508,6 +206864,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.FOSSIL_STALKER.GENERIC"
 msgid "Some more assembly required."
 msgstr "Some more assembly required."
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.FRANKEN_PIG
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.FRANKEN_PIG"
+msgid "Whoever stitched him up is even worse at sewing than I am."
+msgstr "Whoever stitched him up is even worse at sewing than I am."
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.FRESHFRUITCREPES
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.FRESHFRUITCREPES"
 msgid "Fruit wrapped in a blanket of pancake."
@@ -207278,6 +207639,11 @@ msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "Ha! Ya almost fooled me."
 msgstr "Ha! Ya almost fooled me."
 
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_10
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_10"
+msgid "It's that time of year again."
+msgstr "It's that time of year again."
+
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_2"
 msgid "I should hang this somewhere."
@@ -207302,6 +207668,21 @@ msgstr "Hey, it's them hanging guys."
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "It needs to be in a tree."
 msgstr "It needs to be in a tree."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_7
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_7"
+msgid "Let's get decorating!"
+msgstr "Let's get decorating!"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_8
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_8"
+msgid "Up on the tree you get!"
+msgstr "Up on the tree you get!"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_9
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_9"
+msgid "Lookin' spooky!"
+msgstr "Lookin' spooky!"
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.HAMBAT"
@@ -209820,6 +210201,11 @@ msgstr "Wow. Can't even see the weld joints."
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MULTITOOL_AXE_PICKAXE"
 msgid "That's really not my forte."
 msgstr "That's really not my forte."
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.MUMMY_MERM
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MUMMY_MERM"
+msgid "That merm's seen better days."
+msgstr "That merm's seen better days."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.MUSHGNOME
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.MUSHGNOME"
@@ -215264,6 +215650,11 @@ msgstr "Fancy eats."
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.UNIMPLEMENTED"
 msgid "What kind of bonehead leaves stuff half-built?!"
 msgstr "What kind of bonehead leaves stuff half-built?!"
+
+#. STRINGS.CHARACTERS.WINONA.DESCRIBE.VAMPIRE_BUNNY
+msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.VAMPIRE_BUNNY"
+msgid "Those teeth are a bit too sharp for my liking."
+msgstr "Those teeth are a bit too sharp for my liking."
 
 #. STRINGS.CHARACTERS.WINONA.DESCRIBE.VAULT_CHANDELIER_BROKEN
 msgctxt "STRINGS.CHARACTERS.WINONA.DESCRIBE.VAULT_CHANDELIER_BROKEN"
@@ -225756,6 +226147,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FOSSIL_STALKER.GENERIC"
 msgid "Is not look done yet."
 msgstr "Is not look done yet."
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FRANKEN_PIG
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FRANKEN_PIG"
+msgid "S-s-something wrong with pig man!"
+msgstr "S-s-something wrong with pig man!"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FRESHFRUITCREPES
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FRESHFRUITCREPES"
 msgid "Manly midmorning brunch."
@@ -226526,6 +226922,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "Wolfgang should be hanging it somewhere."
 msgstr "Wolfgang should be hanging it somewhere."
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_10
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_10"
+msgid "Is not real, can't bite Wolfgang."
+msgstr "Is not real, can't bite Wolfgang."
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_2"
 msgid "Is real bat?! Is not real bat."
@@ -226550,6 +226951,21 @@ msgstr "Wolfgang could hang somewheres."
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "Little fake birdy is needing tree!"
 msgstr "Little fake birdy is needing tree!"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_7
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_7"
+msgid "Is for scary tree."
+msgstr "Is for scary tree."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_8
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_8"
+msgid "Is scary little decoration."
+msgstr "Is scary little decoration."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_9
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_9"
+msgid "Wolfgang will hang on tree."
+msgstr "Wolfgang will hang on tree."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HAMBAT"
@@ -229051,6 +229467,11 @@ msgstr "Is strong like Wolfgang."
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MULTITOOL_AXE_PICKAXE"
 msgid "Chop and dig! I can do that all day."
 msgstr "Chop and dig! I can do that all day."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MUMMY_MERM
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MUMMY_MERM"
+msgid "Eep!! Stay away from Wolfgang!"
+msgstr "Eep!! Stay away from Wolfgang!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MUSHGNOME
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MUSHGNOME"
@@ -234500,6 +234921,11 @@ msgstr "Food makes me mighty!"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.UNIMPLEMENTED"
 msgid "I do not trust unfinished business."
 msgstr "I do not trust unfinished business."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.VAMPIRE_BUNNY
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.VAMPIRE_BUNNY"
+msgid "Do not take Wolfgang's blood!!"
+msgstr "Do not take Wolfgang's blood!!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.VAULT_CHANDELIER_BROKEN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.VAULT_CHANDELIER_BROKEN"
@@ -244923,6 +245349,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.FOSSIL_STALKER.GENERIC"
 msgid "Still got some work to do, looks like."
 msgstr "Still got some work to do, looks like."
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.FRANKEN_PIG
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.FRANKEN_PIG"
+msgid "A bunch of bacon bits sewn together."
+msgstr "A bunch of bacon bits sewn together."
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.FRESHFRUITCREPES
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.FRESHFRUITCREPES"
 msgid "I can get maple syrup on that?"
@@ -245697,6 +246128,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "It's just fake, eh."
 msgstr "It's just fake, eh."
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_10
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_10"
+msgid "Better hang it up, eh?"
+msgstr "Better hang it up, eh?"
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_2"
 msgid "That's nice. I should hang it somewhere."
@@ -245721,6 +246157,21 @@ msgstr "Hang in there, eh."
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "Argh! I'd sure like to hang a real one like that."
 msgstr "Argh! I'd sure like to hang a real one like that."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_7
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_7"
+msgid "Pick out a good branch for this one, Luce."
+msgstr "Pick out a good branch for this one, Luce."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_8
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_8"
+msgid "I was just aboot to put it on the tree."
+msgstr "I was just aboot to put it on the tree."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_9
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_9"
+msgid "It'll look good on a tree."
+msgstr "It'll look good on a tree."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HAMBAT"
@@ -248239,6 +248690,11 @@ msgstr "Wonder where it goes."
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MULTITOOL_AXE_PICKAXE"
 msgid "It's... it's beautiful."
 msgstr "It's... it's beautiful."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MUMMY_MERM
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MUMMY_MERM"
+msgid "That mummy's alive!"
+msgstr "That mummy's alive!"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MUSHGNOME
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MUSHGNOME"
@@ -253687,6 +254143,11 @@ msgstr "It'll fill ya up."
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.UNIMPLEMENTED"
 msgid "It doesn't look safe."
 msgstr "It doesn't look safe."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.VAMPIRE_BUNNY
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.VAMPIRE_BUNNY"
+msgid "Why's he lookin' at me the way a tapper looks at a maple tree?"
+msgstr "Why's he lookin' at me the way a tapper looks at a maple tree?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.VAULT_CHANDELIER_BROKEN
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.VAULT_CHANDELIER_BROKEN"
@@ -264136,6 +264597,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FOSSIL_STALKER.GENERIC"
 msgid "Not done yet"
 msgstr "Not done yet"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FRANKEN_PIG
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FRANKEN_PIG"
+msgid "Twirly Tail okay?"
+msgstr "Twirly Tail okay?"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FRESHFRUITCREPES
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FRESHFRUITCREPES"
 msgid "Sweet belly stuff"
@@ -264906,6 +265372,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "Ooooooo!"
 msgstr "Ooooooo!"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HALLOWEEN_ORNAMENT_10
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HALLOWEEN_ORNAMENT_10"
+msgid "Oh. Not real"
+msgstr "Oh. Not real"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HALLOWEEN_ORNAMENT_2"
 msgid "Not flapping"
@@ -264930,6 +265401,21 @@ msgstr "Haha! Wrong way Leggy Bug"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "Alive, Tweeter? Nope"
 msgstr "Alive, Tweeter? Nope"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HALLOWEEN_ORNAMENT_7
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HALLOWEEN_ORNAMENT_7"
+msgid "Give to friend"
+msgstr "Give to friend"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HALLOWEEN_ORNAMENT_8
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HALLOWEEN_ORNAMENT_8"
+msgid "Friend wants to hold it"
+msgstr "Friend wants to hold it"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HALLOWEEN_ORNAMENT_9
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HALLOWEEN_ORNAMENT_9"
+msgid "So little!"
+msgstr "So little!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HAMBAT"
@@ -267446,6 +267932,11 @@ msgstr "Glowy. Like Night Ball"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MULTITOOL_AXE_PICKAXE"
 msgid "Handy stick"
 msgstr "Handy stick"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MUMMY_MERM
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MUMMY_MERM"
+msgid "Oh! Glub Glub hurt?"
+msgstr "Oh! Glub Glub hurt?"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MUSHGNOME
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MUSHGNOME"
@@ -272891,6 +273382,11 @@ msgstr "Sea Wiggly wiggles in belly"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.UNIMPLEMENTED"
 msgid "Hmm..."
 msgstr "Hmm..."
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAMPIRE_BUNNY
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAMPIRE_BUNNY"
+msgid "Sharp tooth Hopper!"
+msgstr "Sharp tooth Hopper!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_CHANDELIER_BROKEN
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.VAULT_CHANDELIER_BROKEN"
@@ -283470,6 +283966,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FOSSIL_STALKER.GENERIC"
 msgid "Still could use a piece or two."
 msgstr "Still could use a piece or two."
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FRANKEN_PIG
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FRANKEN_PIG"
+msgid "A ponderously plodding patchwork piggy!"
+msgstr "A ponderously plodding patchwork piggy!"
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FRESHFRUITCREPES
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FRESHFRUITCREPES"
 msgid "Fruits and berries put to bed."
@@ -284240,6 +284741,11 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "It makes me hungry, yes indeed!"
 msgstr "It makes me hungry, yes indeed!"
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALLOWEEN_ORNAMENT_10
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALLOWEEN_ORNAMENT_10"
+msgid "Left in the trees to flutter in the breeze."
+msgstr "Left in the trees to flutter in the breeze."
+
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALLOWEEN_ORNAMENT_2"
 msgid "Absolutely batty!"
@@ -284264,6 +284770,21 @@ msgstr "Made to dangle from the tree."
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "I do believe it is quite dead!"
 msgstr "I do believe it is quite dead!"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALLOWEEN_ORNAMENT_7
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALLOWEEN_ORNAMENT_7"
+msgid "A piggy pendant for the tree."
+msgstr "A piggy pendant for the tree."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALLOWEEN_ORNAMENT_8
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALLOWEEN_ORNAMENT_8"
+msgid "A mummification decoration."
+msgstr "A mummification decoration."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALLOWEEN_ORNAMENT_9
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALLOWEEN_ORNAMENT_9"
+msgid "What a batty old bunny."
+msgstr "What a batty old bunny."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HAMBAT"
@@ -286766,6 +287287,11 @@ msgstr "Ooo, what delightful games we might play in there!"
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MULTITOOL_AXE_PICKAXE"
 msgid "It couldn't decide which to be, so it became both."
 msgstr "It couldn't decide which to be, so it became both."
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUMMY_MERM
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUMMY_MERM"
+msgid "What did that merm get wrapped up in? Hyuyu!"
+msgstr "What did that merm get wrapped up in? Hyuyu!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUSHGNOME
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MUSHGNOME"
@@ -292210,6 +292736,11 @@ msgstr "Yet another dish cooked up by mortals."
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.UNIMPLEMENTED"
 msgid "What on earth is that?"
 msgstr "What on earth is that?"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.VAMPIRE_BUNNY
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.VAMPIRE_BUNNY"
+msgid "Blood is a trifling thing compared to sucking up souls."
+msgstr "Blood is a trifling thing compared to sucking up souls."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.VAULT_CHANDELIER_BROKEN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.VAULT_CHANDELIER_BROKEN"
@@ -302711,6 +303242,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.FOSSIL_STALKER.GENERIC"
 msgid "Need more spooky bones."
 msgstr "Need more spooky bones."
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.FRANKEN_PIG
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.FRANKEN_PIG"
+msgid "Glorph. Didn't think Pigman could get uglier."
+msgstr "Glorph. Didn't think Pigman could get uglier."
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.FRESHFRUITCREPES
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.FRESHFRUITCREPES"
 msgid "Fancy fruit pancake!"
@@ -303481,6 +304017,11 @@ msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "Boo! Hee-hee."
 msgstr "Boo! Hee-hee."
 
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.HALLOWEEN_ORNAMENT_10
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HALLOWEEN_ORNAMENT_10"
+msgid "Bad doggy stay on tree!"
+msgstr "Bad doggy stay on tree!"
+
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HALLOWEEN_ORNAMENT_2"
 msgid "Can help decorate too, florp!"
@@ -303505,6 +304046,21 @@ msgstr "Mermfolk very fearsome! Where Merm ornament??"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "Pretty bird."
 msgstr "Pretty bird."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.HALLOWEEN_ORNAMENT_7
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HALLOWEEN_ORNAMENT_7"
+msgid "Glurgh. Why we need this one?"
+msgstr "Glurgh. Why we need this one?"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.HALLOWEEN_ORNAMENT_8
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HALLOWEEN_ORNAMENT_8"
+msgid "Mine!! Me put on tree!"
+msgstr "Mine!! Me put on tree!"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.HALLOWEEN_ORNAMENT_9
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HALLOWEEN_ORNAMENT_9"
+msgid "Bitey Bunnyman for tree."
+msgstr "Bitey Bunnyman for tree."
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.HAMBAT"
@@ -306019,6 +306575,11 @@ msgstr "It made of moon stuff!"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MULTITOOL_AXE_PICKAXE"
 msgid "That pretty smart, florp."
 msgstr "That pretty smart, florp."
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.MUMMY_MERM
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MUMMY_MERM"
+msgid "Mermfolk come back from dead!"
+msgstr "Mermfolk come back from dead!"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.MUSHGNOME
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.MUSHGNOME"
@@ -311455,6 +312016,11 @@ msgstr "That not what you do with fish, flort!"
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.UNIMPLEMENTED"
 msgid "What that?"
 msgstr "What that?"
+
+#. STRINGS.CHARACTERS.WURT.DESCRIBE.VAMPIRE_BUNNY
+msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.VAMPIRE_BUNNY"
+msgid "Flort! No bite allowed!"
+msgstr "Flort! No bite allowed!"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.VAULT_CHANDELIER_BROKEN
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.VAULT_CHANDELIER_BROKEN"
@@ -321986,6 +322552,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.FOSSIL_STALKER.GENERIC"
 msgid "SOME ASSEMBLY REQUIRED"
 msgstr "SOME ASSEMBLY REQUIRED"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.FRANKEN_PIG
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.FRANKEN_PIG"
+msgid "A DISGUSTING CONFIGURATION OF SPARE PARTS"
+msgstr "A DISGUSTING CONFIGURATION OF SPARE PARTS"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.FRESHFRUITCREPES
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.FRESHFRUITCREPES"
 msgid "READY FOR DELICIOUS CONSUMPTION"
@@ -322756,6 +323327,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_1"
 msgid "ERROR: DOES NOT FUNCTION IN INVENTORY"
 msgstr "ERROR: DOES NOT FUNCTION IN INVENTORY"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_10
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_10"
+msgid "PLEASINGLY ARTIFICIAL"
+msgstr "PLEASINGLY ARTIFICIAL"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_2"
 msgid "ACCESSORY FOR HORRIFIC TREE"
@@ -322780,6 +323356,21 @@ msgstr "NEEDS HANGING TO INDUCE HORROR"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_6"
 msgid "FLESHLESS FLESHSACK"
 msgstr "FLESHLESS FLESHSACK"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_7
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_7"
+msgid "IT BELONGS ON THE AWFUL TREE"
+msgstr "IT BELONGS ON THE AWFUL TREE"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_8
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_8"
+msgid "TREE ATTACHMENT"
+msgstr "TREE ATTACHMENT"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_9
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_9"
+msgid "SUPPOSEDLY THIS WILL INDUCE FEAR IN ORGANICS"
+msgstr "SUPPOSEDLY THIS WILL INDUCE FEAR IN ORGANICS"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HAMBAT"
@@ -325284,6 +325875,11 @@ msgstr "NETWORKING PORTAL"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MULTITOOL_AXE_PICKAXE"
 msgid "A PRACTICAL TOOL"
 msgstr "A PRACTICAL TOOL"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.MUMMY_MERM
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MUMMY_MERM"
+msgid "IS IT ATTEMPTING TO COVER ITS HIDEOUS MEAT BODY? GOOD"
+msgstr "IS IT ATTEMPTING TO COVER ITS HIDEOUS MEAT BODY? GOOD"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MUSHGNOME
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MUSHGNOME"
@@ -330752,6 +331348,11 @@ msgstr "A FANCIER FUEL PACK"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.UNIMPLEMENTED"
 msgid "WARNING: UNIMPLEMENTED"
 msgstr "WARNING: UNIMPLEMENTED"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.VAMPIRE_BUNNY
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.VAMPIRE_BUNNY"
+msgid "WHERE DID IT GET THAT CAPE?"
+msgstr "WHERE DID IT GET THAT CAPE?"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.VAULT_CHANDELIER_BROKEN
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.VAULT_CHANDELIER_BROKEN"
@@ -347603,6 +348204,11 @@ msgctxt "STRINGS.NAMES.FOSSIL_STALKER"
 msgid "Odd Skeleton"
 msgstr "Odd Skeleton"
 
+#. STRINGS.NAMES.FRANKEN_PIG
+msgctxt "STRINGS.NAMES.FRANKEN_PIG"
+msgid "Frankenswine"
+msgstr "Frankenswine"
+
 #. STRINGS.NAMES.FRESHFRUITCREPES
 msgctxt "STRINGS.NAMES.FRESHFRUITCREPES"
 msgid "Fresh Fruit Crepes"
@@ -348263,10 +348869,15 @@ msgctxt "STRINGS.NAMES.HALLOWEEN_ORNAMENT_1"
 msgid "Ghost Decoration"
 msgstr "Ghost Decoration"
 
+#. STRINGS.NAMES.HALLOWEEN_ORNAMENT_10
+msgctxt "STRINGS.NAMES.HALLOWEEN_ORNAMENT_10"
+msgid "Hound Batilisk Decoration"
+msgstr "Hound Batilisk Decoration"
+
 #. STRINGS.NAMES.HALLOWEEN_ORNAMENT_2
 msgctxt "STRINGS.NAMES.HALLOWEEN_ORNAMENT_2"
-msgid "Bat Decoration"
-msgstr "Bat Decoration"
+msgid "Batilisk Decoration"
+msgstr "Batilisk Decoration"
 
 #. STRINGS.NAMES.HALLOWEEN_ORNAMENT_3
 msgctxt "STRINGS.NAMES.HALLOWEEN_ORNAMENT_3"
@@ -348287,6 +348898,21 @@ msgstr "Dangling Depth Dweller Decoration"
 msgctxt "STRINGS.NAMES.HALLOWEEN_ORNAMENT_6"
 msgid "Crow Decoration"
 msgstr "Crow Decoration"
+
+#. STRINGS.NAMES.HALLOWEEN_ORNAMENT_7
+msgctxt "STRINGS.NAMES.HALLOWEEN_ORNAMENT_7"
+msgid "Frankenswine Decoration"
+msgstr "Frankenswine Decoration"
+
+#. STRINGS.NAMES.HALLOWEEN_ORNAMENT_8
+msgctxt "STRINGS.NAMES.HALLOWEEN_ORNAMENT_8"
+msgid "Mermummy Decoration"
+msgstr "Mermummy Decoration"
+
+#. STRINGS.NAMES.HALLOWEEN_ORNAMENT_9
+msgctxt "STRINGS.NAMES.HALLOWEEN_ORNAMENT_9"
+msgid "Vamphare Decoration"
+msgstr "Vamphare Decoration"
 
 #. STRINGS.NAMES.HAMBAT
 msgctxt "STRINGS.NAMES.HAMBAT"
@@ -350572,6 +351198,11 @@ msgstr "Portal Paraphernalia"
 msgctxt "STRINGS.NAMES.MULTITOOL_AXE_PICKAXE"
 msgid "Pick/Axe"
 msgstr "Pick/Axe"
+
+#. STRINGS.NAMES.MUMMY_MERM
+msgctxt "STRINGS.NAMES.MUMMY_MERM"
+msgid "Mermummy"
+msgstr "Mermummy"
 
 #. STRINGS.NAMES.MUSHGNOME
 msgctxt "STRINGS.NAMES.MUSHGNOME"
@@ -355761,6 +356392,11 @@ msgstr "Unagi"
 msgctxt "STRINGS.NAMES.UNKNOWN"
 msgid "Unknown"
 msgstr "Unknown"
+
+#. STRINGS.NAMES.VAMPIRE_BUNNY
+msgctxt "STRINGS.NAMES.VAMPIRE_BUNNY"
+msgid "Vamphare"
+msgstr "Vamphare"
 
 #. STRINGS.NAMES.VAULTRELIC
 msgctxt "STRINGS.NAMES.VAULTRELIC"
